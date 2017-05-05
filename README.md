@@ -1,7 +1,7 @@
-# 주니어 개발자를 위한 채용 정보
+# 주니어 개발자를 위한 취업 정보
 
 주니어 개발자를 위한 **양질의 채용정보**가 흩어져있는것 같아 한곳에 모으기 위한 저장소  
-인턴/신입/주니어 채용일정을 담으려고 한다.  
+인턴/신입/주니어 채용 & 해커톤 일정을 담으려고 한다.  
 (경력 3년 이상은 다른 저장소로 할 예정이다.)  
 앞의 일정은 **서류 마감** 일정이다.  
 (혹시나 채용이 완료된 것이 확인되면 풀리퀘스트 부탁드립니다.)  
@@ -45,5 +45,13 @@
   * [다음 앱 (Android/iOS) 개발](https://careers.kakao.com/jobs/P-10051?part=TECHNOLOGY&page=5&company=KAKAO)
 * [채용시까지] [줌인터넷](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3&sg1=&sg2=&sg3=&sg=&occupation=dev)
   * [머신러닝(딥러닝)을 활용한 검색 신기술 개발](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3.5&rcrtid=R201704140001)
+
+## 해커톤 (2017)
+
+구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했다.  
+([JBee 한재엽](https://github.com/JaeYeopHan)님 감사합니다.)
+
+* [~ 05.08] [MIDAS Challenge 2017](http://challenge.midasit.com/)
+* [~ 05.11 오후 11시] [NAVER HACK DAY](https://form.office.naver.com/form/responseView.cmd?formkey=OGVjMDAxZDQtMjRmZC00Njk0LWJiMjEtNWIxN2U1YmY3N2Fh&sourceId=urlshare)
 
 
