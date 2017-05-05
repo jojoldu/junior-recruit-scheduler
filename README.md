@@ -4,7 +4,6 @@
 인턴/신입/주니어 채용일정을 담으려고 한다.  
 (경력 3년 이상은 다른 저장소로 할 예정이다.)  
 앞의 일정은 **서류 마감** 일정이다.  
-  
 (혹시나 채용이 완료된 것이 확인되면 풀리퀘스트 부탁드립니다.)  
 
 ## 피드 받는 법
@@ -15,9 +14,24 @@
 
 * Watch : 저장소 변경에 대한 실시간 피드
 * Star : 제작자에게 버프를, 하신분께선 즐겨찾기 등록이 되는 기능
-* Fork : 개인 저장소로 복제, 하지만 현재 저장소가 업데이트 되는것이 반영 안되므로 이런 정보성 저장소에서 불필요
+* Fork : 개인 저장소로 복제, 하지만 현재 저장소가 업데이트 되는것이 반영 안되므로 정보만 받으려면 불필요 (대신 풀리퀘스트를 보내야할 경우 Fork하여 브랜치 생성 -> 커밋&푸시 -> 풀리퀘스트가 가능함)
 
-## 2017
+## 신입 개발자 구직 팁
+
+구직 팁 외에 다른 팁은 담지 않으려고 한다.  
+주니어를 위한 팁으로 범위를 정하면 너무 커져버리기 때문에, 범위를 좁히고 싶다.  
+차후에 주니어를 위한 팁 저장소를 만들던지 해야할것 같다.
+
+* [김남윤님의 신입 개발자 취업 도전기](https://www.slideshare.net/ssuser565d51/ss-61448739)
+* [김태곤님의 신입 프론트엔드 개발자를 위한 면접 조언](https://taegon.kim/archives/5770)
+* [너굴너굴님의 좋은면접자/지원자 되는 방법](https://repo.yona.io/doortts/blog/post/292)
+* [OKKY "마음까지전하는"님의 웹개발자 신입 구직 팁](https://okky.kr/article/314704)
+* [OKKY "roggy"님의 신입 개발자 이력서 작성 요령](https://okky.kr/article/319687)
+* [OKKY "load2000"님의 포트폴리오 작성 팁](https://okky.kr/article/368504)
+* [이민석 교수님의 신입 개발자 자기소개서 작성법](http://hl1itj.tistory.com/90)
+* [Outsider님의 이력서](https://blog.outsider.ne.kr/1234)
+
+## 채용 (2017)
 
 * [04.17 ~ 05.12] [티몬 개발 인턴](http://blog.ticketmonster.co.kr/?p=28903)
 * [05.15 ~ 05.19] [우아한 형제들 개발 인턴 (상세페이지 아직 없음)](https://www.facebook.com/codesquad.kr/posts/246059539196471:0)
@@ -29,5 +43,7 @@
   * [키워드광고/부동산플랫폼 개발](https://careers.kakao.com/jobs/P-10004?part=TECHNOLOGY&page=4&company=KAKAO)
   * [다음 카페 서비스 서버 개발](https://careers.kakao.com/jobs/P-10084?part=TECHNOLOGY&page=5&company=KAKAO)
   * [다음 앱 (Android/iOS) 개발](https://careers.kakao.com/jobs/P-10051?part=TECHNOLOGY&page=5&company=KAKAO)
-* [채용시까지] [줌인터넷/이스트소프트](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3&sg1=&sg2=&sg3=&sg=&occupation=dev)
+* [채용시까지] [줌인터넷](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3&sg1=&sg2=&sg3=&sg=&occupation=dev)
   * [머신러닝(딥러닝)을 활용한 검색 신기술 개발](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3.5&rcrtid=R201704140001)
+
+
