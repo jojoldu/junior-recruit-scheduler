@@ -30,6 +30,9 @@
 * [OKKY "load2000"님의 포트폴리오 작성 팁](https://okky.kr/article/368504)
 * [이민석 교수님의 신입 개발자 자기소개서 작성법](http://hl1itj.tistory.com/90)
 * [Outsider님의 이력서](https://blog.outsider.ne.kr/1234)
+* [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
+* [jerome님의 포털(네이버, 다음, 줌 등)에 지원하는 신입공채 개발자들의 자기소개서 작성 팁](http://jerome75.tistory.com/2)
+* [나무위키 SI](https://namu.wiki/w/SI)
 
 ## 채용 (2017)
 
