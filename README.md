@@ -38,7 +38,7 @@
 
 * [04.17 ~ 05.12] [티몬 개발 인턴](http://blog.ticketmonster.co.kr/?p=28903)
 
-* [05.15 ~ 05.19] [우아한 형제들 개발 인턴 (상세페이지 아직 없음)](https://recruit.woowahan.com/#/techcamp)
+* [05.15 ~ 05.19] [우아한 형제들 개발 인턴](https://recruit.woowahan.com/#/techcamp)
 
 * [05.01 ~ 05.20] [스타트업 인턴 프로그램 (프로그램스, 토스, 8퍼센트, 리디북스 등)](https://programmers.co.kr/competitions/18/summercoding-%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%9D%B8%ED%84%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
 
@@ -46,6 +46,7 @@
 
 * [05.16 ~ 06.06] [네이버커넥트 부스트캠프](http://boostcamp.connect.or.kr/recruit.html)
 
+* [05.08 ~ 06.13 09:00] [알피지코리아(요기요) 인턴](https://rgpkorea.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=9117)
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs) 
   * [사내정보 시스템 개발](https://careers.kakao.com/jobs/P-9336?part=TECHNOLOGY&page=1&company=KAKAO)
   * [카카오톡 안티 어뷰징 개발](https://careers.kakao.com/jobs/P-10098?part=TECHNOLOGY&page=2&company=KAKAO)
