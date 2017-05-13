@@ -63,7 +63,4 @@
 구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했다.  
 ([JBee 한재엽](https://github.com/JaeYeopHan)님 감사합니다.)
 
-* [~ 05.08] [MIDAS Challenge 2017](http://challenge.midasit.com/)
-* [~ 05.11 오후 11시] [NAVER HACK DAY](https://form.office.naver.com/form/responseView.cmd?formkey=OGVjMDAxZDQtMjRmZC00Njk0LWJiMjEtNWIxN2U1YmY3N2Fh&sourceId=urlshare)
-
 
