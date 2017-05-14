@@ -2,7 +2,6 @@
 
 주니어 개발자를 위한 **양질의 채용정보**가 흩어져있는것 같아 한곳에 모으기 위한 저장소  
 인턴/신입/주니어 채용 & 해커톤 일정을 담으려고 합니다.  
-(경력 3년 이상은 다른 저장소로 할 예정이다.)  
 앞의 일정은 **서류 마감** 일정입니다.  
 (혹시나 채용이 완료된 것이 확인되면 풀리퀘스트 부탁드립니다.)  
 
@@ -20,7 +19,7 @@
 
 구직 팁 외에 다른 팁은 담지 않으려고 합니다.  
 주니어를 위한 팁으로 범위를 정하면 너무 커져버리기 때문에 제한하였습니다.    
-차후에 주니어를 위한 팁 저장소를 만들던지 해야할것 같습니다.
+주니어를 위한 각종 팁은 [페이스북 페이지](https://www.facebook.com/devbeginner/)를 참고해주세요
 
 * [김남윤님의 신입 개발자 취업 도전기](https://www.slideshare.net/ssuser565d51/ss-61448739)
 * [김태곤님의 신입 프론트엔드 개발자를 위한 면접 조언](https://taegon.kim/archives/5770)
@@ -42,6 +41,9 @@
 
 * [05.01 ~ 05.20 12:00] [스타트업 인턴 프로그램 (프로그램스, 토스, 8퍼센트, 리디북스 등)](https://programmers.co.kr/competitions/18/summercoding-%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%9D%B8%ED%84%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
 
+* [05.08 ~ 05.21] [NHN엔터테인먼트 Bugs 웹/IOS 개발 신입](https://recruit.nhnent.com/ent/recruitings/20000534
+)
+
 * [04.28 ~ 05.24] [NTS SW 개발 인턴](http://recruit.nts-corp.com/recNotice.do?pageAction=getRecCatList)
 
 * [05.15 ~ 05.26] [네이버 여름 인턴](./네이버여름인턴.md)
@@ -60,7 +62,4 @@
 
 ## 해커톤 (2017)
 
-구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했다.  
-([JBee 한재엽](https://github.com/JaeYeopHan)님 감사합니다.)
-
-
+구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했습니다. ([JBee 한재엽](https://github.com/JaeYeopHan)님 감사합니다.)
