@@ -35,7 +35,7 @@
 
 ## 채용 (2017)
 
-* [05.15 ~ 05.19] [우아한 형제들 개발 인턴](https://recruit.woowahan.com/#/techcamp)
+* [05.15 ~ 05.19] [우아한 형제들 개발 인턴](http://woowabros.github.io/woowabros/2017/05/15/woowa_techcamp.html)
 
 * [05.08 ~ 05.19 17:00] [NHN엔터테인먼트(구 한게임) 게임 개발 신입](http://recruit.nhnent.com/ent/recruitings/20000537)
 
@@ -46,7 +46,7 @@
 
 * [04.28 ~ 05.24] [NTS SW 개발 인턴](http://recruit.nts-corp.com/recNotice.do?pageAction=getRecCatList)
 
-* [05.15 ~ 05.26] [네이버 여름 인턴](./네이버여름인턴.md)
+* [05.15 ~ 05.26] [네이버 여름 인턴](http://recruit.navercorp.com/naver/job/detail/developer?annoId=20000896&classId=&jobId=&entTypeCd=&searchTxt=)
 
 * [05.16 ~ 06.06] [네이버커넥트 부스트캠프](http://boostcamp.connect.or.kr/recruit.html)
 
