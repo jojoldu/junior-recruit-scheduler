@@ -44,7 +44,7 @@
 * [05.08 ~ 05.21] [NHN엔터테인먼트 Bugs 웹/IOS 개발 신입](https://recruit.nhnent.com/ent/recruitings/20000534
 )
 
-* [05.16 ~ 05.22] [라쿠텐(일본최대 온라인 상거래 기업) 개발 신입](./images/라쿠텐.md)
+* [05.16 ~ 05.22] [라쿠텐(일본최대 온라인 상거래 기업) 개발 신입](./라쿠텐.md)
 
 * [04.28 ~ 05.24] [NTS SW 개발 인턴](http://recruit.nts-corp.com/recNotice.do?pageAction=getRecCatList)
 
