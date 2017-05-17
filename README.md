@@ -35,7 +35,7 @@
 
 ## 채용 (2017)
 
-* [05.15 ~ 05.19] [우아한 형제들 개발 인턴](http://woowabros.github.io/woowabros/2017/05/15/woowa_techcamp.html)
+* [05.15 ~ 05.21] [우아한 형제들 개발 인턴](http://woowabros.github.io/woowabros/2017/05/15/woowa_techcamp.html)
 
 * [05.08 ~ 05.19 17:00] [NHN엔터테인먼트(구 한게임) 게임 개발 신입](http://recruit.nhnent.com/ent/recruitings/20000537)
 
