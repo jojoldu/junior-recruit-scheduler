@@ -50,6 +50,8 @@
 
 * [05.15 ~ 05.26] [네이버 여름 인턴](http://recruit.navercorp.com/naver/job/detail/developer?annoId=20000896&classId=&jobId=&entTypeCd=&searchTxt=)
 
+* [05.15 ~ 05.29 18:00] [라인 하계 개발 인턴](https://recruit.linepluscorp.com/lineplus/career/detail/20000945?classId=&entTypeCd=&page=)
+
 * [05.17 ~ 06.04] [잼투인 인턴 개발자](https://github.com/jam2in/recruit/blob/master/intern.md)
 
 * [05.16 ~ 06.06] [네이버커넥트 부스트캠프](http://boostcamp.connect.or.kr/recruit.html)
