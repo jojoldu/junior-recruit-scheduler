@@ -37,8 +37,6 @@
 
 * [05.15 ~ 05.21] [우아한 형제들 개발 인턴](http://woowabros.github.io/woowabros/2017/05/15/woowa_techcamp.html)
 
-* [05.08 ~ 05.19 17:00] [NHN엔터테인먼트(구 한게임) 게임 개발 신입](http://recruit.nhnent.com/ent/recruitings/20000537)
-
 * [05.01 ~ 05.20 12:00] [스타트업 인턴 프로그램 (프로그램스, 토스, 8퍼센트, 리디북스 등)](https://programmers.co.kr/competitions/18/summercoding-%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%9D%B8%ED%84%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
 
 * [05.08 ~ 05.21] [NHN엔터테인먼트 Bugs 웹/IOS 개발 신입](https://recruit.nhnent.com/ent/recruitings/20000534
