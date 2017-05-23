@@ -41,11 +41,16 @@
 
 * [05.15 ~ 05.29 18:00] [라인 하계 개발 인턴](https://recruit.linepluscorp.com/lineplus/career/detail/20000945?classId=&entTypeCd=&page=)
 
+* [04.24 ~ 05.30] [게임빌 게임 프로그래밍 인턴](https://hr2.gamevil.com/app/web/rem_portal_new.jsp)
+
 * [05.17 ~ 06.04] [잼투인 인턴 개발자](https://github.com/jam2in/recruit/blob/master/intern.md)
 
 * [05.16 ~ 06.06] [네이버커넥트 부스트캠프](http://boostcamp.connect.or.kr/recruit.html)
 
 * [05.08 ~ 06.13 09:00] [알피지코리아(요기요) 인턴](https://rgpkorea.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=9117)
+
+* [05.15 ~ 06.30] [컴투스 - 클라이언트 신입 프로그래머](http://com2us.com/recruit/recruit_popup0)
+
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs) 
   * [사내정보 시스템 개발](https://careers.kakao.com/jobs/P-9336?part=TECHNOLOGY&page=1&company=KAKAO)
   * [카카오톡 안티 어뷰징 개발](https://careers.kakao.com/jobs/P-10098?part=TECHNOLOGY&page=2&company=KAKAO)
