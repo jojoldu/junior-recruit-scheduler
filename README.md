@@ -35,8 +35,6 @@
 
 ## 채용 (2017)
 
-* [05.16 ~ 05.22] [라쿠텐(일본최대 온라인 상거래 기업) 개발 신입](./라쿠텐.md)
-
 * [04.28 ~ 05.24] [NTS SW 개발 인턴](http://recruit.nts-corp.com/recNotice.do?pageAction=getRecCatList)
 
 * [05.15 ~ 05.26] [네이버 여름 인턴](http://recruit.navercorp.com/naver/job/detail/developer?annoId=20000896&classId=&jobId=&entTypeCd=&searchTxt=)
