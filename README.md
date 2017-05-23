@@ -51,6 +51,8 @@
 
 * [05.15 ~ 06.30] [컴투스 - 클라이언트 신입 프로그래머](http://com2us.com/recruit/recruit_popup0)
 
+* [05.08 ~ 07.08] [데브시스터즈 - 웹디자이너 신입](https://www.jobplanet.co.kr/companies/90431/job_postings/85090/%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88?_rs_act=search&_rs_con=job_postings&_rs_element=search_result)
+
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs) 
   * [사내정보 시스템 개발](https://careers.kakao.com/jobs/P-9336?part=TECHNOLOGY&page=1&company=KAKAO)
   * [카카오톡 안티 어뷰징 개발](https://careers.kakao.com/jobs/P-10098?part=TECHNOLOGY&page=2&company=KAKAO)
