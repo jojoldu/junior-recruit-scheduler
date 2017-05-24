@@ -21,21 +21,39 @@
 주니어를 위한 팁으로 범위를 정하면 너무 커져버리기 때문에 제한하였습니다.    
 주니어를 위한 각종 팁은 [페이스북 페이지](https://www.facebook.com/devbeginner/)를 참고해주세요
 
+### 구직 전반
+
 * [김남윤님의 신입 개발자 취업 도전기](https://www.slideshare.net/ssuser565d51/ss-61448739)
-* [김태곤님의 신입 프론트엔드 개발자를 위한 면접 조언](https://taegon.kim/archives/5770)
-* [너굴너굴님의 좋은면접자/지원자 되는 방법](https://repo.yona.io/doortts/blog/post/292)
+
 * [OKKY "마음까지전하는"님의 웹개발자 신입 구직 팁](https://okky.kr/article/314704)
+
+### 이력서 & 포트폴리오 작성법
+
 * [OKKY "roggy"님의 신입 개발자 이력서 작성 요령](https://okky.kr/article/319687)
+
 * [OKKY "load2000"님의 포트폴리오 작성 팁](https://okky.kr/article/368504)
+
 * [이민석 교수님의 신입 개발자 자기소개서 작성법](http://hl1itj.tistory.com/90)
+
+* [네이버 seungdols님의 신입 자소서 작성법](https://brunch.co.kr/@seungdols/11)
+
 * [Outsider님의 이력서](https://blog.outsider.ne.kr/1234)
-* [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
+
 * [jerome님의 포털(네이버, 다음, 줌 등)에 지원하는 신입공채 개발자들의 자기소개서 작성 팁](http://jerome75.tistory.com/2)
+
+### 면접 팁
+
+* [김태곤님의 신입 프론트엔드 개발자를 위한 면접 조언](https://taegon.kim/archives/5770)
+
+* [너굴너굴님의 좋은면접자/지원자 되는 방법](https://repo.yona.io/doortts/blog/post/292)
+
+### 기타 정보
+
+* [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
+
 * [나무위키 SI](https://namu.wiki/w/SI)
 
 ## 채용 (2017)
-
-* [04.28 ~ 05.24] [NTS SW 개발 인턴](http://recruit.nts-corp.com/recNotice.do?pageAction=getRecCatList)
 
 * [05.15 ~ 05.26] [네이버 여름 인턴](http://recruit.navercorp.com/naver/job/detail/developer?annoId=20000896&classId=&jobId=&entTypeCd=&searchTxt=)
 
