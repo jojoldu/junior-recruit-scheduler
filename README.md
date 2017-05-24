@@ -27,6 +27,8 @@
 
 * [OKKY "마음까지전하는"님의 웹개발자 신입 구직 팁](https://okky.kr/article/314704)
 
+* [취업할까 미룰까 고민될때](https://brunch.co.kr/@jojoldu/1)
+
 ### 이력서 & 포트폴리오 작성법
 
 * [OKKY "roggy"님의 신입 개발자 이력서 작성 요령](https://okky.kr/article/319687)
