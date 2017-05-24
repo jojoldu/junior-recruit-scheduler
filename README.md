@@ -35,11 +35,13 @@
 
 * [이민석 교수님의 신입 개발자 자기소개서 작성법](http://hl1itj.tistory.com/90)
 
-* [네이버 seungdols님의 신입 자소서 작성법](https://brunch.co.kr/@seungdols/11)
+* [seungdols님의 신입 자소서 작성법](https://brunch.co.kr/@seungdols/11)
 
 * [Outsider님의 이력서](https://blog.outsider.ne.kr/1234)
 
 * [jerome님의 포털(네이버, 다음, 줌 등)에 지원하는 신입공채 개발자들의 자기소개서 작성 팁](http://jerome75.tistory.com/2)
+
+* [parkscom님의 신입 개발자를 위한 이력서 쓰기](http://parkscom.tistory.com/1167111262)
 
 ### 면접 팁
 
