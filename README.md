@@ -59,8 +59,6 @@
 
 ## 채용 (2017)
 
-* [05.15 ~ 05.26] [네이버 여름 인턴](http://recruit.navercorp.com/naver/job/detail/developer?annoId=20000896&classId=&jobId=&entTypeCd=&searchTxt=)
-
 * [05.15 ~ 05.29 18:00] [라인 하계 개발 인턴](https://recruit.linepluscorp.com/lineplus/career/detail/20000945?classId=&entTypeCd=&page=)
 
 * [04.24 ~ 05.30] [게임빌 게임 프로그래밍 인턴](https://hr2.gamevil.com/app/web/rem_portal_new.jsp)
