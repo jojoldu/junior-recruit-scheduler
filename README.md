@@ -89,7 +89,19 @@
 
 * [채용시까지] [더파머스(마켓컬리) 인턴 채용](https://www.wanted.co.kr/wd/3921?referer_id=22216)
   * [마켓컬리 아웃스탠딩기사](http://outstanding.kr/kurly20160116/)
-  
+
+
+### 이외 채용정보 얻는법
+
+**잡코리아, 사람인 채용 정보는 개인적으로는 추천하지 않습니다**.  
+추가로 채용 정보에 복사 & 붙여넣기한듯한 양식이나 글이 있다면 거르셔도 됩니다.  
+그만큼 **채용에 관심이 없는 회사라면 개발자에 대한 인식도 부족**하다고 보셔야 합니다.  
+아래는 제가 정기적으로 방문하는 잡플래닛/원티드 검색 조건입니다.  
+참고하시면 좋을것 같습니다
+
+* [잡플래닛 신입 개발자 채용 리스트](https://www.jobplanet.co.kr/job_postings/search?utf8=%E2%9C%93&query=&jp_show_search_result=true&jp_show_search_result_chk=true&occupation_level2_ids%5B%5D=11610&occupation_level2_ids%5B%5D=11604&occupation_level2_ids%5B%5D=11603&industry_level2_ids%5B%5D=709&industry_level2_ids%5B%5D=702&recruitment_type_ids%5B%5D=1&order_by=score&page=1)
+* [원티드 신입 개발자 채용 리스트](https://www.wanted.co.kr/wdlist/518?referer_id=23685&years=0)
+
 ## 해커톤 (2017)
 
 구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했습니다. ([JBee 한재엽](https://github.com/JaeYeopHan)님 감사합니다.)
