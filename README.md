@@ -87,6 +87,9 @@
 * [채용시까지] [줌인터넷](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3&sg1=&sg2=&sg3=&sg=&occupation=dev)
   * [머신러닝(딥러닝)을 활용한 검색 신기술 개발](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3.5&rcrtid=R201704140001)
 
+* [채용시까지] [더파머스(마켓컬리) 인턴 채용](https://www.wanted.co.kr/wd/3921?referer_id=22216)
+  * [마켓컬리 아웃스탠딩기사](http://outstanding.kr/kurly20160116/)
+  
 ## 해커톤 (2017)
 
 구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했습니다. ([JBee 한재엽](https://github.com/JaeYeopHan)님 감사합니다.)
