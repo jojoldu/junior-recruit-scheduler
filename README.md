@@ -101,6 +101,11 @@
 * [잡플래닛 신입 개발자 채용 리스트](https://www.jobplanet.co.kr/job_postings/search?utf8=%E2%9C%93&query=&jp_show_search_result=true&jp_show_search_result_chk=true&occupation_level2_ids%5B%5D=11610&occupation_level2_ids%5B%5D=11604&occupation_level2_ids%5B%5D=11603&industry_level2_ids%5B%5D=709&industry_level2_ids%5B%5D=702&recruitment_type_ids%5B%5D=1&order_by=score&page=1)
 * [원티드 신입 개발자 채용 리스트](https://www.wanted.co.kr/wdlist/518?referer_id=23685&years=0)
 
+## 채용 연계 코딩 대회
+
+* [05.30 ~ 06.16 14:00] [SK 주식회사 C&C “Code Genius 2017”](https://programmers.co.kr/competitions/24/sk-%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC-cc-code-genius-2017)  
+본 프로그래밍 대회에서 Genius로 발탁되신 분들에게는 2017년 SK 주식회사 C&C Summer 인턴십에 함께하실 특전이 주어집니다.
+
 ## 해커톤 (2017)
 
 구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했습니다. ([JBee 한재엽](https://github.com/JaeYeopHan)님 감사합니다.)
