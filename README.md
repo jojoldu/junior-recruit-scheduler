@@ -59,8 +59,6 @@
 
 ## 채용 (2017)
 
-* [04.24 ~ 05.30] [게임빌 게임 프로그래밍 인턴](https://hr2.gamevil.com/app/web/rem_portal_new.jsp)
-
 * [05.17 ~ 06.04] [잼투인 인턴 개발자](https://github.com/jam2in/recruit/blob/master/intern.md)
 
 * [05.16 ~ 06.06] [네이버커넥트 부스트캠프](http://boostcamp.connect.or.kr/recruit.html)
@@ -104,8 +102,20 @@
 ## 채용 연계 코딩 대회
 
 * [05.30 ~ 06.16 14:00] [SK 주식회사 C&C “Code Genius 2017”](https://programmers.co.kr/competitions/24/sk-%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC-cc-code-genius-2017)  
-본 프로그래밍 대회에서 Genius로 발탁되신 분들에게는 2017년 SK 주식회사 C&C Summer 인턴십에 함께하실 특전이 주어집니다.
+  * 본 프로그래밍 대회에서 Genius로 발탁되신 분들에게는 2017년 SK 주식회사 C&C Summer 인턴십에 함께하실 특전이 주어집니다.
+
+* [05.25 ~ 06.22] [삼성전자 대학생 프로그래밍 경진대회 (SCPC)](https://www.codeground.org/commu/commons/noticeView/AVuDdnmlACcDWREQ)
+  * 대회 입상자는 삼성전자 채용 우대
 
 ## 해커톤 (2017)
 
 구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했습니다. ([JBee 한재엽](https://github.com/JaeYeopHan)님 감사합니다.)
+
+## Special Thanks
+
+이 저장소가 좀 더 양질의 정보를 가질수 있도록 기여를 해주신 분들입니다.  
+혹시나 지인이시라면 격려 부탁드리겠습니다.  
+정말 감사드립니다!
+
+* [JBee 한재엽](https://github.com/JaeYeopHan)
+* [Jeju-Boobby](https://github.com/Jeju-Boobby)
