@@ -59,8 +59,6 @@
 
 ## 채용 (2017)
 
-* [05.17 ~ 06.04] [잼투인 인턴 개발자](https://github.com/jam2in/recruit/blob/master/intern.md)
-
 * [05.16 ~ 06.06] [네이버커넥트 부스트캠프](http://boostcamp.connect.or.kr/recruit.html)
 
 * [05.08 ~ 06.13 09:00] [알피지코리아(요기요) 인턴](https://rgpkorea.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=9117)
