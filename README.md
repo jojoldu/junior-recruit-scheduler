@@ -69,8 +69,6 @@
 
 ## 채용 (2017)
 
-* [05.16 ~ 06.06] [네이버커넥트 부스트캠프](http://boostcamp.connect.or.kr/recruit.html)
-
 * [05.08 ~ 06.13 09:00] [알피지코리아(요기요) 인턴](https://rgpkorea.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=9117)
 
 * [05.15 ~ 06.30] [컴투스 - 클라이언트 신입 프로그래머](http://com2us.com/recruit/recruit_popup0)
@@ -125,5 +123,6 @@
 혹시나 지인이시라면 격려 부탁드리겠습니다.  
 정말 감사드립니다!
 
-* [JBee 한재엽](https://github.com/JaeYeopHan)
+* [JBee](https://github.com/JaeYeopHan)
 * [Jeju-Boobby](https://github.com/Jeju-Boobby)
+* [seungdols](https://github.com/seungdols)
