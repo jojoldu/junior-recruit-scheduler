@@ -51,6 +51,16 @@
 
 * [너굴너굴님의 좋은면접자/지원자 되는 방법](https://repo.yona.io/doortts/blog/post/292)
 
+* [네이버 면접시 듣게 되는 41가지 질문(기사)](http://www.bloter.net/archives/245110)
+
+* [페이스북 면접은 어떻게 다를까?](http://catlog.kr/entry/how-facebook-interview-different)
+
+* [애플 면접에서 듣게 되는 33가지 질문(기사)](http://www.bloter.net/archives/244910)
+
+* [초보팀장의 일기 - 면접을 볼 때마다 하는 질문들](http://blog.java2game.com/401)
+
+* [Awesome Interview Questions - GitHub](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
 ### 기타 정보
 
 * [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
