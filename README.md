@@ -73,6 +73,8 @@
 
 * [05.22 ~ 06.23 17:00] [넥슨 컴퍼니 - 하계 신입 게임프로그래머](https://career.nexon.com)
 
+* [06.07 ~ 06.25][로엔 엔터테인먼트(카카오) 신입 공채](https://loen.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=9557)
+
 * [05.15 ~ 06.30] [컴투스 - 클라이언트 신입 프로그래머](http://com2us.com/recruit/recruit_popup0)
 
 * [05.08 ~ 07.08] [데브시스터즈 - 웹디자이너 신입](https://www.jobplanet.co.kr/companies/90431/job_postings/85090/%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88?_rs_act=search&_rs_con=job_postings&_rs_element=search_result)
@@ -118,7 +120,7 @@
 ## 해커톤 (2017)
 
 구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했습니다. ([JBee 한재엽](https://github.com/JaeYeopHan)님 감사합니다.)
-
+* [06.01 ~ 06.18] [제5회 대학생 디지털 솔루션 챌린지 (K-HACKATHON)](http://appcenter.kr/archives/10055)
 ## Special Thanks
 
 이 저장소가 좀 더 양질의 정보를 가질수 있도록 기여를 해주신 분들입니다.  
