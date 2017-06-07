@@ -73,7 +73,7 @@
 
 * [05.22 ~ 06.23 17:00] [넥슨 컴퍼니 - 하계 신입 게임프로그래머](https://career.nexon.com)
 
-* [06.07 ~ 06.25][로엔 엔터테인먼트(카카오) 신입 공채](https://loen.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=9557)
+* [06.07 ~ 06.25] [로엔 엔터테인먼트(카카오) 신입 공채](https://loen.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=9557)
 
 * [05.15 ~ 06.30] [컴투스 - 클라이언트 신입 프로그래머](http://com2us.com/recruit/recruit_popup0)
 
@@ -130,3 +130,6 @@
 * [JBee](https://github.com/JaeYeopHan)
 * [Jeju-Boobby](https://github.com/Jeju-Boobby)
 * [seungdols](https://github.com/seungdols)
+* [replaykim](https://github.com/replaykim)
+* [dudmy](https://github.com/dudmy)
+
