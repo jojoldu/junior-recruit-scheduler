@@ -122,6 +122,7 @@
 
 구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했습니다. ([JBee 한재엽](https://github.com/JaeYeopHan)님 감사합니다.)
 * [06.01 ~ 06.18] [제5회 대학생 디지털 솔루션 챌린지 (K-HACKATHON)](http://appcenter.kr/archives/10055)
+
 ## Special Thanks
 
 이 저장소가 좀 더 양질의 정보를 가질수 있도록 기여를 해주신 분들입니다.  
@@ -133,4 +134,5 @@
 * [seungdols](https://github.com/seungdols)
 * [replaykim](https://github.com/replaykim)
 * [dudmy](https://github.com/dudmy)
+* [byrage](https://github.com/byrage)
 
