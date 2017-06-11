@@ -29,8 +29,6 @@
 
 * [취업할까 미룰까 고민될때](https://brunch.co.kr/@jojoldu/1)
 
-* [개발자를 채용하면서 느꼈던 것들](http://sungjk.github.io/2017/06/11/interview-guide.html)
-
 ### 이력서 & 포트폴리오 작성법
 
 * [OKKY "roggy"님의 신입 개발자 이력서 작성 요령](https://okky.kr/article/319687)
@@ -63,11 +61,15 @@
 
 * [Awesome Interview Questions - GitHub](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
+* [개발자를 채용하면서 느꼈던 것들](http://sungjk.github.io/2017/06/11/interview-guide.html)
+
 ### 기타 정보
 
 * [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
 
 * [나무위키 SI](https://namu.wiki/w/SI)
+
+* [비전공자 신입으로서 전공자한테 안 밀리고 살아남는 법](https://okky.kr/article/372485)
 
 ## 채용 (2017)
 
