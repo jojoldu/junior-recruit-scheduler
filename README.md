@@ -61,6 +61,8 @@
 
 * [Awesome Interview Questions - GitHub](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
+* [개발자를 채용하면서 느꼈던 것들](http://sungjk.github.io/2017/06/11/interview-guide.html)
+
 ### 기타 정보
 
 * [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
