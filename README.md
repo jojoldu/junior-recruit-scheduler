@@ -29,6 +29,8 @@
 
 * [취업할까 미룰까 고민될때](https://brunch.co.kr/@jojoldu/1)
 
+* [개발자를 채용하면서 느꼈던 것들](http://sungjk.github.io/2017/06/11/interview-guide.html)
+
 ### 이력서 & 포트폴리오 작성법
 
 * [OKKY "roggy"님의 신입 개발자 이력서 작성 요령](https://okky.kr/article/319687)
