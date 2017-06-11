@@ -69,8 +69,6 @@
 
 * [나무위키 SI](https://namu.wiki/w/SI)
 
-* [비전공자 신입으로서 전공자한테 안 밀리고 살아남는 법](https://okky.kr/article/372485)
-
 ## 채용 (2017)
 
 * [05.08 ~ 06.13 09:00] [알피지코리아(요기요) 인턴](https://rgpkorea.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=9117)
