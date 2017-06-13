@@ -124,7 +124,7 @@
 
 구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했습니다. ([JBee 한재엽](https://github.com/JaeYeopHan)님 감사합니다.)
 * [06.01 ~ 06.18] [제5회 대학생 디지털 솔루션 챌린지 (K-HACKATHON)](http://appcenter.kr/archives/10055)
-* [06.08 ~ 06.20] [2017 글로벌 창업아이디어 해커톤](http://hanyang.starthon.co.kr/)
+* [05.29 ~ 06.14] [2017 글로벌 창업아이디어 해커톤](http://hanyang.starthon.co.kr/)
 
 ## Special Thanks
 
