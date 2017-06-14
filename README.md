@@ -61,6 +61,8 @@
 
 * [Awesome Interview Questions - GitHub](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
+* [개발자를 채용하면서 느꼈던 것들](http://sungjk.github.io/2017/06/11/interview-guide.html)
+
 ### 기타 정보
 
 * [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
@@ -68,8 +70,6 @@
 * [나무위키 SI](https://namu.wiki/w/SI)
 
 ## 채용 (2017)
-
-* [05.08 ~ 06.13 09:00] [알피지코리아(요기요) 인턴](https://rgpkorea.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=9117)
 
 * [05.22 ~ 06.23 17:00] [넥슨 컴퍼니 - 하계 신입 게임프로그래머](https://career.nexon.com)
 
@@ -121,7 +121,11 @@
 ## 해커톤 (2017)
 
 구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했습니다. ([JBee 한재엽](https://github.com/JaeYeopHan)님 감사합니다.)
+
+* [05.29 ~ 06.14] [2017 글로벌 창업아이디어 해커톤](http://hanyang.starthon.co.kr/)
+
 * [06.01 ~ 06.18] [제5회 대학생 디지털 솔루션 챌린지 (K-HACKATHON)](http://appcenter.kr/archives/10055)
+
 * [06.12 ~ 06.30] [무박 2일 해커톤 (AskDjango에서 주최, 한국 마이크로소프트에서 협찬)](https://nomade.kr/moim/askdjango-hackathon-2017/)
 
 
@@ -137,4 +141,5 @@
 * [replaykim](https://github.com/replaykim)
 * [dudmy](https://github.com/dudmy)
 * [byrage](https://github.com/byrage)
-
+* [Eclatant](https://github.com/Eclatant)
+* [Heepie](https://github.com/Heepie)
