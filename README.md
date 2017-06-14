@@ -71,8 +71,6 @@
 
 ## 채용 (2017)
 
-* [05.08 ~ 06.13 09:00] [알피지코리아(요기요) 인턴](https://rgpkorea.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=9117)
-
 * [05.22 ~ 06.23 17:00] [넥슨 컴퍼니 - 하계 신입 게임프로그래머](https://career.nexon.com)
 
 * [06.07 ~ 06.25] [로엔 엔터테인먼트(카카오) 신입 공채](https://loen.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=9557)
@@ -123,8 +121,13 @@
 ## 해커톤 (2017)
 
 구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했습니다. ([JBee 한재엽](https://github.com/JaeYeopHan)님 감사합니다.)
-* [06.01 ~ 06.18] [제5회 대학생 디지털 솔루션 챌린지 (K-HACKATHON)](http://appcenter.kr/archives/10055)
+
 * [05.29 ~ 06.14] [2017 글로벌 창업아이디어 해커톤](http://hanyang.starthon.co.kr/)
+
+* [06.01 ~ 06.18] [제5회 대학생 디지털 솔루션 챌린지 (K-HACKATHON)](http://appcenter.kr/archives/10055)
+
+* [06.12 ~ 06.30] [무박 2일 해커톤 (AskDjango에서 주최, 한국 마이크로소프트에서 협찬)](https://nomade.kr/moim/askdjango-hackathon-2017/)
+
 
 ## Special Thanks
 
@@ -139,3 +142,4 @@
 * [dudmy](https://github.com/dudmy)
 * [byrage](https://github.com/byrage)
 * [Eclatant](https://github.com/Eclatant)
+* [Heepie](https://github.com/Heepie)
