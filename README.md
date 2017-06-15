@@ -45,6 +45,8 @@
 
 * [parkscom님의 신입 개발자를 위한 이력서 쓰기](http://parkscom.tistory.com/1167111262)
 
+* [라태웅님의 신입 포트폴리오](https://okky.kr/article/397774)
+
 ### 면접 팁
 
 * [김태곤님의 신입 프론트엔드 개발자를 위한 면접 조언](https://taegon.kim/archives/5770)
