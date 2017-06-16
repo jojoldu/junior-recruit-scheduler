@@ -83,7 +83,7 @@
 
 * [05.08 ~ 07.08] [데브시스터즈 - 웹디자이너 신입](https://www.jobplanet.co.kr/companies/90431/job_postings/85090/%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88?_rs_act=search&_rs_con=job_postings&_rs_element=search_result)
 
-* [채용시까지] [카카오/다음](https://careers.kakao.com/jobs) 
+* [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
   * [사내정보 시스템 개발](https://careers.kakao.com/jobs/P-9336?part=TECHNOLOGY&page=1&company=KAKAO)
   * [카카오톡 안티 어뷰징 개발](https://careers.kakao.com/jobs/P-10098?part=TECHNOLOGY&page=2&company=KAKAO)
   * [키워드광고/부동산플랫폼 개발](https://careers.kakao.com/jobs/P-10004?part=TECHNOLOGY&page=4&company=KAKAO)
@@ -93,13 +93,13 @@
   * [검색서비스 Server 개발](https://careers.kakao.com/jobs/P-10115?part=TECHNOLOGY&searchTxt=&page=1)
   * [카카오내비 개발 및 운영](https://careers.kakao.com/jobs/P-10014?part=TECHNOLOGY&searchTxt=&page=3)
   * [딥러닝 전문가 신입](https://careers.kakao.com/jobs/P-9884?part=TECHNOLOGY&searchTxt=&page=8)
-  
+
 * [채용시까지] [줌인터넷](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3&sg1=&sg2=&sg3=&sg=&occupation=dev)
   * [머신러닝(딥러닝)을 활용한 검색 신기술 개발](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3.5&rcrtid=R201704140001)
 
 * [전도유망 스타트업]
   * [채용시까지] [더파머스(마켓컬리) 인턴 채용](https://www.wanted.co.kr/wd/3921?referer_id=22216)
-  * [채용시까지] [넥스트매치(아만다) 주니어 서버 개발자 채용](https://www.wanted.co.kr/wd/3164?referer_id=23685) 
+  * [채용시까지] [넥스트매치(아만다) 주니어 서버 개발자 채용](https://www.wanted.co.kr/wd/3164?referer_id=23685)
   * [채용시까지] [VCNC(Between) 채용 리스트](https://www.wanted.co.kr/company/1053)
   * [채용시까지] [스켈터랩스 인턴 채용](https://www.rocketpunch.com/jobs/23269/Software-Engineer-Intern)
 
@@ -122,6 +122,8 @@
 * [05.25 ~ 06.22] [삼성전자 대학생 프로그래밍 경진대회 (SCPC)](https://www.codeground.org/commu/commons/noticeView/AVuDdnmlACcDWREQ)
   * 대회 입상자는 삼성전자 채용 우대
 
+* [06.16 ~ 08.04] [카카오 "Code Festival"](https://programmers.co.kr/competitions/26/%EC%B9%B4%EC%B9%B4%EC%98%A4-code-festival)
+  * 본 대회에서 우수한 성적을 거두신 분께는 상금, 입사 지원 특전, 인턴 기회 등 다양한 혜택이 주어집니다.
 ## 해커톤 (2017)
 
 구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했습니다. ([JBee 한재엽](https://github.com/JaeYeopHan)님 감사합니다.)
