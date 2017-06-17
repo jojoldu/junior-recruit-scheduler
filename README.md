@@ -29,6 +29,8 @@
 
 * [취업할까 미룰까 고민될때](https://brunch.co.kr/@jojoldu/1)
 
+* [피해야 할 개발자 일자리의 징후](http://www.itworld.co.kr/news/105216)
+
 ### 이력서 & 포트폴리오 작성법
 
 * [OKKY "roggy"님의 신입 개발자 이력서 작성 요령](https://okky.kr/article/319687)
