@@ -118,9 +118,6 @@
 
 ## 채용 연계 코딩 대회
 
-* [05.30 ~ 06.16 14:00] [SK 주식회사 C&C “Code Genius 2017”](https://programmers.co.kr/competitions/24/sk-%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC-cc-code-genius-2017)  
-  * 본 프로그래밍 대회에서 Genius로 발탁되신 분들에게는 2017년 SK 주식회사 C&C Summer 인턴십에 함께하실 특전이 주어집니다.
-
 * [05.25 ~ 06.22] [삼성전자 대학생 프로그래밍 경진대회 (SCPC)](https://www.codeground.org/commu/commons/noticeView/AVuDdnmlACcDWREQ)
   * 대회 입상자는 삼성전자 채용 우대
 
