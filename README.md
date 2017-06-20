@@ -101,7 +101,6 @@
   * [머신러닝(딥러닝)을 활용한 검색 신기술 개발](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3.5&rcrtid=R201704140001)
 
 * [전도유망 스타트업]
-  * [채용시까지] [더파머스(마켓컬리) 인턴 채용](https://www.wanted.co.kr/wd/3921?referer_id=22216)
   * [채용시까지] [넥스트매치(아만다) 주니어 서버 개발자 채용](https://www.wanted.co.kr/wd/3164?referer_id=23685)
   * [채용시까지] [VCNC(Between) 채용 리스트](https://www.wanted.co.kr/company/1053)
   * [채용시까지] [스켈터랩스 인턴 채용](https://www.rocketpunch.com/jobs/23269/Software-Engineer-Intern)
