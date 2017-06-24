@@ -77,8 +77,6 @@
 
 ## 채용 (2017)
 
-* [05.22 ~ 06.23 17:00] [넥슨 컴퍼니 - 하계 신입 게임프로그래머](https://career.nexon.com)
-
 * [06.07 ~ 06.25] [로엔 엔터테인먼트(카카오) 신입 공채](https://loen.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=9557)
 
 * [05.15 ~ 06.30] [컴투스 - 클라이언트 신입 프로그래머](http://com2us.com/recruit/recruit_popup0)
@@ -118,8 +116,6 @@
 
 ## 채용 연계 코딩 대회
 
-* [05.25 ~ 06.22] [삼성전자 대학생 프로그래밍 경진대회 (SCPC)](https://www.codeground.org/commu/commons/noticeView/AVuDdnmlACcDWREQ)
-  * 대회 입상자는 삼성전자 채용 우대
 
 * [06.16 ~ 08.04] [카카오 "Code Festival"](https://programmers.co.kr/competitions/26/%EC%B9%B4%EC%B9%B4%EC%98%A4-code-festival)
   * 본 대회에서 우수한 성적을 거두신 분께는 상금, 입사 지원 특전, 인턴 기회 등 다양한 혜택이 주어집니다.
