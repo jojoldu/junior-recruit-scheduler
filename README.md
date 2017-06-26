@@ -77,8 +77,6 @@
 
 ## 채용 (2017)
 
-* [06.07 ~ 06.25] [로엔 엔터테인먼트(카카오) 신입 공채](https://loen.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=9557)
-
 * [05.15 ~ 06.30] [컴투스 - 클라이언트 신입 프로그래머](http://com2us.com/recruit/recruit_popup0)
 
 * [05.08 ~ 07.08] [데브시스터즈 - 웹디자이너 신입](https://www.jobplanet.co.kr/companies/90431/job_postings/85090/%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88?_rs_act=search&_rs_con=job_postings&_rs_element=search_result)
