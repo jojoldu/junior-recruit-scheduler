@@ -79,10 +79,6 @@
 
 ## 채용 (2017)
 
-* [05.15 ~ 06.30] [컴투스 - 클라이언트 신입 프로그래머](http://com2us.com/recruit/recruit_popup0)
-
-* [05.08 ~ 07.08] [데브시스터즈 - 웹디자이너 신입](https://www.jobplanet.co.kr/companies/90431/job_postings/85090/%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88?_rs_act=search&_rs_con=job_postings&_rs_element=search_result)
-
 * [06.26 ~ 07.12] [소프트웨어 마에스트로 8기 ](http://www.swmaestro.kr/web/web/recruitment/applicationGuide.do)
 
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
@@ -99,6 +95,11 @@
 
 * [채용시까지] [줌인터넷](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3&sg1=&sg2=&sg3=&sg=&occupation=dev)
   * [머신러닝(딥러닝)을 활용한 검색 신기술 개발](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3.5&rcrtid=R201704140001)
+
+* [채용시까지] [데브시스터즈](http://www.devsisters.com/jobs/)
+  * [모바일 플랫폼 개발자 (Android, iOS, Unity)](https://www.jobplanet.co.kr/companies/90431/job_postings/85076/모바일-플랫폼-개발자-/데브시스터즈)
+  * [소프트웨어 엔지니어 - 웹](https://www.jobplanet.co.kr/companies/90431/job_postings/72709/소프트웨어-엔지니어---웹/데브시스터즈)
+  * [소프트웨어 엔지니어 - 백엔드](https://www.jobplanet.co.kr/companies/90431/job_postings/85077/소프트웨어-엔지니어---백엔드/데브시스터즈)
 
 * [전도유망 스타트업]
   * [채용시까지] [넥스트매치(아만다) 주니어 서버 개발자 채용](https://www.wanted.co.kr/wd/3164?referer_id=23685)
