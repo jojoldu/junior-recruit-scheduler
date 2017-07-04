@@ -124,9 +124,9 @@
   * 본 대회에서 우수한 성적을 거두신 분께는 상금, 입사 지원 특전, 인턴 기회 등 다양한 혜택이 주어집니다.
 ## 해커톤 (2017)
 
-구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했습니다. ([JBee 한재엽](https://github.com/JaeYeopHan)님 감사합니다.)
+구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했습니다. 
 
-* [06.12 ~ 06.30] [무박 2일 해커톤 (AskDjango에서 주최, 한국 마이크로소프트에서 협찬)](https://nomade.kr/moim/askdjango-hackathon-2017/)
+* [06.12 ~ 07.07] [무박 2일 해커톤 (AskDjango에서 주최, 한국 마이크로소프트에서 협찬)](https://nomade.kr/moim/askdjango-hackathon-2017/)
 
 
 ## Special Thanks
