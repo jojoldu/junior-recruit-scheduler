@@ -83,21 +83,16 @@
 
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
   * [사내정보 시스템 개발](https://careers.kakao.com/jobs/P-9336?part=TECHNOLOGY&page=1&company=KAKAO)
-  * [카카오톡 안티 어뷰징 개발](https://careers.kakao.com/jobs/P-10098?part=TECHNOLOGY&page=2&company=KAKAO)
   * [키워드광고/부동산플랫폼 개발](https://careers.kakao.com/jobs/P-10004?part=TECHNOLOGY&page=4&company=KAKAO)
   * [다음 카페 서비스 서버 개발](https://careers.kakao.com/jobs/P-10084?part=TECHNOLOGY&page=5&company=KAKAO)
-  * [다음 앱 (Android/iOS) 개발](https://careers.kakao.com/jobs/P-10051?part=TECHNOLOGY&page=5&company=KAKAO)
+  * [다음 앱 iOS 개발](https://careers.kakao.com/jobs/P-10051?part=TECHNOLOGY&page=5&company=KAKAO)
   * [전사 개발플랫폼 개발 및 운영](https://careers.kakao.com/jobs/P-10126?part=TECHNOLOGY&searchTxt=&page=1)
   * [검색서비스 Server 개발](https://careers.kakao.com/jobs/P-10115?part=TECHNOLOGY&searchTxt=&page=1)
-  * [카카오내비 개발 및 운영](https://careers.kakao.com/jobs/P-10014?part=TECHNOLOGY&searchTxt=&page=3)
   * [딥러닝 전문가 신입](https://careers.kakao.com/jobs/P-9884?part=TECHNOLOGY&searchTxt=&page=8)
   * [카카오 메세징 서버 개발](https://careers.kakao.com/jobs/P-10009)
   * [카카오페이 서버 개발](https://careers.kakao.com/jobs/S-35?part=TECHNOLOGY&searchTxt=%EC%8B%A0%EC%9E%85&page=2&employeeType=)
   * [검색서비스 개발(위와 다름)](https://careers.kakao.com/jobs/P-10256)
   * [컨텐츠 플랫폼 개발](https://careers.kakao.com/jobs/P-10171?part=TECHNOLOGY&searchTxt=%EC%8B%A0%EC%9E%85&page=1&employeeType=)
-
-* [채용시까지] [줌인터넷](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3&sg1=&sg2=&sg3=&sg=&occupation=dev)
-  * [머신러닝(딥러닝)을 활용한 검색 신기술 개발](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3.5&rcrtid=R201704140001)
 
 * [채용시까지] [데브시스터즈](http://www.devsisters.com/jobs/)
   * [모바일 플랫폼 개발자 (Android, iOS, Unity)](https://www.jobplanet.co.kr/companies/90431/job_postings/85076/모바일-플랫폼-개발자-/데브시스터즈)
