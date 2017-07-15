@@ -78,7 +78,7 @@
 * [나무위키 SI](https://namu.wiki/w/SI)
 
 ## 채용 (2017)
-
+* [2017.07.12 ~ 2017.07.21] [신입 개발 - 그린캣소프트(OKKY의 멘토 fender님의 구인)](https://okky.kr/article/403862)
 * [2017.07.06 ~ 2017.07.25] [웹서비스 개발 - 이스트소프트](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3.5&rcrtid=R201707050001)
 
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
