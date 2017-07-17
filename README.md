@@ -50,6 +50,7 @@
 * [라태웅님의 신입 포트폴리오](https://okky.kr/article/397774)
 
 * [(소프트웨어 엔지니어를 위한) 끝내주는 이력서를 쓰는 방법](http://www.haeyounglee.com/post/41769497481/how-to-write-a-killer-resume#.WVNvOnc6-V4)
+* [이직 초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
 
 ### 면접 팁
 
