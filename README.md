@@ -79,8 +79,7 @@
 * [나무위키 SI](https://namu.wiki/w/SI)
 
 ## 채용 (2017)
-* [2017.07.12 ~ 2017.07.26] [신입 개발 - 그린캣소프트(OKKY의 멘토 fender님의 구인)](https://okky.kr/article/403862)
-* [2017.07.06 ~ 2017.07.25] [웹서비스 개발 - 이스트소프트](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3.5&rcrtid=R201707050001)
+
 * [2017.07.16 ~ 2017.07.31] [소프트웨어 개발 - 티맥스](https://kr.tmaxsoft.com/recruit/recruitNoticeView.do?no=TS-IRC-20100510-0001&seq=177)
 
 * [채용시까지] [신입 웹 개발자 - 오마이트립](https://ohmytriptech.github.io/recruit/)
@@ -109,6 +108,7 @@
   * [채용시까지] [VCNC(Between) 채용 리스트](https://www.wanted.co.kr/company/1053)
   * [채용시까지] [스켈터랩스 인턴 채용](https://www.rocketpunch.com/jobs/23269/Software-Engineer-Intern)
   * [채용시까지] [야놀자 신입/경력 백엔드 개발자 채용](https://www.jobplanet.co.kr/companies/89637/job_postings/74380/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90/%EC%95%BC%EB%86%80%EC%9E%90)
+  * [채용시까지] [아이디인큐 신입 웹개발자 채용](https://www.wanted.co.kr/wd/4830)
 
 ### 이외 채용정보 얻는법
 
@@ -123,9 +123,9 @@
 
 ## 채용 연계 코딩 대회
 
-
 * [06.16 ~ 08.04] [카카오 "Code Festival"](https://programmers.co.kr/competitions/26/%EC%B9%B4%EC%B9%B4%EC%98%A4-code-festival)
   * 본 대회에서 우수한 성적을 거두신 분께는 상금, 입사 지원 특전, 인턴 기회 등 다양한 혜택이 주어집니다.
+
 ## 해커톤 (2017)
 
 구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했습니다. 
