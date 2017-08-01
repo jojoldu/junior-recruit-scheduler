@@ -80,8 +80,6 @@
 
 ## 채용 (2017)
 
-* [2017.07.16 ~ 2017.07.31] [소프트웨어 개발 - 티맥스](https://kr.tmaxsoft.com/recruit/recruitNoticeView.do?no=TS-IRC-20100510-0001&seq=177)
-
 * [채용시까지] [신입 웹 개발자 - 오마이트립](https://ohmytriptech.github.io/recruit/)
   * [기술블로그](https://ohmytriptech.github.io/blog/2017/07/14/%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%ED%83%90%ED%97%98.html)
   * [CTO 이규원님의 페이스북](https://www.facebook.com/gyuwon.yi?fref=ts)
@@ -100,7 +98,6 @@
   * [검색서비스 Server 개발](https://careers.kakao.com/jobs/P-10115?part=TECHNOLOGY&searchTxt=&page=1)
   * [딥러닝 전문가 신입](https://careers.kakao.com/jobs/P-9884?part=TECHNOLOGY&searchTxt=&page=8)
   * [카카오 메세징 서버 개발](https://careers.kakao.com/jobs/P-10009)
-  * [카카오페이 서버 개발](https://careers.kakao.com/jobs/S-35?part=TECHNOLOGY&searchTxt=%EC%8B%A0%EC%9E%85&page=2&employeeType=)
   * [검색서비스 개발(위와 다름)](https://careers.kakao.com/jobs/P-10256)
   * [컨텐츠 플랫폼 개발](https://careers.kakao.com/jobs/P-10171?part=TECHNOLOGY&searchTxt=%EC%8B%A0%EC%9E%85&page=1&employeeType=)
 
