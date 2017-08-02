@@ -80,6 +80,8 @@
 
 ## 채용 (2017)
 
+* [08.01 ~ 08.15] [컴투스 신입 프로그래머](https://okky.kr/article/407625)
+
 * [채용시까지] [신입 웹 개발자 - 오마이트립](https://ohmytriptech.github.io/recruit/)
   * [기술블로그](https://ohmytriptech.github.io/blog/2017/07/14/%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%ED%83%90%ED%97%98.html)
   * [CTO 이규원님의 페이스북](https://www.facebook.com/gyuwon.yi?fref=ts)
