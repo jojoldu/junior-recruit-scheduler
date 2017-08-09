@@ -128,8 +128,7 @@
 
 ## 채용 연계 코딩 대회
 
-* [06.16 ~ 08.04] [카카오 "Code Festival"](https://programmers.co.kr/competitions/26/%EC%B9%B4%EC%B9%B4%EC%98%A4-code-festival)
-  * 본 대회에서 우수한 성적을 거두신 분께는 상금, 입사 지원 특전, 인턴 기회 등 다양한 혜택이 주어집니다.
+
 
 ## 해커톤 (2017)
 
