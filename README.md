@@ -80,8 +80,6 @@
 
 ## 채용 (2017)
 
-* [08.01 ~ 08.15] [컴투스 신입 프로그래머](https://okky.kr/article/407625)
-
 * [08.14 ~ 08.31] [펄어비스(검은사막) 인턴쉽](http://m.jobkorea.co.kr/Recruit/GI_Read/21858391)
 
 * [채용시까지] [신입 웹 개발자 - 오마이트립](https://ohmytriptech.github.io/recruit/)
