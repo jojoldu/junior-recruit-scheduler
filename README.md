@@ -100,7 +100,6 @@
   * [컨텐츠 플랫폼 개발](https://careers.kakao.com/jobs/P-10171?part=TECHNOLOGY&searchTxt=%EC%8B%A0%EC%9E%85&page=1&employeeType=)
 
 * [채용시까지] [데브시스터즈](http://www.devsisters.com/jobs/)
-  * [모바일 플랫폼 개발자 (Android, iOS, Unity)](https://www.jobplanet.co.kr/companies/90431/job_postings/85076/모바일-플랫폼-개발자-/데브시스터즈)
   * [소프트웨어 엔지니어 - 웹](https://www.jobplanet.co.kr/companies/90431/job_postings/98064/%EC%9E%A1%ED%94%8C%EB%9E%98%EB%8B%9B-%EB%A7%A4%EC%B9%AD-%EC%9B%B9-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88)
   * [소프트웨어 엔지니어 - 백엔드](https://www.jobplanet.co.kr/companies/90431/job_postings/98071/%EC%9E%A1%ED%94%8C%EB%9E%98%EB%8B%9B-%EB%A7%A4%EC%B9%AD-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%B0%B1%EC%97%94%EB%93%9C/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88)
 
