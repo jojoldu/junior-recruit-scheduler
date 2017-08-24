@@ -125,7 +125,7 @@
 
 ## 채용 연계 코딩 대회
 
-
+* [08.28 ~ 09.14] [2018 KAKAO 1ST BLIND RECRUITMENT](https://programmers.co.kr/competitions/35/welcome-kakao)
 
 ## 해커톤 (2017)
 
