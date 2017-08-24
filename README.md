@@ -100,9 +100,14 @@
   * [컨텐츠 플랫폼 개발](https://careers.kakao.com/jobs/P-10171?part=TECHNOLOGY&searchTxt=%EC%8B%A0%EC%9E%85&page=1&employeeType=)
 
 * [채용시까지] [데브시스터즈](http://www.devsisters.com/jobs/)
-  * [모바일 플랫폼 개발자 (Android, iOS, Unity)](https://www.jobplanet.co.kr/companies/90431/job_postings/85076/모바일-플랫폼-개발자-/데브시스터즈)
-  * [소프트웨어 엔지니어 - 웹](https://www.jobplanet.co.kr/companies/90431/job_postings/72709/소프트웨어-엔지니어---웹/데브시스터즈)
-  * [소프트웨어 엔지니어 - 백엔드](https://www.jobplanet.co.kr/companies/90431/job_postings/85077/소프트웨어-엔지니어---백엔드/데브시스터즈)
+  * [머신러닝 Researcher](https://www.jobplanet.co.kr/companies/90431/job_postings/98058/%EC%9E%A1%ED%94%8C%EB%9E%98%EB%8B%9B%EB%A7%A4%EC%B9%AD-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9Dresearcher/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88)
+  * [데이터 엔지니어](https://www.jobplanet.co.kr/companies/90431/job_postings/98062/%EC%9E%A1%ED%94%8C%EB%9E%98%EB%8B%9B-%EB%A7%A4%EC%B9%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88)
+  * [신규 전략 게임클라이언트개발자](https://www.jobplanet.co.kr/companies/90431/job_postings/98068/%EC%9E%A1%ED%94%8C%EB%9E%98%EB%8B%9B-%EB%A7%A4%EC%B9%AD-%EC%8B%A0%EA%B7%9C-%EC%A0%84%EB%9E%B5-%EA%B2%8C%EC%9E%84-%ED%81%B4%EB%9D%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88)
+  * [데이터 과학자](https://www.jobplanet.co.kr/companies/90431/job_postings/98074/%EC%9E%A1%ED%94%8C%EB%9E%98%EB%8B%9B-%EB%A7%A4%EC%B9%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9E%90/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88)
+  * [모바일 플랫폼 개발자](https://www.jobplanet.co.kr/companies/90431/job_postings/97860/%EC%9E%A1%ED%94%8C%EB%9E%98%EB%8B%9B-%EB%A7%A4%EC%B9%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88)
+  * [게임 클라이언트 개발자](https://www.jobplanet.co.kr/companies/90431/job_postings/97864/%EC%9E%A1%ED%94%8C%EB%9E%98%EB%8B%9B-%EB%A7%A4%EC%B9%AD-%EA%B2%8C%EC%9E%84-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88)
+  * [소프트웨어 엔지니어 - 웹](https://www.jobplanet.co.kr/companies/90431/job_postings/98064/%EC%9E%A1%ED%94%8C%EB%9E%98%EB%8B%9B-%EB%A7%A4%EC%B9%AD-%EC%9B%B9-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88)
+  * [소프트웨어 엔지니어 - 백엔드](https://www.jobplanet.co.kr/companies/90431/job_postings/98071/%EC%9E%A1%ED%94%8C%EB%9E%98%EB%8B%9B-%EB%A7%A4%EC%B9%AD-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%B0%B1%EC%97%94%EB%93%9C/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88)
 
 * [전도유망 스타트업]
   * [채용시까지] [넥스트매치(아만다) 주니어 서버 개발자 채용](https://www.wanted.co.kr/wd/3164?referer_id=23685)
