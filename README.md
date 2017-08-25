@@ -131,7 +131,6 @@
 
 구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했습니다. 
 
-* [07.28 ~ 08.18] [4회 'With Camp' Hackathon with IF2017](https://www.facebook.com/withcampkr/posts/1445461272174928)
 
 ## Special Thanks
 
