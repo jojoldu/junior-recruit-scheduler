@@ -17,11 +17,13 @@
 
 ## 신입 개발자 구직 팁
 
-구직 팁 외에 다른 팁은 담지 않으려고 합니다.  
-주니어를 위한 팁으로 범위를 정하면 너무 커져버리기 때문에 제한하였습니다.    
+**구직 팁 외에 다른 팁은 담지 않으려고** 합니다.  
+주니어를 위한 팁으로 범위를 정하면 너무 커져버리기 때문에 제한하였습니다.  
 주니어를 위한 각종 팁은 [페이스북 페이지](https://www.facebook.com/devbeginner/)를 참고해주세요
 
 ### 구직 전반
+
+* [이한별님의 구직 이야기](http://lhb0517.tistory.com/entry/reviewofjojoldu)
 
 * [김남윤님의 신입 개발자 취업 도전기](https://www.slideshare.net/ssuser565d51/ss-61448739)
 
@@ -150,3 +152,5 @@
 * [sungjine456](https://github.com/sungjine456)
 * [ISKU](https://github.com/ISKU)
 * [lee-seul](https://github.com/lee-seul)
+* [jeanlee1783](https://github.com/jeanlee1783)
+* [starrybleu](https://github.com/starrybleu)
