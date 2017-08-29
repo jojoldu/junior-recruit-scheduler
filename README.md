@@ -84,6 +84,8 @@
 
 * [08.14 ~ 08.31] [펄어비스(검은사막) 인턴쉽](http://m.jobkorea.co.kr/Recruit/GI_Read/21858391)
 
+* [채용시까지] [줌인터넷 포털서비스 주니어(2년) 경력 개발자](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3.5&rcrtid=R201708110001)
+
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [플랫폼 본부 - 분석시스템 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170222)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
