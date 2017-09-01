@@ -82,7 +82,7 @@
 
 ## 채용 (2017)
 
-* [08.14 ~ 08.31] [펄어비스(검은사막) 인턴쉽](http://m.jobkorea.co.kr/Recruit/GI_Read/21858391)
+* [09.01 ~ 09.18 17:00] [NHN Entertainment 신입 공채](http://recruit.nhnent.com/ent/recruitings/20000651)
 
 * [채용시까지] [줌인터넷 포털서비스 주니어(2년) 경력 개발자](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3.5&rcrtid=R201708110001)
 
