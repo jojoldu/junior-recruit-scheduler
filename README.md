@@ -86,6 +86,8 @@
 
 * [09.01 ~ 09.18 17:00] [라인 신입 공채](http://recruit.linepluscorp.com/lineplus/career/detail/20001125?classId=&entTypeCd=&page=)
 
+* [09.01 ~ 09.21] [스마일게이트 신입 공채](https://careers.smilegate.com/ko/recruit/recruitView.asp?idx=2297)
+
 * [채용시까지] [줌인터넷 포털서비스 주니어(2년) 경력 개발자](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3.5&rcrtid=R201708110001)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
