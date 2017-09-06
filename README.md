@@ -91,6 +91,7 @@
 * [채용시까지] [줌인터넷 포털서비스 주니어(2년) 경력 개발자](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3.5&rcrtid=R201708110001)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
+  * [분석 본부 - 기술운영 시스템 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170274)
   * [플랫폼 본부 - 분석시스템 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170222)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
   * [탱고파이브 - 게임 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170217)
