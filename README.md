@@ -100,6 +100,7 @@
 * [09.11 11:00 ~ 10.13 15:00] [티몬 신입 공채](http://www.ticketmonster.co.kr/deal/675562230)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
+  * [분석 본부 - 기술운영 시스템 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170274)
   * [플랫폼 본부 - 분석시스템 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170222)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
   * [탱고파이브 - 게임 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170217)
