@@ -99,6 +99,8 @@
 
 * [09.11 11:00 ~ 10.13 15:00] [티몬 신입 공채](http://www.ticketmonster.co.kr/deal/675562230)
 
+* [09.18 ~ 10.11] [넷마블 신입 공채](https://www.netmarble.com/rem/www/notice.jsp?anno_id=1047314&page=1&annotype=new)
+
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [분석 본부 - 기술운영 시스템 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170274)
   * [플랫폼 본부 - 분석시스템 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170222)
