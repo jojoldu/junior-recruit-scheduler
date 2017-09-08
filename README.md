@@ -88,6 +88,8 @@
 
 * [09.01 ~ 09.21] [스마일게이트 신입 공채](https://careers.smilegate.com/ko/recruit/recruitView.asp?idx=2297)
 
+* [09.18 ~ 10.11] [넷마블 신입 공채](https://www.netmarble.com/rem/www/notice.jsp?anno_id=1047314&page=1&annotype=new)
+
 * [채용시까지] [줌인터넷 포털서비스 주니어(2년) 경력 개발자](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3.5&rcrtid=R201708110001)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
