@@ -52,9 +52,14 @@
 * [라태웅님의 신입 포트폴리오](https://okky.kr/article/397774)
 
 * [(소프트웨어 엔지니어를 위한) 끝내주는 이력서를 쓰는 방법](http://www.haeyounglee.com/post/41769497481/how-to-write-a-killer-resume#.WVNvOnc6-V4)
-* [이직 초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
+
+* [우아한형제들 - 이직 초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
+
+* [마르코님의 번역 - 2017년 개발자 이력서 작성 가이드](https://brunch.co.kr/@imagineer/215)
 
 ### 면접 팁
+
+* [JBee(한재엽)님의 기술면접 자료 Repository](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
 * [김태곤님의 신입 프론트엔드 개발자를 위한 면접 조언](https://taegon.kim/archives/5770)
 
@@ -82,15 +87,19 @@
 
 ## 채용 (2017)
 
+* [08.28 ~ 09.14] [2018 KAKAO 1ST BLIND 채용](https://programmers.co.kr/competitions/35/welcome-kakao)
+
 * [09.01 ~ 09.18 17:00] [NHN Entertainment 신입 공채](http://recruit.nhnent.com/ent/recruitings/20000651)
 
 * [09.01 ~ 09.18 17:00] [라인 신입 공채](http://recruit.linepluscorp.com/lineplus/career/detail/20001125?classId=&entTypeCd=&page=)
 
 * [09.01 ~ 09.21] [스마일게이트 신입 공채](https://careers.smilegate.com/ko/recruit/recruitView.asp?idx=2297)
 
-* [09.18 ~ 10.11] [넷마블 신입 공채](https://www.netmarble.com/rem/www/notice.jsp?anno_id=1047314&page=1&annotype=new)
+* [09.04 ~ 09.26] [마이다스 아이티 블라인드 신입 공채](https://midas.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=307)
 
-* [채용시까지] [줌인터넷 포털서비스 주니어(2년) 경력 개발자](http://www.estsoft.co.kr/Default.aspx?wbs=5.0.3.5&rcrtid=R201708110001)
+* [09.11 11:00 ~ 10.13 15:00] [티몬 신입 공채](http://www.ticketmonster.co.kr/deal/675562230)
+
+* [09.18 ~ 10.11] [넷마블 신입 공채](https://www.netmarble.com/rem/www/notice.jsp?anno_id=1047314&page=1&annotype=new)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [분석 본부 - 기술운영 시스템 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170274)
@@ -136,8 +145,6 @@
 * [원티드 신입 개발자 채용 리스트](https://www.wanted.co.kr/wdlist/518?referer_id=23685&years=0)
 
 ## 채용 연계 코딩 대회
-
-* [08.28 ~ 09.14] [2018 KAKAO 1ST BLIND RECRUITMENT](https://programmers.co.kr/competitions/35/welcome-kakao)
 
 ## 해커톤 (2017)
 
