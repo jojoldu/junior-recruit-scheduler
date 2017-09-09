@@ -119,11 +119,6 @@
   * [검색서비스 개발(위와 다름)](https://careers.kakao.com/jobs/P-10256)
   * [컨텐츠 플랫폼 개발](https://careers.kakao.com/jobs/P-10171?part=TECHNOLOGY&searchTxt=%EC%8B%A0%EC%9E%85&page=1&employeeType=)
 
-* [채용시까지] [데브시스터즈](http://www.devsisters.com/jobs/)
-  * [모바일 플랫폼 개발자 (Android, iOS, Unity)](https://www.jobplanet.co.kr/companies/90431/job_postings/85076/모바일-플랫폼-개발자-/데브시스터즈)
-  * [소프트웨어 엔지니어 - 웹](https://www.jobplanet.co.kr/companies/90431/job_postings/72709/소프트웨어-엔지니어---웹/데브시스터즈)
-  * [소프트웨어 엔지니어 - 백엔드](https://www.jobplanet.co.kr/companies/90431/job_postings/85077/소프트웨어-엔지니어---백엔드/데브시스터즈)
-
 * [전도유망 스타트업]
   * [채용시까지] [넥스트매치(아만다) 주니어 서버 개발자 채용](https://www.wanted.co.kr/wd/3164?referer_id=23685)
   * [채용시까지] [VCNC(Between) 채용 리스트](https://www.wanted.co.kr/company/1053)
