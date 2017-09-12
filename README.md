@@ -85,6 +85,8 @@
 
 * [나무위키 SI](https://namu.wiki/w/SI)
 
+* [피해야하는 중소기업 거르는 꿀팁](http://principlesofknowledge.kr/archives/31414)
+
 ## 채용 (2017)
 
 * [08.28 ~ 09.14] [2018 KAKAO 1ST BLIND 채용](https://programmers.co.kr/competitions/35/welcome-kakao)
