@@ -101,6 +101,11 @@
 
 * [09.11 11:00 ~ 10.13 15:00] [티몬 신입 공채](http://www.ticketmonster.co.kr/deal/675562230)
 
+* [09.14 ~ 10.11 17:00] [넥슨 신입 공채](https://career.nexon.com)
+  * [플랫폼 엔지니어/IT 엔지니어](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170284)
+  * [게임 프로그래밍](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170282)
+  * [불리언게임즈 - 게임 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170286)
+
 * [09.18 ~ 10.11] [넷마블 신입 공채](https://www.netmarble.com/rem/www/notice.jsp?anno_id=1047314&page=1&annotype=new)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
