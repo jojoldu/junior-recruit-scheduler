@@ -89,8 +89,6 @@
 
 ## 채용 (2017)
 
-* [08.28 ~ 09.14] [2018 KAKAO 1ST BLIND 채용](https://programmers.co.kr/competitions/35/welcome-kakao)
-
 * [09.01 ~ 09.18 17:00] [NHN Entertainment 신입 공채](http://recruit.nhnent.com/ent/recruitings/20000651)
 
 * [09.01 ~ 09.18 17:00] [라인 신입 공채](http://recruit.linepluscorp.com/lineplus/career/detail/20001125?classId=&entTypeCd=&page=)
