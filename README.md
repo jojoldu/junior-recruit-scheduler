@@ -107,8 +107,6 @@
 * [09.18 ~ 10.11] [넷마블 신입 공채](https://www.netmarble.com/rem/www/notice.jsp?anno_id=1047314&page=1&annotype=new)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
-  * [분석 본부 - 기술운영 시스템 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170274)
-  * [플랫폼 본부 - 분석시스템 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170222)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
   * [탱고파이브 - 게임 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170217)
 
@@ -120,7 +118,6 @@
   * [전사 개발플랫폼 개발 및 운영](https://careers.kakao.com/jobs/P-10126?part=TECHNOLOGY&searchTxt=&page=1)
   * [검색서비스 Server 개발](https://careers.kakao.com/jobs/P-10115?part=TECHNOLOGY&searchTxt=&page=1)
   * [딥러닝 전문가 신입](https://careers.kakao.com/jobs/P-9884?part=TECHNOLOGY&searchTxt=&page=8)
-  * [카카오 메세징 서버 개발](https://careers.kakao.com/jobs/P-10009)
   * [검색서비스 개발(위와 다름)](https://careers.kakao.com/jobs/P-10256)
   * [컨텐츠 플랫폼 개발](https://careers.kakao.com/jobs/P-10171?part=TECHNOLOGY&searchTxt=%EC%8B%A0%EC%9E%85&page=1&employeeType=)
 
