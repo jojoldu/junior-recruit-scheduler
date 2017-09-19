@@ -89,10 +89,6 @@
 
 ## 채용 (2017)
 
-* [09.01 ~ 09.18 17:00] [NHN Entertainment 신입 공채](http://recruit.nhnent.com/ent/recruitings/20000651)
-
-* [09.01 ~ 09.18 17:00] [라인 신입 공채](http://recruit.linepluscorp.com/lineplus/career/detail/20001125?classId=&entTypeCd=&page=)
-
 * [09.01 ~ 09.21] [스마일게이트 신입 공채](https://careers.smilegate.com/ko/recruit/recruitView.asp?idx=2297)
 
 * [09.04 ~ 09.26] [마이다스 아이티 블라인드 신입 공채](https://midas.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=307)
