@@ -85,7 +85,7 @@
 
 * [나무위키 SI](https://namu.wiki/w/SI)
 
-* [피해야하는 중소기업 거르는 꿀팁](http://principlesofknowledge.kr/archives/31414)
+* [피해야 하는 중소기업 거르는 꿀팁](http://principlesofknowledge.kr/archives/31414)
 
 ## 채용 (2017)
 
@@ -105,6 +105,8 @@
   * [불리언게임즈 - 게임 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170286)
 
 * [09.18 ~ 10.11] [넷마블 신입 공채](https://www.netmarble.com/rem/www/notice.jsp?anno_id=1047314&page=1&annotype=new)
+
+* [10.02 ~ 10.15] [우아한형제들(배달의민족) 신입 공채](https://recruit.woowahan.com/#/newtech)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
