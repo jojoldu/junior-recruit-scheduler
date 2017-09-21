@@ -102,6 +102,8 @@
 
 * [09.18 ~ 10.11] [넷마블 신입 공채](https://www.netmarble.com/rem/www/notice.jsp?anno_id=1047314&page=1&annotype=new)
 
+* [09.25 ~ 10.12 13:00] [NC소프트 신입 공채](https://recruit.ncsoft.net/korean/careers/adoption_recruit.aspx#none)
+
 * [10.02 ~ 10.15] [우아한형제들(배달의민족) 신입 공채](https://recruit.woowahan.com/#/newtech)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
