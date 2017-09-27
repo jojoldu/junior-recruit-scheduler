@@ -89,6 +89,8 @@
 
 * [피해야 하는 중소기업 거르는 꿀팁](http://principlesofknowledge.kr/archives/31414)
 
+* [2017 카카오 블라인드 코딩테스트 1](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
+
 ## 채용 (2017)
 
 * [09.11 11:00 ~ 10.13 15:00] [티몬 신입 공채](http://www.ticketmonster.co.kr/deal/675562230)
@@ -167,3 +169,5 @@
 * [lee-seul](https://github.com/lee-seul)
 * [jeanlee1783](https://github.com/jeanlee1783)
 * [starrybleu](https://github.com/starrybleu)
+* [thnam91](https://github.com/thnam91)
+* [posquit0](https://github.com/posquit0)
