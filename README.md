@@ -89,7 +89,7 @@
 
 * [피해야 하는 중소기업 거르는 꿀팁](http://principlesofknowledge.kr/archives/31414)
 
-* [2017 카카오 블라인드 코딩테스트 1](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
+* [2017 카카오 블라인드 코딩테스트 1차 해설](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
 
 ## 채용 (2017)
 
