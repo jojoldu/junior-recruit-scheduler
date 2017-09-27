@@ -89,8 +89,6 @@
 
 ## 채용 (2017)
 
-* [09.04 ~ 09.26] [마이다스 아이티 블라인드 신입 공채](https://midas.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=307)
-
 * [09.11 11:00 ~ 10.13 15:00] [티몬 신입 공채](http://www.ticketmonster.co.kr/deal/675562230)
 
 * [09.14 ~ 10.11 17:00] [넥슨 신입 공채](https://career.nexon.com)
