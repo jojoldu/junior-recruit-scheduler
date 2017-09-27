@@ -57,6 +57,8 @@
 
 * [마르코님의 번역 - 2017년 개발자 이력서 작성 가이드](https://brunch.co.kr/@imagineer/215)
 
+* [posquit0님의 Awesome CV - LaTeX로 끝내주는 영문 이력서 작성](https://github.com/posquit0/Awesome-CV)
+
 ### 면접 팁
 
 * [JBee(한재엽)님의 기술면접 자료 Repository](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
