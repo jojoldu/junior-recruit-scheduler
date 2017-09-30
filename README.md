@@ -93,8 +93,6 @@
 
 ## 채용 (2017)
 
-* [09.11 11:00 ~ 10.13 15:00] [티몬 신입 공채](http://www.ticketmonster.co.kr/deal/675562230)
-
 * [09.14 ~ 10.11 17:00] [넥슨 신입 공채](https://career.nexon.com)
   * [플랫폼 엔지니어/IT 엔지니어](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170284)
   * [게임 프로그래밍](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170282)
@@ -103,6 +101,8 @@
 * [09.18 ~ 10.11] [넷마블 신입 공채](https://www.netmarble.com/rem/www/notice.jsp?anno_id=1047314&page=1&annotype=new)
 
 * [09.25 ~ 10.12 13:00] [NC소프트 신입 공채](https://recruit.ncsoft.net/korean/careers/adoption_recruit.aspx#none)
+
+* [09.11 11:00 ~ 10.13 15:00] [티몬 신입 공채](http://www.ticketmonster.co.kr/deal/675562230)
 
 * [10.02 ~ 10.15] [우아한형제들(배달의민족) 신입 공채](https://recruit.woowahan.com/#/newtech)
 
@@ -129,7 +129,7 @@
   * [채용시까지] [아이디인큐 신입 웹개발자 채용](https://www.wanted.co.kr/wd/4830)
   * [채용시까지] [링커리어 신입/경력 Python 백엔드 개발자 채용](https://www.rocketpunch.com/jobs/31026/%ED%95%9C%EA%B5%AD%EC%9D%98-%EB%A7%81%ED%81%AC%EB%93%9C%EC%9D%B8%EC%9D%84-%EA%BF%88%EA%BE%B8%EB%8A%94-%EB%A7%81%EC%BB%A4%EB%A6%AC%EC%96%B4-PythonDjango-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9)
   * [채용시까지] [NBT(캐시슬라이드) 신입 개발자 채용](http://nbt.com/junior-developer신입개발자/)
-  * [채용시까지] [옴니어스 주니어 서버 개발자 채용](https://www.wanted.co.kr/wd/5521?referer_id=136840)
+  * [채용시까지] [옴니어스 주니어 서버 개발자 채용](https://www.wanted.co.kr/wd/5521?referer_id=136840)
 
 ### 이외 채용정보 얻는법
 
