@@ -126,7 +126,7 @@
   * [컨텐츠 플랫폼 개발](https://careers.kakao.com/jobs/P-10171?part=TECHNOLOGY&searchTxt=%EC%8B%A0%EC%9E%85&page=1&employeeType=)
 
 * [채용시까지] [NHN Godo](http://www.godo.co.kr/company/application_list.php)
-  * [호스팅 개발(신입)] (http://www.godo.co.kr/company/application_view.php?idx=160)
+  * [호스팅 개발(신입)](http://www.godo.co.kr/company/application_view.php?idx=160)
 
 * [전도유망 스타트업]
   * [채용시까지] [넥스트매치(아만다) 주니어 서버 개발자 채용](https://www.wanted.co.kr/wd/3164?referer_id=23685)
