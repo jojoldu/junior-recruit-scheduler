@@ -106,6 +106,8 @@
 
 * [09.11 11:00 ~ 10.13 15:00] [티몬 신입 공채](http://www.ticketmonster.co.kr/deal/675562230)
 
+* [10.01 ~ 10.31] [게임빌 / 컴투스 신입 공채](http://recruit.withhive.com/)
+
 * [10.02 ~ 10.15] [우아한형제들(배달의민족) 신입 공채](https://recruit.woowahan.com/#/newtech)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
@@ -122,6 +124,9 @@
   * [딥러닝 전문가 신입](https://careers.kakao.com/jobs/P-9884?part=TECHNOLOGY&searchTxt=&page=8)
   * [검색서비스 개발(위와 다름)](https://careers.kakao.com/jobs/P-10256)
   * [컨텐츠 플랫폼 개발](https://careers.kakao.com/jobs/P-10171?part=TECHNOLOGY&searchTxt=%EC%8B%A0%EC%9E%85&page=1&employeeType=)
+
+* [채용시까지] [NHN Godo](http://www.godo.co.kr/company/application_list.php)
+  * [호스팅 개발(신입)] (http://www.godo.co.kr/company/application_view.php?idx=160)
 
 * [전도유망 스타트업]
   * [채용시까지] [넥스트매치(아만다) 주니어 서버 개발자 채용](https://www.wanted.co.kr/wd/3164?referer_id=23685)
