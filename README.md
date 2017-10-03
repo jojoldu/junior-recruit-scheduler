@@ -69,7 +69,7 @@
 
 * [네이버 면접시 듣게 되는 41가지 질문(기사)](http://www.bloter.net/archives/245110)
 
-* [카카오 면접 시 듣게 되는 70가지 질문(블로터)](http://www.bloter.net/archives/215683/daum_kakao_1_800)
+* [카카오 면접 시 듣게 되는 70가지 질문(블로터)](http://www.bloter.net/archives/245529)
 
 * [페이스북 면접은 어떻게 다를까?](http://catlog.kr/entry/how-facebook-interview-different)
 
