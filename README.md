@@ -182,3 +182,4 @@
 * [posquit0](https://github.com/posquit0)
 * [jhleed](https://github.com/jhleed)
 * [joshua-qa](https://github.com/joshua-qa)
+* [KimHunJin](https://github.com/KimHunJin)
