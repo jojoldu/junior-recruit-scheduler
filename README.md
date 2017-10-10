@@ -93,6 +93,8 @@
 
 * [2017 카카오 블라인드 코딩테스트 1차 해설](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
 
+* [Interview Question](https://www.javatpoint.com/corejava-interview-questions)
+
 ## 채용 (2017)
 
 * [09.14 ~ 10.11 17:00] [넥슨 신입 공채](https://career.nexon.com)
