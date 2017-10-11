@@ -102,8 +102,6 @@
   * [게임 프로그래밍](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170282)
   * [불리언게임즈 - 게임 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170286)
 
-* [09.18 ~ 10.11] [넷마블 신입 공채](https://www.netmarble.com/rem/www/notice.jsp?anno_id=1047314&page=1&annotype=new)
-
 * [09.25 ~ 10.12 13:00] [NC소프트 신입 공채](https://recruit.ncsoft.net/korean/careers/adoption_recruit.aspx#none)
 
 * [09.11 11:00 ~ 10.13 15:00] [티몬 신입 공채](http://www.ticketmonster.co.kr/deal/675562230)
