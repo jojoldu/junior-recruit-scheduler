@@ -102,8 +102,6 @@
   * [게임 프로그래밍](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170282)
   * [불리언게임즈 - 게임 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170286)
 
-* [09.11 11:00 ~ 10.13 15:00] [티몬 신입 공채](http://www.ticketmonster.co.kr/deal/675562230)
-
 * [10.02 ~ 10.15] [우아한형제들(배달의민족) 신입 공채](https://recruit.woowahan.com/#/newtech)
 
 * [10.11 ~ 10.24] [이스트소프트 & 줌인터넷 공채](https://estsoft.recruiter.co.kr/app/jobnotice/list)
