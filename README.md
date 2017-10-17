@@ -33,6 +33,8 @@
 
 * [피해야 할 개발자 일자리의 징후](http://www.itworld.co.kr/news/105216)
 
+* [컴공으로 대기업 취업하기, 인적성 검사 통과 요령 및 면접 필살기](https://medium.com/@xissy/%EC%BB%B4%EA%B3%B5%EC%9C%BC%EB%A1%9C-%EB%8C%80%EA%B8%B0%EC%97%85-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0-cbf42d46e269)
+
 ### 이력서 & 포트폴리오 작성법
 
 * [OKKY "roggy"님의 신입 개발자 이력서 작성 요령](https://okky.kr/article/319687)
