@@ -105,6 +105,8 @@
 
 * [10.01 ~ 10.31] [게임빌 / 컴투스 신입 공채](http://recruit.withhive.com/)
 
+* [10.17 ~ 11.06] [웹젠 공채](https://webzen.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=11862)
+
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
   * [탱고파이브 - 게임 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170217)
