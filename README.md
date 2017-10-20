@@ -112,7 +112,6 @@
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
   * [사내정보 시스템 개발](https://careers.kakao.com/jobs/P-9336?part=TECHNOLOGY&page=1&company=KAKAO)
   * [키워드광고/부동산플랫폼 개발](https://careers.kakao.com/jobs/P-10004?part=TECHNOLOGY&page=4&company=KAKAO)
-  * [다음 카페 서비스 서버 개발](https://careers.kakao.com/jobs/P-10084?part=TECHNOLOGY&page=5&company=KAKAO)
   * [다음 앱 iOS 개발](https://careers.kakao.com/jobs/P-10051?part=TECHNOLOGY&page=5&company=KAKAO)
   * [전사 개발플랫폼 개발 및 운영](https://careers.kakao.com/jobs/P-10126?part=TECHNOLOGY&searchTxt=&page=1)
   * [검색서비스 Server 개발](https://careers.kakao.com/jobs/P-10115?part=TECHNOLOGY&searchTxt=&page=1)
@@ -129,9 +128,7 @@
   * [채용시까지] [VCNC(Between) 채용 리스트](https://www.wanted.co.kr/company/1053)
   * [채용시까지] [야놀자 신입/경력 백엔드 개발자 채용](https://www.jobplanet.co.kr/companies/89637/job_postings/74380/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90/%EC%95%BC%EB%86%80%EC%9E%90)
   * [채용시까지] [아이디인큐 신입 웹개발자 채용](https://www.wanted.co.kr/wd/4830)
-  * [채용시까지] [링커리어 신입/경력 Python 백엔드 개발자 채용](https://www.rocketpunch.com/jobs/31026/%ED%95%9C%EA%B5%AD%EC%9D%98-%EB%A7%81%ED%81%AC%EB%93%9C%EC%9D%B8%EC%9D%84-%EA%BF%88%EA%BE%B8%EB%8A%94-%EB%A7%81%EC%BB%A4%EB%A6%AC%EC%96%B4-PythonDjango-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9)
   * [채용시까지] [NBT(캐시슬라이드) 신입 개발자 채용](http://nbt.com/junior-developer신입개발자/)
-  * [채용시까지] [옴니어스 주니어 서버 개발자 채용](https://www.wanted.co.kr/wd/5521?referer_id=136840)
 
 ### 이외 채용정보 얻는법
 
