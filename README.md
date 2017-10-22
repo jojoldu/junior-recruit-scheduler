@@ -99,8 +99,6 @@
 
 ## 채용 (2017)
 
-* [10.10 ~ 10.22] [파수닷컴 신입 공채](https://recruit.fasoo.com/)
-
 * [10.11 ~ 10.24] [이스트소프트 & 줌인터넷 공채](https://estsoft.recruiter.co.kr/app/jobnotice/list)
 
 * [10.01 ~ 10.31] [게임빌 / 컴투스 신입 공채](http://recruit.withhive.com/)
