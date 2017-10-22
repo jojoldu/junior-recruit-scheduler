@@ -154,9 +154,8 @@
 
 ## 추천 도서
 
-![프로그래밍_면접_이렇게_준비한다](./images/도서_프로그래밍_면접_이렇게_준비한다.png)
-
-- [프로그래밍 면접 이렇게 준비한다 책 요약정리](https://www.slideshare.net/ddayinhwang9/ss-60152650)
+[프로그래밍 면접 이렇게 준비한다.](프로그래밍 면접 이렇게 준비한다)
+- [요약정리](https://www.slideshare.net/ddayinhwang9/ss-60152650)
 
 ## Special Thanks
 
