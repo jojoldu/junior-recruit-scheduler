@@ -37,6 +37,8 @@
 
 ### 이력서 & 포트폴리오 작성법
 
+* [원티드랩에서 이야기하는 통과잘되는 이력서 작성법 (신입/경력 포함)](https://brunch.co.kr/@wantedlab/29)
+
 * [OKKY "roggy"님의 신입 개발자 이력서 작성 요령](https://okky.kr/article/319687)
 
 * [OKKY "load2000"님의 포트폴리오 작성 팁](https://okky.kr/article/368504)
