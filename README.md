@@ -162,6 +162,7 @@
 
 ### 해커톤 일정
 
+- [2017 NAVER CAMPUS HACKDAY winter](http://d2.naver.com/news/2656084)
 
 ## Special Thanks
 
