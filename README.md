@@ -152,6 +152,8 @@
 
 구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했습니다. 
 
+- [2017 NAVER CAMPUS HACKDAY winter](http://d2.naver.com/news/2656084)
+
 ## 추천 도서
 
 [프로그래밍 면접 이렇게 준비한다](http://book.naver.com/bookdb/book_detail.nhn?bid=7443406)
