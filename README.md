@@ -119,8 +119,6 @@
 
 ### 추천 기업
 
-* [10.11 ~ 10.24] [이스트소프트 & 줌인터넷 공채](https://estsoft.recruiter.co.kr/app/jobnotice/list)
-
 * [10.01 ~ 10.31] [게임빌 / 컴투스 신입 공채](http://recruit.withhive.com/)
 
 * [10.24 ~ 11.09 18시] [라인 채용 연계형 동계 인턴 ](https://recruit.linepluscorp.com/lineplus/career/detail/20001222?classId=&entTypeCd=&page=)
