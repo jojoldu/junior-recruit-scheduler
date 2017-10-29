@@ -123,6 +123,8 @@
 
 * [10.24 ~ 11.09 18시] [라인 채용 연계형 동계 인턴 ](https://recruit.linepluscorp.com/lineplus/career/detail/20001222?classId=&entTypeCd=&page=)
 
+* [10.24 ~ 11.05 23시] [이베이 신입 개발자](https://recruit.ebaykorea.com/jobinfo/jobinfo_view.asp?ID=1548)
+
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
   * [탱고파이브 - 게임 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170217)
