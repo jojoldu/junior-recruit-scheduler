@@ -87,6 +87,14 @@
 
 * [이번 기술 면접 중 기억나는 질문과 답변들 (프론트엔드)](https://medium.com/@jimkimau/이번-기술-면접-중-기억나는-질문과-답변들-712daa9a2dc)
 
+### 병역특례 관련 정보
+
+* [위키백과 산업기능요원](https://ko.wikipedia.org/wiki/%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90)
+
+* [병역일터 17년도 재배정 안내](https://work.mma.go.kr/caisBYIS/comm/cbfile/downloadCbfile.do?ilryeon_no=2000093886&cheombu_sn=1)
+
+* [병무청 산업기능요원 매뉴얼](http://www.mma.go.kr/download/ebook/sanup/2017_sanup_manual.pdf)
+
 ### 기타 정보
 
 * [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
@@ -161,6 +169,7 @@
 
 * [잡플래닛 신입 개발자 채용 리스트](https://www.jobplanet.co.kr/job_postings/search?utf8=%E2%9C%93&query=&jp_show_search_result=true&jp_show_search_result_chk=true&occupation_level2_ids%5B%5D=11610&occupation_level2_ids%5B%5D=11604&occupation_level2_ids%5B%5D=11603&industry_level2_ids%5B%5D=709&industry_level2_ids%5B%5D=702&recruitment_type_ids%5B%5D=1&order_by=score&page=1)
 * [원티드 신입 개발자 채용 리스트](https://www.wanted.co.kr/wdlist/518?referer_id=23685&years=0)
+* [로켓펀치 '병역대체' 채용 리스트](https://www.rocketpunch.com/jobs?military_service=1&q=)
 
 ### 채용 연계 프로그래밍 대회 일정
 
@@ -195,3 +204,4 @@
 * [KimHunJin](https://github.com/KimHunJin)
 * [mson0129](https://github.com/mson0129)
 * [Dry8r3aD](https://github.com/Dry8r3aD)
+* [JSpiner](https://github.com/JSpiner)
