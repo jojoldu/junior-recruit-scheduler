@@ -87,14 +87,6 @@
 
 * [이번 기술 면접 중 기억나는 질문과 답변들 (프론트엔드)](https://medium.com/@jimkimau/이번-기술-면접-중-기억나는-질문과-답변들-712daa9a2dc)
 
-### 병역특례 관련 정보
-
-* [위키백과 산업기능요원](https://ko.wikipedia.org/wiki/%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90)
-
-* [병역일터 17년도 재배정 안내](https://work.mma.go.kr/caisBYIS/comm/cbfile/downloadCbfile.do?ilryeon_no=2000093886&cheombu_sn=1)
-
-* [병무청 산업기능요원 매뉴얼](http://www.mma.go.kr/download/ebook/sanup/2017_sanup_manual.pdf)
-
 ### 기타 정보
 
 * [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
@@ -106,6 +98,14 @@
 * [2017 카카오 블라인드 코딩테스트 1차 해설](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
 
 * [Java Interview Question (영문)](https://www.javatpoint.com/corejava-interview-questions)
+
+### 병역특례 관련 정보
+
+* [위키백과 산업기능요원](https://ko.wikipedia.org/wiki/%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90)
+
+* [병역일터 17년도 재배정 안내](https://work.mma.go.kr/caisBYIS/comm/cbfile/downloadCbfile.do?ilryeon_no=2000093886&cheombu_sn=1)
+
+* [병무청 산업기능요원 매뉴얼](http://www.mma.go.kr/download/ebook/sanup/2017_sanup_manual.pdf)
 
 ### 추천 도서
 
