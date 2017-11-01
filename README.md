@@ -127,8 +127,6 @@
 
 ### 추천 기업
 
-* [10.01 ~ 10.31] [게임빌 / 컴투스 신입 공채](http://recruit.withhive.com/)
-
 * [10.24 ~ 11.09 18시] [라인 채용 연계형 동계 인턴 ](https://recruit.linepluscorp.com/lineplus/career/detail/20001222?classId=&entTypeCd=&page=)
 
 * [10.24 ~ 11.05 23시] [이베이 신입 개발자](https://recruit.ebaykorea.com/jobinfo/jobinfo_view.asp?ID=1548)
