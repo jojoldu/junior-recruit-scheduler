@@ -131,6 +131,8 @@
 
 * [10.24 ~ 11.05 23시] [이베이 신입 개발자](https://recruit.ebaykorea.com/jobinfo/jobinfo_view.asp?ID=1548)
 
+* [11.01 ~ 11.15 17시] [스마일게이트 서버개발캠프](https://careers.smilegate.com/ko/recruit/recruitView.asp?idx=2365) 
+
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
   * [탱고파이브 - 게임 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170217)
