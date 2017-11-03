@@ -97,6 +97,8 @@
 
 * [2017 카카오 블라인드 코딩테스트 1차 해설](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
 
+* [2017 카카오 블라인드 코딩테스트 2차 해설](http://tech.kakao.com/2017/10/24/kakao-blind-recruitment-round-2/)
+
 * [Java Interview Question (영문)](https://www.javatpoint.com/corejava-interview-questions)
 
 ### 병역특례 관련 정보
