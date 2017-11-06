@@ -131,8 +131,6 @@
 
 * [10.24 ~ 11.09 18시] [라인 채용 연계형 동계 인턴 ](https://recruit.linepluscorp.com/lineplus/career/detail/20001222?classId=&entTypeCd=&page=)
 
-* [10.24 ~ 11.05 23시] [이베이 신입 개발자](https://recruit.ebaykorea.com/jobinfo/jobinfo_view.asp?ID=1548)
-
 * [11.01 ~ 11.15 17시] [스마일게이트 서버개발캠프](https://careers.smilegate.com/ko/recruit/recruitView.asp?idx=2365) 
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
@@ -154,7 +152,6 @@
 
 ### 추천 스타트업
 
-* [09.01 ~ 10.31] [플리토 주니어 백엔드 개발자 채용](https://www.jobplanet.co.kr/companies/92409/job_postings/103583/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9/%ED%94%8C%EB%A6%AC%ED%86%A0)
 * [채용시까지] [넥스트매치(아만다) 주니어 서버 개발자 채용](https://www.wanted.co.kr/wd/3164?referer_id=23685)
 * [채용시까지] [VCNC(Between) 채용 리스트](https://www.wanted.co.kr/company/1053)
 * [채용시까지] [야놀자 신입/경력 백엔드 개발자 채용](https://www.jobplanet.co.kr/companies/89637/job_postings/74380/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90/%EC%95%BC%EB%86%80%EC%9E%90)
@@ -177,8 +174,6 @@
 ### 채용 연계 프로그래밍 대회 일정
 
 ### 해커톤 일정
-
-- [2017 NAVER CAMPUS HACKDAY winter](http://d2.naver.com/news/2656084)
 
 ## Special Thanks
 
