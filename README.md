@@ -129,8 +129,6 @@
 
 ### 추천 기업
 
-* [10.24 ~ 11.09 18시] [라인 채용 연계형 동계 인턴 ](https://recruit.linepluscorp.com/lineplus/career/detail/20001222?classId=&entTypeCd=&page=)
-
 * [11.01 ~ 11.15 17시] [스마일게이트 서버개발캠프](https://careers.smilegate.com/ko/recruit/recruitView.asp?idx=2365) 
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
