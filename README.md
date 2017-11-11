@@ -116,7 +116,7 @@
 
 ## 채용 (2017)
 
-채용에 올라온 기업들은 모두 **개발자로서 커리어 쌓기가 좋은 회사**를 기준으로 합니다.  
+채용에 올라온 기업들은 모두 **개발자로서 커리어 쌓기가 좋은 회사**의 **신입/주니어** 채용을 기준으로 합니다.  
   
 > 유의미한 트래픽이 발생하고,  
 코드리뷰, 배포 자동화 등이 구축되어 있고,  
@@ -129,9 +129,8 @@
 
 ### 추천 기업
 
-* [11.09 ~ 11.22 09시] [안랩 동계 인턴](https://ahnlab.recruiter.co.kr/app/jobnotice/list)
-
 * [11.01 ~ 11.15 17시] [스마일게이트 서버개발캠프](https://careers.smilegate.com/ko/recruit/recruitView.asp?idx=2365) 
+* [11.09 ~ 11.22 09시] [안랩 동계 인턴](https://ahnlab.recruiter.co.kr/app/jobnotice/list)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
@@ -146,15 +145,16 @@
   * [딥러닝 전문가 신입](https://careers.kakao.com/jobs/P-9884?part=TECHNOLOGY&searchTxt=&page=8)
   * [검색서비스 개발(위와 다름)](https://careers.kakao.com/jobs/P-10256)
   * [컨텐츠 플랫폼 개발](https://careers.kakao.com/jobs/P-10171?part=TECHNOLOGY&searchTxt=%EC%8B%A0%EC%9E%85&page=1&employeeType=)
-
+  * [검색 스팸 연구 및 시스템 개발](https://careers.kakao.com/jobs/P-10082?company=KAKAO&page=1&employeeType=Full%20Time&keyword=%EC%8B%A0%EC%9E%85&part=TECHNOLOGY&skilset=)
+  * [대용량 검색 데이터 수집/연동 개발](https://careers.kakao.com/jobs/P-10329?company=KAKAO&page=1&employeeType=Full%20Time&keyword=%EC%8B%A0%EC%9E%85&part=TECHNOLOGY&skilset=)
 * [채용시까지] [NHN Godo](http://www.godo.co.kr/company/application_list.php)
   * [호스팅 개발(신입)](http://www.godo.co.kr/company/application_view.php?idx=160)
 
 ### 추천 스타트업
 
 * [채용시까지] [8퍼센트 신입 개발자 채용](https://8percent.kr/jobs/?utm_source=facebook&utm_medium=post&utm_campaign=pr&utm_content=recruit&utm_term=171109)
-  * [박문수 이야기](https://brunch.co.kr/@leehosung/12)
-  * [잘가요 친구들](https://brunch.co.kr/@leehosung/22)
+  * [박문수 이야기](https://brunch.co.kr/@leehosung/12)
+  * [잘가요 친구들](https://brunch.co.kr/@leehosung/22)
 * [채용시까지] [넥스트매치(아만다) 주니어 서버 개발자 채용](https://www.wanted.co.kr/wd/3164?referer_id=23685)
 * [채용시까지] [VCNC(Between) 채용 리스트](https://www.wanted.co.kr/company/1053)
 * [채용시까지] [야놀자 신입/경력 백엔드 개발자 채용](https://www.jobplanet.co.kr/companies/89637/job_postings/74380/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90/%EC%95%BC%EB%86%80%EC%9E%90)
