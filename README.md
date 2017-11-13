@@ -117,11 +117,11 @@
 ## 채용 (2017)
 
 채용에 올라온 기업들은 모두 **개발자로서 커리어 쌓기가 좋은 회사**의 **신입/주니어** 채용을 기준으로 합니다.  
-  
+
 > 유의미한 트래픽이 발생하고,  
 코드리뷰, 배포 자동화 등이 구축되어 있고,  
 코드 품질에 관심이 있는 회사를 얘기합니다.
-  
+
 보통 잡플래닛 평점 3.3 미만인 회사들은 PR을 주셔도 추가해드릴 수 없습니다.  
 이 저장소의 목적은 **양질의 취업정보를 한 곳에 모으기 위함**입니다.  
 **모든 회사의 채용 정보를 담으려는 것이 아닙니다**.  
@@ -129,8 +129,9 @@
 
 ### 추천 기업
 
-* [11.01 ~ 11.15 17시] [스마일게이트 서버개발캠프](https://careers.smilegate.com/ko/recruit/recruitView.asp?idx=2365) 
+* [11.01 ~ 11.15 17시] [스마일게이트 서버개발캠프](https://careers.smilegate.com/ko/recruit/recruitView.asp?idx=2365)
 * [11.09 ~ 11.22 09시] [안랩 동계 인턴](https://ahnlab.recruiter.co.kr/app/jobnotice/list)
+* [11.13 ~ 11.18] [NAVER 체험형 인턴십 모집](http://recruit.navercorp.com/naver/job/detail/developer?annoId=20001245&classId=&jobId=&entTypeCd=&searchTxt=)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
