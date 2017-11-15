@@ -129,7 +129,6 @@
 
 ### 추천 기업
 
-* [11.01 ~ 11.15 17시] [스마일게이트 서버개발캠프](https://careers.smilegate.com/ko/recruit/recruitView.asp?idx=2365)
 * [11.09 ~ 11.22 09시] [안랩 동계 인턴](https://ahnlab.recruiter.co.kr/app/jobnotice/list)
 * [11.13 ~ 11.18] [NAVER 체험형 인턴십 모집](http://recruit.navercorp.com/naver/job/detail/developer?annoId=20001245&classId=&jobId=&entTypeCd=&searchTxt=)
 
