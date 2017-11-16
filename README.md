@@ -23,6 +23,8 @@
 
 ### 구직 전반
 
+* [이종립(akka. 기계인간)님의 SI탈출하기 세미나 by OKKY](http://jojoldu.tistory.com/247)
+
 * [이한별님의 구직 이야기](http://lhb0517.tistory.com/entry/reviewofjojoldu)
 
 * [김남윤님의 신입 개발자 취업 도전기](https://www.slideshare.net/ssuser565d51/ss-61448739)
