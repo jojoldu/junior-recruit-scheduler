@@ -132,7 +132,6 @@
 ### 추천 기업
 
 * [11.09 ~ 11.22 09시] [안랩 동계 인턴](https://ahnlab.recruiter.co.kr/app/jobnotice/list)
-* [11.13 ~ 11.18] [NAVER 체험형 인턴십 모집](http://recruit.navercorp.com/naver/job/detail/developer?annoId=20001245&classId=&jobId=&entTypeCd=&searchTxt=)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
