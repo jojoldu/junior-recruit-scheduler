@@ -156,7 +156,6 @@
 * [채용시까지] [8퍼센트 신입 개발자 채용](https://8percent.kr/jobs/?utm_source=facebook&utm_medium=post&utm_campaign=pr&utm_content=recruit&utm_term=171109)
   * [(참고자료) 박문수 이야기](https://brunch.co.kr/@leehosung/12)
   * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
-* [채용시까지] [넥스트매치(아만다) 주니어 서버 개발자 채용](https://www.wanted.co.kr/wd/3164?referer_id=23685)
 * [채용시까지] [VCNC(Between) 채용 리스트](https://www.wanted.co.kr/company/1053)
 * [채용시까지] [야놀자 신입/경력 백엔드 개발자 채용](https://www.jobplanet.co.kr/companies/89637/job_postings/74380/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90/%EC%95%BC%EB%86%80%EC%9E%90)
 * [채용시까지] [아이디인큐 신입 웹개발자 채용](https://www.wanted.co.kr/wd/4830)
