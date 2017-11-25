@@ -175,8 +175,6 @@
 
 ### 채용 연계 프로그래밍 대회 일정
 
-* [11.06 ~ 11.24 21시] [2017 찾아라 프로그래밍 마에스터 (중소/중견기업 채용 연계 프로그래밍 대회)](https://programmers.co.kr/competitions/52/2017-%EC%B0%BE%EC%95%84%EB%9D%BC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%A7%88%EC%97%90%EC%8A%A4%ED%84%B0)
-
 ### 해커톤 일정
 
 ## Special Thanks
