@@ -133,7 +133,10 @@
 
 ### 추천 기업
 
-* [11.20 ~ 12.03] [NTS 동계 인턴](http://recruit.nts-corp.com/recNotice.do?pageAction=getRecCatList)
+* [11.20 ~ 12.10] [NTS 동계 인턴](http://recruit.nts-corp.com/recNotice.do?pageAction=getRecCatList)
+  * [11.20 ~ 12.03] SW개발 부분
+  * [11.27 ~ 12.10] SW테스트 엔지니어
+  * [11.27 ~ 12.10] UI개발 부분
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
