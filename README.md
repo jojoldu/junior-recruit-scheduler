@@ -138,6 +138,8 @@
   * [11.27 ~ 12.10] SW테스트 엔지니어
   * [11.27 ~ 12.10] UI개발 부분
 
+* [12.01 ~ 12.17] [사이냅소프트 공개채용](http://www.synapsoft.co.kr/jsp/recruit/17.html)
+
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
   * [탱고파이브 - 게임 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170217)
