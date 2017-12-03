@@ -134,7 +134,6 @@
 ### 추천 기업
 
 * [11.20 ~ 12.10] [NTS 동계 인턴](http://recruit.nts-corp.com/recNotice.do?pageAction=getRecCatList)
-  * [11.20 ~ 12.03] SW개발 부분
   * [11.27 ~ 12.10] SW테스트 엔지니어
   * [11.27 ~ 12.10] UI개발 부분
 
