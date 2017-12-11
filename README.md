@@ -133,7 +133,7 @@
 
 ### 추천 기업
 
-* [12.01 ~ 12.14] [겨울방학 기간 React 개발 인턴](https://www.rocketpunch.com/jobs/34542/%EA%B2%A8%EC%9A%B8%EB%B0%A9%ED%95%99-%EA%B8%B0%EA%B0%84-%EC%BB%B4%EA%B3%B5%EA%B3%BC-React-%EA%B0%9C%EB%B0%9C-%EC%9D%B8%ED%84%B4-%EC%B1%84%EC%9A%A9)
+* [12.01 ~ 12.14] [겨울방학 기간 React 개발 인턴 - 어라운드어스](https://www.rocketpunch.com/jobs/34542/%EA%B2%A8%EC%9A%B8%EB%B0%A9%ED%95%99-%EA%B8%B0%EA%B0%84-%EC%BB%B4%EA%B3%B5%EA%B3%BC-React-%EA%B0%9C%EB%B0%9C-%EC%9D%B8%ED%84%B4-%EC%B1%84%EC%9A%A9)
 
 * [12.01 ~ 12.17] [사이냅소프트 공개채용](http://www.synapsoft.co.kr/jsp/recruit/17.html)
 
@@ -213,3 +213,4 @@
 * [grohong](https://github.com/grohong)
 * [minsungryu](https://github.com/minsungryu)
 * [Jinsu-L](https://github.com/Jinsu-L)
+* [KimHyeockJin](https://github.com/KimHyeockJin)
