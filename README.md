@@ -137,6 +137,10 @@
 
 * [12.01 ~ 12.17] [사이냅소프트 공개채용](http://www.synapsoft.co.kr/jsp/recruit/17.html)
 
+* [12.13 ~ 미정] [구글코리아 신입/인턴 채용](http://www.bloter.net/archives/297885)
+  * [신입 엔지니어 채용](https://careers.google.com/jobs#!t=jo&jid=/google/software-engineer-university-graduate-seoul-south-korea-3336100371&)
+  * [2018 소프트웨어 엔지니어 인턴 (공지 예정)]()
+
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
   * [탱고파이브 - 게임 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170217)
