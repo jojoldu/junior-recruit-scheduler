@@ -133,6 +133,8 @@
 
 ### 추천 기업
 
+* [12.07 ~ 12.19] [줌인터넷 크롤 플랫폼 신입 개발](http://www.zuminternet.com/recruit/detail?id=42)
+
 * [12.13 ~ 미정] [구글코리아 신입/인턴 채용](http://www.bloter.net/archives/297885)
   * [신입 엔지니어 채용](https://careers.google.com/jobs#!t=jo&jid=/google/software-engineer-university-graduate-seoul-south-korea-3336100371&)
   * [2018 소프트웨어 엔지니어 인턴 (공지 예정)]()
@@ -156,6 +158,7 @@
 
 ### 추천 스타트업
 
+* [채용시까지] [리디북스 데이터 엔지니어 신입/경력](https://jobs.smartrecruiters.com/RIDICorp/743999663041844)
 * [채용시까지] [오마이트립 개발자 채용](http://www.ohmylab.com/recruit.html)
   * [CTO이신 이규원님 페이스북](https://www.facebook.com/gyuwon.yi?fref=ufi&pnref=story)
   * [경력 서버 개발자](http://www.ohmylab.com/recruit.html#server-programmer)
