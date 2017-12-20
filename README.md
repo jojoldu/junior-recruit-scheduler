@@ -133,8 +133,6 @@
 
 ### 추천 기업
 
-* [12.07 ~ 12.19] [줌인터넷 크롤 플랫폼 신입 개발](http://www.zuminternet.com/recruit/detail?id=42)
-
 * [12.13 ~ 미정] [구글코리아 신입/인턴 채용](http://www.bloter.net/archives/297885)
   * [신입 엔지니어 채용](https://careers.google.com/jobs#!t=jo&jid=/google/software-engineer-university-graduate-seoul-south-korea-3336100371&)
   * [2018 소프트웨어 엔지니어 인턴 (공지 예정)]()
