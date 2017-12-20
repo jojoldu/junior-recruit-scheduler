@@ -156,7 +156,6 @@
 
 ### 추천 스타트업
 
-* [채용시까지] [리디북스 데이터 엔지니어 신입/경력](https://jobs.smartrecruiters.com/RIDICorp/743999663041844)
 * [채용시까지] [오마이트립 개발자 채용](http://www.ohmylab.com/recruit.html)
   * [CTO이신 이규원님 페이스북](https://www.facebook.com/gyuwon.yi?fref=ufi&pnref=story)
   * [경력 서버 개발자](http://www.ohmylab.com/recruit.html#server-programmer)
