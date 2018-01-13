@@ -118,7 +118,7 @@
 * [프로그래밍 면접 이렇게 준비한다](http://book.naver.com/bookdb/book_detail.nhn?bid=7443406)
   * [요약정리](https://www.slideshare.net/ddayinhwang9/ss-60152650)
 
-## 채용 (2017)
+## 채용 (2018)
 
 채용에 올라온 기업들은 모두 **개발자로서 커리어 쌓기가 좋은 회사**의 **신입/주니어** 채용을 기준으로 합니다.  
 
@@ -132,10 +132,6 @@
 잡플래닛 평점은 낮지만 정말 추천하고 싶은 회사가 있다면 그 사유를 같이 PR에 남겨주세요.
 
 ### 추천 기업
-
-* [12.13 ~ 미정] [구글코리아 신입/인턴 채용](http://www.bloter.net/archives/297885)
-  * [신입 엔지니어 채용](https://careers.google.com/jobs#!t=jo&jid=/google/software-engineer-university-graduate-seoul-south-korea-3336100371&)
-  * [2018 소프트웨어 엔지니어 인턴 (공지 예정)]()
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
