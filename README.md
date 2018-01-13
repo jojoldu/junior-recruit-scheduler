@@ -154,11 +154,6 @@
 
 ### 추천 스타트업
 
-* [채용시까지] [오마이트립 개발자 채용](http://www.ohmylab.com/recruit.html)
-  * [CTO이신 이규원님 페이스북](https://www.facebook.com/gyuwon.yi?fref=ufi&pnref=story)
-  * [경력 서버 개발자](http://www.ohmylab.com/recruit.html#server-programmer)
-  * [신입/경력 프론트엔드 개발자](http://www.ohmylab.com/recruit.html#front-end-programmer)
-  
 * [채용시까지] [8퍼센트 신입 개발자 채용](https://8percent.kr/jobs/?utm_source=facebook&utm_medium=post&utm_campaign=pr&utm_content=recruit&utm_term=171109)
   * [(참고자료) 박문수 이야기](https://brunch.co.kr/@leehosung/12)
   * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
