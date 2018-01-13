@@ -145,8 +145,6 @@
   * [검색서비스 개발(위와 다름)](https://careers.kakao.com/jobs/P-10256)
   * [컨텐츠 플랫폼 개발](https://careers.kakao.com/jobs/P-10171?part=TECHNOLOGY&searchTxt=%EC%8B%A0%EC%9E%85&page=1&employeeType=)
   * [검색 스팸 연구 및 시스템 개발](https://careers.kakao.com/jobs/P-10082?company=KAKAO&page=1&employeeType=Full%20Time&keyword=%EC%8B%A0%EC%9E%85&part=TECHNOLOGY&skilset=)
-* [채용시까지] [NHN Godo](http://www.godo.co.kr/company/application_list.php)
-  * [호스팅 개발(신입)](http://www.godo.co.kr/company/application_view.php?idx=160)
 
 ### 추천 스타트업
 
