@@ -133,7 +133,7 @@
 
 ### 추천 기업
 
-- [11.20 ~ 12.03][NEXON 상반기 인턴](https://career.nexon.com/user/recruit/notice/noticeList?joinCorp=NX)
+- [11.15 ~ 11.25 17:00][NEXON 상반기 인턴](https://career.nexon.com/user/recruit/notice/noticeList?joinCorp=NX)
 
 * [채용시까지][넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
