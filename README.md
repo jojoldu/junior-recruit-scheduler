@@ -133,7 +133,6 @@
 
 ### 추천 기업
 
-- [01.15 ~ 01.25 17:00][NEXON 상반기 인턴](https://career.nexon.com/user/recruit/notice/noticeList?joinCorp=NX)
 - [01.17 ~ 채용시까지][큐브리드(오픈소스 DBMS) 신입 개발자 채용](http://www.cubrid.com/recruit/3815218)
 
 * [채용시까지][넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
