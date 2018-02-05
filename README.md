@@ -23,6 +23,8 @@
 
 ### 구직 전반
 
+* [이종립(akka. 기계인간)님의 SI탈출하기 세미나 by OKKY](http://jojoldu.tistory.com/247)
+
 * [이한별님의 구직 이야기](http://lhb0517.tistory.com/entry/reviewofjojoldu)
 
 * [김남윤님의 신입 개발자 취업 도전기](https://www.slideshare.net/ssuser565d51/ss-61448739)
@@ -79,7 +81,7 @@
 
 * [애플 면접에서 듣게 되는 33가지 질문(기사)](http://www.bloter.net/archives/244910)
 
-* [초보팀장의 일기 - 면접을 볼 때마다 하는 질문들](http://blog.java2game.com/401)
+* [초보팀장의 일기 - 면접을 볼 때마다 하는 질문들](https://web.archive.org/web/20170420162138/http://blog.java2game.com/401)
 
 * [Awesome Interview Questions - GitHub](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
@@ -99,6 +101,8 @@
 
 * [2017 카카오 블라인드 코딩테스트 2차 해설](http://tech.kakao.com/2017/10/24/kakao-blind-recruitment-round-2/)
 
+* [2017 카카오 블라인드 코딩테스트 3차 해설](http://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/)
+
 * [Java Interview Question (영문)](https://www.javatpoint.com/corejava-interview-questions)
 
 ### 병역특례 관련 정보
@@ -114,14 +118,14 @@
 * [프로그래밍 면접 이렇게 준비한다](http://book.naver.com/bookdb/book_detail.nhn?bid=7443406)
   * [요약정리](https://www.slideshare.net/ddayinhwang9/ss-60152650)
 
-## 채용 (2017)
+## 채용 (2018)
 
-채용에 올라온 기업들은 모두 **개발자로서 커리어 쌓기가 좋은 회사**를 기준으로 합니다.  
-  
+채용에 올라온 기업들은 모두 **개발자로서 커리어 쌓기가 좋은 회사**의 **신입/주니어** 채용을 기준으로 합니다.  
+
 > 유의미한 트래픽이 발생하고,  
-코드리뷰, 배포 자동화 등이 구축되어 있고,  
-코드 품질에 관심이 있는 회사를 얘기합니다.
-  
+> 코드리뷰, 배포 자동화 등이 구축되어 있고,  
+> 코드 품질에 관심이 있는 회사를 얘기합니다.
+
 보통 잡플래닛 평점 3.3 미만인 회사들은 PR을 주셔도 추가해드릴 수 없습니다.  
 이 저장소의 목적은 **양질의 취업정보를 한 곳에 모으기 위함**입니다.  
 **모든 회사의 채용 정보를 담으려는 것이 아닙니다**.  
@@ -129,35 +133,31 @@
 
 ### 추천 기업
 
-* [10.24 ~ 11.09 18시] [라인 채용 연계형 동계 인턴 ](https://recruit.linepluscorp.com/lineplus/career/detail/20001222?classId=&entTypeCd=&page=)
+- [01.17 ~ 채용시까지][큐브리드(오픈소스 DBMS) 신입 개발자 채용](http://www.cubrid.com/recruit/3815218)
 
-* [11.01 ~ 11.15 17시] [스마일게이트 서버개발캠프](https://careers.smilegate.com/ko/recruit/recruitView.asp?idx=2365) 
-
-* [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
+* [채용시까지][넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
-  * [탱고파이브 - 게임 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170217)
 
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
   * [사내정보 시스템 개발](https://careers.kakao.com/jobs/P-9336?part=TECHNOLOGY&page=1&company=KAKAO)
-  * [키워드광고/부동산플랫폼 개발](https://careers.kakao.com/jobs/P-10004?part=TECHNOLOGY&page=4&company=KAKAO)
   * [다음 앱 iOS 개발](https://careers.kakao.com/jobs/P-10051?part=TECHNOLOGY&page=5&company=KAKAO)
   * [전사 개발플랫폼 개발 및 운영](https://careers.kakao.com/jobs/P-10126?part=TECHNOLOGY&searchTxt=&page=1)
   * [검색서비스 Server 개발](https://careers.kakao.com/jobs/P-10115?part=TECHNOLOGY&searchTxt=&page=1)
   * [딥러닝 전문가 신입](https://careers.kakao.com/jobs/P-9884?part=TECHNOLOGY&searchTxt=&page=8)
   * [검색서비스 개발(위와 다름)](https://careers.kakao.com/jobs/P-10256)
   * [컨텐츠 플랫폼 개발](https://careers.kakao.com/jobs/P-10171?part=TECHNOLOGY&searchTxt=%EC%8B%A0%EC%9E%85&page=1&employeeType=)
-
-* [채용시까지] [NHN Godo](http://www.godo.co.kr/company/application_list.php)
-  * [호스팅 개발(신입)](http://www.godo.co.kr/company/application_view.php?idx=160)
+  * [검색 스팸 연구 및 시스템 개발](https://careers.kakao.com/jobs/P-10082?company=KAKAO&page=1&employeeType=Full%20Time&keyword=%EC%8B%A0%EC%9E%85&part=TECHNOLOGY&skilset=)
 
 ### 추천 스타트업
 
-* [채용시까지] [넥스트매치(아만다) 주니어 서버 개발자 채용](https://www.wanted.co.kr/wd/3164?referer_id=23685)
+* [채용시까지] [8퍼센트 신입 개발자 채용](https://8percent.kr/jobs/?utm_source=facebook&utm_medium=post&utm_campaign=pr&utm_content=recruit&utm_term=171109)
+  * [(참고자료) 박문수 이야기](https://brunch.co.kr/@leehosung/12)
+  * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
+  * [(참고자료) 냉정과 열정사이](https://brunch.co.kr/@leehosung/34)
+  * [(참고자료) 두숟갈 스터디를 마치며](https://brunch.co.kr/@leehosung/42)
 * [채용시까지] [VCNC(Between) 채용 리스트](https://www.wanted.co.kr/company/1053)
 * [채용시까지] [야놀자 신입/경력 백엔드 개발자 채용](https://www.jobplanet.co.kr/companies/89637/job_postings/74380/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90/%EC%95%BC%EB%86%80%EC%9E%90)
-* [채용시까지] [아이디인큐 신입 웹개발자 채용](https://www.wanted.co.kr/wd/4830)
 * [채용시까지] [NBT(캐시슬라이드) 신입 개발자 채용](http://nbt.com/junior-developer신입개발자/)
-* [채용시까지] [옴니어스 신입 백엔드 개발자 채용](https://www.wanted.co.kr/wd/5204)
 
 ### 이외 채용정보 얻는법
 
@@ -170,6 +170,11 @@
 * [잡플래닛 신입 개발자 채용 리스트](https://www.jobplanet.co.kr/job_postings/search?utf8=%E2%9C%93&query=&jp_show_search_result=true&jp_show_search_result_chk=true&occupation_level2_ids%5B%5D=11610&occupation_level2_ids%5B%5D=11604&occupation_level2_ids%5B%5D=11603&industry_level2_ids%5B%5D=709&industry_level2_ids%5B%5D=702&recruitment_type_ids%5B%5D=1&order_by=score&page=1)
 * [원티드 신입 개발자 채용 리스트](https://www.wanted.co.kr/wdlist/518?referer_id=23685&years=0)
 * [로켓펀치 '병역대체' 채용 리스트](https://www.rocketpunch.com/jobs?military_service=1&q=)
+
+### 채용 행사
+
+* [원티드 리쿠르팅 카니발](https://www.wanted.co.kr/events/carnival02?utm_source=https://github.com/jojoldu/junior-recruit-scheduler&utm_medium=pr_contents&utm_campaign=event&utm_content=recruitingcarnival&utm_term=recruitingcarnival_20180118)
+  * [2017 원티드 리쿠르팅 카니발 후기](https://blog.naver.com/wantedlab/221119141282)
 
 ### 채용 연계 프로그래밍 대회 일정
 
@@ -203,3 +208,12 @@
 * [mson0129](https://github.com/mson0129)
 * [Dry8r3aD](https://github.com/Dry8r3aD)
 * [JSpiner](https://github.com/JSpiner)
+* [urbanscenery](https://github.com/urbanscenery)
+* [grohong](https://github.com/grohong)
+* [minsungryu](https://github.com/minsungryu)
+* [Jinsu-L](https://github.com/Jinsu-L)
+* [KimHyeockJin](https://github.com/KimHyeockJin)
+* [Lenir](https://github.com/Lenir)
+* [giraffeb](https://github.com/giraffeb)
+* [isseebx123](https://github.com/isseebx123)
+* [NEONKID](https://github.com/NEONKID)
