@@ -174,9 +174,6 @@
 
 ### 채용 행사
 
-* [원티드 리쿠르팅 카니발](https://www.wanted.co.kr/events/carnival02?utm_source=https://github.com/jojoldu/junior-recruit-scheduler&utm_medium=pr_contents&utm_campaign=event&utm_content=recruitingcarnival&utm_term=recruitingcarnival_20180118)
-  * [2017 원티드 리쿠르팅 카니발 후기](https://blog.naver.com/wantedlab/221119141282)
-
 ### 채용 연계 프로그래밍 대회 일정
 
 ### 해커톤 일정
