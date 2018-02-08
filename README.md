@@ -23,6 +23,8 @@
 
 ### 구직 전반
 
+* [진유림님의 이직 이야기](https://milooy.wordpress.com/2018/02/07/moving-job/)
+
 * [이종립(akka. 기계인간)님의 SI탈출하기 세미나 by OKKY](http://jojoldu.tistory.com/247)
 
 * [이한별님의 구직 이야기](http://lhb0517.tistory.com/entry/reviewofjojoldu)
