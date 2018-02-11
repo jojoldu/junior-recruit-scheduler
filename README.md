@@ -23,6 +23,8 @@
 
 ### 구직 전반
 
+* [김은향님의 신입 개발자 이야기](https://www.slideshare.net/EunhyangKim2/ss-87782520)
+
 * [진유림님의 이직 이야기](https://milooy.wordpress.com/2018/02/07/moving-job/)
 
 * [이종립(akka. 기계인간)님의 SI탈출하기 세미나 by OKKY](http://jojoldu.tistory.com/247)
