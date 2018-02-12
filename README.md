@@ -23,6 +23,10 @@
 
 ### 구직 전반
 
+* [김은향님의 신입 개발자 이야기](https://www.slideshare.net/EunhyangKim2/ss-87782520)
+
+* [진유림님의 이직 이야기](https://milooy.wordpress.com/2018/02/07/moving-job/)
+
 * [이종립(akka. 기계인간)님의 SI탈출하기 세미나 by OKKY](http://jojoldu.tistory.com/247)
 
 * [이한별님의 구직 이야기](http://lhb0517.tistory.com/entry/reviewofjojoldu)
@@ -173,9 +177,6 @@
 * [로켓펀치 '병역대체' 채용 리스트](https://www.rocketpunch.com/jobs?military_service=1&q=)
 
 ### 채용 행사
-
-* [원티드 리쿠르팅 카니발](https://www.wanted.co.kr/events/carnival02?utm_source=https://github.com/jojoldu/junior-recruit-scheduler&utm_medium=pr_contents&utm_campaign=event&utm_content=recruitingcarnival&utm_term=recruitingcarnival_20180118)
-  * [2017 원티드 리쿠르팅 카니발 후기](https://blog.naver.com/wantedlab/221119141282)
 
 ### 채용 연계 프로그래밍 대회 일정
 
