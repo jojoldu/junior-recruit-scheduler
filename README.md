@@ -23,6 +23,8 @@
 
 ### 구직 전반
 
+* [유용우님의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382)
+
 * [김은향님의 신입 개발자 이야기](https://www.slideshare.net/EunhyangKim2/ss-87782520)
 
 * [진유림님의 이직 이야기](https://milooy.wordpress.com/2018/02/07/moving-job/)
