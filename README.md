@@ -142,6 +142,7 @@
 - [03.02 ~ 03.19][라인플러스 개발 신입 공채](https://www.facebook.com/linecareers/photos/a.1685076581715369.1073741828.1685072095049151/2131442770412079/?type=3&theater)
 - [01.17 ~ 채용시까지][큐브리드(오픈소스 DBMS) 신입 개발자 채용](http://www.cubrid.com/recruit/3815218)
 - [02.01 ~ 채용시까지][LINE PLUS | App. Prototype 개발 인턴 채용](https://recruit.linepluscorp.com/lineplus/career/detail/20001423?classId=&entTypeCd=&page=)
+- [03.02 ~ 03.19][LINE PLUS | 신입사원 공개채용(SW개발, 디자인, 기획, 사업/마케팅, 경영지원)](https://www.facebook.com/linecareers/photos/pb.1685072095049151.-2207520000.1519805195./2131442770412079/?type=3&theater)
 
 * [채용시까지][넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
