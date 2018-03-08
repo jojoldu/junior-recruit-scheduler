@@ -140,11 +140,14 @@
 
 ### 추천 기업
 
-- [03.02 ~ 03.19][라인플러스 개발 신입 공채](https://recruit.linepluscorp.com/lineplus/career/detail/20001509?classId=&entTypeCd=&page=)
-- [01.17 ~ 채용시까지][큐브리드(오픈소스 DBMS) 신입 개발자 채용](http://www.cubrid.com/recruit/3815218)
-- [02.01 ~ 채용시까지][LINE PLUS | App. Prototype 개발 인턴 채용](https://recruit.linepluscorp.com/lineplus/career/detail/20001423?classId=&entTypeCd=&page=)
+- [03.02 ~ 03.19] [라인플러스 개발 신입 공채](https://recruit.linepluscorp.com/lineplus/career/detail/20001509?classId=&entTypeCd=&page=)
+- [03.07 ~ 03.23] [비사이드 소프트 신입 개발 공채](http://www.bsidesoft.com/?p=6086)
+  * [2016 공채후기 1](https://www.facebook.com/notes/hika-maeng/16%EB%85%84%EB%8F%84-%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90-%EA%B3%B5%EC%B1%84%EB%8B%B4-1-2/1047729105294588/)
+  * [2016 공채후기 2](https://www.facebook.com/notes/hika-maeng/16%EB%85%84%EB%8F%84-%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90-%EA%B3%B5%EC%B1%84%EB%8B%B4-2-2/1048174391916726/)
+- [01.17 ~ 채용시까지] [큐브리드(오픈소스 DBMS) 신입 개발자 채용](http://www.cubrid.com/recruit/3815218)
+- [02.01 ~ 채용시까지] [LINE PLUS | App. Prototype 개발 인턴 채용](https://recruit.linepluscorp.com/lineplus/career/detail/20001423?classId=&entTypeCd=&page=)
 
-* [채용시까지][넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
+* [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
 
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
