@@ -23,6 +23,12 @@
 
 ### 구직 전반
 
+* [남궁성의 코드초보스터디 카페 모음](http://cafe.naver.com/javachobostudy)
+  * [신입취업조언 1탄 : 포트폴리오편 - 천진님](http://cafe.naver.com/javachobostudy/119166)
+  * [이력서 작성과 면접 이야기 - 천진님](http://cafe.naver.com/javachobostudy/125568)
+  * [학원출신 취업, 면접 그리고 미래.. - 비달사슴님](http://cafe.naver.com/javachobostudy/117693)
+  * [신입 연봉의 현실(SI) - es현님](http://cafe.naver.com/javachobostudy/143200)
+
 * [유용우님의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382)
 
 * [김은향님의 신입 개발자 이야기](https://www.slideshare.net/EunhyangKim2/ss-87782520)
@@ -140,7 +146,7 @@
 
 ### 추천 기업
 
-- [03.02 ~ 03.19][라인플러스 개발 신입 공채](https://recruit.linepluscorp.com/lineplus/career/detail/20001509?classId=&entTypeCd=&page=)
+- [03.02 ~ 03.19] [라인플러스 개발 신입 공채](https://recruit.linepluscorp.com/lineplus/career/detail/20001509?classId=&entTypeCd=&page=)
 - [03.07 ~ 03.23] [비사이드 소프트 신입 개발 공채](http://www.bsidesoft.com/?p=6086)
   * [2016 공채후기 1](https://www.facebook.com/notes/hika-maeng/16%EB%85%84%EB%8F%84-%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90-%EA%B3%B5%EC%B1%84%EB%8B%B4-1-2/1047729105294588/)
   * [2016 공채후기 2](https://www.facebook.com/notes/hika-maeng/16%EB%85%84%EB%8F%84-%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90-%EA%B3%B5%EC%B1%84%EB%8B%B4-2-2/1048174391916726/)
@@ -189,7 +195,7 @@
 
 ### 해커톤 일정
 
-- [03.09~03.25][NAVER AI Hackathon 2018](http://d2.naver.com/news/8195394)
+- [03.09~03.25] [NAVER AI Hackathon 2018](http://d2.naver.com/news/8195394)
 
 ## Special Thanks
 
