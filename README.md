@@ -15,6 +15,69 @@
 * Star : 제작자에게 버프를, 하신분께는 즐겨찾기 등록이 되는 기능
 * Fork : 개인 저장소로 복제, 하지만 저장소 업데이트 반영을 수동으로 해야하므로 정보만 받으려면 불필요 (대신 풀리퀘스트를 보내야할 경우 Fork하여 브랜치 생성 -> 커밋&푸시 -> 풀리퀘스트가 가능함)
 
+## 채용 (2018)
+
+채용에 올라온 기업들은 모두 **개발자로서 커리어 쌓기가 좋은 회사**의 **신입/주니어** 채용을 기준으로 합니다.  
+
+> 유의미한 트래픽이 발생하고,  
+> 코드리뷰, 배포 자동화 등이 구축되어 있고,  
+> 코드 품질에 관심이 있는 회사를 얘기합니다.
+
+보통 잡플래닛 평점 3.3 미만인 회사들은 PR을 주셔도 추가해드릴 수 없습니다.  
+이 저장소의 목적은 **양질의 취업정보를 한 곳에 모으기 위함**입니다.  
+**모든 회사의 채용 정보를 담으려는 것이 아닙니다**.  
+잡플래닛 평점은 낮지만 정말 추천하고 싶은 회사가 있다면 그 사유를 같이 PR에 남겨주세요.
+
+### 추천 기업
+
+* [03.02 ~ 03.31] [라인플러스 투자 시스템 개발 인턴](https://recruit.linepluscorp.com/lineplus/career/detail/20001559?classId=&entTypeCd=&page=)
+* [01.17 ~ 채용시까지] [큐브리드(오픈소스 DBMS) 신입 개발자 채용](http://www.cubrid.com/recruit/3815218)
+* [02.01 ~ 채용시까지] [LINE PLUS | App. Prototype 개발 인턴 채용](https://recruit.linepluscorp.com/lineplus/career/detail/20001423?classId=&entTypeCd=&page=)
+
+* [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
+  * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
+
+* [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
+  * [사내정보 시스템 개발](https://careers.kakao.com/jobs/P-9336?part=TECHNOLOGY&page=1&company=KAKAO)
+  * [다음 앱 iOS 개발](https://careers.kakao.com/jobs/P-10051?part=TECHNOLOGY&page=5&company=KAKAO)
+  * [전사 개발플랫폼 개발 및 운영](https://careers.kakao.com/jobs/P-10126?part=TECHNOLOGY&searchTxt=&page=1)
+  * [검색서비스 Server 개발](https://careers.kakao.com/jobs/P-10115?part=TECHNOLOGY&searchTxt=&page=1)
+  * [딥러닝 전문가 신입](https://careers.kakao.com/jobs/P-9884?part=TECHNOLOGY&searchTxt=&page=8)
+  * [검색서비스 개발(위와 다름)](https://careers.kakao.com/jobs/P-10256)
+  * [컨텐츠 플랫폼 개발](https://careers.kakao.com/jobs/P-10171?part=TECHNOLOGY&searchTxt=%EC%8B%A0%EC%9E%85&page=1&employeeType=)
+  * [검색 스팸 연구 및 시스템 개발](https://careers.kakao.com/jobs/P-10082?company=KAKAO&page=1&employeeType=Full%20Time&keyword=%EC%8B%A0%EC%9E%85&part=TECHNOLOGY&skilset=)
+
+### 추천 스타트업
+
+* [채용시까지] [8퍼센트 신입 개발자 채용](https://8percent.kr/jobs/?utm_source=facebook&utm_medium=post&utm_campaign=pr&utm_content=recruit&utm_term=171109)
+  * [(참고자료) 박문수 이야기](https://brunch.co.kr/@leehosung/12)
+  * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
+  * [(참고자료) 냉정과 열정사이](https://brunch.co.kr/@leehosung/34)
+  * [(참고자료) 두숟갈 스터디를 마치며](https://brunch.co.kr/@leehosung/42)
+* [채용시까지] [VCNC(Between) 채용 리스트](https://www.wanted.co.kr/company/1053)
+* [채용시까지] [야놀자 신입/경력 백엔드 개발자 채용](https://www.jobplanet.co.kr/companies/89637/job_postings/74380/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90/%EC%95%BC%EB%86%80%EC%9E%90)
+* [채용시까지] [NBT(캐시슬라이드) 신입 개발자 채용](http://nbt.com/junior-developer신입개발자/)
+
+### 이외 채용정보 얻는법
+
+**잡코리아, 사람인 채용 정보는 개인적으로는 추천하지 않습니다**.  
+추가로 채용 정보에 복사 & 붙여넣기한듯한 양식이나 글이 있다면 거르셔도 됩니다.  
+그만큼 **채용에 관심이 없는 회사라면 개발자에 대한 인식도 부족**하다고 보셔야 합니다.  
+아래는 제가 정기적으로 방문하는 잡플래닛/원티드 검색 조건입니다.  
+참고하시면 좋을것 같습니다
+
+* [잡플래닛 신입 개발자 채용 리스트](https://www.jobplanet.co.kr/job_postings/search?utf8=%E2%9C%93&query=&jp_show_search_result=true&jp_show_search_result_chk=true&occupation_level2_ids%5B%5D=11610&occupation_level2_ids%5B%5D=11604&occupation_level2_ids%5B%5D=11603&industry_level2_ids%5B%5D=709&industry_level2_ids%5B%5D=702&recruitment_type_ids%5B%5D=1&order_by=score&page=1)
+* [원티드 신입 개발자 채용 리스트](https://www.wanted.co.kr/wdlist/518?referer_id=23685&years=0)
+* [로켓펀치 '병역대체' 채용 리스트](https://www.rocketpunch.com/jobs?military_service=1&q=)
+
+### 채용 행사
+
+### 채용 연계 프로그래밍 대회 일정
+
+### 해커톤 일정
+
+* [03.09~03.25] [NAVER AI Hackathon 2018](http://d2.naver.com/news/8195394)
+
 ## 신입 개발자 구직 팁
 
 **구직 팁 외에 다른 팁은 담지 않으려고** 합니다.  
@@ -118,85 +181,10 @@
 
 * [Java Interview Question (영문)](https://www.javatpoint.com/corejava-interview-questions)
 
-### 병역특례 관련 정보
-
-* [위키백과 산업기능요원](https://ko.wikipedia.org/wiki/%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90)
-
-* [병역일터 17년도 재배정 안내](https://work.mma.go.kr/caisBYIS/comm/cbfile/downloadCbfile.do?ilryeon_no=2000093886&cheombu_sn=1)
-
-* [병무청 산업기능요원 매뉴얼](http://www.mma.go.kr/download/ebook/sanup/2017_sanup_manual.pdf)
-
 ### 추천 도서
 
 * [프로그래밍 면접 이렇게 준비한다](http://book.naver.com/bookdb/book_detail.nhn?bid=7443406)
   * [요약정리](https://www.slideshare.net/ddayinhwang9/ss-60152650)
-
-## 채용 (2018)
-
-채용에 올라온 기업들은 모두 **개발자로서 커리어 쌓기가 좋은 회사**의 **신입/주니어** 채용을 기준으로 합니다.  
-
-> 유의미한 트래픽이 발생하고,  
-> 코드리뷰, 배포 자동화 등이 구축되어 있고,  
-> 코드 품질에 관심이 있는 회사를 얘기합니다.
-
-보통 잡플래닛 평점 3.3 미만인 회사들은 PR을 주셔도 추가해드릴 수 없습니다.  
-이 저장소의 목적은 **양질의 취업정보를 한 곳에 모으기 위함**입니다.  
-**모든 회사의 채용 정보를 담으려는 것이 아닙니다**.  
-잡플래닛 평점은 낮지만 정말 추천하고 싶은 회사가 있다면 그 사유를 같이 PR에 남겨주세요.
-
-### 추천 기업
-
-- [03.02 ~ 03.19] [라인플러스 개발 신입 공채](https://recruit.linepluscorp.com/lineplus/career/detail/20001509?classId=&entTypeCd=&page=)
-- [03.07 ~ 03.23] [비사이드 소프트 신입 개발 공채](http://www.bsidesoft.com/?p=6086)
-  * [2016 공채후기 1](https://www.facebook.com/notes/hika-maeng/16%EB%85%84%EB%8F%84-%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90-%EA%B3%B5%EC%B1%84%EB%8B%B4-1-2/1047729105294588/)
-  * [2016 공채후기 2](https://www.facebook.com/notes/hika-maeng/16%EB%85%84%EB%8F%84-%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90-%EA%B3%B5%EC%B1%84%EB%8B%B4-2-2/1048174391916726/)
-- [03.02 ~ 03.31] [라인플러스 투자 시스템 개발 인턴](https://recruit.linepluscorp.com/lineplus/career/detail/20001559?classId=&entTypeCd=&page=)
-- [01.17 ~ 채용시까지] [큐브리드(오픈소스 DBMS) 신입 개발자 채용](http://www.cubrid.com/recruit/3815218)
-- [02.01 ~ 채용시까지] [LINE PLUS | App. Prototype 개발 인턴 채용](https://recruit.linepluscorp.com/lineplus/career/detail/20001423?classId=&entTypeCd=&page=)
-
-* [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
-  * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
-
-* [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
-  * [사내정보 시스템 개발](https://careers.kakao.com/jobs/P-9336?part=TECHNOLOGY&page=1&company=KAKAO)
-  * [다음 앱 iOS 개발](https://careers.kakao.com/jobs/P-10051?part=TECHNOLOGY&page=5&company=KAKAO)
-  * [전사 개발플랫폼 개발 및 운영](https://careers.kakao.com/jobs/P-10126?part=TECHNOLOGY&searchTxt=&page=1)
-  * [검색서비스 Server 개발](https://careers.kakao.com/jobs/P-10115?part=TECHNOLOGY&searchTxt=&page=1)
-  * [딥러닝 전문가 신입](https://careers.kakao.com/jobs/P-9884?part=TECHNOLOGY&searchTxt=&page=8)
-  * [검색서비스 개발(위와 다름)](https://careers.kakao.com/jobs/P-10256)
-  * [컨텐츠 플랫폼 개발](https://careers.kakao.com/jobs/P-10171?part=TECHNOLOGY&searchTxt=%EC%8B%A0%EC%9E%85&page=1&employeeType=)
-  * [검색 스팸 연구 및 시스템 개발](https://careers.kakao.com/jobs/P-10082?company=KAKAO&page=1&employeeType=Full%20Time&keyword=%EC%8B%A0%EC%9E%85&part=TECHNOLOGY&skilset=)
-
-### 추천 스타트업
-
-* [채용시까지] [8퍼센트 신입 개발자 채용](https://8percent.kr/jobs/?utm_source=facebook&utm_medium=post&utm_campaign=pr&utm_content=recruit&utm_term=171109)
-  * [(참고자료) 박문수 이야기](https://brunch.co.kr/@leehosung/12)
-  * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
-  * [(참고자료) 냉정과 열정사이](https://brunch.co.kr/@leehosung/34)
-  * [(참고자료) 두숟갈 스터디를 마치며](https://brunch.co.kr/@leehosung/42)
-* [채용시까지] [VCNC(Between) 채용 리스트](https://www.wanted.co.kr/company/1053)
-* [채용시까지] [야놀자 신입/경력 백엔드 개발자 채용](https://www.jobplanet.co.kr/companies/89637/job_postings/74380/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90/%EC%95%BC%EB%86%80%EC%9E%90)
-* [채용시까지] [NBT(캐시슬라이드) 신입 개발자 채용](http://nbt.com/junior-developer신입개발자/)
-
-### 이외 채용정보 얻는법
-
-**잡코리아, 사람인 채용 정보는 개인적으로는 추천하지 않습니다**.  
-추가로 채용 정보에 복사 & 붙여넣기한듯한 양식이나 글이 있다면 거르셔도 됩니다.  
-그만큼 **채용에 관심이 없는 회사라면 개발자에 대한 인식도 부족**하다고 보셔야 합니다.  
-아래는 제가 정기적으로 방문하는 잡플래닛/원티드 검색 조건입니다.  
-참고하시면 좋을것 같습니다
-
-* [잡플래닛 신입 개발자 채용 리스트](https://www.jobplanet.co.kr/job_postings/search?utf8=%E2%9C%93&query=&jp_show_search_result=true&jp_show_search_result_chk=true&occupation_level2_ids%5B%5D=11610&occupation_level2_ids%5B%5D=11604&occupation_level2_ids%5B%5D=11603&industry_level2_ids%5B%5D=709&industry_level2_ids%5B%5D=702&recruitment_type_ids%5B%5D=1&order_by=score&page=1)
-* [원티드 신입 개발자 채용 리스트](https://www.wanted.co.kr/wdlist/518?referer_id=23685&years=0)
-* [로켓펀치 '병역대체' 채용 리스트](https://www.rocketpunch.com/jobs?military_service=1&q=)
-
-### 채용 행사
-
-### 채용 연계 프로그래밍 대회 일정
-
-### 해커톤 일정
-
-- [03.09~03.25] [NAVER AI Hackathon 2018](http://d2.naver.com/news/8195394)
 
 ## Special Thanks
 
