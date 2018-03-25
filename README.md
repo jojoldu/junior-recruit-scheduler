@@ -162,6 +162,8 @@
 
 * [이번 기술 면접 중 기억나는 질문과 답변들 (프론트엔드)](https://medium.com/@jimkimau/이번-기술-면접-중-기억나는-질문과-답변들-712daa9a2dc)
 
+* [StiKuan(김대희)님의 기술면접 자료 Repository](https://github.com/StiKuan/StiKuan-Review)
+
 ### 기타 정보
 
 * [2016 KSUG 경력 관리 세미나](http://jojoldu.tistory.com/24)
@@ -222,3 +224,4 @@
 * [isseebx123](https://github.com/isseebx123)
 * [NEONKID](https://github.com/NEONKID)
 * [antaehyeon](https://github.com/antaehyeon)
+* [StiKuan](https://github.com/StiKuan)
