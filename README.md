@@ -73,6 +73,7 @@
 ### 채용 연계 프로그래밍 대회 일정
 
 ### 해커톤 일정
+* [NAVER CAMPUS HACK DAY 2018 Summer](https://github.com/NAVER-CAMPUS-HACKDAY/common)
 
 ## 신입 개발자 구직 팁
 
