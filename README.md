@@ -30,8 +30,6 @@
 
 ### 추천 기업
 
-* [03.02 ~ 03.31] [라인플러스 투자 시스템 개발 인턴](https://recruit.linepluscorp.com/lineplus/career/detail/20001559?classId=&entTypeCd=&page=)
-* [01.17 ~ 채용시까지] [큐브리드(오픈소스 DBMS) 신입 개발자 채용](http://www.cubrid.com/recruit/3815218)
 * [02.01 ~ 채용시까지] [LINE PLUS | App. Prototype 개발 인턴 채용](https://recruit.linepluscorp.com/lineplus/career/detail/20001423?classId=&entTypeCd=&page=)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
@@ -39,10 +37,8 @@
 
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
   * [사내정보 시스템 개발](https://careers.kakao.com/jobs/P-9336?part=TECHNOLOGY&page=1&company=KAKAO)
-  * [다음 앱 iOS 개발](https://careers.kakao.com/jobs/P-10051?part=TECHNOLOGY&page=5&company=KAKAO)
   * [검색서비스 Server 개발](https://careers.kakao.com/jobs/P-10115?part=TECHNOLOGY&searchTxt=&page=1)
   * [딥러닝 전문가 신입](https://careers.kakao.com/jobs/P-9884?part=TECHNOLOGY&searchTxt=&page=8)
-  * [검색서비스 개발(위와 다름)](https://careers.kakao.com/jobs/P-10256)
   * [검색 스팸 연구 및 시스템 개발](https://careers.kakao.com/jobs/P-10082?company=KAKAO&page=1&employeeType=Full%20Time&keyword=%EC%8B%A0%EC%9E%85&part=TECHNOLOGY&skilset=)
 
 ### 추천 스타트업
