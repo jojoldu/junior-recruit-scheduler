@@ -43,6 +43,11 @@
 
 ### 추천 스타트업
 
+* [채용시까지] [데이블 신입 채용](http://blog.dable.io/221245564421)
+  * [웹 개발자 신입](http://blog.dable.io/221245564421)
+  * [Devops 엔지니어 신입/경력/병특](http://blog.dable.io/221237876850)
+  * [데이터 분석가 신입/경력/병특](http://blog.dable.io/221237870373)
+  * [데이터 엔지니어 신입/경력/병특](http://blog.dable.io/221237863725)
 * [채용시까지] [8퍼센트 신입 개발자 채용](https://8percent.kr/jobs/?utm_source=facebook&utm_medium=post&utm_campaign=pr&utm_content=recruit&utm_term=171109)
   * [(참고자료) 박문수 이야기](https://brunch.co.kr/@leehosung/12)
   * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
