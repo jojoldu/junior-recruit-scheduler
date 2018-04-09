@@ -31,6 +31,7 @@
 ### 추천 기업
 
 * [02.01 ~ 채용시까지] [LINE PLUS | App. Prototype 개발 인턴 채용](https://recruit.linepluscorp.com/lineplus/career/detail/20001423?classId=&entTypeCd=&page=)
+* [04.23 ~ 05.11] [2018년 티몬 개발 인턴십 프로그램](https://github.com/tmoncorp/internship-2018)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
@@ -225,3 +226,4 @@
 * [NEONKID](https://github.com/NEONKID)
 * [antaehyeon](https://github.com/antaehyeon)
 * [StiKuan](https://github.com/StiKuan)
+* [Nesoy](http://github.com/nesoy)
