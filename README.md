@@ -165,6 +165,8 @@
 
 * [StiKuan(김대희)님의 기술면접 자료 Repository](https://github.com/StiKuan/StiKuan-Review)
 
+* [코딩 인터뷰 완벽 준비 (유료 동영상 강의)](https://www.udemy.com/draft/993276/learn/v4/t/lecture/6057896?start=0)
+
 ### 기타 정보
 
 * [2016 KSUG 경력 관리 세미나](http://jojoldu.tistory.com/24)
