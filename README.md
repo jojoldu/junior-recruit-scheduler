@@ -30,7 +30,6 @@
 
 ### 추천 기업
 
-* [02.01 ~ 채용시까지] [LINE PLUS | App. Prototype 개발 인턴 채용](https://recruit.linepluscorp.com/lineplus/career/detail/20001423?classId=&entTypeCd=&page=)
 * [04.23 ~ 05.11] [2018년 티몬 개발 인턴십 프로그램](https://github.com/tmoncorp/internship-2018)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
@@ -76,7 +75,6 @@
 * [2018 SummerCoding - 여름방학 스타트업 인턴 프로그램](https://programmers.co.kr/competitions/59/2018-summercoding-%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%9D%B8%ED%84%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
 
 ### 해커톤 일정
-* [NAVER CAMPUS HACK DAY 2018 Summer](https://github.com/NAVER-CAMPUS-HACKDAY/common)
 
 ## 신입 개발자 구직 팁
 
