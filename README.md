@@ -44,7 +44,7 @@
 ### 추천 스타트업
 
 * [채용시까지] [데이블 신입 채용](http://blog.dable.io/221245564421)
-  * [웹 개발자 신입](http://blog.dable.io/221245564421)
+  * [웹 개발자 신입](http://blog.naver.com/PostThumbnailView.nhn?blogId=teamdable&logNo=221237837766&categoryNo=10&parentCategoryNo=10&from=postList)
   * [Devops 엔지니어 신입/경력/병특](http://blog.dable.io/221237876850)
   * [데이터 분석가 신입/경력/병특](http://blog.dable.io/221237870373)
   * [데이터 엔지니어 신입/경력/병특](http://blog.dable.io/221237863725)
