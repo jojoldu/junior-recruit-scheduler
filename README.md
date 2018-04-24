@@ -32,6 +32,7 @@
 
 * [04.23 ~ 05.11] [2018년 티몬 개발 인턴십 프로그램](https://github.com/tmoncorp/internship-2018)
 * [04.30 ~ 05.13] [우아한 테크캠프](https://www.facebook.com/woowahanTech/photos/a.1925530564354206.1073741828.1916460261927903/2042363582670903/?type=3&theater)
+* [04.23 ~ 05.13] [카카오게임즈 ](https://kakaogames.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=1541)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
