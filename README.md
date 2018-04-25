@@ -31,6 +31,7 @@
 ### 추천 기업
 
 * [04.23 ~ 05.11] [2018년 티몬 개발 인턴십 프로그램](https://github.com/tmoncorp/internship-2018)
+* [04.30 ~ 05.13] [우아한 테크캠프](https://www.facebook.com/woowahanTech/photos/a.1925530564354206.1073741828.1916460261927903/2042363582670903/?type=3&theater)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
@@ -44,7 +45,7 @@
 ### 추천 스타트업
 
 * [채용시까지] [데이블 신입 채용](http://blog.dable.io/221245564421)
-  * [웹 개발자 신입](http://blog.dable.io/221245564421)
+  * [웹 개발자 신입](http://blog.naver.com/PostThumbnailView.nhn?blogId=teamdable&logNo=221237837766&categoryNo=10&parentCategoryNo=10&from=postList)
   * [Devops 엔지니어 신입/경력/병특](http://blog.dable.io/221237876850)
   * [데이터 분석가 신입/경력/병특](http://blog.dable.io/221237870373)
   * [데이터 엔지니어 신입/경력/병특](http://blog.dable.io/221237863725)
@@ -73,6 +74,7 @@
 
 ### 채용 연계 프로그래밍 대회 일정
 * [2018 SummerCoding - 여름방학 스타트업 인턴 프로그램](https://programmers.co.kr/competitions/59/2018-summercoding-%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%9D%B8%ED%84%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
+* [MIDAS Challenge 2018 - 마이다스 아이티 제3회 소프트웨어 개발 경진대회](http://challenge.midasit.com/)
 
 ### 해커톤 일정
 
