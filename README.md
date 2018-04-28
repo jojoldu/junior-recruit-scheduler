@@ -43,7 +43,6 @@
 
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
   * [사내정보 시스템 개발](https://careers.kakao.com/jobs/P-9336?part=TECHNOLOGY&page=1&company=KAKAO)
-  * [검색서비스 Server 개발](https://careers.kakao.com/jobs/P-10115?part=TECHNOLOGY&searchTxt=&page=1)
   * [딥러닝 전문가 신입](https://careers.kakao.com/jobs/P-9884?part=TECHNOLOGY&searchTxt=&page=8)
   * [검색 스팸 연구 및 시스템 개발](https://careers.kakao.com/jobs/P-10082?company=KAKAO&page=1&employeeType=Full%20Time&keyword=%EC%8B%A0%EC%9E%85&part=TECHNOLOGY&skilset=)
 
