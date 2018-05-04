@@ -47,6 +47,11 @@
 
 ### 추천 스타트업
 
+* [채용시까지] [지그재그 웹/IOS/안드로이드 신입 채용](https://career.zigzag.kr/recruit/)
+  * [기술 블로그](https://devblog.croquis.com/ko/)
+  * [지그재그 트래픽](http://ppss.kr/archives/151825)
+  * [지그재그 아웃스탠딩](http://outstanding.kr/zigzag20170123/)
+  
 * [채용시까지] [데이블 신입 채용](http://blog.dable.io/221245564421)
   * [웹 개발자 신입](http://blog.naver.com/PostThumbnailView.nhn?blogId=teamdable&logNo=221237837766&categoryNo=10&parentCategoryNo=10&from=postList)
   * [Devops 엔지니어 신입/경력/병특](http://blog.dable.io/221237876850)
