@@ -30,7 +30,6 @@
 
 ### 추천 기업
 
-* [04.25 ~ 05.08] [2018 라인플러스 SW개발 하계인턴](https://recruit.linepluscorp.com/lineplus/career/detail/20001722?classId=&entTypeCd=&page=)
 * [04.24 ~ 05.09 13:00] [NC Soft Summer Intern](https://recruit.ncsoft.net/korean/careers/adoption_intern.aspx#recruit-content)
 * [04.23 ~ 05.11] [2018년 티몬 개발 인턴십 프로그램](https://github.com/tmoncorp/internship-2018)
 * [04.30 ~ 05.13] [우아한 테크캠프](https://www.facebook.com/woowahanTech/photos/a.1925530564354206.1073741828.1916460261927903/2042363582670903/?type=3&theater)
