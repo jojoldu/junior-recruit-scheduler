@@ -80,7 +80,6 @@
 ### 채용 행사
 
 ### 채용 연계 프로그래밍 대회 일정
-* [MIDAS Challenge 2018 - 마이다스 아이티 제3회 소프트웨어 개발 경진대회](http://challenge.midasit.com/)
 
 ### 해커톤 일정
 
