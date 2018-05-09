@@ -51,7 +51,7 @@
   * [기술 블로그](https://devblog.croquis.com/ko/)
   * [지그재그 트래픽](http://ppss.kr/archives/151825)
   * [지그재그 아웃스탠딩](http://outstanding.kr/zigzag20170123/)
-  
+
 * [채용시까지] [데이블 신입 채용](http://blog.dable.io/221245564421)
   * [웹 개발자 신입](http://blog.naver.com/PostThumbnailView.nhn?blogId=teamdable&logNo=221237837766&categoryNo=10&parentCategoryNo=10&from=postList)
   * [Devops 엔지니어 신입/경력/병특](http://blog.dable.io/221237876850)
@@ -144,6 +144,8 @@
 * [마르코님의 번역 - 2017년 개발자 이력서 작성 가이드](https://brunch.co.kr/@imagineer/215)
 
 * [posquit0님의 Awesome CV - LaTeX로 끝내주는 영문 이력서 작성](https://github.com/posquit0/Awesome-CV)
+
+* [권희정님의 개발자의 포트폴리오 ・ 이력서 작성법](https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html)
 
 ### 면접 팁
 
