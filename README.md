@@ -46,7 +46,7 @@
 
 ### 추천 스타트업
 
-* [채용시까지] [노리 웹 서버 개발자(신입)](https://github.com/Knowre-Dev/WebDevCurriculum)
+* [채용시까지] [노리 웹 서버 개발자(신입)](https://www.wanted.co.kr/wd/10386?referer_id=143226)
   * [노리 웹 개발 신입 커리큘럼](https://github.com/Knowre-Dev/WebDevCurriculum)
   * [노리 CTO님 개발 블로그](http://blog.kivol.net/)
 
