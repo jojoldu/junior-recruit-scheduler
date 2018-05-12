@@ -30,7 +30,6 @@
 
 ### 추천 기업
 
-* [04.23 ~ 05.11] [2018년 티몬 개발 인턴십 프로그램](https://github.com/tmoncorp/internship-2018)
 * [04.30 ~ 05.13] [우아한 테크캠프](https://www.facebook.com/woowahanTech/photos/a.1925530564354206.1073741828.1916460261927903/2042363582670903/?type=3&theater)
 * [04.23 ~ 05.13] [카카오게임즈 ](https://kakaogames.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=1541)
 * [04.30 ~ 05.20] [2018 eBay Korea Summer Internship](https://ebaykorea.recruiter.co.kr/bbs/appsite/notice/read/64990)
