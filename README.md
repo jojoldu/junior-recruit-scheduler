@@ -174,7 +174,7 @@
 
 * [이번 기술 면접 중 기억나는 질문과 답변들 (프론트엔드)](https://medium.com/@jimkimau/이번-기술-면접-중-기억나는-질문과-답변들-712daa9a2dc)
 
-* [StiKuan(김대희)님의 기술면접 자료 Repository](https://github.com/StiKuan/StiKuan-Review)
+* [DaeHeeKim93(김대희)님의 기술면접 자료 Repository](https://github.com/DaeHeeKim93/DaeHeeKim-Review)
 
 ### 기타 정보
 
