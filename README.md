@@ -33,6 +33,7 @@
 * [04.30 ~ 05.20] [2018 eBay Korea Summer Internship](https://ebaykorea.recruiter.co.kr/bbs/appsite/notice/read/64990)
 * [05.07 ~ 05.20] [줌인터넷 포털서비스 개발](https://zuminternet.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=1599)
 * [05.08 ~ 05.23] [2018년도 스마일게이트 하계 인턴십](https://careers.smilegate.com/ko/recruit/recruitView.asp?idx=2561)
+* [05.14 ~ 05.22] [2018 컴투스 썸머 인턴십](http://www.jobkorea.co.kr/Recruit/GI_Read/24966376?OEM_Code=C1)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
