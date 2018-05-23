@@ -31,7 +31,6 @@
 ### 추천 기업
 
 * [05.08 ~ 05.23] [2018년도 스마일게이트 하계 인턴십](https://careers.smilegate.com/ko/recruit/recruitView.asp?idx=2561)
-* [05.14 ~ 05.22] [2018 컴투스 썸머 인턴십](http://www.jobkorea.co.kr/Recruit/GI_Read/24966376?OEM_Code=C1)
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
@@ -42,10 +41,6 @@
   * [검색 스팸 연구 및 시스템 개발](https://careers.kakao.com/jobs/P-10082?company=KAKAO&page=1&employeeType=Full%20Time&keyword=%EC%8B%A0%EC%9E%85&part=TECHNOLOGY&skilset=)
 
 ### 추천 스타트업
-
-* [채용시까지] [노리 웹 서버 개발자(신입)](https://www.wanted.co.kr/wd/10386?referer_id=143226)
-  * [노리 웹 개발 신입 커리큘럼](https://github.com/Knowre-Dev/WebDevCurriculum)
-  * [노리 CTO님 개발 블로그](http://blog.kivol.net/)
 
 * [채용시까지] [지그재그 웹/IOS/안드로이드 신입 채용](https://career.zigzag.kr/recruit/)
   * [기술 블로그](https://devblog.croquis.com/ko/)
