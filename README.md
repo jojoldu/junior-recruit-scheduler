@@ -30,8 +30,6 @@
 
 ### 추천 기업
 
-* [05.08 ~ 05.23] [2018년도 스마일게이트 하계 인턴십](https://careers.smilegate.com/ko/recruit/recruitView.asp?idx=2561)
-
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
   * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
 
