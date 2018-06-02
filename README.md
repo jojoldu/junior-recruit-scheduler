@@ -31,7 +31,6 @@
 ### 추천 기업
 
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
-  * [데브캣 - 게임 클라이언트 개발](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20170127)
 
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
   * [사내정보 시스템 개발](https://careers.kakao.com/jobs/P-9336?part=TECHNOLOGY&page=1&company=KAKAO)
