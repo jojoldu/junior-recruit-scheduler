@@ -30,6 +30,9 @@
 
 ### 추천 기업
 
+* [05.28 ~ 06.15 (조기마감있음)] [하이퍼커넥트(아자르) 인턴 채용](https://hyperconnect.workable.com/j/5B43615649)
+* [06.04 ~ 06.17] [레이니스트(뱅크샐러드) 인턴 채용](https://rainist.com/recruit)
+
 * [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
 
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
