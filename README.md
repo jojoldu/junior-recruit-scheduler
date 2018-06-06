@@ -7,9 +7,12 @@
 
 ## 추천 링크
 
-
-* [3번째 직장에 오기까지](http://jojoldu.tistory.com/277)
-  * [3번째 직장에 오기까지 - 1. 국비교육기간](http://jojoldu.tistory.com/277?category=689637)
+* [3번째 직장에 오기까지](http://jojoldu.tistory.com/277?referer=junior-recruit-scheduler)
+  * [1. 국비교육기간](http://jojoldu.tistory.com/277?referer=junior-recruit-scheduler)
+  * [2. 취업준비기간](http://jojoldu.tistory.com/278?referer=junior-recruit-scheduler)
+  * [3. 첫 직장, 첫번째 이직](http://jojoldu.tistory.com/279?referer=junior-recruit-scheduler)
+  * [4. 두번째 직장 #1](http://jojoldu.tistory.com/284?referer=junior-recruit-scheduler)
+  * [5. 두번째 직장 #2](http://jojoldu.tistory.com/302?referer=junior-recruit-scheduler)
 * [초보개발자모임](https://www.facebook.com/devbeginner/)
 
 
