@@ -5,15 +5,13 @@
 앞의 일정은 **서류 마감** 일정입니다.  
 (혹시나 채용이 완료된 것이 확인되면 풀리퀘스트 부탁드립니다.)  
 
-## 피드 받는 법
+## 추천 링크
 
-![버튼설명](./images/버튼설명.png)
 
-우측 상단의 버튼들 중
+* [3번째 직장에 오기까지](http://jojoldu.tistory.com/277)
+  * [3번째 직장에 오기까지 - 1. 국비교육기간](http://jojoldu.tistory.com/277?category=689637)
+* [초보개발자모임](https://www.facebook.com/devbeginner/)
 
-* Watch : 저장소 변경에 대한 실시간 피드
-* Star : 제작자에게 버프를, 하신분께는 즐겨찾기 등록이 되는 기능
-* Fork : 개인 저장소로 복제, 하지만 저장소 업데이트 반영을 수동으로 해야하므로 정보만 받으려면 불필요 (대신 풀리퀘스트를 보내야할 경우 Fork하여 브랜치 생성 -> 커밋&푸시 -> 풀리퀘스트가 가능함)
 
 ## 채용 (2018)
 
@@ -33,14 +31,16 @@
 * [05.28 ~ 06.15 (조기마감있음)] [하이퍼커넥트(아자르) 인턴 채용](https://hyperconnect.workable.com/j/5B43615649)
 * [06.04 ~ 06.17] [레이니스트(뱅크샐러드) 인턴 채용](https://rainist.com/recruit)
 
-* [채용시까지] [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
-
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
   * [사내정보 시스템 개발](https://careers.kakao.com/jobs/P-9336?part=TECHNOLOGY&page=1&company=KAKAO)
   * [딥러닝 전문가 신입](https://careers.kakao.com/jobs/P-9884?part=TECHNOLOGY&searchTxt=&page=8)
   * [검색 스팸 연구 및 시스템 개발](https://careers.kakao.com/jobs/P-10082?company=KAKAO&page=1&employeeType=Full%20Time&keyword=%EC%8B%A0%EC%9E%85&part=TECHNOLOGY&skilset=)
 
 ### 추천 스타트업
+
+* [채용시까지] [CHEQUER 인턴 개발자 채용](https://medium.com/chequer/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EC%9D%98-%EB%AF%B8%EB%9E%98%EB%A5%BC-%ED%95%A8%EA%BB%98-%EB%A7%8C%EB%93%A4-%EB%8F%99%EB%A3%8C%EB%A5%BC-%EC%B0%BE%EC%8A%B5%EB%8B%88%EB%8B%A4-da9b1baa60fa)
+  * [CHEQUER가 일하는 방식 1](https://medium.com/chequer/how-chequer-works-1-95e095706285)
+  * [CHEQUER가 일하는 방식 2](https://medium.com/chequer/how-chequer-works-2-company-guide-48bb5bb64cab)
 
 * [채용시까지] [지그재그 웹/IOS/안드로이드 신입 채용](https://career.zigzag.kr/recruit/)
   * [기술 블로그](https://devblog.croquis.com/ko/)
