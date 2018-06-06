@@ -7,12 +7,17 @@
 
 ## 추천 링크
 
+5년차 개발자가 3번째 직장에 오기까지 이야기를 담은 시리즈
+
 * [3번째 직장에 오기까지](http://jojoldu.tistory.com/277?referer=junior-recruit-scheduler)
   * [1. 국비교육기간](http://jojoldu.tistory.com/277?referer=junior-recruit-scheduler)
   * [2. 취업준비기간](http://jojoldu.tistory.com/278?referer=junior-recruit-scheduler)
   * [3. 첫 직장, 첫번째 이직](http://jojoldu.tistory.com/279?referer=junior-recruit-scheduler)
   * [4. 두번째 직장 #1](http://jojoldu.tistory.com/284?referer=junior-recruit-scheduler)
   * [5. 두번째 직장 #2](http://jojoldu.tistory.com/302?referer=junior-recruit-scheduler)
+
+주니어 개발자분들에게 필요한 기술/세미나 등의 소식을 공유하는 페이스북 페이지
+
 * [초보개발자모임](https://www.facebook.com/devbeginner/)
 
 
