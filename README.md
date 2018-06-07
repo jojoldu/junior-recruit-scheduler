@@ -36,6 +36,12 @@
 
 ### 추천 기업
 
+* [직군별 상이] [NTS 인턴 및 주니어 경력 채용](http://www.jobkorea.co.kr/Recruit/Booth_GI_Read/25213613?Oem_Code=C1)
+  * 06.07 ~ 06.10 (일): SW 테스트 엔지니어
+  * 06.07 ~ 06.17 (일): SW 개발
+  * 06.07 ~ 06.17 (일): UI 개발
+  * 상시모집: 웹 표준화 UI 개발 (경력 3년 이하)
+  * 상시모집: 웹 서비스 개발 (Java & Spring 기반 1년 이상)
 * [05.28 ~ 06.15 (조기마감있음)] [하이퍼커넥트(아자르) 인턴 채용](https://hyperconnect.workable.com/j/5B43615649)
 * [06.04 ~ 06.17] [레이니스트(뱅크샐러드) 인턴 채용](https://rainist.com/recruit)
 
