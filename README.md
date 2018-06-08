@@ -36,18 +36,13 @@
 
 ### 추천 기업
 
-* [직군별 상이] [NTS 인턴 및 주니어 경력 채용](http://bit.ly/2LAjpUe)
-  * 06.07 ~ 06.10 (일): SW 테스트 엔지니어
-  * 06.07 ~ 06.17 (일): SW 개발
-  * 06.07 ~ 06.17 (일): UI 개발
-  * 상시모집: 웹 표준화 UI 개발 (경력 3년 이하)
-  * 상시모집: 웹 서비스 개발 (Java & Spring 기반 1년 이상)
-* [06.04 ~ 06.17] [레이니스트(뱅크샐러드) 인턴 채용](http://bit.ly/2JsvcDz)
+* [06.07 ~ 06.17] [NTS SW 개발/UI 개발 인턴 및 주니어 경력](http://bit.ly/2LAjpUe)
+* [06.04 ~ 06.17] [레이니스트(뱅크샐러드) 인턴](http://bit.ly/2JsvcDz)
 
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
-  * [사내정보 시스템 개발](https://careers.kakao.com/jobs/P-9336?part=TECHNOLOGY&page=1&company=KAKAO)
-  * [딥러닝 전문가 신입](https://careers.kakao.com/jobs/P-9884?part=TECHNOLOGY&searchTxt=&page=8)
-  * [검색 스팸 연구 및 시스템 개발](https://careers.kakao.com/jobs/P-10082?company=KAKAO&page=1&employeeType=Full%20Time&keyword=%EC%8B%A0%EC%9E%85&part=TECHNOLOGY&skilset=)
+  * [사내 정보 시스템 개발 신입](http://bit.ly/2sLH9NA)
+  * [컴퓨터비전 및 머신러닝 신입](http://bit.ly/2sN04Zp)
+  * [검색 스팸 연구 및 시스템 개발 신입](http://bit.ly/2JqpUZ7)
 
 ### 추천 스타트업
 
@@ -60,19 +55,15 @@
   * [지그재그 트래픽](http://ppss.kr/archives/151825)
   * [지그재그 아웃스탠딩](http://outstanding.kr/zigzag20170123/)
 
-* [채용시까지] [데이블 신입 채용](http://dable.io/ko/careers/)
-  * [웹 개발자 신입](http://blog.naver.com/PostThumbnailView.nhn?blogId=teamdable&logNo=221237837766&categoryNo=10&parentCategoryNo=10&from=postList)
-  * [Devops 엔지니어 신입/경력/병특](http://blog.dable.io/221237876850)
-  * [데이터 분석가 신입/경력/병특](http://blog.dable.io/221237870373)
-  * [데이터 엔지니어 신입/경력/병특](http://blog.dable.io/221237863725)
+* [채용시까지] [데이블 웹/Devops/데이터분석가/데이터엔지니어 신입/병특 채용](http://bit.ly/2M8oaG1)
 
 * [채용시까지] [8퍼센트 신입 개발자 채용](http://bit.ly/2M7dk2S)
   * [(참고자료) 박문수 이야기](https://brunch.co.kr/@leehosung/12)
   * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
   * [(참고자료) 냉정과 열정사이](https://brunch.co.kr/@leehosung/34)
   * [(참고자료) 두숟갈 스터디를 마치며](https://brunch.co.kr/@leehosung/42)
-* [채용시까지] [NBT(캐시슬라이드) 주니어 Devops 채용](http://bit.ly/2JspeTd)
 * [채용시까지] [오마이랩 신입/경력 프론트엔드 개발자 채용](http://bit.ly/2xVdjft)
+* [채용시까지] [NBT(캐시슬라이드) 주니어 Devops 채용](http://bit.ly/2JspeTd)
 
 ### 이외 채용정보 얻는법
 
@@ -89,7 +80,6 @@
 ### 채용 관련 행사
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
-
 
 ## 신입 개발자 구직 팁
 
