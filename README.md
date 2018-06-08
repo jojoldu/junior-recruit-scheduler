@@ -36,14 +36,13 @@
 
 ### 추천 기업
 
-* [직군별 상이] [NTS 인턴 및 주니어 경력 채용](http://www.jobkorea.co.kr/Recruit/Booth_GI_Read/25213613?Oem_Code=C1)
+* [직군별 상이] [NTS 인턴 및 주니어 경력 채용](http://bit.ly/2LAjpUe)
   * 06.07 ~ 06.10 (일): SW 테스트 엔지니어
   * 06.07 ~ 06.17 (일): SW 개발
   * 06.07 ~ 06.17 (일): UI 개발
   * 상시모집: 웹 표준화 UI 개발 (경력 3년 이하)
   * 상시모집: 웹 서비스 개발 (Java & Spring 기반 1년 이상)
-* [05.28 ~ 06.15 (조기마감있음)] [하이퍼커넥트(아자르) 인턴 채용](https://hyperconnect.workable.com/j/5B43615649)
-* [06.04 ~ 06.17] [레이니스트(뱅크샐러드) 인턴 채용](https://rainist.com/recruit)
+* [06.04 ~ 06.17] [레이니스트(뱅크샐러드) 인턴 채용](http://bit.ly/2JsvcDz)
 
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
   * [사내정보 시스템 개발](https://careers.kakao.com/jobs/P-9336?part=TECHNOLOGY&page=1&company=KAKAO)
@@ -52,11 +51,11 @@
 
 ### 추천 스타트업
 
-* [채용시까지] [CHEQUER 인턴 개발자 채용](https://medium.com/chequer/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EC%9D%98-%EB%AF%B8%EB%9E%98%EB%A5%BC-%ED%95%A8%EA%BB%98-%EB%A7%8C%EB%93%A4-%EB%8F%99%EB%A3%8C%EB%A5%BC-%EC%B0%BE%EC%8A%B5%EB%8B%88%EB%8B%A4-da9b1baa60fa)
+* [채용시까지] [CHEQUER 인턴 개발자 채용](http://bit.ly/2xWL7ss)
   * [CHEQUER가 일하는 방식 1](https://medium.com/chequer/how-chequer-works-1-95e095706285)
   * [CHEQUER가 일하는 방식 2](https://medium.com/chequer/how-chequer-works-2-company-guide-48bb5bb64cab)
 
-* [채용시까지] [지그재그 웹/IOS/안드로이드 신입 채용](https://career.zigzag.kr/recruit/)
+* [채용시까지] [지그재그 웹/IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
   * [기술 블로그](https://devblog.croquis.com/ko/)
   * [지그재그 트래픽](http://ppss.kr/archives/151825)
   * [지그재그 아웃스탠딩](http://outstanding.kr/zigzag20170123/)
@@ -67,14 +66,13 @@
   * [데이터 분석가 신입/경력/병특](http://blog.dable.io/221237870373)
   * [데이터 엔지니어 신입/경력/병특](http://blog.dable.io/221237863725)
 
-* [채용시까지] [8퍼센트 신입 개발자 채용](https://8percent.kr/jobs/?utm_source=facebook&utm_medium=post&utm_campaign=pr&utm_content=recruit&utm_term=171109)
+* [채용시까지] [8퍼센트 신입 개발자 채용](http://bit.ly/2M7dk2S)
   * [(참고자료) 박문수 이야기](https://brunch.co.kr/@leehosung/12)
   * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
   * [(참고자료) 냉정과 열정사이](https://brunch.co.kr/@leehosung/34)
   * [(참고자료) 두숟갈 스터디를 마치며](https://brunch.co.kr/@leehosung/42)
-* [채용시까지] [VCNC(Between) 채용 리스트](https://www.wanted.co.kr/company/1053)
-* [채용시까지] [NBT(캐시슬라이드) 신입 개발자 채용](http://nbt.com/category/recruitnotice/engineer)
-* [채용시까지] [오마이랩 신입/경력 프론트엔드 개발자 채용](http://www.ohmylab.com/recruit.html#front-end-programmer)
+* [채용시까지] [NBT(캐시슬라이드) 주니어 Devops 채용](http://bit.ly/2JspeTd)
+* [채용시까지] [오마이랩 신입/경력 프론트엔드 개발자 채용](http://bit.ly/2xVdjft)
 
 ### 이외 채용정보 얻는법
 
@@ -88,11 +86,10 @@
 * [원티드 신입 개발자 채용 리스트](https://www.wanted.co.kr/wdlist/518?referer_id=23685&years=0)
 * [로켓펀치 '병역대체' 채용 리스트](https://www.rocketpunch.com/jobs?military_service=1&q=)
 
-### 채용 행사
+### 채용 관련 행사
 
-### 채용 연계 프로그래밍 대회 일정
+채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
 
-### 해커톤 일정
 
 ## 신입 개발자 구직 팁
 
@@ -122,7 +119,7 @@
 
 * [OKKY "마음까지전하는"님의 웹개발자 신입 구직 팁](https://okky.kr/article/314704)
 
-* [취업할까 미룰까 고민될때](https://brunch.co.kr/@jojoldu/1)
+* [취업할까 미룰까 고민될때](http://bit.ly/2y4qVFp)
 
 * [피해야 할 개발자 일자리의 징후](http://www.itworld.co.kr/news/105216)
 
@@ -186,7 +183,7 @@
 
 ### 기타 정보
 
-* [2016 KSUG 경력 관리 세미나](http://jojoldu.tistory.com/24)
+* [2016 KSUG 경력 관리 세미나](http://bit.ly/2JEexjS)
 
 * [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
 
