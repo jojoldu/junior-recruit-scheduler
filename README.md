@@ -9,12 +9,12 @@
 
 5년차 개발자가 3번째 직장에 오기까지 이야기를 담은 시리즈
 
-* [3번째 직장에 오기까지](http://jojoldu.tistory.com/277?referer=junior-recruit-scheduler)
-  * [1. 국비교육기간](http://jojoldu.tistory.com/277?referer=junior-recruit-scheduler)
-  * [2. 취업준비기간](http://jojoldu.tistory.com/278?referer=junior-recruit-scheduler)
-  * [3. 첫 직장, 첫번째 이직](http://jojoldu.tistory.com/279?referer=junior-recruit-scheduler)
-  * [4. 두번째 직장 #1](http://jojoldu.tistory.com/284?referer=junior-recruit-scheduler)
-  * [5. 두번째 직장 #2](http://jojoldu.tistory.com/302?referer=junior-recruit-scheduler)
+* [3번째 직장에 오기까지](http://bit.ly/2sFSGim)
+  * [1. 국비교육기간](http://bit.ly/2sFSGim)
+  * [2. 취업준비기간](http://bit.ly/2Mc98yG)
+  * [3. 첫 직장, 첫번째 이직](http://bit.ly/2xVYgC4)
+  * [4. 두번째 직장 #1](http://bit.ly/2M9UF6I)
+  * [5. 두번째 직장 #2](http://bit.ly/2JvA0YL)
 
 주니어 개발자분들에게 필요한 기술/세미나 등의 소식을 공유하는 페이스북 페이지
 
@@ -102,6 +102,8 @@
 
 ### 구직 전반
 
+* [이종립(aka. 기계인간)님의 SI탈출하기 세미나 by OKKY](http://bit.ly/2LAkFqL)
+
 * [남궁성의 코드초보스터디 카페 모음](http://cafe.naver.com/javachobostudy)
   * [신입취업조언 1탄 : 포트폴리오편 - 천진님](http://cafe.naver.com/javachobostudy/119166)
   * [이력서 작성과 면접 이야기 - 천진님](http://cafe.naver.com/javachobostudy/125568)
@@ -113,8 +115,6 @@
 * [김은향님의 신입 개발자 이야기](https://www.slideshare.net/EunhyangKim2/ss-87782520)
 
 * [진유림님의 이직 이야기](https://milooy.wordpress.com/2018/02/07/moving-job/)
-
-* [이종립(aka. 기계인간)님의 SI탈출하기 세미나 by OKKY](http://jojoldu.tistory.com/247)
 
 * [이한별님의 구직 이야기](http://lhb0517.tistory.com/entry/reviewofjojoldu)
 
@@ -187,6 +187,7 @@
 ### 기타 정보
 
 * [2016 KSUG 경력 관리 세미나](http://jojoldu.tistory.com/24)
+
 * [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
 
 * [나무위키 SI](https://namu.wiki/w/SI)
