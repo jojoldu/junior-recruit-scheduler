@@ -52,9 +52,13 @@
         },
         {
             "endDate": "채용시까지",
+            "link": "http://bit.ly/2sGpg3k",
+            "description": "[카카오] 다음 메일 프론트엔드 신입"
+        },
+        {
+            "endDate": "채용시까지",
             "link": "http://bit.ly/2M8oaG1",
             "description": "데이블 웹/Devops/데이터분석가/데이터엔지니어 신입/병특 채용"
-        },
-        
+        }
     ]
 }

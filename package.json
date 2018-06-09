@@ -1,0 +1,27 @@
+{
+  "name": "junior-recruit-scheduler",
+  "version": "1.0.0",
+  "description": "junior recruit scheduler for korean developer",
+  "main": "build",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojoldu/junior-recruit-scheduler.git"
+  },
+  "keywords": [
+    "recruit",
+    "develop"
+  ],
+  "author": "jojoldu@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jojoldu/junior-recruit-scheduler/issues"
+  },
+  "homepage": "https://github.com/jojoldu/junior-recruit-scheduler#readme",
+  "devDependencies": {
+    "fs": "0.0.1-security"
+  }
+}
