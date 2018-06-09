@@ -39,14 +39,6 @@
 * [06.07 ~ 06.17] [NTS SW 개발/UI 개발 인턴 및 주니어 경력](http://bit.ly/2LAjpUe)
 * [06.04 ~ 06.17] [레이니스트(뱅크샐러드) 인턴](http://bit.ly/2JsvcDz)
 
-* [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
-  * [사내 정보 시스템 개발 신입](http://bit.ly/2sLH9NA)
-  * [컴퓨터비전 및 머신러닝 신입](http://bit.ly/2sN04Zp)
-  * [검색 스팸 연구 및 시스템 개발 신입](http://bit.ly/2JqpUZ7)
-  * [다음 메일 프론트엔드 개발 신입](http://bit.ly/2sGpg3k)
-
-### 추천 스타트업
-
 * [채용시까지] [CHEQUER 인턴 개발자 채용](http://bit.ly/2xWL7ss)
   * [CHEQUER가 일하는 방식 1](https://medium.com/chequer/how-chequer-works-1-95e095706285)
   * [CHEQUER가 일하는 방식 2](https://medium.com/chequer/how-chequer-works-2-company-guide-48bb5bb64cab)
@@ -65,6 +57,12 @@
   * [(참고자료) 두숟갈 스터디를 마치며](https://brunch.co.kr/@leehosung/42)
 * [채용시까지] [오마이랩 신입/경력 프론트엔드 개발자 채용](http://bit.ly/2xVdjft)
 * [채용시까지] [NBT(캐시슬라이드) 주니어 Devops 채용](http://bit.ly/2JspeTd)
+
+* [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
+  * [사내 정보 시스템 개발 신입](http://bit.ly/2sLH9NA)
+  * [컴퓨터비전 및 머신러닝 신입](http://bit.ly/2sN04Zp)
+  * [검색 스팸 연구 및 시스템 개발 신입](http://bit.ly/2JqpUZ7)
+  * [다음 메일 프론트엔드 개발 신입](http://bit.ly/2sGpg3k)
 
 ### 이외 채용정보 얻는법
 

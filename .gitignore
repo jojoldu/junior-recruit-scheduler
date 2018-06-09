@@ -3,4 +3,5 @@
 .idea
 node_modules
 credentials.json
-telegram.http
+http/telegram.http
+test.js
