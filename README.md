@@ -43,6 +43,7 @@
   * [사내 정보 시스템 개발 신입](http://bit.ly/2sLH9NA)
   * [컴퓨터비전 및 머신러닝 신입](http://bit.ly/2sN04Zp)
   * [검색 스팸 연구 및 시스템 개발 신입](http://bit.ly/2JqpUZ7)
+  * [다음 메일 프론트엔드 개발 신입](http://bit.ly/2sGpg3k)
 
 ### 추천 스타트업
 
