@@ -4,12 +4,11 @@
  * Github : http://github.com/jojoldu
  */
 
-var fs = require('fs');
-var obj;
-fs.readFile('db.json', 'utf8', function (err, data) {
+const fs = require('fs');
+fs.readFile('db.json', 'utf8', (err, data) => {
     if (err) throw err;
     try {
-        obj = JSON.parse(data);
+        JSON.parse(data);
     } catch (e) {
         throw e;
     }
