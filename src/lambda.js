@@ -13,14 +13,14 @@ const util = require('util');
 const { StringDecoder } = require('string_decoder');
 const decoder = new StringDecoder('utf8');
 const AWS = require('aws-sdk'),
-    dynamo = new AWS.DynamoDB();
+    docClient = new AWS.DynamoDB.DocumentClient();
 
 const commands = [
     {"path": "/start", "description":"시작 및 도움말"},
     {"path": "/recruits", "description":"현재 채용 목록"},
     {"path": "/subscribe", "description":"구독 등록"},
     {"path": "/unsubscribe", "description":"구독 해제"},
-    {"path": "/github", "description":"저장소 Github Link"},
+    {"path": "/github", "description":"주니어 개발자 채용 정보 Link"},
     {"path": "/facebook", "description":"페이스북 Link"}
 ];
 
@@ -30,7 +30,8 @@ exports.handler = (event, context) => {
     const requestText = event.message.text;
 
     if(requestText === "/start" || requestText === "/start@devbeginner_bot") {
-        const intro = "초보개발자모임 Bot Commands\n";
+        const intro = "초보개발자모임 Bot Commands\n" +
+            "구독 등록하실 경우 신규 채용정보, 채용 팁, 페이스북 포스팅이 올라올때마다 알려드립니다.";
         const message = commands.map( c => c.path +" - " + c.description).join("\n");
         const postData = {
             "chat_id": requestChatId,
@@ -60,13 +61,44 @@ exports.handler = (event, context) => {
             }
         };
 
-        dynamo.putItem(payload, (err, data) => {
+        docClient.put(payload, (err, data) => {
             if (err) {
                 console.log(err, err.stack);
+                const postData = {
+                    "chat_id": requestChatId,
+                    "text": "등록에 실패했습니다.\n잠시후 다시 시도해주세요."
+                };
+                sendMessage(context, postData);
+                throw err;
             } else {
                 const postData = {
                     "chat_id": requestChatId,
                     "text": "등록되었습니다."
+                };
+                sendMessage(context, postData);
+            }
+        });
+    } else if(requestText === "/unsubscribe"|| requestText === "/unsubscribe@devbeginner_bot") {
+        const payload = {
+            TableName: TABLE_NAME,
+            Key: {
+                "chat_id": requestChatId
+            }
+        };
+
+        docClient.delete(payload, (err, data) => {
+            if (err) {
+                console.log(err, err.stack);
+                const postData = {
+                    "chat_id": requestChatId,
+                    "text": "등록해제에 실패했습니다.\n잠시후 다시 시도해주세요."
+                };
+                sendMessage(context, postData);
+                throw err;
+            } else {
+                const postData = {
+                    "chat_id": requestChatId,
+                    "text": "등록해제 되었습니다."
                 };
                 sendMessage(context, postData);
             }

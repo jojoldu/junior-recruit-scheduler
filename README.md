@@ -20,6 +20,12 @@
 
 * [초보개발자모임](https://www.facebook.com/devbeginner/)
 
+### 챗봇
+
+현재 공식적으로 [텔레그램](http://www.telegram.pe.kr/) 챗봇을 지원하고 있습니다.  
+실시간 채용 공지, 전체 채용 정보 확인, 페이스북 페이지 소식 등을 챗봇으로 확인할 수 있습니다.
+
+* [링크](http://bit.ly/2MfbltB) 
 
 ## 채용 (2018)
 

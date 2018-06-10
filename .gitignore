@@ -4,4 +4,4 @@
 node_modules
 credentials.json
 http/telegram.http
-test.js
+src/test.js
