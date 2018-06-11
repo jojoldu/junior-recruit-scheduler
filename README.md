@@ -71,6 +71,11 @@
   * [컴퓨터비전 및 머신러닝 신입](http://bit.ly/2sN04Zp)
   * [검색 스팸 연구 및 시스템 개발 신입](http://bit.ly/2JqpUZ7)
   * [다음 메일 프론트엔드 개발 신입](http://bit.ly/2sGpg3k)
+  
+* [채용시까지] [카카오뱅크 채용](https://kakaobank.recruiter.co.kr/app/jobnotice/list) (06.11 ~ 06.30)
+  * [웹 서비스 개발자](https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=2132)
+  * [뱅킹서비스 개발자](https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=2131)
+  * [서버 개발자](https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=2133)
 
 ### 이외 채용정보 얻는법
 
