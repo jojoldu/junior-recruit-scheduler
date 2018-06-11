@@ -14,23 +14,36 @@ const AWS = require('aws-sdk'),
 
 exports.handler = (event, context) => {
     console.log(JSON.stringify(event));
+    const requestChatId = event.message["chat_id"];
     const requestText = event.message.text;
     const payload = {
         TableName: TABLE_NAME,
     };
 
-    docClient.scan(payload, (err, data)=> {
-        if(err){
-            throw err;
-        }
-        data.Items.forEach(subscriber => {
-            const postData = {
-                "chat_id": subscriber['chat_id'],
-                "text": requestText
-            };
-            sendMessage(context, postData);
-        })
-    });
+    if(requestChatId){
+        const postData = {
+            "chat_id": requestChatId,
+            "text": requestText
+        };
+        sendMessage(context, postData);
+    } else {
+        docClient.scan(payload, (err, data)=> {
+            if(err){
+                throw err;
+            }
+            console.log("총 발송인원: "+data.Items.length);
+            console.log(JSON.stringify(data.Items));
+
+            data.Items.forEach(subscriber => {
+                const postData = {
+                    "chat_id": subscriber['chat_id'],
+                    "text": requestText
+                };
+                sendMessage(context, postData);
+            });
+        });
+
+    }
 };
 
 function sendMessage(context, postData) {

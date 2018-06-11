@@ -31,11 +31,12 @@ exports.handler = (event, context) => {
 
     if(requestText === "/start" || requestText === "/start@devbeginner_bot") {
         const intro = "초보개발자모임 Bot Commands\n" +
-            "구독 등록하실 경우 신규 채용정보, 채용 팁, 페이스북 포스팅이 올라올때마다 알려드립니다.";
+            "구독 등록(/subscribe) 하실 경우 신규 채용정보, 채용 팁, 페이스북 포스팅이 올라올때마다 알려드립니다.\n";
         const message = commands.map( c => c.path +" - " + c.description).join("\n");
         const postData = {
             "chat_id": requestChatId,
-            "text": intro+message
+            "text": intro+message,
+            "parse_mode": "Markdown"
         };
 
         sendMessage(context, postData);
