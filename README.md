@@ -45,6 +45,8 @@
 * [06.07 ~ 06.17] [NTS SW 개발/UI 개발 인턴 및 주니어 경력](http://bit.ly/2LAjpUe)
 * [06.04 ~ 06.17] [레이니스트(뱅크샐러드) 인턴](http://bit.ly/2JsvcDz)
 
+* [채용시까지] [제플린 Devops/프론트엔드/백엔드 인턴/신입 채용](http://bit.ly/2sLOI7Y)
+
 * [채용시까지] [CHEQUER 인턴 개발자 채용](http://bit.ly/2xWL7ss)
   * [CHEQUER가 일하는 방식 1](https://medium.com/chequer/how-chequer-works-1-95e095706285)
   * [CHEQUER가 일하는 방식 2](https://medium.com/chequer/how-chequer-works-2-company-guide-48bb5bb64cab)
