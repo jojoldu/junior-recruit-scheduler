@@ -155,7 +155,7 @@
 
 ### 면접 팁
 
-* [JBee(한재엽)님의 기술면접 자료 Repository](https://github.com/jojoldu/junior-recruit-scheduler)
+* [JBee(한재엽)님의 기술면접 자료 Repository](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
 * [김태곤님의 신입 프론트엔드 개발자를 위한 면접 조언](https://taegon.kim/archives/5770)
 
