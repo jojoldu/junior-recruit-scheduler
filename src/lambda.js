@@ -48,7 +48,7 @@ exports.handler = (event, context) => {
                 const recruits = JSON.parse(strJson).recruits;
                 const postData = {
                     "chat_id": requestChatId,
-                    "text": toMarkdownMessage(recruits),
+                    "text": toMarkdownMessage(recruits) + "\n\n실시간 구독을 원하시면 /subscribe 를 사용해보세요.",
                     "parse_mode": "Markdown"
                 };
                 sendMessage(context, postData);
@@ -132,7 +132,7 @@ function toMarkdownMessage(recruits) {
         .join("\n");
 }
 
-function sendMessage(context, postData) {
+function sendMessage(context, content) {
     const options = {
         method: 'POST',
         hostname: 'api.telegram.org',
@@ -152,7 +152,7 @@ function sendMessage(context, postData) {
         console.log('problem with request: ' + e.message);
     });
 
-    req.write(util.format("%j", postData));
+    req.write(util.format("%j", content));
     req.end();
 }
 

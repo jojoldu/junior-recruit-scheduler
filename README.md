@@ -1,6 +1,13 @@
 # 주니어 개발자를 위한 취업 정보
 
-주니어 개발자를 위한 **양질의 채용정보**가 흩어져있는것 같아 한곳에 모으기 위한 저장소  
+
+[![author](https://img.shields.io/badge/author-jojoldu-ff69b4.svg?style=flat-square)](http://friendly-belief.surge.sh/)
+[![Build Status](https://travis-ci.org/jojoldu/junior-recruit-scheduler.svg?branch=master)](https://travis-ci.org/jojoldu/junior-recruit-scheduler)
+[![CONTRIBUTORS](https://img.shields.io/badge/contributors-25-green.svg?style=flat-square)](https://github.com/jojoldu/junior-recruit-scheduler/blob/master/CONTRIBUTING.md)
+[![HitCount](http://hits.dwyl.io/jojoldu/junior-recruit-scheduler.svg)](http://hits.dwyl.io/jojoldu/junior-recruit-scheduler)
+
+
+주니어 개발자를 위한 **양질의 채용정보**가 흩어져있는것 같아 한곳에 모으기 위한 저장소입니다.  
 인턴/신입/주니어 채용 & 해커톤 일정을 담으려고 합니다.  
 앞의 일정은 **서류 마감** 일정입니다.  
 (혹시나 채용이 완료된 것이 확인되면 풀리퀘스트 부탁드립니다.)  
@@ -10,11 +17,6 @@
 5년차 개발자가 3번째 직장에 오기까지 이야기를 담은 시리즈
 
 * [3번째 직장에 오기까지](http://bit.ly/2sFSGim)
-  * [1. 국비교육기간](http://bit.ly/2sFSGim)
-  * [2. 취업준비기간](http://bit.ly/2Mc98yG)
-  * [3. 첫 직장, 첫번째 이직](http://bit.ly/2xVYgC4)
-  * [4. 두번째 직장 #1](http://bit.ly/2M9UF6I)
-  * [5. 두번째 직장 #2](http://bit.ly/2JvA0YL)
 
 주니어 개발자분들에게 필요한 기술/세미나 등의 소식을 공유하는 페이스북 페이지
 
@@ -32,10 +34,10 @@
 채용에 올라온 기업들은 모두 **개발자로서 커리어 쌓기가 좋은 회사**의 **신입/주니어** 채용을 기준으로 합니다.  
 
 > 유의미한 트래픽이 발생하고,  
-> 코드리뷰, 배포 자동화 등이 구축되어 있고,  
-> 코드 품질에 관심이 있는 회사를 얘기합니다.
+코드리뷰, 배포 자동화 등이 구축되어 있고,  
+코드 품질에 관심이 있는 회사를 얘기합니다.
 
-보통 잡플래닛 평점 3.3 미만인 회사들은 PR을 주셔도 추가해드릴 수 없습니다.  
+잡플래닛 평점 3.3 미만인 회사들은 PR을 주셔도 추가해드릴 수 없습니다.  
 이 저장소의 목적은 **양질의 취업정보를 한 곳에 모으기 위함**입니다.  
 **모든 회사의 채용 정보를 담으려는 것이 아닙니다**.  
 잡플래닛 평점은 낮지만 정말 추천하고 싶은 회사가 있다면 그 사유를 같이 PR에 남겨주세요.
@@ -90,8 +92,7 @@
 
 ## 신입 개발자 구직 팁
 
-**구직 팁 외에 다른 팁은 담지 않으려고** 합니다.  
-주니어를 위한 팁은 범위가 너무 크기 때문에 제한하였습니다.  
+**취업 팁 외에 다른 팁은 포함시키지 않습니다.**  
 주니어를 위한 각종 팁은 [페이스북 페이지](https://www.facebook.com/devbeginner/)를 참고해주세요
 
 ### 구직 전반
@@ -154,7 +155,7 @@
 
 ### 면접 팁
 
-* [JBee(한재엽)님의 기술면접 자료 Repository](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+* [JBee(한재엽)님의 기술면접 자료 Repository](https://github.com/jojoldu/junior-recruit-scheduler)
 
 * [김태곤님의 신입 프론트엔드 개발자를 위한 면접 조언](https://taegon.kim/archives/5770)
 
