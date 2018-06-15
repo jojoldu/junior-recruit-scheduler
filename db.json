@@ -6,10 +6,15 @@
             "description": "NTS SW 개발/UI 개발 인턴"
         },
         {
-            "endDate": "2018-06-17",
+            "ezndDate": "2018-06-17",
             "link": "http://bit.ly/2LAjpUe",
             "description": "레이니스트(뱅크샐러드) 인턴"
         },
+        {
+            "ezndDate": "2018-06-30",
+            "link": "http://bit.ly/2LPW29q",
+            "description": "보이저엑스 인턴"
+        },       
         {
             "endDate": "채용시까지",
             "link": "http://bit.ly/2sLOI7Y",
@@ -33,7 +38,7 @@
         {
             "endDate": "채용시까지",
             "link": "http://bit.ly/2xVdjft",
-            "description": "오마이랩 프론트엔드 개발자 신입"
+            "description": "오마이z랩 프론트엔드 개발자 신입"
         },
         {
             "endDate": "채용시까지",
@@ -61,7 +66,7 @@
             "description": "카카오 - 다음 메일 프론트엔드 신입"
         },
         {
-            "endDate": "채용시까지",
+            z"endDate": "채용시까지",
             "link": "http://bit.ly/2M8oaG1",
             "description": "데이블 웹/Devops/데이터분석가/데이터엔지니어 신입/병특 채용"
         }
