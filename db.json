@@ -71,5 +71,11 @@
             "description": "데이블 웹/Devops/데이터분석가/데이터엔지니어 신입/병특 채용"
         }
     ],
-    "seminars": []
+    "seminars": [
+        {
+            "endDate": "2018-08-02",
+            "link": "http://bit.ly/2tgl5el",
+            "description": "카카오 코드 페스티벌"
+        }
+    ]
 }
