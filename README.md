@@ -33,7 +33,7 @@
 
 실시간 채용 공지, 전체 채용 정보 확인, 페이스북 페이지 소식 등을 확인할 수 있는 Bot
 
-* [Telegram 챗봇](http://bit.ly/2MfbltB) 
+* [Telegram 챗봇](http://bit.ly/2MfbltB)
 
 ## 채용 (2018)
 
@@ -96,6 +96,8 @@
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
 
 * [~ 08.02] [카카오 코드 페스티벌](http://bit.ly/2ldwec1)
+
+* [~ 07.01] [네이버 Data Science Competition 2018](http://recruit.navercorp.com/naver/job/detail/developer/?annoId=20001826&classId=&jobId=)
 
 ## 신입 개발자 구직 팁
 
