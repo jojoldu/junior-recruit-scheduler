@@ -23,10 +23,11 @@ exports.handler = (event, context) => {
     if(requestChatId){
         const postData = {
             "chat_id": requestChatId,
-            "text": requestText
+            "text": createText(requestText)
         };
         sendMessage(context, postData);
     } else {
+
         docClient.scan(payload, (err, data)=> {
             if(err){
                 throw err;
@@ -37,7 +38,7 @@ exports.handler = (event, context) => {
             data.Items.forEach(subscriber => {
                 const postData = {
                     "chat_id": subscriber['chat_id'],
-                    "text": requestText
+                    "text": createText(requestText)
                 };
                 sendMessage(context, postData);
             });
@@ -45,6 +46,11 @@ exports.handler = (event, context) => {
 
     }
 };
+
+function createText(requestText) {
+    const suffixMessage = "\n전체 채용 & 행사 일정을 원하시면 /recruits 을 클릭해보세요";
+    return requestText+suffixMessage;
+}
 
 function sendMessage(context, postData) {
     const options = {

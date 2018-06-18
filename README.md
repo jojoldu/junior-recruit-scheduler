@@ -1,11 +1,20 @@
 # 주니어 개발자를 위한 취업 정보
 
+<div align=center>
 
 [![author](https://img.shields.io/badge/author-jojoldu-ff69b4.svg?style=flat-square)](http://friendly-belief.surge.sh/)
 [![Build Status](https://travis-ci.org/jojoldu/junior-recruit-scheduler.svg?branch=master)](https://travis-ci.org/jojoldu/junior-recruit-scheduler)
 [![CONTRIBUTORS](https://img.shields.io/badge/contributors-25-green.svg?style=flat-square)](https://github.com/jojoldu/junior-recruit-scheduler/blob/master/CONTRIBUTING.md)
 [![HitCount](http://hits.dwyl.io/jojoldu/junior-recruit-scheduler.svg)](http://hits.dwyl.io/jojoldu/junior-recruit-scheduler)
 
+<a href="https://github.com/jojoldu/junior-recruit-scheduler/graphs/contributors"><img src="https://opencollective.com/junior-recruit-scheduler/contributors.svg?width=720"></a>
+
+</div>
+
+> 이 저장소에 기여를 해주신 분들입니다.  
+정말 감사합니다. :pray:
+
+## 소개
 
 주니어 개발자를 위한 **양질의 채용정보**가 흩어져있는것 같아 한곳에 모으기 위한 저장소입니다.  
 인턴/신입/주니어 채용 & 해커톤 일정을 담으려고 합니다.  
@@ -22,12 +31,9 @@
 
 * [초보개발자모임](https://www.facebook.com/devbeginner/)
 
-### 챗봇
+실시간 채용 공지, 전체 채용 정보 확인, 페이스북 페이지 소식 등을 확인할 수 있는 Bot
 
-현재 공식적으로 [텔레그램](http://www.telegram.pe.kr/) 챗봇을 지원하고 있습니다.  
-실시간 채용 공지, 전체 채용 정보 확인, 페이스북 페이지 소식 등을 챗봇으로 확인할 수 있습니다.
-
-* [링크](http://bit.ly/2MfbltB) 
+* [Telegram 챗봇](http://bit.ly/2MfbltB) 
 
 ## 채용 (2018)
 
@@ -204,44 +210,3 @@
 
 * [프로그래밍 면접 이렇게 준비한다](http://book.naver.com/bookdb/book_detail.nhn?bid=7443406)
   * [요약정리](https://www.slideshare.net/ddayinhwang9/ss-60152650)
-
-## Special Thanks
-
-이 저장소가 좀 더 양질의 정보를 가질수 있도록 기여를 해주신 분들입니다.  
-혹시나 지인이시라면 격려 부탁드리겠습니다.  
-정말 감사드립니다!
-
-* [JBee](https://github.com/JaeYeopHan)
-* [Jeju-Boobby](https://github.com/Jeju-Boobby)
-* [seungdols](https://github.com/seungdols)
-* [replaykim](https://github.com/replaykim)
-* [dudmy](https://github.com/dudmy)
-* [byrage](https://github.com/byrage)
-* [Eclatant](https://github.com/Eclatant)
-* [Heepie](https://github.com/Heepie)
-* [buk4130](https://github.com/buk4130)
-* [sungjine456](https://github.com/sungjine456)
-* [ISKU](https://github.com/ISKU)
-* [lee-seul](https://github.com/lee-seul)
-* [jeanlee1783](https://github.com/jeanlee1783)
-* [starrybleu](https://github.com/starrybleu)
-* [thnam91](https://github.com/thnam91)
-* [posquit0](https://github.com/posquit0)
-* [jhleed](https://github.com/jhleed)
-* [joshua-qa](https://github.com/joshua-qa)
-* [KimHunJin](https://github.com/KimHunJin)
-* [mson0129](https://github.com/mson0129)
-* [Dry8r3aD](https://github.com/Dry8r3aD)
-* [JSpiner](https://github.com/JSpiner)
-* [urbanscenery](https://github.com/urbanscenery)
-* [grohong](https://github.com/grohong)
-* [minsungryu](https://github.com/minsungryu)
-* [Jinsu-L](https://github.com/Jinsu-L)
-* [KimHyeockJin](https://github.com/KimHyeockJin)
-* [Lenir](https://github.com/Lenir)
-* [giraffeb](https://github.com/giraffeb)
-* [isseebx123](https://github.com/isseebx123)
-* [NEONKID](https://github.com/NEONKID)
-* [antaehyeon](https://github.com/antaehyeon)
-* [StiKuan](https://github.com/StiKuan)
-* [Nesoy](http://github.com/nesoy)

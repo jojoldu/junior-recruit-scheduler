@@ -44,11 +44,10 @@ exports.handler = (event, context) => {
     } else if(requestText === "/recruits"|| requestText === "/recruits@devbeginner_bot") {
         https.get(JSON_URL, (res) => {
             res.on('data', (d) => {
-                const strJson = decoder.write(d);
-                const recruits = JSON.parse(strJson).recruits;
+                const json = JSON.parse(decoder.write(d));
                 const postData = {
                     "chat_id": requestChatId,
-                    "text": toMarkdownMessage(recruits) + "\n\n실시간 구독을 원하시면 /subscribe 를 사용해보세요.",
+                    "text": createRecruitsMessage(json)+"\n\n"+createSeminarsMessage(json)+ "\n\n실시간 구독을 원하시면 /subscribe 를 사용해보세요.",
                     "parse_mode": "Markdown"
                 };
                 sendMessage(context, postData);
@@ -125,6 +124,14 @@ exports.handler = (event, context) => {
         console.log("없는 명령어 입니다. "+ requestText);
     }
 };
+
+function createRecruitsMessage(json) {
+    return "채용 일정\n"+toMarkdownMessage(json.recruits);
+}
+
+function createSeminarsMessage(json) {
+    return "행사 일정\n"+toMarkdownMessage(json.seminars);
+}
 
 function toMarkdownMessage(recruits) {
     return recruits
