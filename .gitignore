@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea
+node_modules
+credentials.json
+http/telegram.http
+src/test.js
