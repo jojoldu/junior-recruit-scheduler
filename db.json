@@ -73,6 +73,11 @@
     ],
     "seminars": [
         {
+            "endDate": "2018-07-01",
+            "link": "http://recruit.navercorp.com/naver/job/detail/developer/?annoId=20001826&classId=&jobId=",
+            "description": "네이버 Data Science Competition 2018"
+        },
+        {
             "endDate": "2018-08-02",
             "link": "http://bit.ly/2tgl5el",
             "description": "카카오 코드 페스티벌"
