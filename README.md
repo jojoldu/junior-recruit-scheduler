@@ -95,9 +95,10 @@
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
 
+* [~ 07.01] [네이버 Data Science Competition 2018](http://recruit.navercorp.com/naver/job/detail/developer/?annoId=20001826&classId=&jobId=)
+
 * [~ 08.02] [카카오 코드 페스티벌](http://bit.ly/2ldwec1)
 
-* [~ 07.01] [네이버 Data Science Competition 2018](http://recruit.navercorp.com/naver/job/detail/developer/?annoId=20001826&classId=&jobId=)
 
 ## 신입 개발자 구직 팁
 
