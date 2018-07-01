@@ -1,11 +1,6 @@
 {
     "recruits": [
         {
-            "endDate": "2018-06-30",
-            "link": "http://bit.ly/2LPW29q",
-            "description": "보이저엑스 인턴"
-        },       
-        {
             "endDate": "채용시까지",
             "link": "http://bit.ly/2JMIHhE",
             "description": "제플린 Devops/프론트엔드/백엔드 인턴/신입 채용"
@@ -62,11 +57,6 @@
         }
     ],
     "seminars": [
-        {
-            "endDate": "2018-07-01",
-            "link": "http://recruit.navercorp.com/naver/job/detail/developer/?annoId=20001826&classId=&jobId=",
-            "description": "네이버 Data Science Competition 2018"
-        },
         {
             "endDate": "2018-08-02",
             "link": "http://bit.ly/2tgl5el",
