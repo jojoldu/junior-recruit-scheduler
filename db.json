@@ -1,6 +1,11 @@
 {
     "recruits": [
         {
+            "endDate": "~ 09.02",
+            "link": "http://bit.ly/2IIrLrp",
+            "description": "[2~3년차] 네이버 검색 FE 엔지니어 모집"
+        },
+        {
             "endDate": "채용시까지",
             "link": "http://bit.ly/2JMIHhE",
             "description": "제플린 Devops/프론트엔드/백엔드 인턴/신입 채용"

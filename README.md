@@ -50,6 +50,7 @@
 
 ### 추천 기업
 
+* [~ 09.02] [(2~3년차) 네이버 검색 FE 엔지니어 모집](http://bit.ly/2IIrLrp)
 * [채용시까지] [제플린 Devops/프론트엔드/백엔드 인턴/신입 채용](http://bit.ly/2JMIHhE)
 
 * [채용시까지] [CHEQUER 인턴 개발자 채용](http://bit.ly/2xWL7ss)
