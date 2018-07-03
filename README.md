@@ -50,8 +50,7 @@
 
 ### 추천 기업
 
-* [~ 06.30] [보이저엑스 인턴 채용](http://bit.ly/2LPW29q)
-
+* [~ 09.02] [(2~3년차) 네이버 검색 FE 엔지니어 모집](http://bit.ly/2IIrLrp)
 * [채용시까지] [제플린 Devops/프론트엔드/백엔드 인턴/신입 채용](http://bit.ly/2JMIHhE)
 
 * [채용시까지] [CHEQUER 인턴 개발자 채용](http://bit.ly/2xWL7ss)
@@ -94,8 +93,6 @@
 ### 채용 관련 행사
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
-
-* [~ 07.01] [네이버 Data Science Competition 2018](http://recruit.navercorp.com/naver/job/detail/developer/?annoId=20001826&classId=&jobId=)
 
 * [~ 08.02] [카카오 코드 페스티벌](http://bit.ly/2ldwec1)
 
