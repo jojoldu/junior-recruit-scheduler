@@ -78,6 +78,11 @@
   * [검색 스팸 연구 및 시스템 개발 신입](http://bit.ly/2JqpUZ7)
   * [다음 메일 프론트엔드 개발 신입](http://bit.ly/2sGpg3k)
 
+* [채용시까지] [인코어드/에너톡 프론트엔드 개발자](http://bit.ly/2zMCwtg)
+  * [내가 인코어드에서 일하는 이유 (Part 1. 왜)](http://naver.me/xj6vbhiP)
+  * [내가 인코어드에서 일하는 이유 (Part 2. 어떻게)](http://naver.me/5iyN4vJc)
+  * [내가 인코어드에서 일하는 이유 (Part 3. 무엇을)](http://naver.me/5goR7D7z)
+
 ### 이외 채용정보 얻는법
 
 **잡코리아, 사람인 채용 정보는 개인적으로는 추천하지 않습니다**.  
