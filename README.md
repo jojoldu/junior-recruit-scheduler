@@ -50,20 +50,22 @@
 
 ### 추천 기업
 
-* [~ 09.02] [(2~3년차) 네이버 검색 FE 엔지니어 모집](http://bit.ly/2IIrLrp)
-* [채용시까지] [제플린 Devops/프론트엔드/백엔드 인턴/신입 채용](http://bit.ly/2JMIHhE)
-
+* [~ 07.29][줌인터넷 공개채용](https://zuminternet.recruiter.co.kr/app/jobnotice/list)
+  * [플랫폼 개발 (신입/경력)](https://zuminternet.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=2373)
+  * [서비스 개발 (신입/경력)](https://zuminternet.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=2604)
+  * [모바일 신사업 기획 & 앱 개발 (신입/경력)](https://zuminternet.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=2607)
+  * [인공지능 연구 (신입/경력)](https://zuminternet.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=2615)
+* [~ 09.02][(2~3년차) 네이버 검색 FE 엔지니어 모집](http://bit.ly/2IIrLrp)
+* [채용시까지][제플린 Devops/프론트엔드/백엔드 인턴/신입 채용](http://bit.ly/2JMIHhE)
+* [채용시까지][NHN엔터테인먼트 Cloud 시스템 개발 인턴 채용](https://recruit.nhnent.com/ent/recruitings/20000960)
 * [채용시까지] [CHEQUER 인턴 개발자 채용](http://bit.ly/2xWL7ss)
   * [CHEQUER가 일하는 방식 1](https://medium.com/chequer/how-chequer-works-1-95e095706285)
   * [CHEQUER가 일하는 방식 2](https://medium.com/chequer/how-chequer-works-2-company-guide-48bb5bb64cab)
-
 * [채용시까지] [지그재그 웹/IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
   * [기술 블로그](https://devblog.croquis.com/ko/)
   * [지그재그 트래픽](http://ppss.kr/archives/151825)
   * [지그재그 아웃스탠딩](http://outstanding.kr/zigzag20170123/)
-
 * [채용시까지] [데이블 웹/Devops/데이터분석가/데이터엔지니어 신입/병특 채용](http://bit.ly/2M8oaG1)
-
 * [채용시까지] [8퍼센트 신입 개발자 채용](http://bit.ly/2M7dk2S)
   * [(참고자료) 박문수 이야기](https://brunch.co.kr/@leehosung/12)
   * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
@@ -71,13 +73,11 @@
   * [(참고자료) 두숟갈 스터디를 마치며](https://brunch.co.kr/@leehosung/42)
 * [채용시까지] [오마이랩 신입/경력 프론트엔드 개발자 채용](http://bit.ly/2xVdjft)
 * [채용시까지] [NBT(캐시슬라이드) 주니어 Devops 채용](http://bit.ly/2JspeTd)
-
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
   * [사내 정보 시스템 개발 신입](http://bit.ly/2sLH9NA)
   * [컴퓨터비전 및 머신러닝 신입](http://bit.ly/2sN04Zp)
   * [검색 스팸 연구 및 시스템 개발 신입](http://bit.ly/2JqpUZ7)
   * [다음 메일 프론트엔드 개발 신입](http://bit.ly/2sGpg3k)
-
 * [채용시까지] [인코어드/에너톡 프론트엔드 개발자](http://bit.ly/2zMCwtg)
   * [내가 인코어드에서 일하는 이유 (Part 1. 왜)](http://naver.me/xj6vbhiP)
   * [내가 인코어드에서 일하는 이유 (Part 2. 어떻게)](http://naver.me/5iyN4vJc)
