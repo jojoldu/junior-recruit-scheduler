@@ -1,7 +1,12 @@
 {
     "recruits": [
         {
-            "endDate": "~ 09.02",
+            "endDate": "07.29",
+            "link": "https://zuminternet.recruiter.co.kr/app/jobnotice/list",
+            "description": "줌인터넷 공개채용"
+        },
+        {
+            "endDate": "09.02",
             "link": "http://bit.ly/2IIrLrp",
             "description": "네이버 검색 FE 2~3년차 엔지니어 모집"
         },
@@ -9,6 +14,11 @@
             "endDate": "채용시까지",
             "link": "http://bit.ly/2JMIHhE",
             "description": "제플린 Devops/프론트엔드/백엔드 인턴/신입 채용"
+        },
+        {
+            "endDate": "채용시까지",
+            "link": "https://recruit.nhnent.com/ent/recruitings/20000960",
+            "description": "NHN엔터테인먼트 Cloud 시스템 개발 인턴 채용"
         },
         {
             "endDate": "채용시까지",
@@ -59,11 +69,16 @@
             "endDate": "채용시까지",
             "link": "http://bit.ly/2M8oaG1",
             "description": "데이블 웹/Devops/데이터분석가/데이터엔지니어 신입/병특 채용"
+        },
+        {
+            "endDate": "채용시까지",
+            "link": "http://bit.ly/2zMCwtg",
+            "description": "프론트엔드 개발자 Kickass Developer"
         }
     ],
     "seminars": [
         {
-            "endDate": "2018-08-02",
+            "endDate": "08.02",
             "link": "http://bit.ly/2tgl5el",
             "description": "카카오 코드 페스티벌"
         }
