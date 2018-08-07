@@ -94,9 +94,6 @@
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
 
-* [~ 08.02] [카카오 코드 페스티벌](http://bit.ly/2ldwec1)
-
-
 ## 신입 개발자 구직 팁
 
 **취업 팁 외에 다른 팁은 포함시키지 않습니다.**  
@@ -185,6 +182,8 @@
 * [이번 기술 면접 중 기억나는 질문과 답변들 (프론트엔드)](https://medium.com/@jimkimau/이번-기술-면접-중-기억나는-질문과-답변들-712daa9a2dc)
 
 * [DaeHeeKim93(김대희)님의 기술면접 자료 Repository](https://github.com/DaeHeeKim93/DaeHeeKim-Review)
+
+* [1년 동안 면접을 보며 만났던 질문 리스트 (기술)](https://github.com/KimHunJin/Study-Book/tree/master/interview)
 
 ### 기타 정보
 
