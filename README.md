@@ -50,11 +50,6 @@
 
 ### 추천 기업
 
-* [~ 07.29] [줌인터넷 공개채용](https://zuminternet.recruiter.co.kr/app/jobnotice/list)
-  * [플랫폼 개발 (신입/경력)](https://zuminternet.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=2373)
-  * [서비스 개발 (신입/경력)](https://zuminternet.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=2604)
-  * [모바일 신사업 기획 & 앱 개발 (신입/경력)](https://zuminternet.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=2607)
-  * [인공지능 연구 (신입/경력)](https://zuminternet.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=2615)
 * [~ 09.02] [(2~3년차) 네이버 검색 FE 엔지니어 모집](http://bit.ly/2IIrLrp)
 * [채용시까지] [제플린 Devops/프론트엔드/백엔드 인턴/신입 채용](http://bit.ly/2JMIHhE)
 * [채용시까지] [NHN엔터테인먼트 Cloud 시스템 개발 인턴 채용](https://recruit.nhnent.com/ent/recruitings/20000960)
