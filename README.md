@@ -167,8 +167,6 @@
 
 * [카카오 면접 시 듣게 되는 70가지 질문(블로터)](http://www.bloter.net/archives/245529)
 
-* [페이스북 면접은 어떻게 다를까?](http://catlog.kr/entry/how-facebook-interview-different)
-
 * [애플 면접에서 듣게 되는 33가지 질문(기사)](http://www.bloter.net/archives/244910)
 
 * [초보팀장의 일기 - 면접을 볼 때마다 하는 질문들](https://web.archive.org/web/20170420162138/http://blog.java2game.com/401)
