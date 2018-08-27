@@ -73,9 +73,9 @@
     ],
     "seminars": [
         {
-            "endDate": "08.02",
-            "link": "http://bit.ly/2tgl5el",
-            "description": "카카오 코드 페스티벌"
+            "endDate": "09.02",
+            "link": "https://programmers.co.kr/competitions/82",
+            "description": "프로그래머스 2018 하반기 공채 대비 코딩테스트 실전 모의고사 1회"
         }
     ]
 }
