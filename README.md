@@ -51,6 +51,7 @@
 ### 추천 기업
 
 * [~ 09.02] [(2~3년차) 네이버 검색 FE 엔지니어 모집](http://bit.ly/2IIrLrp)
+* [~ 09.11] [2019 카카오 블라인드 채용](https://welcomekakao.com/competitions/79/2019-2nd-kakao-blind-recruitment)
 * [채용시까지] [제플린 Devops/프론트엔드/백엔드 인턴/신입 채용](http://bit.ly/2JMIHhE)
 * [채용시까지] [NHN엔터테인먼트 Cloud 시스템 개발 인턴 채용](https://recruit.nhnent.com/ent/recruitings/20000960)
 * [채용시까지] [CHEQUER 인턴 개발자 채용](http://bit.ly/2xWL7ss)
