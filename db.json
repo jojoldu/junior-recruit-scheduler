@@ -1,11 +1,6 @@
 {
     "recruits": [
         {
-            "endDate": "09.02",
-            "link": "http://bit.ly/2IIrLrp",
-            "description": "네이버 검색 FE 2~3년차 엔지니어 모집"
-        },
-        {
             "endDate": "09.11",
             "link": "https://welcomekakao.com/competitions/79/2019-2nd-kakao-blind-recruitment",
             "description": "2019 카카오 블라인드 채용"
@@ -77,10 +72,5 @@
         }
     ],
     "seminars": [
-        {
-            "endDate": "09.02",
-            "link": "https://programmers.co.kr/competitions/82",
-            "description": "프로그래머스 2018 하반기 공채 대비 코딩테스트 실전 모의고사 1회"
-        }
     ]
 }
