@@ -6,6 +6,16 @@
             "description": "2019 카카오 블라인드 채용"
         },
         {
+            "endDate": "09.17",
+            "link": "https://recruit.linepluscorp.com/lineplus/career/detail/20002193?classId=&entTypeCd=&page",
+            "description": "라인 신입/인턴 채용"
+        },
+        {
+            "endDate": "09.26 17:00",
+            "link": "https://recruit.nhnent.com/ent/recruitings/20001014",
+            "description": "NHN 엔터테인먼트 신입 채용"
+        },
+        {
             "endDate": "채용시까지",
             "link": "http://bit.ly/2JMIHhE",
             "description": "제플린 Devops/프론트엔드/백엔드 인턴/신입 채용"
