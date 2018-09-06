@@ -50,8 +50,8 @@
 
 ### 추천 기업
 
-* [~ 09.11] [2019 카카오 블라인드 채용](https://welcomekakao.com/competitions/79/2019-2nd-kakao-blind-recruitment)
-* [~ 09.17] [2018 라인 신입/인턴 채용](https://recruit.linepluscorp.com/lineplus/career/detail/20002193?classId=&entTypeCd=&page=)
+* [~ 09.11 23:59] [2019 카카오 블라인드 채용](https://welcomekakao.com/competitions/79/2019-2nd-kakao-blind-recruitment)
+* [~ 09.17 17:00] [2018 라인 신입/인턴 채용](https://recruit.linepluscorp.com/lineplus/career/detail/20002193?classId=&entTypeCd=&page=)
 * [~ 09.26 17:00] [NHN 엔터테인먼트 신입 채용](https://recruit.nhnent.com/ent/recruitings/20001014)
   
 * [채용시까지] [제플린 Devops/프론트엔드/백엔드 인턴/신입 채용](http://bit.ly/2JMIHhE)
