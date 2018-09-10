@@ -55,7 +55,6 @@
 * [~ 09.26 17:00] [NHN 엔터테인먼트 신입 채용](https://recruit.nhnent.com/ent/recruitings/20001014)
   
 * [채용시까지] [제플린 Devops/프론트엔드/백엔드 인턴/신입 채용](http://bit.ly/2JMIHhE)
-* [채용시까지] [NHN엔터테인먼트 Cloud 시스템 개발 인턴 채용](https://recruit.nhnent.com/ent/recruitings/20000960)
 * [채용시까지] [CHEQUER 인턴 개발자 채용](http://bit.ly/2xWL7ss)
   * [CHEQUER가 일하는 방식 1](https://medium.com/chequer/how-chequer-works-1-95e095706285)
   * [CHEQUER가 일하는 방식 2](https://medium.com/chequer/how-chequer-works-2-company-guide-48bb5bb64cab)
@@ -73,7 +72,6 @@
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
   * [사내 정보 시스템 개발 신입](http://bit.ly/2sLH9NA)
   * [컴퓨터비전 및 머신러닝 신입](http://bit.ly/2sN04Zp)
-  * [검색 스팸 연구 및 시스템 개발 신입](http://bit.ly/2JqpUZ7)
 * [채용시까지] [인코어드/에너톡 프론트엔드 개발자](http://bit.ly/2zMCwtg)
   * [내가 인코어드에서 일하는 이유 (Part 1. 왜)](http://naver.me/xj6vbhiP)
   * [내가 인코어드에서 일하는 이유 (Part 2. 어떻게)](http://naver.me/5iyN4vJc)
