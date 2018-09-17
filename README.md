@@ -2,7 +2,7 @@
 
 <div align=center>
 
-[![author](https://img.shields.io/badge/author-jojoldu-ff69b4.svg?style=flat-square)](http://friendly-belief.surge.sh/)
+[![author](https://img.shields.io/badge/author-jojoldu-ff69b4.svg?style=flat-square)](https://jojoldu.tistory.com/)
 [![Build Status](https://travis-ci.org/jojoldu/junior-recruit-scheduler.svg?branch=master)](https://travis-ci.org/jojoldu/junior-recruit-scheduler)
 [![CONTRIBUTORS](https://img.shields.io/badge/contributors-25-green.svg?style=flat-square)](https://github.com/jojoldu/junior-recruit-scheduler/blob/master/CONTRIBUTING.md)
 [![HitCount](http://hits.dwyl.io/jojoldu/junior-recruit-scheduler.svg)](http://hits.dwyl.io/jojoldu/junior-recruit-scheduler)
