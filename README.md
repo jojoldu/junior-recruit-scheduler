@@ -196,6 +196,10 @@
 
 * [2017 카카오 블라인드 코딩테스트 3차 해설](http://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/)
 
+* [2018 카카오 코드 페스티벌 예선전 해설](http://tech.kakao.com/2018/08/09/code-festival-2018-round-1/)
+
+* [2018 카카오 코드 페스티벌 본선 해설](http://tech.kakao.com/2018/09/12/code-festival-2018-round-2/)
+
 * [Java Interview Question (영문)](https://www.javatpoint.com/corejava-interview-questions)
 
 ### 추천 도서
