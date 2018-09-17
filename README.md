@@ -2,7 +2,7 @@
 
 <div align=center>
 
-[![author](https://img.shields.io/badge/author-jojoldu-ff69b4.svg?style=flat-square)](http://friendly-belief.surge.sh/)
+[![author](https://img.shields.io/badge/author-jojoldu-ff69b4.svg?style=flat-square)](https://jojoldu.tistory.com/)
 [![Build Status](https://travis-ci.org/jojoldu/junior-recruit-scheduler.svg?branch=master)](https://travis-ci.org/jojoldu/junior-recruit-scheduler)
 [![CONTRIBUTORS](https://img.shields.io/badge/contributors-25-green.svg?style=flat-square)](https://github.com/jojoldu/junior-recruit-scheduler/blob/master/CONTRIBUTING.md)
 [![HitCount](http://hits.dwyl.io/jojoldu/junior-recruit-scheduler.svg)](http://hits.dwyl.io/jojoldu/junior-recruit-scheduler)
@@ -195,6 +195,10 @@
 * [2017 카카오 블라인드 코딩테스트 2차 해설](http://tech.kakao.com/2017/10/24/kakao-blind-recruitment-round-2/)
 
 * [2017 카카오 블라인드 코딩테스트 3차 해설](http://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/)
+
+* [2018 카카오 코드 페스티벌 예선전 해설](http://tech.kakao.com/2018/08/09/code-festival-2018-round-1/)
+
+* [2018 카카오 코드 페스티벌 본선 해설](http://tech.kakao.com/2018/09/12/code-festival-2018-round-2/)
 
 * [Java Interview Question (영문)](https://www.javatpoint.com/corejava-interview-questions)
 
