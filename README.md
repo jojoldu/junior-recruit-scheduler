@@ -184,6 +184,8 @@
 
 * [2016 KSUG 경력 관리 세미나](http://bit.ly/2JEexjS)
 
+* [T아카데미 토크 ON 세미나](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action)
+
 * [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
 
 * [나무위키 SI](https://namu.wiki/w/SI)
