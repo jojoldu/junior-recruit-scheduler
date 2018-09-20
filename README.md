@@ -55,9 +55,6 @@
 * [~ 09.29 24:00] [11번가 서비스 개발 신입 채용](http://bit.ly/2DehSnO)
 
 * [채용시까지] [제플린 Devops/프론트엔드/백엔드 인턴/신입 채용](http://bit.ly/2JMIHhE)
-* [채용시까지] [CHEQUER 인턴 개발자 채용](http://bit.ly/2xWL7ss)
-  * [CHEQUER가 일하는 방식 1](https://medium.com/chequer/how-chequer-works-1-95e095706285)
-  * [CHEQUER가 일하는 방식 2](https://medium.com/chequer/how-chequer-works-2-company-guide-48bb5bb64cab)
 * [채용시까지] [지그재그 웹/IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
   * [기술 블로그](https://devblog.croquis.com/ko/)
   * [지그재그 트래픽](http://ppss.kr/archives/151825)
