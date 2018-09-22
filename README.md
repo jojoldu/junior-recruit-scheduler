@@ -182,19 +182,13 @@
 ### 기타 정보
 
 * [2016 KSUG 경력 관리 세미나](http://bit.ly/2JEexjS)
-
 * [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
-
 * [나무위키 SI](https://namu.wiki/w/SI)
-
 * [피해야 하는 중소기업 거르는 꿀팁](http://principlesofknowledge.kr/archives/31414)
-
 * 2017 카카오 코드 페스티벌 [예선전](http://tech.kakao.com/2017/08/11/code-festival-round-1/), [본선](http://tech.kakao.com/2017/09/14/code-festival-round-2/) 해설
-
 * 2017 카카오 블라인드 코딩테스트 [1차](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/), [2차](http://tech.kakao.com/2017/10/24/kakao-blind-recruitment-round-2/), [3차](http://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/) 해설
-
 * 2018 카카오 코드 페스티벌 [예선전](http://tech.kakao.com/2018/08/09/code-festival-2018-round-1/), [본선](http://tech.kakao.com/2018/09/12/code-festival-2018-round-2/) 해설
-
+* 2019 카카오 신입 공채 코딩 테스트 [1차](http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/) 해설
 * [Java Interview Question (영문)](https://www.javatpoint.com/corejava-interview-questions)
 
 ### 추천 도서
