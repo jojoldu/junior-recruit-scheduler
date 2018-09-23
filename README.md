@@ -65,7 +65,6 @@
   * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
   * [(참고자료) 냉정과 열정사이](https://brunch.co.kr/@leehosung/34)
   * [(참고자료) 두숟갈 스터디를 마치며](https://brunch.co.kr/@leehosung/42)
-* [채용시까지] [오마이랩 신입/경력 프론트엔드 개발자 채용](http://bit.ly/2xVdjft)
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
   * [사내 정보 시스템 개발 신입](http://bit.ly/2sLH9NA)
   * [컴퓨터비전 및 머신러닝 신입](http://bit.ly/2sN04Zp)
