@@ -72,6 +72,9 @@
   * [내가 인코어드에서 일하는 이유 (Part 1. 왜)](http://naver.me/xj6vbhiP)
   * [내가 인코어드에서 일하는 이유 (Part 2. 어떻게)](http://naver.me/5iyN4vJc)
   * [내가 인코어드에서 일하는 이유 (Part 3. 무엇을)](http://naver.me/5goR7D7z)
+* [채용시까지] [MyMusicTaste Frontend 개발자 채용](http://bit.ly/2OOayk8)
+  * [MyMusicTaste 개발문화](https://github.com/MyMusicTaste/recruit)
+  * [기술 블로그](https://mymusictaste.github.io/)
 
 ### 이외 채용정보 얻는법
 
