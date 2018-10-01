@@ -50,6 +50,7 @@
 
 ### 추천 기업
 
+* [09.20 ~ 10.11 13:00] [NC Soft 하반기 신입 개발자 채용](http://bit.ly/2NU4c68)
 * [채용시까지] [제플린 Devops/프론트엔드/백엔드 인턴/신입 채용](http://bit.ly/2JMIHhE)
 * [채용시까지] [지그재그 웹/IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
   * [기술 블로그](https://devblog.croquis.com/ko/)
