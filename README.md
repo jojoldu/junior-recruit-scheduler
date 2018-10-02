@@ -178,7 +178,7 @@
 
 * [1년 동안 면접을 보며 만났던 질문 리스트 (기술)](https://github.com/KimHunJin/Study-Book/tree/master/interview)
 
-* [직접 경험을 통해 추려낸 공통 질문](https://github.com/KSH-code/Technical-Interview/tree/master/other/predict-questions)
+* [직접 경험을 통해 추려낸 공통 질문](https://github.com/KSH-code/Technical-Interview/blob/master/README.md)
 
 ### 기타 정보
 
