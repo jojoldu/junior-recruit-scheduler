@@ -44,7 +44,12 @@
             "endDate": "채용시까지",
             "link": "http://bit.ly/2IfFcQK",
             "description": "MyMusicTaste 프론트엔드 개발 신입 채용"
-        }
+        },
+	{
+            "endDate": "10.27 12:00",
+            "link": "https://bit.ly/2NdZUl8",
+            "description": "2018 Winter Coding - 겨울 스타트업 인턴 프로그램"
+	}
     ],
     "seminars": [
     ]

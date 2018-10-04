@@ -72,6 +72,7 @@
 * [채용시까지] [MyMusicTaste Frontend 개발자 채용](http://bit.ly/2OOayk8)
   * [MyMusicTaste 개발문화](https://github.com/MyMusicTaste/recruit)
   * [기술 블로그](https://mymusictaste.github.io/)
+* [10.01 ~ 10.27 12:00] [2018 Winter Coding - 겨울 스타트업 인턴 프로그램](https://bit.ly/2NdZUl8)
 
 ### 이외 채용정보 얻는법
 
