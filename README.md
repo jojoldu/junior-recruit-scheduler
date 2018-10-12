@@ -50,7 +50,6 @@
 
 ### 추천 기업
 
-* [09.20 ~ 10.11 13:00] [NC Soft 하반기 신입 개발자 채용](http://bit.ly/2NU4c68)
 * [10.01 ~ 10.22] [파수닷컴 신입 공개 채용](https://bit.ly/2zPYfyp)
 * [채용시까지] [제플린 Devops/백엔드 신입 채용](http://bit.ly/2JMIHhE)
 * [채용시까지] [지그재그 웹/IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
