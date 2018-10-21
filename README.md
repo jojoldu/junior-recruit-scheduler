@@ -98,6 +98,8 @@
 
 ### 구직 전반
 
+* [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT 기업 도전기](http://bit.ly/2yqiH7V)
+
 * [이종립(aka. 기계인간)님의 SI탈출하기 세미나 by OKKY](http://bit.ly/2LAkFqL)
 
 * [남궁성의 코드초보스터디 카페 모음](http://cafe.naver.com/javachobostudy)
