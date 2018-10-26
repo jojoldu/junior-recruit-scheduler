@@ -50,9 +50,9 @@
 
 ### 추천 기업
 
-* [10.01 ~ 10.22] [파수닷컴 신입 공개 채용](https://bit.ly/2zPYfyp)
 * [10.01 ~ 10.27 12:00] [2018 Winter Coding - 겨울 스타트업 인턴 프로그램](https://bit.ly/2NdZUl8)
 * [10.15 ~ 10.31] [NAVER CAMPUS HACKDAY](https://bit.ly/2RNcNWJ)
+
 * [채용시까지] [제플린 Devops/백엔드 신입 채용](http://bit.ly/2JMIHhE)
 * [채용시까지] [지그재그 웹/IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
   * [기술 블로그](https://devblog.croquis.com/ko/)
