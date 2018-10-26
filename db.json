@@ -1,6 +1,12 @@
 {
     "recruits": [
         {
+          "endDate": "10.31 00:00",
+          "link": "https://bit.ly/2RNcNWJ",
+          "description": "NAVER CAMPUS HACKDAY"
+        },
+
+        {
             "endDate": "채용시까지",
             "link": "http://bit.ly/2JMIHhE",
             "description": "제플린 Devops/백엔드 신입 채용"
