@@ -50,12 +50,10 @@
 
 ### 추천 기업
 
-* [채용시까지] [제플린 Devops/백엔드 신입 채용](http://bit.ly/2JMIHhE)
 * [채용시까지] [지그재그 웹/IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
   * [기술 블로그](https://devblog.croquis.com/ko/)
   * [지그재그 트래픽](http://ppss.kr/archives/151825)
   * [지그재그 아웃스탠딩](http://outstanding.kr/zigzag20170123/)
-* [채용시까지] [데이블 웹/Devops/데이터분석가/데이터엔지니어 신입/병특 채용](http://bit.ly/2M8oaG1)
 * [채용시까지] [8퍼센트 신입 개발자 채용](http://bit.ly/2M7dk2S)
   * [(참고자료) 박문수 이야기](https://brunch.co.kr/@leehosung/12)
   * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
