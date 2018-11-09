@@ -2,11 +2,6 @@
     "recruits": [
         {
             "endDate": "채용시까지",
-            "link": "http://bit.ly/2JMIHhE",
-            "description": "제플린 Devops/백엔드 신입 채용"
-        },
-        {
-            "endDate": "채용시까지",
             "link": "http://bit.ly/2JpPLob",
             "description": "지그재그 웹/IOS/안드로이드 신입"
         },
@@ -24,16 +19,6 @@
             "endDate": "채용시까지",
             "link": "http://bit.ly/2sN04Zp",
             "description": "카카오 - 컴퓨터비전 및 머신러닝 개발 신입"
-        },
-        {
-            "endDate": "채용시까지",
-            "link": "http://bit.ly/2M8oaG1",
-            "description": "데이블 웹/Devops/데이터분석가/데이터엔지니어 신입/병특 채용"
-        },
-        {
-            "endDate": "채용시까지",
-            "link": "http://bit.ly/2zMCwtg",
-            "description": "프론트엔드 개발자 Kickass Developer"
         },
         {
             "endDate": "채용시까지",
