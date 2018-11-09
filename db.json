@@ -42,5 +42,10 @@
         }
     ],
     "seminars": [
+        {
+            "endDate": "2019.01.07 00:00:00",
+            "link": "https://arena.kakao.com/c/1",
+            "description": "카카오 - 쇼핑몰 상품 카테고리 분류 대회"
+        }
     ]
 }
