@@ -65,6 +65,7 @@
 * [채용시까지] [MyMusicTaste Frontend 개발자 채용](http://bit.ly/2OOayk8)
   * [MyMusicTaste 개발문화](https://github.com/MyMusicTaste/recruit)
   * [기술 블로그](https://mymusictaste.github.io/)
+* [~ 2018.12.02 23:59:59] [2018 Works Mobile SW개발/서비스 부문 채용전제형 인턴 모집](https://bit.ly/2DyfA1s)
   
 ### 이외 채용정보 얻는법
 
