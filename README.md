@@ -120,6 +120,8 @@
 
 * [컴공으로 대기업 취업하기, 인적성 검사 통과 요령 및 면접 필살기](https://medium.com/@xissy/%EC%BB%B4%EA%B3%B5%EC%9C%BC%EB%A1%9C-%EB%8C%80%EA%B8%B0%EC%97%85-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0-cbf42d46e269)
 
+* [원티드와 함께하는 개발자 커리어 터치](https://www.notion.so/8a5fb590ae204295adf8117b5f58e32e)
+
 ### 이력서 & 포트폴리오 작성법
 
 * [원티드랩에서 이야기하는 통과잘되는 이력서 작성법 (신입/경력 포함)](https://brunch.co.kr/@wantedlab/29)
