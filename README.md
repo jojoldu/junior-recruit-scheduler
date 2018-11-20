@@ -2,7 +2,7 @@
 
 <div align=center>
 
-[![author](https://img.shields.io/badge/author-jojoldu-ff69b4.svg?style=flat-square)](http://friendly-belief.surge.sh/)
+[![author](https://img.shields.io/badge/author-jojoldu-ff69b4.svg?style=flat-square)](https://jojoldu.tistory.com/)
 [![Build Status](https://travis-ci.org/jojoldu/junior-recruit-scheduler.svg?branch=master)](https://travis-ci.org/jojoldu/junior-recruit-scheduler)
 [![CONTRIBUTORS](https://img.shields.io/badge/contributors-25-green.svg?style=flat-square)](https://github.com/jojoldu/junior-recruit-scheduler/blob/master/CONTRIBUTING.md)
 [![HitCount](http://hits.dwyl.io/jojoldu/junior-recruit-scheduler.svg)](http://hits.dwyl.io/jojoldu/junior-recruit-scheduler)
@@ -50,33 +50,27 @@
 
 ### 추천 기업
 
-* [~ 09.02] [(2~3년차) 네이버 검색 FE 엔지니어 모집](http://bit.ly/2IIrLrp)
-* [채용시까지] [제플린 Devops/프론트엔드/백엔드 인턴/신입 채용](http://bit.ly/2JMIHhE)
-* [채용시까지] [NHN엔터테인먼트 Cloud 시스템 개발 인턴 채용](https://recruit.nhnent.com/ent/recruitings/20000960)
-* [채용시까지] [CHEQUER 인턴 개발자 채용](http://bit.ly/2xWL7ss)
-  * [CHEQUER가 일하는 방식 1](https://medium.com/chequer/how-chequer-works-1-95e095706285)
-  * [CHEQUER가 일하는 방식 2](https://medium.com/chequer/how-chequer-works-2-company-guide-48bb5bb64cab)
+* [~ 2018.12.02 23:59:59] [2018 Works Mobile SW개발/서비스 부문 채용전제형 인턴 모집](https://bit.ly/2DyfA1s)
 * [채용시까지] [지그재그 웹/IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
   * [기술 블로그](https://devblog.croquis.com/ko/)
   * [지그재그 트래픽](http://ppss.kr/archives/151825)
   * [지그재그 아웃스탠딩](http://outstanding.kr/zigzag20170123/)
-* [채용시까지] [데이블 웹/Devops/데이터분석가/데이터엔지니어 신입/병특 채용](http://bit.ly/2M8oaG1)
 * [채용시까지] [8퍼센트 신입 개발자 채용](http://bit.ly/2M7dk2S)
   * [(참고자료) 박문수 이야기](https://brunch.co.kr/@leehosung/12)
   * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
   * [(참고자료) 냉정과 열정사이](https://brunch.co.kr/@leehosung/34)
   * [(참고자료) 두숟갈 스터디를 마치며](https://brunch.co.kr/@leehosung/42)
-* [채용시까지] [오마이랩 신입/경력 프론트엔드 개발자 채용](http://bit.ly/2xVdjft)
-* [채용시까지] [NBT(캐시슬라이드) 주니어 Devops 채용](http://bit.ly/2JspeTd)
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
   * [사내 정보 시스템 개발 신입](http://bit.ly/2sLH9NA)
   * [컴퓨터비전 및 머신러닝 신입](http://bit.ly/2sN04Zp)
-  * [검색 스팸 연구 및 시스템 개발 신입](http://bit.ly/2JqpUZ7)
-  * [다음 메일 프론트엔드 개발 신입](http://bit.ly/2sGpg3k)
-* [채용시까지] [인코어드/에너톡 프론트엔드 개발자](http://bit.ly/2zMCwtg)
-  * [내가 인코어드에서 일하는 이유 (Part 1. 왜)](http://naver.me/xj6vbhiP)
-  * [내가 인코어드에서 일하는 이유 (Part 2. 어떻게)](http://naver.me/5iyN4vJc)
-  * [내가 인코어드에서 일하는 이유 (Part 3. 무엇을)](http://naver.me/5goR7D7z)
+* [채용시까지] [MyMusicTaste Frontend 개발자 채용](http://bit.ly/2OOayk8)
+  * [MyMusicTaste 개발문화](https://github.com/MyMusicTaste/recruit)
+  * [기술 블로그](https://mymusictaste.github.io/)
+
+### 채용 관련 행사
+
+채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
+* [~ 2019.01.07 00:00:00] [카카오 - 쇼핑몰 상품 카테고리 분류 대회](https://arena.kakao.com/c/1)
 
 ### 이외 채용정보 얻는법
 
@@ -90,19 +84,16 @@
 * [원티드 신입 개발자 채용 리스트](https://www.wanted.co.kr/wdlist/518?referer_id=23685&years=0)
 * [로켓펀치 '병역대체' 채용 리스트](https://www.rocketpunch.com/jobs?military_service=1&q=)
 
-### 채용 관련 행사
-
-채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
-
-* [~ 08.02] [카카오 코드 페스티벌](http://bit.ly/2ldwec1)
-
-
 ## 신입 개발자 구직 팁
 
 **취업 팁 외에 다른 팁은 포함시키지 않습니다.**  
 주니어를 위한 각종 팁은 [페이스북 페이지](https://www.facebook.com/devbeginner/)를 참고해주세요
 
 ### 구직 전반
+
+* [OKKY 취준생 Q&A Meet-up 세미나 후기](http://bit.ly/2P8afUH)
+
+* [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT 기업 도전기](http://bit.ly/2yqiH7V)
 
 * [이종립(aka. 기계인간)님의 SI탈출하기 세미나 by OKKY](http://bit.ly/2LAkFqL)
 
@@ -129,6 +120,8 @@
 * [피해야 할 개발자 일자리의 징후](http://www.itworld.co.kr/news/105216)
 
 * [컴공으로 대기업 취업하기, 인적성 검사 통과 요령 및 면접 필살기](https://medium.com/@xissy/%EC%BB%B4%EA%B3%B5%EC%9C%BC%EB%A1%9C-%EB%8C%80%EA%B8%B0%EC%97%85-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0-cbf42d46e269)
+
+* [원티드와 함께하는 개발자 커리어 터치](https://www.notion.so/8a5fb590ae204295adf8117b5f58e32e)
 
 ### 이력서 & 포트폴리오 작성법
 
@@ -172,8 +165,6 @@
 
 * [카카오 면접 시 듣게 되는 70가지 질문(블로터)](http://www.bloter.net/archives/245529)
 
-* [페이스북 면접은 어떻게 다를까?](http://catlog.kr/entry/how-facebook-interview-different)
-
 * [애플 면접에서 듣게 되는 33가지 질문(기사)](http://www.bloter.net/archives/244910)
 
 * [초보팀장의 일기 - 면접을 볼 때마다 하는 질문들](https://web.archive.org/web/20170420162138/http://blog.java2game.com/401)
@@ -186,22 +177,23 @@
 
 * [DaeHeeKim93(김대희)님의 기술면접 자료 Repository](https://github.com/DaeHeeKim93/DaeHeeKim-Review)
 
+* [1년 동안 면접을 보며 만났던 질문 리스트 (기술)](https://github.com/KimHunJin/Study-Book/tree/master/interview)
+
+* [직접 경험을 통해 추려낸 공통 질문](https://github.com/KSH-code/Technical-Interview/blob/master/README.md)
+
+* [Do-Hee(권희정, 박도연님)의 기술면접 자료 Repository](https://github.com/Do-Hee/tech-interview)
+
 ### 기타 정보
 
+* [개발자 채용시 기술검증 어떻게 할 것인가 - 세미나 후기](http://bit.ly/2QDKlWs)
 * [2016 KSUG 경력 관리 세미나](http://bit.ly/2JEexjS)
-
 * [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
-
 * [나무위키 SI](https://namu.wiki/w/SI)
-
 * [피해야 하는 중소기업 거르는 꿀팁](http://principlesofknowledge.kr/archives/31414)
-
-* [2017 카카오 블라인드 코딩테스트 1차 해설](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
-
-* [2017 카카오 블라인드 코딩테스트 2차 해설](http://tech.kakao.com/2017/10/24/kakao-blind-recruitment-round-2/)
-
-* [2017 카카오 블라인드 코딩테스트 3차 해설](http://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/)
-
+* 2017 카카오 코드 페스티벌 [예선전](http://tech.kakao.com/2017/08/11/code-festival-round-1/), [본선](http://tech.kakao.com/2017/09/14/code-festival-round-2/) 해설
+* 2018 카카오 블라인드 코딩테스트 [1차](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/), [2차](http://tech.kakao.com/2017/10/24/kakao-blind-recruitment-round-2/), [3차](http://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/) 해설
+* 2018 카카오 코드 페스티벌 [예선전](http://tech.kakao.com/2018/08/09/code-festival-2018-round-1/), [본선](http://tech.kakao.com/2018/09/12/code-festival-2018-round-2/) 해설
+* 2019 카카오 신입 공채 코딩 테스트 [1차](http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/), [2차](http://tech.kakao.com/2018/10/23/kakao-blind-recruitment-round-2/) 해설
 * [Java Interview Question (영문)](https://www.javatpoint.com/corejava-interview-questions)
 
 ### 추천 도서

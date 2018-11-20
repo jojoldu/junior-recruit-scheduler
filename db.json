@@ -1,44 +1,14 @@
 {
     "recruits": [
         {
-            "endDate": "09.02",
-            "link": "http://bit.ly/2IIrLrp",
-            "description": "네이버 검색 FE 2~3년차 엔지니어 모집"
-        },
-        {
-            "endDate": "채용시까지",
-            "link": "http://bit.ly/2JMIHhE",
-            "description": "제플린 Devops/프론트엔드/백엔드 인턴/신입 채용"
-        },
-        {
-            "endDate": "채용시까지",
-            "link": "https://recruit.nhnent.com/ent/recruitings/20000960",
-            "description": "NHN엔터테인먼트 Cloud 시스템 개발 인턴 채용"
-        },
-        {
             "endDate": "채용시까지",
             "link": "http://bit.ly/2JpPLob",
             "description": "지그재그 웹/IOS/안드로이드 신입"
         },
         {
             "endDate": "채용시까지",
-            "link": "http://bit.ly/2xWL7ss",
-            "description": "CHEQUER 개발자 인턴"
-        },
-        {
-            "endDate": "채용시까지",
             "link": "http://bit.ly/2M7dk2S",
             "description": "8퍼센트 개발자 신입"
-        },
-        {
-            "endDate": "채용시까지",
-            "link": "http://bit.ly/2xVdjft",
-            "description": "오마이랩 프론트엔드 개발자 신입"
-        },
-        {
-            "endDate": "채용시까지",
-            "link": "http://bit.ly/2JspeTd",
-            "description": "NBT(캐시슬라이드) Devops 주니어"
         },
         {
             "endDate": "채용시까지",
@@ -52,30 +22,20 @@
         },
         {
             "endDate": "채용시까지",
-            "link": "http://bit.ly/2JqpUZ7",
-            "description": "카카오 - 검색 스팸 연구 및 시스템 개발 신입"
+            "link": "http://bit.ly/2IfFcQK",
+            "description": "MyMusicTaste 프론트엔드 개발 신입 채용"
         },
         {
-            "endDate": "채용시까지",
-            "link": "http://bit.ly/2sGpg3k",
-            "description": "카카오 - 다음 메일 프론트엔드 신입"
-        },
-        {
-            "endDate": "채용시까지",
-            "link": "http://bit.ly/2M8oaG1",
-            "description": "데이블 웹/Devops/데이터분석가/데이터엔지니어 신입/병특 채용"
-        },
-        {
-            "endDate": "채용시까지",
-            "link": "http://bit.ly/2zMCwtg",
-            "description": "프론트엔드 개발자 Kickass Developer"
+            "endDate": "~ 2018.12.02 23:59:59",
+            "link": "https://bit.ly/2DyfA1s",
+            "description": "2018 Works Mobile SW개발/서비스 부문 채용전제형 인턴 모집"
         }
     ],
     "seminars": [
         {
-            "endDate": "08.02",
-            "link": "http://bit.ly/2tgl5el",
-            "description": "카카오 코드 페스티벌"
+            "endDate": "~ 2019.01.07 00:00:00",
+            "link": "https://arena.kakao.com/c/1",
+            "description": "카카오 - 쇼핑몰 상품 카테고리 분류 대회"
         }
     ]
 }
