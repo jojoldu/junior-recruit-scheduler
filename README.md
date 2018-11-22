@@ -113,6 +113,8 @@
 
 * [김남윤님의 신입 개발자 취업 도전기](https://www.slideshare.net/ssuser565d51/ss-61448739)
 
+* [박준영님의 이직 이야기](https://joont92.github.io/life/27%EC%82%B4-2%EB%B2%88%EC%A7%B8-%EC%9D%B4%EC%A7%81)
+
 * [OKKY "마음까지전하는"님의 웹개발자 신입 구직 팁](https://okky.kr/article/314704)
 
 * [취업할까 미룰까 고민될때](http://bit.ly/2y4qVFp)
