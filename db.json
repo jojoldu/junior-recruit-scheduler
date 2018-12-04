@@ -46,6 +46,11 @@
             "endDate": "~ 2018.12.03 23:59:59",
             "link": "http://startup.kban.or.kr",
             "description": "2018 스타트업 채용 페스티벌"
+        },
+        {
+            "endDate": "~ 2019.01.03 23:59:59",
+            "link": "http://d2campusfest.kr/6th/",
+            "description": "네이버 - D2 CAMPUS FEST"
         }
     ]
 }
