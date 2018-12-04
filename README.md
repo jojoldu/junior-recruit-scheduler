@@ -66,6 +66,9 @@
 * [채용시까지] [MyMusicTaste Frontend 개발자 채용](http://bit.ly/2OOayk8)
   * [MyMusicTaste 개발문화](https://github.com/MyMusicTaste/recruit)
   * [기술 블로그](https://mymusictaste.github.io/)
+* [채용시까지] [Flitto(플리토) 안드로이드 개발자 채용](http://bit.ly/2E0ZMV9)
+  * [플리토 회사소개](http://bit.ly/2GakiW7)
+  * [플리토 기술스택](http://bit.ly/2ANFrPI)
 
 ### 채용 관련 행사
 
