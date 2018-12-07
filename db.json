@@ -26,11 +26,6 @@
             "description": "MyMusicTaste 프론트엔드 개발 신입 채용"
         },
         {
-            "endDate": "~ 2018.12.02 23:59:59",
-            "link": "https://bit.ly/2DyfA1s",
-            "description": "2018 Works Mobile SW개발/서비스 부문 채용전제형 인턴 모집"
-        },
-        {
             "endDate": "채용시까지",
             "link": "http://bit.ly/2E0ZMV9",
             "description": "Flitto(플리토) 안드로이드 개발자 채용"
@@ -41,6 +36,11 @@
             "endDate": "~ 2019.01.07 00:00:00",
             "link": "https://arena.kakao.com/c/1",
             "description": "카카오 - 쇼핑몰 상품 카테고리 분류 대회"
+        },
+        {
+            "endDate": "~ 2018.12.17 오전 10시",
+            "link": "http://bit.ly/2E44qSe",
+            "description": "부스트캠프 안드로이드/IOS 교육생 모집"
         }
     ]
 }
