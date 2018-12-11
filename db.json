@@ -32,15 +32,22 @@
         }
     ],
     "seminars": [
+            {
+            "endDate": "~ 2018.12.17 오전 10시",
+            "link": "http://bit.ly/2E44qSe",
+            "description": "부스트캠프 안드로이드/IOS 교육생 모집"
+
+        },
+              {
+            "endDate": "~ 2019.01.03 23:59:59",
+            "link": "http://d2campusfest.kr/6th/",
+            "description": "네이버 - D2 CAMPUS FEST"
+        },
         {
             "endDate": "~ 2019.01.07 00:00:00",
             "link": "https://arena.kakao.com/c/1",
             "description": "카카오 - 쇼핑몰 상품 카테고리 분류 대회"
-        },
-        {
-            "endDate": "~ 2018.12.17 오전 10시",
-            "link": "http://bit.ly/2E44qSe",
-            "description": "부스트캠프 안드로이드/IOS 교육생 모집"
         }
+
     ]
 }
