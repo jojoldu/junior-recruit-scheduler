@@ -1,4 +1,4 @@
-{
+﻿{
     "recruits": [
         {
             "endDate": "채용시까지",
@@ -37,12 +37,6 @@
         }
     ],
     "seminars": [
-            {
-            "endDate": "~ 2018.12.17 오전 10시",
-            "link": "http://bit.ly/2E44qSe",
-            "description": "부스트캠프 안드로이드/IOS 교육생 모집"
-
-        },
               {
             "endDate": "~ 2019.01.03 23:59:59",
             "link": "http://d2campusfest.kr/6th/",
