@@ -59,9 +59,6 @@
   * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
   * [(참고자료) 냉정과 열정사이](https://brunch.co.kr/@leehosung/34)
   * [(참고자료) 두숟갈 스터디를 마치며](https://brunch.co.kr/@leehosung/42)
-* [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
-  * [사내 정보 시스템 개발 신입](http://bit.ly/2sLH9NA)
-  * [컴퓨터비전 및 머신러닝 신입](http://bit.ly/2sN04Zp)
 * [채용시까지] [MyMusicTaste Frontend 개발자 채용](http://bit.ly/2OOayk8)
   * [MyMusicTaste 개발문화](https://github.com/MyMusicTaste/recruit)
   * [기술 블로그](https://mymusictaste.github.io/)
@@ -69,7 +66,13 @@
   * [플리토 회사소개](http://bit.ly/2GakiW7)
   * [플리토 기술스택](http://bit.ly/2ANFrPI)
 * [채용시까지] [트레바리 주니어 개발 직군 채용](http://bit.ly/2EtQuSt)
-  
+* [채용시까지] [피플펀드 2~10년차 개발자 채용](http://bit.ly/2LmXz7Y)  
+    * [기술 블로그](https://tech.peoplefund.co.kr/)
+    * 지인 추천
+      * 잡플래닛 평점 4.0
+      * 사내 스터디 문화가 활발
+      * 개발팀 문화가 좋아 대부분 좋은 회사로 이직 (쿠팡, 카카오 모빌리티, 카카오뱅크)
+
 ### 채용 관련 행사
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
