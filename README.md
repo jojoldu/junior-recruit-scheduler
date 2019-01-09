@@ -75,7 +75,14 @@
       * 잡플래닛 평점 4.0
       * 사내 스터디 문화가 활발
       * 개발팀 문화가 좋아 대부분 좋은 회사로 이직 (쿠팡, 카카오 모빌리티, 카카오뱅크)
-
+* [채용시까지] [코멘토 Front-end 개발자 채용](http://bitly.kr/Bpeuv)
+    * [함께 일 할 프론트앤드 개발자 보러 가기](https://brunch.co.kr/@comento/117)
+    * [함께 일 할 디자이너 보러 가기](https://brunch.co.kr/@comento/116)
+    * [위워크 입주기업 릴레이 인터뷰](http://bitly.kr/6flAH)
+* [채용시까지] [코멘토 Back-end 개발자 채용](http://bitly.kr/9nM23)
+    * [함께 일 할 백앤드 개발자 보러 가기](https://brunch.co.kr/@comento/119)
+    * [함께 일 할 개발팀장 보러 가기](https://brunch.co.kr/@comento/120)
+    * [한국일보 인터뷰 - 이달의 생산성 기업](http://bitly.kr/TgWDe)
 ### 채용 관련 행사
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
