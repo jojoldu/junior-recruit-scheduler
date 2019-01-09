@@ -2,6 +2,11 @@
   "recruits": [
     {
       "endDate": "채용시까지",
+      "link": "http://bit.ly/2TBq8RV",
+      "description": "인프랩(인프런) 웹 FrontEnd/BackEnd 개발자 채용"
+    },
+    {
+      "endDate": "채용시까지",
       "link": "http://bit.ly/2JpPLob",
       "description": "지그재그 웹/IOS/안드로이드 신입"
     },
@@ -42,15 +47,5 @@
     }
   ],
   "seminars": [
-    {
-      "endDate": "~ 2019.01.03 23:59:59",
-      "link": "http://d2campusfest.kr/6th/",
-      "description": "네이버 - D2 CAMPUS FEST"
-    },
-    {
-      "endDate": "~ 2019.01.07 00:00:00",
-      "link": "https://arena.kakao.com/c/1",
-      "description": "카카오 - 쇼핑몰 상품 카테고리 분류 대회"
-    }
   ]
 }

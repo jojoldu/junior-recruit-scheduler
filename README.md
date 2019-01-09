@@ -50,7 +50,7 @@
 
 ### 추천 기업
 
-* [채용시까지] [인프랩(인프런) 웹 FrontEnd/BackEnd 개발자 채용](https://www.inflearn.com/recruit201901)
+* [채용시까지] [인프랩(인프런) 웹 FrontEnd/BackEnd 개발자 채용](http://bit.ly/2TBq8RV)
 * [채용시까지] [지그재그 웹/IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
   * [기술 블로그](https://devblog.croquis.com/ko/)
   * [지그재그 트래픽](http://ppss.kr/archives/151825)
