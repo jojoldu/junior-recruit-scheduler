@@ -192,7 +192,7 @@
 
 * [직접 경험을 통해 추려낸 공통 질문](https://github.com/KSH-code/Technical-Interview/blob/master/README.md)
 
-* [Do-Hee(권희정, 박도연님)의 기술면접 자료 Repository](https://github.com/Do-Hee/tech-interview)
+* [WeareSoft의 기술면접 자료 Repository](https://github.com/WeareSoft/tech-interview)
 
 ### 기타 정보
 
