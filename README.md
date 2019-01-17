@@ -134,6 +134,8 @@
 
 * [원티드와 함께하는 개발자 커리어 터치](https://www.notion.so/8a5fb590ae204295adf8117b5f58e32e)
 
+* [28세 요우의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382)
+
 ### 이력서 & 포트폴리오 작성법
 
 * [원티드랩에서 이야기하는 통과잘되는 이력서 작성법 (신입/경력 포함)](https://brunch.co.kr/@wantedlab/29)
