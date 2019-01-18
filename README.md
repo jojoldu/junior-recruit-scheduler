@@ -75,6 +75,7 @@
       * 잡플래닛 평점 4.0
       * 사내 스터디 문화가 활발
       * 개발팀 문화가 좋아 대부분 좋은 회사로 이직 (쿠팡, 카카오 모빌리티, 카카오뱅크)
+* [~ 2019.01.28 17:00] [2019 카카오페이 개발자 인턴십 모집](http://bit.ly/2RQtHqi)
 
 ### 채용 관련 행사
 
@@ -111,8 +112,6 @@
   * [학원출신 취업, 면접 그리고 미래.. - 비달사슴님](http://cafe.naver.com/javachobostudy/117693)
   * [신입 연봉의 현실(SI) - es현님](http://cafe.naver.com/javachobostudy/143200)
 
-* [유용우님의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382)
-
 * [김은향님의 신입 개발자 이야기](https://www.slideshare.net/EunhyangKim2/ss-87782520)
 
 * [진유림님의 이직 이야기](https://milooy.wordpress.com/2018/02/07/moving-job/)
@@ -132,6 +131,8 @@
 * [컴공으로 대기업 취업하기, 인적성 검사 통과 요령 및 면접 필살기](https://medium.com/@xissy/%EC%BB%B4%EA%B3%B5%EC%9C%BC%EB%A1%9C-%EB%8C%80%EA%B8%B0%EC%97%85-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0-cbf42d46e269)
 
 * [원티드와 함께하는 개발자 커리어 터치](https://www.notion.so/8a5fb590ae204295adf8117b5f58e32e)
+
+* [28세 요우의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382)
 
 ### 이력서 & 포트폴리오 작성법
 
@@ -191,7 +192,7 @@
 
 * [직접 경험을 통해 추려낸 공통 질문](https://github.com/KSH-code/Technical-Interview/blob/master/README.md)
 
-* [Do-Hee(권희정, 박도연님)의 기술면접 자료 Repository](https://github.com/Do-Hee/tech-interview)
+* [WeareSoft의 기술면접 자료 Repository](https://github.com/WeareSoft/tech-interview)
 
 ### 기타 정보
 
