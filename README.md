@@ -112,8 +112,6 @@
   * [학원출신 취업, 면접 그리고 미래.. - 비달사슴님](http://cafe.naver.com/javachobostudy/117693)
   * [신입 연봉의 현실(SI) - es현님](http://cafe.naver.com/javachobostudy/143200)
 
-* [유용우님의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382)
-
 * [김은향님의 신입 개발자 이야기](https://www.slideshare.net/EunhyangKim2/ss-87782520)
 
 * [진유림님의 이직 이야기](https://milooy.wordpress.com/2018/02/07/moving-job/)
