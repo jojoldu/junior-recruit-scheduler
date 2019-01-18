@@ -50,6 +50,10 @@
 
 ### 추천 기업
 
+* 카카오페이 채용공고
+    * [~ 2019.01.28 17:00] [2019 카카오페이 개발자 인턴십 모집](http://bit.ly/2RQtHqi)
+    * [~ 2019.12.31 00:00] [2019 카카오페이 서버 개발자 모집](https://bit.ly/2T1KaFp)
+    
 * [채용시까지] [인프랩(인프런) 웹 FrontEnd/BackEnd 개발자 채용](http://bit.ly/2TBq8RV)
   * [인프런 - 스타트업 인프랩 시작 사례](https://www.slideshare.net/hodoogwaja/ss-81938573)
   * [조선일보 인터뷰](http://news.chosun.com/misaeng/site/data/html_dir/2018/10/03/2018100300979.html)
@@ -75,9 +79,15 @@
       * 잡플래닛 평점 4.0
       * 사내 스터디 문화가 활발
       * 개발팀 문화가 좋아 대부분 좋은 회사로 이직 (쿠팡, 카카오 모빌리티, 카카오뱅크)
-* 카카오페이 채용공고
-    * [~ 2019.01.28 17:00] [2019 카카오페이 개발자 인턴십 모집](http://bit.ly/2RQtHqi)
-    * [~ 2019.12.31 00:00] [2019 카카오페이 서버 개발자 모집](https://bit.ly/2T1KaFp)
+* [채용시까지] 코멘토 신입 채용
+    * [Front-end 개발자 채용](https://han.gl/BqUF7)
+    * [Back-end 개발자 채용](https://han.gl/S7AvS)
+    * [함께 일 할 프론트앤드 개발자 보러 가기](https://brunch.co.kr/@comento/117)
+    * [함께 일 할 디자이너 보러 가기](https://brunch.co.kr/@comento/116)
+    * [함께 일 할 백앤드 개발자 보러 가기](https://brunch.co.kr/@comento/119)
+    * [함께 일 할 개발팀장 보러 가기](https://brunch.co.kr/@comento/120)
+    * [위워크 입주기업 릴레이 인터뷰](http://bitly.kr/6flAH)
+    * [한국일보 인터뷰 - 이달의 생산성 기업](http://bitly.kr/TgWDe)
 
 ### 채용 관련 행사
 
