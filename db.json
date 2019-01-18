@@ -1,6 +1,11 @@
 ﻿{
   "recruits": [
     {
+        "endDate": "~ 2019.01.28 17:00",
+        "link": "http://bit.ly/2RQtHqi",
+        "description": "2019 카카오페이 개발자 인턴십 모집"
+    },
+    {
       "endDate": "채용시까지",
       "link": "http://bit.ly/2TBq8RV",
       "description": "인프랩(인프런) 웹 FrontEnd/BackEnd 개발자 채용"
@@ -37,7 +42,7 @@
     },
     {
       "endDate": "채용시까지",
-      "link": "http://bit.ly/2EtQuSt",
+      "link": "http://bit.ly/2srWAe7",
       "description": "트레바리 주니어 개발자 채용"
     },
     {
@@ -55,6 +60,7 @@
       "link": "http://bitly.kr/9nM23",
       "description": "코멘토 Back-end 개발자 채용"
     }
+
   ],
   "seminars": [
   ]
