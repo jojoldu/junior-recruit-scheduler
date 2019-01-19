@@ -52,7 +52,7 @@
 
 * 카카오페이 채용공고
     * [~ 2019.01.28 17:00] [2019 카카오페이 개발자 인턴십 모집](http://bit.ly/2RQtHqi)
-    * [~ 2019.12.31 00:00] [2019 카카오페이 서버 개발자() 모집](https://bit.ly/2T1KaFp)
+    * [~ 2019.12.31 00:00] [2019 카카오페이 서버 개발자(경력무관) 모집](https://bit.ly/2T1KaFp)
     
 * [채용시까지] [인프랩(인프런) 웹 FrontEnd/BackEnd 개발자 채용](http://bit.ly/2TBq8RV)
   * [인프런 - 스타트업 인프랩 시작 사례](https://www.slideshare.net/hodoogwaja/ss-81938573)
