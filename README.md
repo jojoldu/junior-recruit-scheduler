@@ -80,8 +80,8 @@
       * 사내 스터디 문화가 활발
       * 개발팀 문화가 좋아 대부분 좋은 회사로 이직 (쿠팡, 카카오 모빌리티, 카카오뱅크)
 * [채용시까지] 코멘토 신입 채용
-    * [Front-end 개발자 채용](https://han.gl/BqUF7)
-    * [Back-end 개발자 채용](https://han.gl/S7AvS)
+    * [Front-end 개발자 채용](https://bit.ly/2FFdApI)
+    * [Back-end 개발자 채용](https://bit.ly/2T2smKc)
     * [함께 일 할 프론트앤드 개발자 보러 가기](https://brunch.co.kr/@comento/117)
     * [함께 일 할 디자이너 보러 가기](https://brunch.co.kr/@comento/116)
     * [함께 일 할 백앤드 개발자 보러 가기](https://brunch.co.kr/@comento/119)
