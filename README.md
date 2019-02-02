@@ -113,6 +113,8 @@
 
 ### 구직 전반
 
+* [마음에 안드는 중소기업에 합격했을때](https://jojoldu.tistory.com/398)
+
 * [OKKY 취준생 Q&A Meet-up 세미나 후기](http://bit.ly/2P8afUH)
 
 * [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT 기업 도전기](http://bit.ly/2yqiH7V)
@@ -136,8 +138,6 @@
 * [박준영님의 이직 이야기](https://joont92.github.io/life/27%EC%82%B4-2%EB%B2%88%EC%A7%B8-%EC%9D%B4%EC%A7%81)
 
 * [OKKY "마음까지전하는"님의 웹개발자 신입 구직 팁](https://okky.kr/article/314704)
-
-* [취업할까 미룰까 고민될때](http://bit.ly/2y4qVFp)
 
 * [피해야 할 개발자 일자리의 징후](http://www.itworld.co.kr/news/105216)
 
