@@ -68,7 +68,11 @@
 * [채용시까지] [Flitto(플리토) 안드로이드 개발자 채용](http://bit.ly/2E0ZMV9)
   * [플리토 회사소개](http://bit.ly/2GakiW7)
   * [플리토 기술스택](http://bit.ly/2ANFrPI)
-
+* [채용시까지] [Riiid(산타토익) 개발자 전분야 채용](https://riiid.co/ko/career)
+  * [Riiid 회사소개](https://riiid.co/ko/)
+  * [프론트엔드 기술스택](https://apply.riiid.app/)
+  * [(참고자료) 산타토익 소개](https://santatoeic.com/intro)
+  
 ### 채용 관련 행사
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
@@ -86,7 +90,7 @@
 아래는 제가 정기적으로 방문하는 잡플래닛/원티드 검색 조건입니다.  
 참고하시면 좋을것 같습니다
 
-* [잡플래닛 신입 개발자 채용 리스트](https://www.jobplanet.co.kr/job_postings/search?utf8=%E2%9C%93&query=&jp_show_search_result=true&jp_show_search_result_chk=true&occupation_level2_ids%5B%5D=11610&occupation_level2_ids%5B%5D=11604&occupation_level2_ids%5B%5D=11603&industry_level2_ids%5B%5D=709&industry_level2_ids%5B%5D=702&recruitment_type_ids%5B%5D=1&order_by=score&page=1)
+* [잡플래닛 신입 개발자 채용 리스트](https://www.jobplanet.co.kr/job_postings/search?utf8=%E2%9C%93&query=&jp_show_search_result=tre&jp_show_search_result_chk=true&occupation_level2_ids%5B%5D=11610&occupation_level2_ids%5B%5D=11604&occupation_level2_ids%5B%5D=11603&industry_level2_ids%5B%5D=709&industry_level2_ids%5B%5D=702&recruitment_type_ids%5B%5D=1&order_by=score&page=1)
 * [원티드 신입 개발자 채용 리스트](https://www.wanted.co.kr/wdlist/518?referer_id=23685&years=0)
 * [로켓펀치 '병역대체' 채용 리스트](https://www.rocketpunch.com/jobs?military_service=1&q=)
 
