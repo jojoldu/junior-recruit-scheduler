@@ -1,6 +1,16 @@
 ﻿{
   "recruits": [
     {
+      "endDate": "~ 2019.02.11",
+      "link": "https://bit.ly/2MFTywa",
+      "description": "줌인터넷 포털 서비스 개발(신입)"
+    },
+    {
+      "endDate": "~ 2019.12.31 00:00",
+      "link": "https://bit.ly/2T1KaFp",
+      "description": "2019 카카오페이 서버 개발자 모집"
+    },
+    {
       "endDate": "채용시까지",
       "link": "http://bit.ly/2TBq8RV",
       "description": "인프랩(인프런) 웹 FrontEnd/BackEnd 개발자 채용"
@@ -46,16 +56,6 @@
         "description": "피플펀드 2~10년차 개발자 채용"
     },
     {
-        "endDate": "~ 2019.01.28 17:00",
-        "link": "http://bit.ly/2RQtHqi",
-        "description": "2019 카카오페이 개발자 인턴십 모집"
-    },
-    {
-        "endDate": "~ 2019.12.31 00:00",
-        "link": "https://bit.ly/2T1KaFp",
-        "description": "2019 카카오페이 서버 개발자 모집"
-    },
-    {
       "endDate": "채용시까지",
       "link": "http://bitly.kr/Bpeuv",
       "description": "코멘토 Front-end 개발자 채용"
@@ -66,11 +66,10 @@
       "description": "코멘토 Back-end 개발자 채용"
     },
     {
-      "endDate": "2019.01.29 ~ 2019.02.11",
-      "link": "https://bit.ly/2MFTywa",
-      "description": "줌인터넷 포털 서비스 개발(신입)"
+      "endDate": "채용시까지",
+      "link": "https://riiid.co/ko/career",
+      "description": "뤼이드 (산타토익) 전분야 주니어 채용"
     }
-
   ],
   "seminars": [
   ]

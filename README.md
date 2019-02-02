@@ -35,7 +35,7 @@
 
 * [Telegram 챗봇](http://bit.ly/2MfbltB)
 
-## 채용 (2018)
+## 채용 (2019)
 
 채용에 올라온 기업들은 모두 **개발자로서 커리어 쌓기가 좋은 회사**의 **신입/주니어** 채용을 기준으로 합니다.  
 
@@ -52,24 +52,29 @@
 
 * [2019.01.29 ~ 2019.02.11] [줌인터넷 포털 서비스 개발(신입)](https://bit.ly/2MFTywa)
     * [기술 블로그](https://zuminternet.github.io/)
+  
 * 카카오페이 채용공고
     * [~ 2019.12.31 00:00] [2019 카카오페이 서버 개발자(경력무관) 모집](https://bit.ly/2T1KaFp)
     
 * [채용시까지] [인프랩(인프런) 웹 FrontEnd/BackEnd 개발자 채용](http://bit.ly/2TBq8RV)
   * [인프런 - 스타트업 인프랩 시작 사례](https://www.slideshare.net/hodoogwaja/ss-81938573)
   * [조선일보 인터뷰](http://news.chosun.com/misaeng/site/data/html_dir/2018/10/03/2018100300979.html)
+
 * [채용시까지] [지그재그 웹/IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
   * [기술 블로그](https://devblog.croquis.com/ko/)
   * [지그재그 트래픽](http://ppss.kr/archives/151825)
   * [지그재그 아웃스탠딩](http://outstanding.kr/zigzag20170123/)
+
 * [채용시까지] [8퍼센트 신입 개발자 채용](http://bit.ly/2M7dk2S)
   * [(참고자료) 박문수 이야기](https://brunch.co.kr/@leehosung/12)
   * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
   * [(참고자료) 냉정과 열정사이](https://brunch.co.kr/@leehosung/34)
   * [(참고자료) 두숟갈 스터디를 마치며](https://brunch.co.kr/@leehosung/42)
+
 * [채용시까지] [MyMusicTaste Frontend 개발자 채용](http://bit.ly/2OOayk8)
   * [MyMusicTaste 개발문화](https://github.com/MyMusicTaste/recruit)
   * [기술 블로그](https://mymusictaste.github.io/)
+
 * [채용시까지] [Flitto(플리토) 안드로이드 개발자 채용](http://bit.ly/2E0ZMV9)
   * [플리토 회사소개](http://bit.ly/2GakiW7)
   * [플리토 기술스택](http://bit.ly/2ANFrPI)
@@ -80,12 +85,14 @@
   * [(참고자료) 산타토익 소개](https://santatoeic.com/intro)
 
 * [채용시까지] [트레바리 주니어 개발 직군 채용](http://bit.ly/2srWAe7)
+
 * [채용시까지] [피플펀드 2~10년차 개발자 채용](http://bit.ly/2LmXz7Y)  
     * [기술 블로그](https://tech.peoplefund.co.kr/)
     * 지인 추천
       * 잡플래닛 평점 4.0
       * 사내 스터디 문화가 활발
       * 개발팀 문화가 좋아 대부분 좋은 회사로 이직 (쿠팡, 카카오 모빌리티, 카카오뱅크)
+
 * [채용시까지] 코멘토 신입 채용
     * [Front-end 개발자 채용](https://bit.ly/2FFdApI)
     * [Back-end 개발자 채용](https://bit.ly/2T2smKc)
