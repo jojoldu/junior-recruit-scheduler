@@ -73,6 +73,12 @@
 * [채용시까지] [Flitto(플리토) 안드로이드 개발자 채용](http://bit.ly/2E0ZMV9)
   * [플리토 회사소개](http://bit.ly/2GakiW7)
   * [플리토 기술스택](http://bit.ly/2ANFrPI)
+
+* [채용시까지] [Riiid(산타토익) 개발자 전분야 채용](https://riiid.co/ko/career)
+  * [Riiid 회사소개](https://riiid.co/ko/)
+  * [프론트엔드 기술스택](https://apply.riiid.app/)
+  * [(참고자료) 산타토익 소개](https://santatoeic.com/intro)
+
 * [채용시까지] [트레바리 주니어 개발 직군 채용](http://bit.ly/2srWAe7)
 * [채용시까지] [피플펀드 2~10년차 개발자 채용](http://bit.ly/2LmXz7Y)  
     * [기술 블로그](https://tech.peoplefund.co.kr/)
