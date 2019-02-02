@@ -8,7 +8,8 @@ const fs = require('fs');
 fs.readFile('db.json', 'utf8', (err, data) => {
     if (err) throw err;
     try {
-        JSON.parse(data);
+        const trim = JSON.stringify(data.trim());
+        JSON.parse(trim);
     } catch (e) {
         throw e;
     }

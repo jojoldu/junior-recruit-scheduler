@@ -4,7 +4,7 @@
 
 [![author](https://img.shields.io/badge/author-jojoldu-ff69b4.svg?style=flat-square)](https://jojoldu.tistory.com/)
 [![Build Status](https://travis-ci.org/jojoldu/junior-recruit-scheduler.svg?branch=master)](https://travis-ci.org/jojoldu/junior-recruit-scheduler)
-[![CONTRIBUTORS](https://img.shields.io/badge/contributors-25-green.svg?style=flat-square)](https://github.com/jojoldu/junior-recruit-scheduler/blob/master/CONTRIBUTING.md)
+[![CONTRIBUTORS](https://img.shields.io/badge/contributors-25-green.svg?style=flat-square)](https://github.com/jojoldu/junior-recruit-scheduler/graphs/contributors)
 [![HitCount](http://hits.dwyl.io/jojoldu/junior-recruit-scheduler.svg)](http://hits.dwyl.io/jojoldu/junior-recruit-scheduler)
 
 <a href="https://github.com/jojoldu/junior-recruit-scheduler/graphs/contributors"><img src="https://opencollective.com/junior-recruit-scheduler/contributors.svg?width=720"></a>
@@ -50,6 +50,14 @@
 
 ### 추천 기업
 
+* [2019.01.29 ~ 2019.02.11] [줌인터넷 포털 서비스 개발(신입)](https://bit.ly/2MFTywa)
+    * [기술 블로그](https://zuminternet.github.io/)
+* 카카오페이 채용공고
+    * [~ 2019.12.31 00:00] [2019 카카오페이 서버 개발자(경력무관) 모집](https://bit.ly/2T1KaFp)
+    
+* [채용시까지] [인프랩(인프런) 웹 FrontEnd/BackEnd 개발자 채용](http://bit.ly/2TBq8RV)
+  * [인프런 - 스타트업 인프랩 시작 사례](https://www.slideshare.net/hodoogwaja/ss-81938573)
+  * [조선일보 인터뷰](http://news.chosun.com/misaeng/site/data/html_dir/2018/10/03/2018100300979.html)
 * [채용시까지] [지그재그 웹/IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
   * [기술 블로그](https://devblog.croquis.com/ko/)
   * [지그재그 트래픽](http://ppss.kr/archives/151825)
@@ -59,28 +67,38 @@
   * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
   * [(참고자료) 냉정과 열정사이](https://brunch.co.kr/@leehosung/34)
   * [(참고자료) 두숟갈 스터디를 마치며](https://brunch.co.kr/@leehosung/42)
-* [채용시까지] [카카오/다음](https://careers.kakao.com/jobs)
-  * [사내 정보 시스템 개발 신입](http://bit.ly/2sLH9NA)
-  * [컴퓨터비전 및 머신러닝 신입](http://bit.ly/2sN04Zp)
 * [채용시까지] [MyMusicTaste Frontend 개발자 채용](http://bit.ly/2OOayk8)
   * [MyMusicTaste 개발문화](https://github.com/MyMusicTaste/recruit)
   * [기술 블로그](https://mymusictaste.github.io/)
 * [채용시까지] [Flitto(플리토) 안드로이드 개발자 채용](http://bit.ly/2E0ZMV9)
   * [플리토 회사소개](http://bit.ly/2GakiW7)
   * [플리토 기술스택](http://bit.ly/2ANFrPI)
+
 * [채용시까지] [Riiid(산타토익) 개발자 전분야 채용](https://riiid.co/ko/career)
   * [Riiid 회사소개](https://riiid.co/ko/)
   * [프론트엔드 기술스택](https://apply.riiid.app/)
   * [(참고자료) 산타토익 소개](https://santatoeic.com/intro)
-  
+
+* [채용시까지] [트레바리 주니어 개발 직군 채용](http://bit.ly/2srWAe7)
+* [채용시까지] [피플펀드 2~10년차 개발자 채용](http://bit.ly/2LmXz7Y)  
+    * [기술 블로그](https://tech.peoplefund.co.kr/)
+    * 지인 추천
+      * 잡플래닛 평점 4.0
+      * 사내 스터디 문화가 활발
+      * 개발팀 문화가 좋아 대부분 좋은 회사로 이직 (쿠팡, 카카오 모빌리티, 카카오뱅크)
+* [채용시까지] 코멘토 신입 채용
+    * [Front-end 개발자 채용](https://bit.ly/2FFdApI)
+    * [Back-end 개발자 채용](https://bit.ly/2T2smKc)
+    * [함께 일 할 프론트앤드 개발자 보러 가기](https://brunch.co.kr/@comento/117)
+    * [함께 일 할 디자이너 보러 가기](https://brunch.co.kr/@comento/116)
+    * [함께 일 할 백앤드 개발자 보러 가기](https://brunch.co.kr/@comento/119)
+    * [함께 일 할 개발팀장 보러 가기](https://brunch.co.kr/@comento/120)
+    * [위워크 입주기업 릴레이 인터뷰](http://bitly.kr/6flAH)
+    * [한국일보 인터뷰 - 이달의 생산성 기업](http://bitly.kr/TgWDe)
+
 ### 채용 관련 행사
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
-
-* [2018.11.30 ~ 2018.12.17 오전 10시] [부스트캠프 안드로이드/IOS 교육생 모집](http://bit.ly/2E44qSe)
-* [~ 2019.01.03 23:59:59] [네이버 - D2 CAMPUS FEST](http://d2campusfest.kr/6th/)
-* [~ 2019.01.07 00:00:00] [카카오 - 쇼핑몰 상품 카테고리 분류 대회](https://arena.kakao.com/c/1)
-
 
 ### 이외 채용정보 얻는법
 
@@ -101,6 +119,8 @@
 
 ### 구직 전반
 
+* [마음에 안드는 중소기업에 합격했을때](https://jojoldu.tistory.com/398)
+
 * [OKKY 취준생 Q&A Meet-up 세미나 후기](http://bit.ly/2P8afUH)
 
 * [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT 기업 도전기](http://bit.ly/2yqiH7V)
@@ -112,8 +132,6 @@
   * [이력서 작성과 면접 이야기 - 천진님](http://cafe.naver.com/javachobostudy/125568)
   * [학원출신 취업, 면접 그리고 미래.. - 비달사슴님](http://cafe.naver.com/javachobostudy/117693)
   * [신입 연봉의 현실(SI) - es현님](http://cafe.naver.com/javachobostudy/143200)
-
-* [유용우님의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382)
 
 * [김은향님의 신입 개발자 이야기](https://www.slideshare.net/EunhyangKim2/ss-87782520)
 
@@ -127,13 +145,13 @@
 
 * [OKKY "마음까지전하는"님의 웹개발자 신입 구직 팁](https://okky.kr/article/314704)
 
-* [취업할까 미룰까 고민될때](http://bit.ly/2y4qVFp)
-
 * [피해야 할 개발자 일자리의 징후](http://www.itworld.co.kr/news/105216)
 
 * [컴공으로 대기업 취업하기, 인적성 검사 통과 요령 및 면접 필살기](https://medium.com/@xissy/%EC%BB%B4%EA%B3%B5%EC%9C%BC%EB%A1%9C-%EB%8C%80%EA%B8%B0%EC%97%85-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0-cbf42d46e269)
 
 * [원티드와 함께하는 개발자 커리어 터치](https://www.notion.so/8a5fb590ae204295adf8117b5f58e32e)
+
+* [28세 요우의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382)
 
 ### 이력서 & 포트폴리오 작성법
 
@@ -193,7 +211,7 @@
 
 * [직접 경험을 통해 추려낸 공통 질문](https://github.com/KSH-code/Technical-Interview/blob/master/README.md)
 
-* [Do-Hee(권희정, 박도연님)의 기술면접 자료 Repository](https://github.com/Do-Hee/tech-interview)
+* [WeareSoft의 기술면접 자료 Repository](https://github.com/WeareSoft/tech-interview)
 
 ### 기타 정보
 
