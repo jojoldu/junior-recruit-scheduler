@@ -150,6 +150,8 @@
 
 * [박준영님의 이직 이야기](https://joont92.github.io/life/27%EC%82%B4-2%EB%B2%88%EC%A7%B8-%EC%9D%B4%EC%A7%81)
 
+* [변성윤님의 Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/)
+
 * [OKKY "마음까지전하는"님의 웹개발자 신입 구직 팁](https://okky.kr/article/314704)
 
 * [피해야 할 개발자 일자리의 징후](http://www.itworld.co.kr/news/105216)
@@ -211,6 +213,8 @@
 * [개발자를 채용하면서 느꼈던 것들](http://sungjk.github.io/2017/06/11/interview-guide.html)
 
 * [이번 기술 면접 중 기억나는 질문과 답변들 (프론트엔드)](https://medium.com/@jimkimau/이번-기술-면접-중-기억나는-질문과-답변들-712daa9a2dc)
+
+* [변성윤님의 Datascience-Interview-Questions](https://github.com/zzsza/Datascience-Interview-Questions)
 
 * [DaeHeeKim93(김대희)님의 기술면접 자료 Repository](https://github.com/DaeHeeKim93/DaeHeeKim-Review)
 
