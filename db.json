@@ -1,17 +1,17 @@
 ﻿{
   "recruits": [
     {
-      "endDate": "~ 2019.02.11",
+      "endDate": "2019-02-11 23:59:59",
       "link": "https://bit.ly/2MFTywa",
       "description": "줌인터넷 포털 서비스 개발(신입)"
     },
     {
-      "endDate": "~ 2019.03.13",
+      "endDate": "2019-03-13 23:59:59",
       "link": "http://woowabros.github.io/woowabros/2019/02/08/woowacourse.html",
       "description": "우아한 형제들 - 우아한 코스"
     },
     {
-      "endDate": "~ 2019.12.31 00:00",
+      "endDate": "2019-12-31 00:00:00",
       "link": "https://bit.ly/2T1KaFp",
       "description": "2019 카카오페이 서버 개발자 모집"
     },
@@ -78,7 +78,7 @@
   ],
   "seminars": [
     {
-      "endDate": "~ 2019.02.23 15:00:00",
+      "endDate": "2019.02.23 15:00:00",
       "link": "https://programmers.co.kr/competitions/93/2019-remote-jobfair",
       "description": "프로그래머스 2019 웹개발자 리모트 잡페어"
     }
