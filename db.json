@@ -77,10 +77,5 @@
     }
   ],
   "seminars": [
-    {
-      "endDate": "2019-02-23 15:00:00",
-      "link": "https://programmers.co.kr/competitions/93/2019-remote-jobfair",
-      "description": "프로그래머스 2019 웹개발자 리모트 잡페어"
-    }
   ]
 }
