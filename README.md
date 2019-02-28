@@ -63,6 +63,7 @@
     * 테크캠프와는 **정책적으로 차이가 나니** 위 글을 자세하게 읽어볼것
     * 다만 우아한 형제들의 교육이 어떤 것인지 참고
     * [우아한테크캠프 참가자에서 우아한개발자가 되기까지](http://woowabros.github.io/woowabros/2018/05/01/from_woowahan_techcamp_to_woowahan_developer_hanna.html)
+* [2019.03.04 ~ 2019.03.13] [라인플러스 - 주3일 SW개발 인턴십](https://www.facebook.com/linecareers/photos/a.1685076581715369/2393451440877876/?type=3&theater)
 * [~ 2019.12.31 00:00] [2019 카카오페이 서버 개발자(경력무관) 모집](https://bit.ly/2T1KaFp)
     
 * [채용시까지] [인프랩(인프런) 웹 FrontEnd/BackEnd 개발자 채용](http://bit.ly/2TBq8RV)
@@ -115,6 +116,9 @@
 ### 채용 관련 행사
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
+
+* [2019.03.06 ~ 2019.03.07] [라인플러스 - 주 3일제 인턴 채용설명회](https://www.facebook.com/linecareers/photos/a.1685076581715369/2394009144155439/?type=3&theater)
+  
 
 ### 이외 채용정보 얻는법
 
