@@ -65,7 +65,7 @@
     * [우아한테크캠프 참가자에서 우아한개발자가 되기까지](http://woowabros.github.io/woowabros/2018/05/01/from_woowahan_techcamp_to_woowahan_developer_hanna.html)
 * [2019.03.04 ~ 2019.03.13] [라인플러스 - 주3일 SW개발 인턴십](https://www.facebook.com/linecareers/photos/a.1685076581715369/2393451440877876/?type=3&theater)
 * [~ 2019.12.31 00:00] [2019 카카오페이 서버 개발자(경력무관) 모집](https://bit.ly/2T1KaFp)
-    
+
 * [채용시까지] [인프랩(인프런) 웹 FrontEnd/BackEnd 개발자 채용](http://bit.ly/2TBq8RV)
   * [인프런 - 스타트업 인프랩 시작 사례](https://www.slideshare.net/hodoogwaja/ss-81938573)
   * [조선일보 인터뷰](http://news.chosun.com/misaeng/site/data/html_dir/2018/10/03/2018100300979.html)
@@ -84,10 +84,6 @@
 * [채용시까지] [MyMusicTaste Frontend 개발자 채용](http://bit.ly/2OOayk8)
   * [MyMusicTaste 개발문화](https://github.com/MyMusicTaste/recruit)
   * [기술 블로그](https://mymusictaste.github.io/)
-
-* [채용시까지] [Flitto(플리토) 안드로이드 개발자 채용](http://bit.ly/2E0ZMV9)
-  * [플리토 회사소개](http://bit.ly/2GakiW7)
-  * [플리토 기술스택](http://bit.ly/2ANFrPI)
 
 * [채용시까지] [Riiid(산타토익) 개발자 전분야 채용](https://riiid.co/ko/career)
   * [Riiid 회사소개](https://riiid.co/ko/)
