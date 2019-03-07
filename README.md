@@ -91,13 +91,6 @@
 
 * [채용시까지] [트레바리 주니어 개발 직군 채용](http://bit.ly/2srWAe7)
 
-* [채용시까지] [피플펀드 2~10년차 개발자 채용](http://bit.ly/2LmXz7Y)  
-    * [기술 블로그](https://tech.peoplefund.co.kr/)
-    * 지인 추천
-      * 잡플래닛 평점 4.0
-      * 사내 스터디 문화가 활발
-      * 개발팀 문화가 좋아 대부분 좋은 회사로 이직 (쿠팡, 카카오 모빌리티, 카카오뱅크)
-
 * [채용시까지] 코멘토 신입 채용
     * [Front-end 개발자 채용](https://bit.ly/2FFdApI)
     * [Back-end 개발자 채용](https://bit.ly/2T2smKc)
