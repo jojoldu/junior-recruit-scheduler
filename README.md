@@ -91,6 +91,7 @@
 
 * [채용시까지] [트레바리 주니어 개발 직군 채용](http://bit.ly/2srWAe7)
 
+* [채용시까지] [레이니스트 (뱅크샐러드) 전분야 채용](https://rainist.com/recruit/engineer)
 * [채용시까지] 코멘토 신입 채용
     * [Front-end 개발자 채용](https://bit.ly/2FFdApI)
     * [Back-end 개발자 채용](https://bit.ly/2T2smKc)
