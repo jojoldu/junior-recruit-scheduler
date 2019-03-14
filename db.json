@@ -1,11 +1,6 @@
 ﻿{
   "recruits": [
     {
-      "endDate": "2019-03-13 23:59:59",
-      "link": "http://woowabros.github.io/woowabros/2019/02/08/woowacourse.html",
-      "description": "우아한 형제들 - 우아한 코스"
-    },
-    {
       "endDate": "채용시까지",
       "link": "http://bit.ly/2TBq8RV",
       "description": "인프랩(인프런) 웹 FrontEnd/BackEnd 개발자 채용"
