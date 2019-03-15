@@ -59,12 +59,6 @@
 
 ### 추천 기업
 
-* [2019.03.04 ~ 2019.03.13] [우아한 형제들 - 우아한 코스](http://woowabros.github.io/woowabros/2019/02/08/woowacourse.html)
-    * 테크캠프와는 **정책적으로 차이가 나니** 위 글을 자세하게 읽어볼것
-    * 다만 우아한 형제들의 교육이 어떤 것인지 참고
-    * [우아한테크캠프 참가자에서 우아한개발자가 되기까지](http://woowabros.github.io/woowabros/2018/05/01/from_woowahan_techcamp_to_woowahan_developer_hanna.html)
-* [2019.03.04 ~ 2019.03.13] [라인플러스 - 주3일 SW개발 인턴십](https://www.facebook.com/linecareers/photos/a.1685076581715369/2393451440877876/?type=3&theater)
-
 * [채용시까지] [인프랩(인프런) 웹 FrontEnd/BackEnd 개발자 채용](http://bit.ly/2TBq8RV)
   * [인프런 - 스타트업 인프랩 시작 사례](https://www.slideshare.net/hodoogwaja/ss-81938573)
   * [조선일보 인터뷰](http://news.chosun.com/misaeng/site/data/html_dir/2018/10/03/2018100300979.html)
