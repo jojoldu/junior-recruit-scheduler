@@ -99,6 +99,7 @@
 ### 채용 관련 행사
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
+* [~ 2019.04.04 23:59:59] [2019 NAVER CAMPUS HACKDAY SUMMER](https://github.com/NAVER-CAMPUS-HACKDAY/common)
 
 ### 이외 채용정보 얻는법
 
