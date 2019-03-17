@@ -52,5 +52,10 @@
     }
   ],
   "seminars": [
+    {
+      "endDate": "~ 2019.04.04 23:59:59",
+      "link": "https://github.com/NAVER-CAMPUS-HACKDAY/common",
+      "description": "2019 NAVER CAMPUS HACKDAY SUMMER"
+    }
   ]
 }
