@@ -96,6 +96,9 @@
     * [위워크 입주기업 릴레이 인터뷰](http://bitly.kr/6flAH)
     * [한국일보 인터뷰 - 이달의 생산성 기업](http://bitly.kr/TgWDe)
 
+* [채용시까지] [아이스크림에듀 신입 개발자 채용](http://www.jobkorea.co.kr/Recruit/GI_Read/27910619?fbclid=IwAR2rGXythxuzQK8wQrPuPVJCqBbDMvA5viCNaFApPXXYqDEb2wqmVFVfHmQ)
+    * [최범균](http://www.kyobobook.co.kr/search/SearchCommonMain.jsp)님이 속한 회사
+
 ### 채용 관련 행사
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
