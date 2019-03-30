@@ -97,7 +97,7 @@
     * [한국일보 인터뷰 - 이달의 생산성 기업](http://bitly.kr/TgWDe)
 
 * [채용시까지] [아이스크림에듀 신입 개발자 채용](http://www.jobkorea.co.kr/Recruit/GI_Read/27910619?fbclid=IwAR2rGXythxuzQK8wQrPuPVJCqBbDMvA5viCNaFApPXXYqDEb2wqmVFVfHmQ)
-    * [최범균](http://www.kyobobook.co.kr/search/SearchCommonMain.jsp)님이 속한 회사
+    * [최범균](http://www.kyobobook.co.kr/search/SearchCommonMain.jsp?vPstrCategory=TOT&vPstrKeyWord=%26%2352572%3B%26%2348276%3B%26%2344512%3B&vPplace=top)님이 속한 회사
 
 ### 채용 관련 행사
 
