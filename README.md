@@ -99,6 +99,10 @@
 * [채용시까지] [아이스크림에듀 신입 개발자 채용](http://www.jobkorea.co.kr/Recruit/GI_Read/27910619?fbclid=IwAR2rGXythxuzQK8wQrPuPVJCqBbDMvA5viCNaFApPXXYqDEb2wqmVFVfHmQ)
     * [최범균](http://www.kyobobook.co.kr/search/SearchCommonMain.jsp?vPstrCategory=TOT&vPstrKeyWord=%26%2352572%3B%26%2348276%3B%26%2344512%3B&vPplace=top)님이 속한 회사
 
+ * [~ 2019.04.25 23:59:59] [Rakuten 신입 개발자 채용](https://talent.rakuten.careers/jobs/korea-recruiting-event-ec-company-entry-level-web-application-engineer-9256?fbclid=IwAR1nRQSkcQTZPyVFhPPnYRpP9cFeP1clkE773mzTDlnxysHThIgaVtTEaF0)
+    * 일본 최대의 전자 상거래 회사 라쿠텐에서 신입 개발자를 모집합니다.
+    * 영어(토익 800 이상, 입사전까지) 또는 일본어 필수
+
 ### 채용 관련 행사
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
