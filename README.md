@@ -59,10 +59,6 @@
 
 ### 추천 기업
 
- * [~ 2019.04.25 23:59:59] [Rakuten 신입 개발자 채용](https://talent.rakuten.careers/jobs/korea-recruiting-event-ec-company-entry-level-web-application-engineer-9256?fbclid=IwAR1nRQSkcQTZPyVFhPPnYRpP9cFeP1clkE773mzTDlnxysHThIgaVtTEaF0)
-    * 일본 최대의 전자 상거래 회사 라쿠텐에서 신입 개발자를 모집합니다.
-    * 영어(토익 800 이상, 입사전까지) 또는 일본어 필수
-    
 * [채용시까지] [인프랩(인프런) 웹 FrontEnd/BackEnd 개발자 채용](http://bit.ly/2TBq8RV)
   * [인프런 - 스타트업 인프랩 시작 사례](https://www.slideshare.net/hodoogwaja/ss-81938573)
   * [조선일보 인터뷰](http://news.chosun.com/misaeng/site/data/html_dir/2018/10/03/2018100300979.html)
