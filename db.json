@@ -8,7 +8,7 @@
     {
       "endDate": "채용시까지",
       "link": "http://bit.ly/2JpPLob",
-      "description": "지그재그 웹/IOS/안드로이드 신입"
+      "description": "지그재그 IOS/안드로이드 신입"
     },
     {
       "endDate": "채용시까지",
@@ -56,6 +56,5 @@
       "description": "(최범균님이 계신) 아이스크림에듀 개발자 채용"
     }
   ],
-  "seminars": [
-  ]
+  "seminars": []
 }

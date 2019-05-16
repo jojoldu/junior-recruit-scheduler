@@ -60,7 +60,7 @@
 ### 추천 기업
 
 * [~ 2019.05.14 13:00:00] [NC Soft 2019 여름 인턴](https://careers.ncsoft.com/)
-* [채용시까지] [지그재그 웹/IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
+* [채용시까지] [지그재그 IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
   * [기술 블로그](https://devblog.croquis.com/ko/)
   * [지그재그 트래픽](http://ppss.kr/archives/151825)
   * [지그재그 아웃스탠딩](http://outstanding.kr/zigzag20170123/)
