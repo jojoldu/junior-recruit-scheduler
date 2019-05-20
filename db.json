@@ -3,7 +3,7 @@
     {
       "endDate": "채용시까지",
       "link": "http://bit.ly/2JpPLob",
-      "description": "지그재그 웹/IOS/안드로이드 신입"
+      "description": "지그재그 IOS/안드로이드 신입"
     },
     {
       "endDate": "채용시까지",
@@ -32,6 +32,11 @@
     },
     {
       "endDate": "채용시까지",
+      "link": "https://bit.ly/2HhIKSm",
+      "description": "피플펀드 백엔드 개발자 채용"
+    },
+    {
+      "endDate": "채용시까지",
       "link": "http://bitly.kr/Bpeuv",
       "description": "코멘토 Front-end 개발자 채용"
     },
@@ -46,11 +51,5 @@
       "description": "(최범균님이 계신) 아이스크림에듀 개발자 채용"
     }
   ],
-  "seminars": [
-    {
-      "endDate": "2019-05-10 23:59:59",
-      "link": "http://bitly.kr/aGqAr",
-      "description": "2019 Summer Coding - 여름 스타트업 인턴 프로그램"
-    }
-  ]
+  "seminars": []
 }

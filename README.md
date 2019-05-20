@@ -59,7 +59,7 @@
 
 ### 추천 기업
 
-* [채용시까지] [지그재그 웹/IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
+* [채용시까지] [지그재그 IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
   * [기술 블로그](https://devblog.croquis.com/ko/)
   * [지그재그 트래픽](http://ppss.kr/archives/151825)
   * [지그재그 아웃스탠딩](http://outstanding.kr/zigzag20170123/)
@@ -81,6 +81,13 @@
 
 * [채용시까지] [트레바리 주니어 개발 직군 채용](http://bit.ly/2srWAe7)
 
+* [채용시까지] [피플펀드 개발자 채용](https://bit.ly/2HhIKSm)  	
+    * [기술 블로그](https://tech.peoplefund.co.kr/)	
+    * 지인 추천	
+      * 잡플래닛 평점 4.0	
+      * 사내 스터디 문화가 활발	
+      * 개발팀 문화가 좋아 대부분 좋은 회사로 이직 (쿠팡, 카카오 모빌리티, 카카오뱅크)
+
 * [채용시까지] [레이니스트 (뱅크샐러드) 전분야 채용](https://rainist.com/recruit/engineer)
 * [채용시까지] 코멘토 신입 채용
     * [Front-end 개발자 채용](https://bit.ly/2FFdApI)
@@ -99,7 +106,6 @@
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
 
-* [~ 2019.05.10 23:59] [2019 Summer Coding - 여름 스타트업 인턴 프로그램](http://bitly.kr/aGqAr) -
 
 ### 이외 채용정보 얻는법
 
