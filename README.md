@@ -59,6 +59,8 @@
 
 ### 추천 기업
 
+* [~ 2019.07.03 24:00:00] [네이버와 코드스쿼드가 함께 진행하는 부스트캠프 교육생 모집](https://apply.connect.or.kr/connect/applyDetail?annoId=20002905&page=1)
+
 * [채용시까지] [지그재그 IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
   * [기술 블로그](https://devblog.croquis.com/ko/)
   * [지그재그 트래픽](http://ppss.kr/archives/151825)
@@ -126,6 +128,8 @@
 
 ### 구직 전반
 
+* [MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지 - 참석후기](https://jojoldu.tistory.com/423)
+  
 * [마음에 안드는 중소기업에 합격했을때](https://jojoldu.tistory.com/398)
 
 * [OKKY 취준생 Q&A Meet-up 세미나 후기](http://bit.ly/2P8afUH)
