@@ -129,6 +129,8 @@
   
 * [마음에 안드는 중소기업에 합격했을때](https://jojoldu.tistory.com/398)
 
+* [Tech HR - 주니어 개발자와 시니어 개발자의 차이 필독](https://jojoldu.tistory.com/163)
+
 * [OKKY 취준생 Q&A Meet-up 세미나 후기](http://bit.ly/2P8afUH)
 
 * [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT 기업 도전기](http://bit.ly/2yqiH7V)
