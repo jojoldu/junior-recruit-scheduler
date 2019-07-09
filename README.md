@@ -59,8 +59,8 @@
 
 ### 추천 기업
 
-* [~ 2019.07.03 24:00:00] [네이버와 코드스쿼드가 함께 진행하는 부스트캠프 교육생 모집](https://apply.connect.or.kr/connect/applyDetail?annoId=20002905&page=1)
-
+* [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
+  * [기술 블로그](https://medium.com/daangn)
 * [채용시까지] [지그재그 IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
   * [기술 블로그](https://devblog.croquis.com/ko/)
   * [지그재그 트래픽](http://ppss.kr/archives/151825)
