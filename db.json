@@ -1,6 +1,11 @@
 ﻿{
   "recruits": [
     {
+      "endDate": "2019-07-29 17:00:00",
+      "link": "https://kakaopay.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=12236",
+      "description": "카카오페이 클라이언트 인턴 채용"
+    },
+    {
       "endDate": "채용시까지",
       "link": "https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0",
       "description": "당근마켓 백엔드/플랫폼 신입/인턴 채용"

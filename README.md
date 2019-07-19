@@ -59,6 +59,8 @@
 
 ### 추천 기업
 
+* [~ 2019-07-29 17:00:00] [카카오페이 클라이언트(안드로이드/IOS) 인턴 모집](https://kakaopay.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=12236)
+
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
 * [채용시까지] [지그재그 IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
