@@ -197,6 +197,8 @@
 
 * [권희정님의 개발자의 포트폴리오 ・ 이력서 작성법](https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html)
 
+* [JSpiner님의 github로 다같이 쓰는 이력서](https://github.com/JSpiner/RESUME)
+
 ### 면접 팁
 
 * [JBee(한재엽)님의 기술면접 자료 Repository](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
