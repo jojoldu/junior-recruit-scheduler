@@ -1,4 +1,4 @@
-# 주니어 개발자를 위한 취업 정보
+﻿# 주니어 개발자를 위한 취업 정보
 
 <div align=center>
 
@@ -105,7 +105,6 @@
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
 
-* [~ 2019-08-01 23:00:00] [네이버 개발자 신입 공채 설명회](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003072&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=)
 
 ### 이외 채용정보 얻는법
 
