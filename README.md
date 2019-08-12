@@ -81,7 +81,7 @@
   * [프론트엔드 기술스택](https://apply.riiid.app/)
   * [(참고자료) 산타토익 소개](https://santatoeic.com/intro)
 
-* [채용시까지] [트레바리 주니어 개발 직군 채용](http://bit.ly/2srWAe7)
+* [채용시까지] [트레바리 주니어 개발 직군 채용](http://bit.ly/2ZSFUvi)
 
 * [채용시까지] [피플펀드 개발자 채용](https://bit.ly/2HhIKSm)  	
     * [기술 블로그](https://tech.peoplefund.co.kr/)	
