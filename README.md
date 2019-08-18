@@ -59,6 +59,7 @@
 
 ### 추천 기업
 
+* [2019.08.19 15:00:00 ~ 2019.09.04 23:59:00] [2020 카카오 블라인드 신입 공채](https://www.welcomekakao.com/competitions/102/2020-kakao-blind-recruitment)
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
 * [채용시까지] [지그재그 IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
