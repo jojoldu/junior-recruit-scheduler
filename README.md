@@ -126,6 +126,8 @@
 
 ### 구직 전반
 
+* [원티드와 함께하는 개발자 커리어 터치 참석 후기](https://velog.io/@doondoony/후기-원티드와-함께하는-개발자-커리어-터치)
+
 * [스타트업 주의 사항](https://www.facebook.com/dalinaum/posts/10157321350303468)
 
 * [MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지 - 참석후기](https://jojoldu.tistory.com/423)
