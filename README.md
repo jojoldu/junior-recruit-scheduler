@@ -60,7 +60,7 @@
 ### 추천 기업
 * [2019.08.19 15:00:00 ~ 2019.09.04 23:59:00] [2020 카카오 블라인드 신입 공채](https://www.welcomekakao.com/competitions/102/2020-kakao-blind-recruitment)
 
-* [2019.09.04 00:00:00 ~ 2019.09.17 17:00:00] [2019년 하반기 LINE SW개발 DEVEL-UP 인턴십](https://recruit.linepluscorp.com/lineplus/career/detail/20003167?classId=&entTypeCd=&tag=&page=)
+* [2019.09.04 00:00:00 ~ 2019.09.17 17:00:00] [2019년 하반기 LINE SW개발 DEVEL-UP 인턴십 (정규직 채용 연계형)](https://recruit.linepluscorp.com/lineplus/career/detail/20003167?classId=&entTypeCd=&tag=&page=)
 
 * [2019.09.03 00:00:00 ~ 2019.09.17 18:00:00] [2019 NAVER 개발 직군 신입사원 공채](https://recruit.navercorp.com/naver/m/job/detail/developer?annoId=20003165&classId=&jobId=&entTypeCd=&searchTxt=)
 
