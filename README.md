@@ -60,7 +60,11 @@
 ### 추천 기업
 
 * [2019.08.19 15:00:00 ~ 2019.09.04 23:59:00] [2020 카카오 블라인드 신입 공채](https://www.welcomekakao.com/competitions/102/2020-kakao-blind-recruitment)
+
+* [2019.09.03 00:00:00 ~ 2019.09.17 18:00:00] [2019 NAVER 개발 직군 신입사원 공채](https://recruit.navercorp.com/naver/m/job/detail/developer?annoId=20003165&classId=&jobId=&entTypeCd=&searchTxt=)
+
 * [2019.08.26 00:00:00 ~ 2019.09.17 23:59:59] [[NHN] 2019년 하반기 기술부문 신입사원 공개채용](https://recruit.nhn.com/ent/recruitings/20001334)
+
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
 * [채용시까지] [지그재그 IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
