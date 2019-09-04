@@ -1,6 +1,11 @@
 ﻿{
   "recruits": [
     {
+      "endDate": "2019.09.17 18:00:00",
+      "link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003165&classId=&jobId=&entTypeCd=&searchTxt=",
+      "description": "2019 NAVER 기술 직군 신입사원 공채"
+    },
+    {
       "endDate": "2019.09.04 23:59:00",
       "link": "https://www.welcomekakao.com/competitions/102/2020-kakao-blind-recruitment",
       "description": "2020 카카오 블라인드 신입 공채"
