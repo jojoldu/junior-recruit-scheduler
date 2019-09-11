@@ -1,11 +1,6 @@
 ﻿{
   "recruits": [
     {
-      "endDate": "2019.09.04 23:59:00",
-      "link": "https://www.welcomekakao.com/competitions/102/2020-kakao-blind-recruitment",
-      "description": "2020 카카오 블라인드 신입 공채"
-    },
-    {
       "endDate": "2019.09.17 17:00:00",
       "link": "https://recruit.linepluscorp.com/lineplus/career/detail/20003167?classId=&entTypeCd=&tag=&page=",
       "description": "2019년 하반기 LINE SW개발 DEVEL-UP 인턴십 (정규직 채용 연계형)"
@@ -19,6 +14,11 @@
       "endDate": "2019.09.17 23:59:59",
       "link": "https://recruit.nhn.com/ent/recruitings/20001334",
       "description": "[NHN] 2019년 하반기 기술부문 신입사원 공개채용"
+    },
+    {
+      "endDate": "2019.09.27 22:00:00",
+      "link": "https://programmers.co.kr/competitions/105/2019-remote-jobfair-2nd#ref=https://github.com/jojoldu/junior-recruit-scheduler",
+      "description": "프로그래머스 2019 웹개발자 온라인 잡페어"
     },
     {
       "endDate": "채용시까지",

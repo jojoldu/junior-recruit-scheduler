@@ -58,13 +58,14 @@
 잡플래닛 평점은 낮지만 정말 추천하고 싶은 회사가 있다면 그 사유를 같이 PR에 남겨주세요.
 
 ### 추천 기업
-* [2019.08.19 15:00:00 ~ 2019.09.04 23:59:00] [2020 카카오 블라인드 신입 공채](https://www.welcomekakao.com/competitions/102/2020-kakao-blind-recruitment)
 
 * [2019.09.04 00:00:00 ~ 2019.09.17 17:00:00] [2019년 하반기 LINE SW개발 DEVEL-UP 인턴십 (정규직 채용 연계형)](https://recruit.linepluscorp.com/lineplus/career/detail/20003167?classId=&entTypeCd=&tag=&page=)
 
 * [2019.09.03 00:00:00 ~ 2019.09.17 18:00:00] [2019 NAVER 개발 직군 신입사원 공채](https://recruit.navercorp.com/naver/m/job/detail/developer?annoId=20003165&classId=&jobId=&entTypeCd=&searchTxt=)
 
 * [2019.08.26 00:00:00 ~ 2019.09.17 23:59:59] [[NHN] 2019년 하반기 기술부문 신입사원 공개채용](https://recruit.nhn.com/ent/recruitings/20001334)
+
+* [2019.09.09 10:00:00 ~ 2019.09.27 22:00:00] [프로그래머스 2019 웹개발자 온라인 잡페어](https://programmers.co.kr/competitions/105/2019-remote-jobfair-2nd#ref=https://github.com/jojoldu/junior-recruit-scheduler)
 
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
