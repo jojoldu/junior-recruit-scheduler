@@ -63,7 +63,7 @@
 
 * [2019.09.03 00:00:00 ~ 2019.09.17 18:00:00] [2019 NAVER 개발 직군 신입사원 공채](https://recruit.navercorp.com/naver/m/job/detail/developer?annoId=20003165&classId=&jobId=&entTypeCd=&searchTxt=)
 
-* [2019.08.26 00:00:00 ~ 2019.09.17 23:59:59] [[NHN] 2019년 하반기 기술부문 신입사원 공개채용](https://recruit.nhn.com/ent/recruitings/20001334)
+* [2019.08.26 00:00:00 ~ 2019.09.17 14:00:00] [[NHN] 2019년 하반기 기술부문 신입사원 공개채용](https://recruit.nhn.com/ent/recruitings/20001334)
 
 * [2019.09.09 10:00:00 ~ 2019.09.27 22:00:00] [프로그래머스 2019 웹개발자 온라인 잡페어](https://programmers.co.kr/competitions/105/2019-remote-jobfair-2nd#ref=https://github.com/jojoldu/junior-recruit-scheduler)
 
