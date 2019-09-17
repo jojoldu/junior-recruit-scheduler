@@ -76,5 +76,10 @@
       "description": "(최범균님이 계신) 아이스크림에듀 개발자 채용"
     }
   ],
-  "seminars": []
+  "seminars": [
+      {
+      "endDate": "2019.10.01 18:00:00",
+      "link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003198",
+      "description": "NAVER CAMPUS HACKDAY 2019 Winter"
+    }]
 }
