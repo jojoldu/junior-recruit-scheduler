@@ -47,86 +47,88 @@
 
 채용에 올라온 기업들은 모두 **개발자로서 커리어 쌓기가 좋은 회사**의 **신입/주니어** 채용을 기준으로 합니다.  
 
-> 유의미한 트래픽이 발생하고,  
-코드리뷰, 배포 자동화 등이 구축되어 있고,  
-코드 품질에 관심이 있는 회사를 얘기합니다.
+> 拥有巨大流量,  
+拥有Code Reviews规范流程, 使用自动化部署,  
+且对高质量代码感兴趣的公司。
 
-잡플래닛 평점 3.3 미만인 회사들은 PR을 주셔도 추가해드릴 수 없습니다.  
-이 저장소의 목적은 **양질의 취업정보를 한 곳에 모으기 위함**입니다.  
-**모든 회사의 채용 정보를 담으려는 것이 아닙니다**.  
-잡플래닛 평점은 낮지만 정말 추천하고 싶은 회사가 있다면 그 사유를 같이 PR에 남겨주세요.
+在잡플래닛上评分低于3.3的公司不能提交PR。   
+这个仓库的宗旨就是**在这个地方收集高质量的就业信息**。  
+**所以这并不是为所有有空缺职位的公司准备的**.  
+如果您的公司评级较低，但又确实想推荐之，请把相关说明写到PR里。
 
 ### 推荐公司
-* [2019.08.19 15:00:00 ~ 2019.09.04 23:59:00] [2020 카카오 블라인드 신입 공채](https://www.welcomekakao.com/competitions/102/2020-kakao-blind-recruitment)
+* [2019.09.04 00:00:00 ~ 2019.09.17 17:00:00] [DEWEL-UP 2019年下半年 LINE SW 开发实习（正式员工职位）](https://recruit.linepluscorp.com/lineplus/career/detail/20003167?classId=&entTypeCd=&tag=&page=)
 
-* [2019.09.04 00:00:00 ~ 2019.09.17 17:00:00] [2019년 하반기 LINE SW개발 DEVEL-UP 인턴십 (정규직 채용 연계형)](https://recruit.linepluscorp.com/lineplus/career/detail/20003167?classId=&entTypeCd=&tag=&page=)
+* [2019.09.03 00:00:00 ~ 2019.09.17 18:00:00] [2019年新员工 NAVER 项目组](https://recruit.navercorp.com/naver/m/job/detail/developer?annoId=20003165&classId=&jobId=&entTypeCd=&searchTxt=)
 
-* [2019.09.03 00:00:00 ~ 2019.09.17 18:00:00] [2019 NAVER 개발 직군 신입사원 공채](https://recruit.navercorp.com/naver/m/job/detail/developer?annoId=20003165&classId=&jobId=&entTypeCd=&searchTxt=)
+* [2019.08.26 00:00:00 ~ 2019.09.17 14:00:00] [[NHN] 2019年下半年公开招聘技术部门新职位](https://recruit.nhn.com/ent/recruitings/20001334)
 
-* [2019.08.26 00:00:00 ~ 2019.09.17 23:59:59] [[NHN] 2019년 하반기 기술부문 신입사원 공개채용](https://recruit.nhn.com/ent/recruitings/20001334)
+* [2019.09.09 10:00:00 ~ 2019.09.27 22:00:00] [程序员2019年WEB开发者在线招聘会](https://programmers.co.kr/competitions/105/2019-remote-jobfair-2nd#ref=https://github.com/jojoldu/junior-recruit-scheduler)
 
-* [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
-  * [기술 블로그](https://medium.com/daangn)
-* [채용시까지] [지그재그 IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
-  * [기술 블로그](https://devblog.croquis.com/ko/)
-  * [지그재그 트래픽](http://ppss.kr/archives/151825)
-  * [지그재그 아웃스탠딩](http://outstanding.kr/zigzag20170123/)
+* [招聘中] [당근마켓 后端/平台 新手/实习生 招聘](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
+  * [博客](https://medium.com/daangn)
+* [招聘中] [ZIGZAG iOS/Android 新手](http://bit.ly/2JpPLob)
+  * [博客](https://devblog.croquis.com/ko/)
+  * [ZIGZAG 트래픽](http://ppss.kr/archives/151825)
+  * [ZIGZAG 아웃스탠딩](http://outstanding.kr/zigzag20170123/)
 
-* [채용시까지] [8퍼센트 신입 개발자 채용](http://bit.ly/2M7dk2S)
-  * [(참고자료) 박문수 이야기](https://brunch.co.kr/@leehosung/12)
-  * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
-  * [(참고자료) 냉정과 열정사이](https://brunch.co.kr/@leehosung/34)
-  * [(참고자료) 두숟갈 스터디를 마치며](https://brunch.co.kr/@leehosung/42)
+* [招聘中] [8Percent 新人开发](http://bit.ly/2M7dk2S)
+  * [(参考资料) 박문수的故事](https://brunch.co.kr/@leehosung/12)
+  * [(参考资料) 再见朋友](https://brunch.co.kr/@leehosung/22)
+  * [(参考资料) 冷酷与激情之间](https://brunch.co.kr/@leehosung/34)
+  * [(参考资料) 在研究结束时](https://brunch.co.kr/@leehosung/42)
 
-* [채용시까지] [MyMusicTaste Frontend 개발자 채용](http://bit.ly/2OOayk8)
-  * [MyMusicTaste 개발문화](https://github.com/MyMusicTaste/recruit)
-  * [기술 블로그](https://mymusictaste.github.io/)
+* [招聘中] [MyMusicTaste 前端招聘](http://bit.ly/2OOayk8)
+  * [MyMusicTaste公司文化](https://github.com/MyMusicTaste/recruit)
+  * [博客](https://mymusictaste.github.io/)
 
-* [채용시까지] [Riiid(산타토익) 개발자 전분야 채용](https://riiid.co/ko/career)
-  * [Riiid 회사소개](https://riiid.co/ko/)
-  * [프론트엔드 기술스택](https://apply.riiid.app/)
-  * [(참고자료) 산타토익 소개](https://santatoeic.com/intro)
+* [招聘中] [Riiid 招聘所有开发人员](https://riiid.co/ko/career)
+  * [Riiid公司](https://riiid.co/ko/)
+  * [前端技术栈](https://apply.riiid.app/)
+  * [(参考资料) Santa TOEIC简介](https://santatoeic.com/intro)
 
-* [채용시까지] [트레바리 주니어 개발 직군 채용](http://bit.ly/2ZSFUvi)
+* [招聘中] [Trevari初级开发人员](http://bit.ly/2ZSFUvi)
 
-* [채용시까지] [피플펀드 개발자 채용](https://bit.ly/2HhIKSm)
-    * [기술 블로그](https://tech.peoplefund.co.kr/)
-    * 지인 추천
+* [招聘中] [피플펀드 개발자 채용](https://bit.ly/2HhIKSm)
+    * [博客](https://tech.peoplefund.co.kr/)
+    * 内推
       * 잡플래닛 평점 4.0
-      * 사내 스터디 문화가 활발
-      * 개발팀 문화가 좋아 대부분 좋은 회사로 이직 (쿠팡, 카카오 모빌리티, 카카오뱅크)
+      * 内部活跃的学习氛围
+      * 良好的公司，良好的团队文化(쿠팡, 카카오 모빌리티, 카카오뱅크)
 
-* [채용시까지] [레이니스트 (뱅크샐러드) 전분야 채용](https://rainist.com/recruit/engineer)
-* [채용시까지] 코멘토 신입 채용
-    * [Front-end 개발자 채용](https://bit.ly/2FFdApI)
-    * [Back-end 개발자 채용](https://bit.ly/2T2smKc)
-    * [함께 일 할 프론트앤드 개발자 보러 가기](https://brunch.co.kr/@comento/117)
-    * [함께 일 할 디자이너 보러 가기](https://brunch.co.kr/@comento/116)
-    * [함께 일 할 백앤드 개발자 보러 가기](https://brunch.co.kr/@comento/119)
-    * [함께 일 할 개발팀장 보러 가기](https://brunch.co.kr/@comento/120)
+* [招聘中] [레이니스트 (뱅크샐러드) 전분야 채용](https://rainist.com/recruit/engineer)
+* [招聘中] 最新招聘
+    * [前端招聘](https://bit.ly/2FFdApI)
+    * [后端招聘](https://bit.ly/2T2smKc)
+    * [看看前端是怎么工作的](https://brunch.co.kr/@comento/117)
+    * [看看跟设计师是怎么合作的](https://brunch.co.kr/@comento/116)
+    * [看看后端是怎么工作的](https://brunch.co.kr/@comento/119)
+    * [在团队中和负责人工作](https://brunch.co.kr/@comento/120)
     * [위워크 입주기업 릴레이 인터뷰](http://bitly.kr/6flAH)
     * [한국일보 인터뷰 - 이달의 생산성 기업](http://bitly.kr/TgWDe)
 
 ### 招聘事件
 
-채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
+包括编程竞赛，hackathon时间表，研讨会以及与招聘相关的更多内容。
+
+* [2019.09.18 00:00:00 ~ 2019.10.01 18:00:00] [NAVER CAMPUS HACKDAY 2019 Winter](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003198)
 
 ### 如何获得其他工作
 
-**잡코리아, 사람인 채용 정보는 개인적으로는 추천하지 않습니다**.  
+**잡코리아, 一个人力资源发布的地方，不建议个人用户参与**.  
 추가로 채용 정보에 복사 & 붙여넣기한듯한 양식이나 글이 있다면 거르셔도 됩니다.  
 그만큼 **채용에 관심이 없는 회사라면 개발자에 대한 인식도 부족**하다고 보셔야 합니다.  
 아래는 제가 정기적으로 방문하는 잡플래닛/원티드 검색 조건입니다.  
 참고하시면 좋을것 같습니다
 
-* [잡플래닛 신입 개발자 채용 리스트](https://www.jobplanet.co.kr/job_postings/search?utf8=%E2%9C%93&query=&jp_show_search_result=true&jp_show_search_result_chk=true&occupation_level2_ids%5B%5D=11610&occupation_level2_ids%5B%5D=11604&occupation_level2_ids%5B%5D=11603&industry_level2_ids%5B%5D=709&industry_level2_ids%5B%5D=702&recruitment_type_ids%5B%5D=1&order_by=score&page=1)
+* [잡플래닛 新开发人员职位](https://www.jobplanet.co.kr/job_postings/search?utf8=%E2%9C%93&query=&jp_show_search_result=true&jp_show_search_result_chk=true&occupation_level2_ids%5B%5D=11610&occupation_level2_ids%5B%5D=11604&occupation_level2_ids%5B%5D=11603&industry_level2_ids%5B%5D=709&industry_level2_ids%5B%5D=702&recruitment_type_ids%5B%5D=1&order_by=score&page=1)
 * [원티드 신입 개발자 채용 리스트](https://www.wanted.co.kr/wdlist/518?referer_id=23685&years=0)
 * [로켓펀치 '병역대체' 채용 리스트](https://www.rocketpunch.com/jobs?military_service=1&q=)
 
 ## 5. 新开发者职位搜索提示
 
-**취업 팁 외에 다른 팁은 포함시키지 않습니다.**  
-주니어를 위한 각종 팁은 [페이스북 페이지](https://www.facebook.com/devbeginner/)를 참고해주세요
+**除了工作信息外，不要掺杂其他任何信息**      
+有关青少年的信息，请参阅我们的[Facebook主页](https://www.facebook.com/devbeginner/)
 
 ### 总体求职信息
 
@@ -136,9 +138,9 @@
 
 * [MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지 - 참석후기](https://jojoldu.tistory.com/423)
   
-* [마음에 안드는 중소기업에 합격했을때](https://jojoldu.tistory.com/398)
+* [当你的面试通过了一个你不喜欢的小公司](https://jojoldu.tistory.com/398)
 
-* [Tech HR - 주니어 개발자와 시니어 개발자의 차이 필독](https://jojoldu.tistory.com/163)
+* [Tech HR - 阅读初级开发人员和高级开发人员之间的差异](https://jojoldu.tistory.com/163)
 
 * [OKKY 취준생 Q&A Meet-up 세미나 후기](http://bit.ly/2P8afUH)
 
@@ -148,21 +150,21 @@
 
 * [남궁성의 코드초보스터디 카페 모음](http://cafe.naver.com/javachobostudy)
   * [신입취업조언 1탄 : 포트폴리오편 - 천진님](http://cafe.naver.com/javachobostudy/119166)
-  * [이력서 작성과 면접 이야기 - 천진님](http://cafe.naver.com/javachobostudy/125568)
+  * [이력서 작성과 면접 故事 - 천진님](http://cafe.naver.com/javachobostudy/125568)
   * [학원출신 취업, 면접 그리고 미래.. - 비달사슴님](http://cafe.naver.com/javachobostudy/117693)
   * [신입 연봉의 현실(SI) - es현님](http://cafe.naver.com/javachobostudy/143200)
 
-* [김은향님의 신입 개발자 이야기](https://www.slideshare.net/EunhyangKim2/ss-87782520)
+* [김은향님의 신입 개발자 故事](https://www.slideshare.net/EunhyangKim2/ss-87782520)
 
-* [진유림님의 이직 이야기](https://milooy.wordpress.com/2018/02/07/moving-job/)
+* [진유림님의 이직 故事](https://milooy.wordpress.com/2018/02/07/moving-job/)
 
-* [이한별님의 구직 이야기](http://lhb0517.tistory.com/entry/reviewofjojoldu)
+* [이한별님의 구직 故事](http://lhb0517.tistory.com/entry/reviewofjojoldu)
 
 * [김남윤님의 신입 개발자 취업 도전기](https://www.slideshare.net/ssuser565d51/ss-61448739)
 
-* [박준영님의 이직 이야기](https://joont92.github.io/life/27%EC%82%B4-2%EB%B2%88%EC%A7%B8-%EC%9D%B4%EC%A7%81)
+* [박준영님의 이직 故事](https://joont92.github.io/life/27%EC%82%B4-2%EB%B2%88%EC%A7%B8-%EC%9D%B4%EC%A7%81)
 
-* [변성윤님의 Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/)
+* [변성윤님의 Gap Year 및 쏘카 이직 故事](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/)
 
 * [OKKY "마음까지전하는"님의 웹개발자 신입 구직 팁](https://okky.kr/article/314704)
 
@@ -172,11 +174,11 @@
 
 * [원티드와 함께하는 개발자 커리어 터치](https://www.notion.so/8a5fb590ae204295adf8117b5f58e32e)
 
-* [28세 요우의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382)
+* [28岁 요우의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382)
 
 ### 简历以及编写技巧
 
-* [원티드랩에서 이야기하는 통과잘되는 이력서 작성법 (신입/경력 포함)](https://brunch.co.kr/@wantedlab/29)
+* [如何写一篇你想在面试中能够洽谈的好简历](https://brunch.co.kr/@wantedlab/29)
 
 * [OKKY "roggy"님의 신입 개발자 이력서 작성 요령](https://okky.kr/article/319687)
 
@@ -210,31 +212,31 @@
 
 * [JBee(한재엽)님의 기술면접 자료 Repository](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
-* [김태곤님의 신입 프론트엔드 개발자를 위한 면접 조언](https://taegon.kim/archives/5770)
+* [面试新手前端的建议](https://taegon.kim/archives/5770)
 
-* [너굴너굴님의 좋은면접자/지원자 되는 방법](https://repo.yona.io/doortts/blog/post/292)
+* [如何成为一名优秀的面试官/应聘者](https://repo.yona.io/doortts/blog/post/292)
 
-* [네이버 면접시 듣게 되는 41가지 질문(기사)](http://www.bloter.net/archives/245110)
+* [在Naver面试中你会听到41个问题](http://www.bloter.net/archives/245110)
 
-* [카카오 면접 시 듣게 되는 70가지 질문(블로터)](http://www.bloter.net/archives/245529)
+* [在面试中你会听到70个问题](http://www.bloter.net/archives/245529)
 
-* [애플 면접에서 듣게 되는 33가지 질문(기사)](http://www.bloter.net/archives/244910)
+* [在Apple面试时遇到的33个问题](http://www.bloter.net/archives/244910)
 
-* [초보팀장의 일기 - 면접을 볼 때마다 하는 질문들](https://web.archive.org/web/20170420162138/http://blog.java2game.com/401)
+* [初学者的日记 - 每次面试后要问的问题](https://web.archive.org/web/20170420162138/http://blog.java2game.com/401)
 
 * [Awesome Interview Questions - GitHub](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 * [개발자를 채용하면서 느꼈던 것들](http://sungjk.github.io/2017/06/11/interview-guide.html)
 
-* [이번 기술 면접 중 기억나는 질문과 답변들 (프론트엔드)](https://medium.com/@jimkimau/이번-기술-면접-중-기억나는-질문과-답변들-712daa9a2dc)
+* [记这次技术绵中中遇到的问题和答案（前端）](https://medium.com/@jimkimau/이번-기술-면접-중-기억나는-질문과-답변들-712daa9a2dc)
 
 * [변성윤님의 Datascience-Interview-Questions](https://github.com/zzsza/Datascience-Interview-Questions)
 
 * [DaeHeeKim93(김대희)님의 기술면접 자료 Repository](https://github.com/DaeHeeKim93/DaeHeeKim-Review)
 
-* [1년 동안 면접을 보며 만났던 질문 리스트 (기술)](https://github.com/KimHunJin/Study-Book/tree/master/interview)
+* [我在年度访谈中遇到的问题清单 (技术)](https://github.com/KimHunJin/Study-Book/tree/master/interview)
 
-* [직접 경험을 통해 추려낸 공통 질문](https://github.com/KSH-code/Technical-Interview/blob/master/README.md)
+* [从个人经验来说遇到的常见问题](https://github.com/KSH-code/Technical-Interview/blob/master/README.md)
 
 * [WeareSoft의 기술면접 자료 Repository](https://github.com/WeareSoft/tech-interview)
 
@@ -249,9 +251,9 @@
 * 2018 카카오 블라인드 코딩테스트 [1차](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/), [2차](http://tech.kakao.com/2017/10/24/kakao-blind-recruitment-round-2/), [3차](http://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/) 해설
 * 2018 카카오 코드 페스티벌 [예선전](http://tech.kakao.com/2018/08/09/code-festival-2018-round-1/), [본선](http://tech.kakao.com/2018/09/12/code-festival-2018-round-2/) 해설
 * 2019 카카오 신입 공채 코딩 테스트 [1차](http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/), [2차](http://tech.kakao.com/2018/10/23/kakao-blind-recruitment-round-2/) 해설
-* [Java Interview Question (영문)](https://www.javatpoint.com/corejava-interview-questions)
+* [Java Interview Question (英文版)](https://www.javatpoint.com/corejava-interview-questions)
 
 ### 推荐书籍
 
 * [프로그래밍 면접 이렇게 준비한다](https://book.naver.com/bookdb/book_detail.nhn?bid=15064639)
-  * [요약정리](https://www.slideshare.net/ddayinhwang9/ss-60152650)
+  * [摘要](https://www.slideshare.net/ddayinhwang9/ss-60152650)
