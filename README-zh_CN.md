@@ -1,5 +1,7 @@
 # 初级开发者招聘信息
 
+[Korean](./README.md) | [Chinese](./README-zh_CN.md)  
+
 <div align=center>
 
 [![author](https://img.shields.io/badge/author-jojoldu-ff69b4.svg?style=flat-square)](https://jojoldu.tistory.com/)
