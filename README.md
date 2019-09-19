@@ -1,5 +1,7 @@
 ﻿# 주니어 개발자를 위한 취업 정보
 
+[Korean](./README.md) | [Chinese](./README-zh_CN.md)  
+
 <div align=center>
 
 [![author](https://img.shields.io/badge/author-jojoldu-ff69b4.svg?style=flat-square)](https://jojoldu.tistory.com/)
