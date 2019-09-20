@@ -59,11 +59,6 @@
 如果您的公司评级较低，但又确实想推荐之，请把相关说明写到PR里。
 
 ### 推荐公司
-* [2019.09.04 00:00:00 ~ 2019.09.17 17:00:00] [DEWEL-UP 2019年下半年 LINE SW 开发实习（正式员工职位）](https://recruit.linepluscorp.com/lineplus/career/detail/20003167?classId=&entTypeCd=&tag=&page=)
-
-* [2019.09.03 00:00:00 ~ 2019.09.17 18:00:00] [2019年新员工 NAVER 项目组](https://recruit.navercorp.com/naver/m/job/detail/developer?annoId=20003165&classId=&jobId=&entTypeCd=&searchTxt=)
-
-* [2019.08.26 00:00:00 ~ 2019.09.17 14:00:00] [[NHN] 2019年下半年公开招聘技术部门新职位](https://recruit.nhn.com/ent/recruitings/20001334)
 
 * [2019.09.09 10:00:00 ~ 2019.09.27 22:00:00] [程序员2019年WEB开发者在线招聘会](https://programmers.co.kr/competitions/105/2019-remote-jobfair-2nd#ref=https://github.com/jojoldu/junior-recruit-scheduler)
 
