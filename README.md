@@ -61,8 +61,6 @@
 
 ### 추천 기업
 
-* [2019.09.09 10:00:00 ~ 2019.09.27 22:00:00] [프로그래머스 2019 웹개발자 온라인 잡페어](https://programmers.co.kr/competitions/105/2019-remote-jobfair-2nd#ref=https://github.com/jojoldu/junior-recruit-scheduler)
-
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
 * [채용시까지] [지그재그 IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)

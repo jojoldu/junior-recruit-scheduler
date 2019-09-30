@@ -1,11 +1,6 @@
 ﻿{
   "recruits": [
     {
-      "endDate": "2019.09.27 22:00:00",
-      "link": "https://programmers.co.kr/competitions/105/2019-remote-jobfair-2nd#ref=https://github.com/jojoldu/junior-recruit-scheduler",
-      "description": "프로그래머스 2019 웹개발자 온라인 잡페어"
-    },
-    {
       "endDate": "채용시까지",
       "link": "https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0",
       "description": "당근마켓 백엔드/플랫폼 신입/인턴 채용"

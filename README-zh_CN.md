@@ -60,8 +60,6 @@
 
 ### 推荐公司
 
-* [2019.09.09 10:00:00 ~ 2019.09.27 22:00:00] [程序员2019年WEB开发者在线招聘会](https://programmers.co.kr/competitions/105/2019-remote-jobfair-2nd#ref=https://github.com/jojoldu/junior-recruit-scheduler)
-
 * [招聘中] [당근마켓 后端/平台 新手/实习生 招聘](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [博客](https://medium.com/daangn)
 * [招聘中] [ZIGZAG iOS/Android 新手](http://bit.ly/2JpPLob)
