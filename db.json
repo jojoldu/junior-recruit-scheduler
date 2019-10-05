@@ -1,6 +1,11 @@
 ﻿{
   "recruits": [
     {
+      "endDate": "2019.10.25 17:00:00",
+      "link": "https://programmers.co.kr/competitions/109/2019-winter-coding",
+      "description": "2019 Winter Coding - 겨울방학 스타트업 인턴 프로그램"
+    },
+    {
       "endDate": "채용시까지",
       "link": "https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0",
       "description": "당근마켓 백엔드/플랫폼 신입/인턴 채용"
