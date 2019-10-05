@@ -106,8 +106,6 @@
 
 包括编程竞赛，hackathon时间表，研讨会以及与招聘相关的更多内容。
 
-* [2019.09.18 00:00:00 ~ 2019.10.01 18:00:00] [NAVER CAMPUS HACKDAY 2019 Winter](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003198)
-
 ### 如何获得其他工作
 
 **잡코리아, 一个人力资源发布的地方，不建议个人用户参与**.  

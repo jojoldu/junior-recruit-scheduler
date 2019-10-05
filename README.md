@@ -107,8 +107,6 @@
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
 
-* [2019.09.18 00:00:00 ~ 2019.10.01 18:00:00] [NAVER CAMPUS HACKDAY 2019 Winter](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003198)
-
 ### 이외 채용정보 얻는법
 
 **잡코리아, 사람인 채용 정보는 개인적으로는 추천하지 않습니다**.  
