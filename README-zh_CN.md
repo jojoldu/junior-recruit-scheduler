@@ -171,6 +171,8 @@
 
 * [28岁 요우의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382)
 
+* [강디너의 이직 탐험기](https://kdinner.tistory.com/58)
+
 ### 简历以及编写技巧
 
 * [如何写一篇你想在面试中能够洽谈的好简历](https://brunch.co.kr/@wantedlab/29)
