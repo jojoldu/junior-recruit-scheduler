@@ -172,6 +172,8 @@
 
 * [28세 요우의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382)
 
+* [강디너의 이직 탐험기](https://kdinner.tistory.com/58)
+
 ### 이력서 & 포트폴리오 작성법
 
 * [원티드랩에서 이야기하는 통과잘되는 이력서 작성법 (신입/경력 포함)](https://brunch.co.kr/@wantedlab/29)
