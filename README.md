@@ -80,7 +80,7 @@
   * [MyMusicTaste 개발문화](https://github.com/MyMusicTaste/recruit)
   * [기술 블로그](https://mymusictaste.github.io/)
 
-* [채용시까지] [Riiid(산타토익) 개발자 전분야 채용](https://riiid.co/ko/career)
+* [채용시까지] [Riiid(산타토익) 개발자 전분야 채용](https://career.riiid.app)
   * [Riiid 회사소개](https://riiid.co/ko/)
   * [프론트엔드 기술스택](https://apply.riiid.app/)
   * [(참고자료) 산타토익 소개](https://santatoeic.com/intro)
