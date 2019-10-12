@@ -79,7 +79,7 @@
   * [MyMusicTaste公司文化](https://github.com/MyMusicTaste/recruit)
   * [博客](https://mymusictaste.github.io/)
 
-* [招聘中] [Riiid 招聘所有开发人员](https://riiid.co/ko/career)
+* [招聘中] [Riiid 招聘所有开发人员](https://career.riiid.app)
   * [Riiid公司](https://riiid.co/ko/)
   * [前端技术栈](https://apply.riiid.app/)
   * [(参考资料) Santa TOEIC简介](https://santatoeic.com/intro)
