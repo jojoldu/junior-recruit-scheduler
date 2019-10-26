@@ -60,8 +60,6 @@
 
 ### 推荐公司
 
-* [2019.09.30 10:00:00 ~ 2019.10.25 17:00:00] [2019 Winter Coding - 寒假 创业公司 实习 节目](https://programmers.co.kr/competitions/109/2019-winter-coding)
-
 * [招聘中] [당근마켓 后端/平台 新手/实习生 招聘](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [博客](https://medium.com/daangn)
 * [招聘中] [ZIGZAG iOS/Android 新手](http://bit.ly/2JpPLob)
