@@ -62,8 +62,6 @@
 ### 추천 기업
 
 * [2019.11.04 00:00:00 ~ 2019.11.17 23:59:00] [LINE studio 정규직 채용 연계형 인턴십](https://recruit.linepluscorp.com/lineplus/career/detail/20003369?classId=&entTypeCd=&tag=&page=)
-* [2019.10.25 15:00:00 ~ 2019.11.05 10:00:00] [우아한형제들 우아한 테크코스 2기 모집](https://woowacourse.github.io/)
-* [2019.10.21 00:00:00 ~ 2019.11.05 17:00:00] [2019 카카오 개발자 겨울 인턴십 (채용 연계형)](https://careers.kakao.com/jobs/P-11409)
 
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
