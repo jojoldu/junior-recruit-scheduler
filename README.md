@@ -62,7 +62,9 @@
 ### 추천 기업
 
 * [2019.11.04 00:00:00 ~ 2019.11.17 23:59:00] [LINE studio 정규직 채용 연계형 인턴십](https://recruit.linepluscorp.com/lineplus/career/detail/20003369?classId=&entTypeCd=&tag=&page=)
+* [2019.11.06 00:00:00 ~ 2019.11.20 18:00:00] [2019 WORKS MOBILE 동계 인턴 모집(채용연계형)](https://recruit.worksmobile.com/worksmobile/recruitIng)
 * [2019.11.06 18:00:00 ~ 2019.11.27 18:00:00] [당근마켓 블라인드 채용 - 웹 개발 챌린지](https://programmers.co.kr/competitions/112/2019-daangn-blind-recruitment)
+
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
 * [채용시까지] [지그재그 IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
@@ -135,7 +137,7 @@
 * [스타트업 주의 사항](https://www.facebook.com/dalinaum/posts/10157321350303468)
 
 * [MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지 - 참석후기](https://jojoldu.tistory.com/423)
-  
+
 * [마음에 안드는 중소기업에 합격했을때](https://jojoldu.tistory.com/398)
 
 * [Tech HR - 주니어 개발자와 시니어 개발자의 차이 필독](https://jojoldu.tistory.com/163)
