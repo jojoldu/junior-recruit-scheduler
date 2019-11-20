@@ -1,6 +1,11 @@
 ﻿{
   "recruits": [
     {
+      "endDate": "2019.12.08 23:59:00",
+      "link": "https://recruit.nts-corp.com/nts/recruitIng",
+      "description": "N Tech Service 정규직 채용 연계형 인턴십"
+    },
+    {
       "endDate": "2019.11.17 23:59:00",
       "link": "https://recruit.linepluscorp.com/lineplus/career/detail/20003369?classId=&entTypeCd=&tag=&page=",
       "description": "LINE studio 정규직 채용 연계형 인턴십"
