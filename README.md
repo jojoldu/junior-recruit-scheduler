@@ -70,6 +70,10 @@
 
 ### 추천 기업
 
+* [2019.12.01 01:00:00 ~ 2019.12.13 23:59:59] [지그재그 채용 연계형 인턴 모집](https://www.notion.so/12-13-707a303e271e47f1ba11b84a424aa934)
+* [2019.12.01 01:00:00 ~ 2019.12.15 23:59:59] [핀다 신입 서버 개발자 채용](https://finda137052.typeform.com/to/iEDvuB)
+  * [채용 가치관 소개](https://www.finda.co.kr/post/hot/21044)
+  * [개발직군 소개](https://cdn.finda.co.kr/blog/20191126165538/%E1%84%91%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A1%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2for-DR.pdf)
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
 * [채용시까지] [지그재그 IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
@@ -91,8 +95,6 @@
   * [Riiid 회사소개](https://riiid.co/ko/)
   * [프론트엔드 기술스택](https://apply.riiid.app/)
   * [(참고자료) 산타토익 소개](https://santatoeic.com/intro)
-
-* [채용시까지] [트레바리 주니어 개발 직군 채용](http://bit.ly/2ZSFUvi)
 
 * [채용시까지] [피플펀드 개발자 채용](https://bit.ly/2HhIKSm)
     * [기술 블로그](https://tech.peoplefund.co.kr/)

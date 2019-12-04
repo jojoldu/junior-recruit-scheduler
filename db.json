@@ -1,14 +1,19 @@
 ﻿{
   "recruits": [
     {
-      "endDate": "채용시까지",
-      "link": "https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0",
-      "description": "당근마켓 백엔드/플랫폼 신입/인턴 채용"
+      "endDate": "2019.12.13 23:59:59",
+      "link": "https://www.notion.so/12-13-707a303e271e47f1ba11b84a424aa934",
+      "description": "지그재그 채용 연계형 인턴 모집"
+    },
+    {
+      "endDate": "2019.12.15 23:59:59",
+      "link": "https://www.finda.co.kr/post/hot/21044",
+      "description": "핀다 신입 서버 개발자 채용"
     },
     {
       "endDate": "채용시까지",
-      "link": "http://bit.ly/2JpPLob",
-      "description": "지그재그 IOS/안드로이드 신입"
+      "link": "https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0",
+      "description": "당근마켓 백엔드/플랫폼 신입/인턴 채용"
     },
     {
       "endDate": "채용시까지",
@@ -29,11 +34,6 @@
       "endDate": "채용시까지",
       "link": "http://bit.ly/2IfFcQK",
       "description": "MyMusicTaste 프론트엔드 개발 신입 채용"
-    },
-    {
-      "endDate": "채용시까지",
-      "link": "http://bit.ly/2ZSFUvi",
-      "description": "트레바리 주니어 개발자 채용"
     },
     {
       "endDate": "채용시까지",
