@@ -212,6 +212,8 @@
 
 * [JSpiner님의 github로 다같이 쓰는 이력서](https://github.com/JSpiner/RESUME)
 
+* [나동빈님의 초보 개발자를 위한, 개발자 포트폴리오 만드는 방법](https://www.youtube.com/watch?v=hElB_FY33xs&t=8s)
+
 ### 면접 팁
 
 * [JBee(한재엽)님의 기술면접 자료 Repository](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
