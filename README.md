@@ -66,9 +66,6 @@
 
 ### 추천 기업
 
-* [2019.12.01 01:00:00 ~ 2019.12.15 23:59:59] [핀다 신입 서버 개발자 채용](https://finda137052.typeform.com/to/iEDvuB)
-  * [채용 가치관 소개](https://www.finda.co.kr/post/hot/21044)
-  * [개발직군 소개](https://cdn.finda.co.kr/blog/20191126165538/%E1%84%91%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A1%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2for-DR.pdf)
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
 * [채용시까지] [지그재그 IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
