@@ -39,3 +39,12 @@ The period means **closing of documents**.
 * It will be automated on a separate site or on Facebook.
     * Rule for db.json is```yyyy-MM-dd HH:mm:ss```.
     * If it has only closing date, please set closing time as ```23:59:59```.
+
+## 3. Recommended links
+The Series about story that 5 year career developer commence his 3rd work.
+
+* [3번째 직장에 오기까지](http://bit.ly/2sFSGim)
+
+The facebook page which communize informations such as technology/seminar for junior developer.
+
+* [초보개발자모임](https://www.facebook.com/devbeginner/)
