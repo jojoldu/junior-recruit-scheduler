@@ -30,3 +30,12 @@ It's a repository for **good quality employment information** for junior develop
 I'd like to include an intern/new/junior recruitment & hackathon schedule. 
 The period means **closing of documents**. 
 (If you find out that the recruitment has been completed, please make a Pull Request.)
+
+## 2. PR Rules
+
+* If you don't have a fixed period, you can write as **Undetermined**.
+* You have to change **db.json** Too.
+* db.json is for **automation** in telegram bot. [co-duck Site](https://co-duck.com/)    
+* It will be automated on a separate site or on Facebook.
+    * Rule for db.json is```yyyy-MM-dd HH:mm:ss```.
+    * If it has only closing date, please set closing time as ```23:59:59```.
