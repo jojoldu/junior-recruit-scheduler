@@ -23,3 +23,10 @@ My first book, [Web services implemented alone with spring boots and AWS](https:
 I highly recommend you to do your portfolio and personal projects with Springboot and AWS.
 
 </div>
+
+## 1. Introduction
+
+It's a repository for **good quality employment information** for junior developers. 
+I'd like to include an intern/new/junior recruitment & hackathon schedule. 
+The period means **closing of documents**. 
+(If you find out that the recruitment has been completed, please make a Pull Request.)
