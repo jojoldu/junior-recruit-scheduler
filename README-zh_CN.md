@@ -1,6 +1,6 @@
 # 初级开发者招聘信息
 
-[Korean](./README.md) | [Chinese](./README-zh_CN.md)  
+[Korean](./README.md) | [English](./README-en_EN.md) | [Chinese](./README-zh_CN.md)  
 
 <div align=center>
 

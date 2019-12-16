@@ -1,6 +1,6 @@
-﻿# 주니어 개발자를 위한 취업 정보
+# 주니어 개발자를 위한 취업 정보
 
-[Korean](./README.md) | [Chinese](./README-zh_CN.md)  
+[Korean](./README.md) | [English](./README-en_EN.md) | [Chinese](./README-zh_CN.md) 
 
 <div align=center>
 
