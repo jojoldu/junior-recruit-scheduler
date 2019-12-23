@@ -1,4 +1,4 @@
-﻿# 주니어 개발자를 위한 취업 정보
+# 주니어 개발자를 위한 취업 정보
 
 [Korean](./README.md) | [Chinese](./README-zh_CN.md)  
 
@@ -105,6 +105,10 @@
     * [함께 일 할 개발팀장 보러 가기](https://brunch.co.kr/@comento/120)
     * [위워크 입주기업 릴레이 인터뷰](http://bitly.kr/6flAH)
     * [한국일보 인터뷰 - 이달의 생산성 기업](http://bitly.kr/TgWDe)
+
+* [채용시까지] [매스프레소 개발자 채용](https://www.wanted.co.kr/company/1628)
+	* [iOS 개발자 채용](https://www.wanted.co.kr/wd/10952?referer_id=156143)
+	* [기술 블로그](https://medium.com/qandastudy)
 
 ### 채용 관련 행사
 

@@ -1,4 +1,4 @@
-﻿{
+{
   "recruits": [
     {
       "endDate": "채용시까지",
@@ -39,6 +39,11 @@
       "endDate": "채용시까지",
       "link": "http://bitly.kr/9nM23",
       "description": "코멘토 Back-end 개발자 채용"
+    }
+    {
+      "endDate": "채용시까지",
+      "link": "https://www.wanted.co.kr/company/1628",
+      "description": "매스프레소 개발자 채용"
     }
   ],
   "seminars": [
