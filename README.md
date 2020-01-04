@@ -97,8 +97,8 @@
 
 * [채용시까지] [레이니스트 (뱅크샐러드) 전분야 채용](https://rainist.com/recruit/engineer)
 * [채용시까지] 코멘토 신입 채용
-    * [Front-end 개발자 채용](https://bit.ly/2FFdApI)
-    * [Back-end 개발자 채용](https://bit.ly/2T2smKc)
+    * [Front-end 개발자 채용](https://bit.ly/2MOmsvl)
+    * [Back-end 개발자 채용](https://bit.ly/35ga91e)
     * [함께 일 할 프론트앤드 개발자 보러 가기](https://brunch.co.kr/@comento/117)
     * [함께 일 할 디자이너 보러 가기](https://brunch.co.kr/@comento/116)
     * [함께 일 할 백앤드 개발자 보러 가기](https://brunch.co.kr/@comento/119)
