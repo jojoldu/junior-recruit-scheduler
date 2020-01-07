@@ -1,6 +1,6 @@
-# 주니어 개발자를 위한 취업 정보
+# Job Information for Junior Developers
 
-[Korean](./README.md) | [English](./README-en_EN.md) | [Chinese](./README-zh_CN.md) 
+[Korean](./README.md) | [English](./README-en_EN.md) | [Chinese](./README-zh_CN.md)
 
 <div align=center>
 
@@ -13,130 +13,124 @@
 
 </div>
 
-> 이 저장소에 기여를 해주신 분들입니다.  
-정말 감사합니다. :pray:
+> These are the people who contributed to this repository. Thank you very much. :pray:
 
 <div align=center>
 
 ![springboot](./images/springboot.jpg)
 
-저의 첫 저서인 [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://jojoldu.tistory.com/463)가 출간되었습니다.  
-스프링부트와 AWS로 포트폴리오, 개인 프로젝트를 하고 싶으신 분들께 적극 추천드립니다.
+My first book, [Web services implemented alone with spring boots and AWS](https://jojoldu.tistory.com/463), has been published.
+I highly recommend you to do your portfolio and personal projects with Springboot and AWS.
 
 </div>
 
-## 1. 소개
+## 1. Introduction
 
-주니어 개발자를 위한 **양질의 채용정보**가 흩어져있는 것 같아 한곳에 모으기 위한 저장소입니다.  
-인턴/신입/주니어 채용 & 해커톤 일정을 담으려고 합니다.  
-앞의 일정은 **서류 마감** 일정입니다.  
-(혹시나 채용이 완료된 것이 확인되면 풀리퀘스트 부탁드립니다.)  
+It's a repository for **good quality employment information** for junior developers. 
+I'd like to include an intern/new/junior recruitment & hackathon schedule. 
+The period means **closing of documents**. 
+(If you find out that the recruitment has been completed, please make a Pull Request.)
 
-## 2. PR 규칙
+## 2. PR Rules
 
-* 기간이 정해져 있지 않다면 **채용시까지** 로 해주시면 됩니다.
-* **db.json**도 함께 수정해주셔야 합니다.
-    * db.json은 텔레그램 봇과 [co-duck 사이트](https://co-duck.com/)에서 **자동화** 하기 위함입니다.
-    * 이후 별도 사이트나 페이스북에서 자동화될 예정입니다.
-    * db.json의 규칙은 ```yyyy-MM-dd HH:mm:ss``` 입니다.
-    * 마감 일자만 있다면 시간은 ```23:59:59``` 로 해주세요.
+* If you don't have a fixed period, you can write as **Undetermined**.
+* You have to change **db.json** Too.
+* db.json is for **automation** in telegram bot. [co-duck Site](https://co-duck.com/)    
+* It will be automated on a separate site or on Facebook.
+    * Rule for db.json is```yyyy-MM-dd HH:mm:ss```.
+    * If it has only closing date, please set closing time as ```23:59:59```.
 
-## 3. 취업 관련 추천 링크
-
-5년 차 개발자가 3번째 직장에 오기까지 이야기를 담은 시리즈
+## 3. Recommended links
+The Series about story that 5 year career developer commence his 3rd work.
 
 * [3번째 직장에 오기까지](http://bit.ly/2sFSGim)
 
-주니어 개발자분들에게 필요한 기술/세미나 등의 소식을 공유하는 페이스북 페이지
+The facebook page which communize informations such as technology/seminar for junior developer.
 
 * [초보개발자모임](https://www.facebook.com/devbeginner/)
 
-## 4. 채용 (2019)
+## 4. Recruitments (2019)
 
-채용에 올라온 기업들은 모두 **개발자로서 커리어 쌓기가 좋은 회사**의 **신입/주니어** 채용을 기준으로 합니다.  
+Every notice of employment in this chapter is for **new/junior** from **a good company for developers to build a career**.
 
-> 유의미한 트래픽이 발생하고,  
-코드리뷰, 배포 자동화 등이 구축되어 있고,  
-코드 품질에 관심이 있는 회사를 얘기합니다.
+> Significant traffic occurs,
+Have Code Reviews, Continuous Deployment, etc. 
+Refers to a company interested in code quality.
 
-잡플래닛 평점 3.3 미만인 회사들은 PR을 주셔도 추가해드릴 수 없습니다.  
-이 저장소의 목적은 **양질의 취업 정보를 한곳에 모으기 위함**입니다.  
-**모든 회사의 채용 정보를 담으려는 것이 아닙니다**.  
-잡플래닛 평점은 낮지만 정말 추천하고 싶은 회사가 있다면 그 사유를 같이 PR에 남겨주세요.
+Companies with a JobPlanet rating of 3.3 or less can't add to it even if you give them PR.
+The purpose of this repository is to gather **good quality employment information** in one place. 
+**I'm not trying to contain all the company's recruitment information**.  
+If there is a company that has low JobPlanet ratings but you really want to recommend it, please leave the reason for that in PR.
 
-### 추천 기업
+### Recommended Company
 
-* [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
-  * [기술 블로그](https://medium.com/daangn)
-* [채용시까지] [지그재그 IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
-  * [기술 블로그](https://devblog.croquis.com/ko/)
-  * [지그재그 트래픽](http://ppss.kr/archives/151825)
-  * [지그재그 아웃스탠딩](http://outstanding.kr/zigzag20170123/)
+* [Undetermined] [당근마켓(Carrot Market) New/Intern Backend/Platform developer recruitment](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
+  * [Technical blog](https://medium.com/daangn)
 
-* [채용시까지] [8퍼센트 신입 개발자 채용](http://bit.ly/2M7dk2S)
-  * [(참고자료) 박문수 이야기](https://brunch.co.kr/@leehosung/12)
-  * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
-  * [(참고자료) 냉정과 열정사이](https://brunch.co.kr/@leehosung/34)
-  * [(참고자료) 두숟갈 스터디를 마치며](https://brunch.co.kr/@leehosung/42)
+* [Undetermined] [지그재그(Zigzag) new IOS/Android developer recruitment](http://bit.ly/2JpPLob)
+  * [Technical blog](https://devblog.croquis.com/ko/)
+  * [Zigzag Traffic](http://ppss.kr/archives/151825)
+  * [Zigzag Outboarding](http://outstanding.kr/zigzag20170123/)
 
-* [채용시까지] [MyMusicTaste Frontend 개발자 채용](http://bit.ly/2OOayk8)
-  * [MyMusicTaste 개발문화](https://github.com/MyMusicTaste/recruit)
-  * [기술 블로그](https://mymusictaste.github.io/)
+* [Undetermined] [8퍼센트(8%) new developer recruitment](http://bit.ly/2M7dk2S)
+  * [(Reference) Park Moon-soo Story](https://brunch.co.kr/@leehosung/12)
+  * [(Reference) Goodbye, friends](https://brunch.co.kr/@leehosung/22)
+  * [(Reference) Between Calm and Passion](https://brunch.co.kr/@leehosung/34)
+  * [(Reference) Finishing two spoonfuls study](https://brunch.co.kr/@leehosung/42)
 
-* [채용시까지] [Riiid(산타토익) 개발자 전분야 채용](https://career.riiid.app)
-  * [Riiid 회사소개](https://riiid.co/ko/)
-  * [프론트엔드 기술스택](https://apply.riiid.app/)
-  * [(참고자료) 산타토익 소개](https://santatoeic.com/intro)
+* [Undetermined] [MyMusicTaste Frontend developer recruitment](http://bit.ly/2OOayk8)
+  * [MyMusicTaste development culture](https://github.com/MyMusicTaste/recruit)
+  * [Technical blog](https://mymusictaste.github.io/)
 
-* [채용시까지] [피플펀드 개발자 채용](https://bit.ly/2HhIKSm)
-    * [기술 블로그](https://tech.peoplefund.co.kr/)
-    * 지인 추천
-      * 잡플래닛 평점 4.0
-      * 사내 스터디 문화가 활발
-      * 개발팀 문화가 좋아 대부분 좋은 회사로 이직 (쿠팡, 카카오 모빌리티, 카카오뱅크)
+* [Undetermined] [Riiid(산타토익(Santa TOEIC)) developer recruitment in all fields](https://career.riiid.app)
+  * [Riiid company introduction](https://riiid.co/ko/)
+  * [Front End Technology Stack](https://apply.riiid.app/)
+  * [(Reference) Introduction to Santa TOEIC](https://santatoeic.com/intro)
 
-* [채용시까지] [레이니스트 (뱅크샐러드) 전분야 채용](https://rainist.com/recruit/engineer)
-* [채용시까지] 코멘토 신입 채용
-    * [Front-end 개발자 채용](https://bit.ly/35KpLet)
-    * [Back-end 개발자 채용](https://bit.ly/2PI48pA)
-    * [함께 일 할 프론트앤드 개발자 보러 가기](https://brunch.co.kr/@comento/117)
-    * [함께 일 할 디자이너 보러 가기](https://brunch.co.kr/@comento/116)
-    * [함께 일 할 백앤드 개발자 보러 가기](https://brunch.co.kr/@comento/119)
-    * [함께 일 할 개발팀장 보러 가기](https://brunch.co.kr/@comento/120)
-    * [위워크 입주기업 릴레이 인터뷰](http://bitly.kr/6flAH)
-    * [한국일보 인터뷰 - 이달의 생산성 기업](http://bitly.kr/TgWDe)
+* [Undetermined] [피플펀드(PeopleFund) Developer recruitment](https://bit.ly/2HhIKSm)
+    * [Technology Blog](https://tech.peoplefund.co.kr/)
+    * Recommendation of Acquaintances
+      * JobPlanet rating 4.0
+      * In-company study culture is active
+      * The development team has a good culture and most of them have moved to good companies (coupang, Kakao Mobility, Kakao Bank)
 
-* [채용시까지] 모빌 프론트엔드 개발자 인턴 채용
-    * [회사 소개](https://www.notion.so/movill/dfeb9169ced246f4bce9c9b829f3cc65)
-    * [팀원 소개](https://www.notion.so/movill/e431fa5dd9f74ad9ac3ddbbed9b50e6e)
-    * [Front-end 개발자 인턴 채용](http://bit.ly/2N2a5f0)
-    * [Front-end 개발자 채용 **(노션 버전)**](https://www.notion.so/movill/679cc5f594e348c9b81789cc0694f062)
-    * [사내 기술 스택](https://stackshare.io/kakao-movill/movill)
+* [Undetermined] [Rainist (BankSalad) recruitment in all fields](https://rainist.com/recruit/engineer)
 
-### 채용 관련 행사
+* [Undetermined] 코멘토(Commento)'s new employees recruitment
+    * [Front-end Developer Employment](https://bit.ly/2FFdApI)
+    * [Back-end Developer Employment](https://bit.ly/2T2smKc)
+    * [Front-end Developer to Work With](https://brunch.co.kr/@comento/117)
+    * [Designer to Work With](https://brunch.co.kr/@comento/116)
+    * [Back-end Developer to Work With](https://brunch.co.kr/@comento/119)
+    * [Head of the Development Team to Work With](https://brunch.co.kr/@comento/120)
+    * [WeWork's Resident's Relay Interview](http://bitly.kr/6flAH)
+    * [Hankook Ilbo Interview - Productivity Company of the Month](http://bitly.kr/TgWDe)
 
-채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
+### Employment-Related Events
 
+Includes recruiting-related programming contests, hackathon schedules, seminars, and more.
 
+### How to get employment information
 
-### 이외 채용정보 얻는 법
+**Personally, I don't recommend recruitment information for Job Korea or people..**. 
+
 
 **잡코리아, 사람인 채용 정보는 개인적으로는 추천하지 않습니다**.  
-추가로 채용 정보에 복사 & 붙여넣기 한 듯한 양식이나 글이 있다면 거르셔도 됩니다.  
-그만큼 **채용에 관심이 없는 회사라면 개발자에 대한 인식도 부족**하다고 보셔야 합니다.  
-아래는 제가 정기적으로 방문하는 잡플래닛/원티드 검색 조건입니다.  
-참고하시면 좋을 것 같습니다.
+You may skip any additional forms or comments that appear to be copy & paste into your employment information.
+If **the companys are not interested in hiring as much, you can think that they don't have enough understanding of the developer**. 
+Below are the JobPlanet/Wanted search criteria that I visit regularly.
+I'd like you to refer to it.
 
-* [잡플래닛 신입 개발자 채용 리스트](https://www.jobplanet.co.kr/job_postings/search?utf8=%E2%9C%93&query=&jp_show_search_result=true&jp_show_search_result_chk=true&occupation_level2_ids%5B%5D=11610&occupation_level2_ids%5B%5D=11604&occupation_level2_ids%5B%5D=11603&industry_level2_ids%5B%5D=709&industry_level2_ids%5B%5D=702&recruitment_type_ids%5B%5D=1&order_by=score&page=1)
-* [원티드 신입 개발자 채용 리스트](https://www.wanted.co.kr/wdlist/518?referer_id=23685&years=0)
-* [로켓펀치 '병역대체' 채용 리스트](https://www.rocketpunch.com/jobs?military_service=1&q=)
+* [JobPlanet New Developer Recruitment List](https://www.jobplanet.co.kr/job_postings/search?utf8=%E2%9C%93&query=&jp_show_search_result=true&jp_show_search_result_chk=true&occupation_level2_ids%5B%5D=11610&occupation_level2_ids%5B%5D=11604&occupation_level2_ids%5B%5D=11603&industry_level2_ids%5B%5D=709&industry_level2_ids%5B%5D=702&recruitment_type_ids%5B%5D=1&order_by=score&page=1)
+* ["Wanted" New Developer Recruitment](https://www.wanted.co.kr/wdlist/518?referer_id=23685&years=0)
+* ["Rocket Punch" 'Replacement of Military' Recruitment List](https://www.rocketpunch.com/jobs?military_service=1&q=)
 
-## 5. 신입 개발자 구직 팁
+## 5. Developer Job Tips
 
-**취업 팁 외에 다른 팁은 포함시키지 않습니다.**  
-주니어를 위한 각종 팁은 [페이스북 페이지](https://www.facebook.com/devbeginner/)를 참고해주세요.
+**It does not include any tips other than job tips.**  
+You can find various tips for juniors on the [Facebook Page](https://www.facebook.com/devbeginner/).
 
-### 구직 전반
+### General
 
 * [원티드와 함께하는 개발자 커리어 터치 참석 후기](https://velog.io/@doondoony/후기-원티드와-함께하는-개발자-커리어-터치)
 
@@ -184,7 +178,7 @@
 
 * [강디너의 이직 탐험기](https://kdinner.tistory.com/58)
 
-### 이력서 & 포트폴리오 작성법
+### Resume & Portfolio Writing Method
 
 * [원티드랩에서 이야기하는 통과잘되는 이력서 작성법 (신입/경력 포함)](https://brunch.co.kr/@wantedlab/29)
 
@@ -216,9 +210,7 @@
 
 * [JSpiner님의 github로 다같이 쓰는 이력서](https://github.com/JSpiner/RESUME)
 
-* [나동빈님의 초보 개발자를 위한, 개발자 포트폴리오 만드는 방법](https://www.youtube.com/watch?v=hElB_FY33xs&t=8s)
-
-### 면접 팁
+### Interview Tips
 
 * [JBee(한재엽)님의 기술면접 자료 Repository](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
@@ -250,21 +242,21 @@
 
 * [WeareSoft의 기술면접 자료 Repository](https://github.com/WeareSoft/tech-interview)
 
-### 기타 정보
+### Etc.
 
 * [개발자 채용시 기술검증 어떻게 할 것인가 - 세미나 후기](http://bit.ly/2QDKlWs)
 * [2016 KSUG 경력 관리 세미나](http://bit.ly/2JEexjS)
 * [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
 * [나무위키 SI](https://namu.wiki/w/SI)
 * [피해야 하는 중소기업 거르는 꿀팁](http://principlesofknowledge.kr/archives/31414)
-* 2017 카카오 코드 페스티벌 [예선전](http://tech.kakao.com/2017/08/11/code-festival-round-1/), [본선](http://tech.kakao.com/2017/09/13/code-festival-round-2/) 해설
+* 2017 카카오 코드 페스티벌 [예선전](http://tech.kakao.com/2017/08/11/code-festival-round-1/), [본선](http://tech.kakao.com/2017/09/14/code-festival-round-2/) 해설
 * 2018 카카오 블라인드 코딩테스트 [1차](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/), [2차](http://tech.kakao.com/2017/10/24/kakao-blind-recruitment-round-2/), [3차](http://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/) 해설
 * 2018 카카오 코드 페스티벌 [예선전](http://tech.kakao.com/2018/08/09/code-festival-2018-round-1/), [본선](http://tech.kakao.com/2018/09/12/code-festival-2018-round-2/) 해설
 * 2019 카카오 신입 공채 코딩 테스트 [1차](http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/), [2차](http://tech.kakao.com/2018/10/23/kakao-blind-recruitment-round-2/) 해설
 * 2020 카카오 신입 공채 코딩 테스트 [1차](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/), [2차](https://tech.kakao.com/2019/10/21/2020-카카오-블라인드-공채-2차-오프라인-코딩-테스트-문/) 해설
 * [Java Interview Question (영문)](https://www.javatpoint.com/corejava-interview-questions)
 
-### 추천 도서
+### Recommended Books
 
 * [프로그래밍 면접 이렇게 준비한다](https://book.naver.com/bookdb/book_detail.nhn?bid=15064639)
-  * [요약정리](https://www.slideshare.net/ddayinhwang9/ss-60152650)
+  * [Summary](https://www.slideshare.net/ddayinhwang9/ss-60152650)
