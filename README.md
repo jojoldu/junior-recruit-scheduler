@@ -1,4 +1,4 @@
-# 주니어 개발자를 위한 취업 정보
+﻿# 주니어 개발자를 위한 취업 정보
 
 [Korean](./README.md) | [English](./README-en_EN.md) | [Chinese](./README-zh_CN.md) 
 
@@ -66,6 +66,13 @@
 
 ### 추천 기업
 
+* [2020.01.07 00:00:00 ~ 2020.02.06 23:59:59] [모빌 프론트엔드 개발자 인턴 채용](http://bit.ly/2N2a5f0)
+    * [회사 소개](https://www.notion.so/movill/dfeb9169ced246f4bce9c9b829f3cc65)
+    * [팀원 소개](https://www.notion.so/movill/e431fa5dd9f74ad9ac3ddbbed9b50e6e)
+    * [Front-end 개발자 인턴 채용](http://bit.ly/2N2a5f0)
+    * [Front-end 개발자 채용 **(노션 버전)**](https://www.notion.so/movill/679cc5f594e348c9b81789cc0694f062)
+    * [사내 기술 스택](https://stackshare.io/kakao-movill/movill)
+
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
 * [채용시까지] [지그재그 IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
@@ -106,12 +113,6 @@
     * [위워크 입주기업 릴레이 인터뷰](http://bitly.kr/6flAH)
     * [한국일보 인터뷰 - 이달의 생산성 기업](http://bitly.kr/TgWDe)
 
-* [채용시까지] 모빌 프론트엔드 개발자 인턴 채용
-    * [회사 소개](https://www.notion.so/movill/dfeb9169ced246f4bce9c9b829f3cc65)
-    * [팀원 소개](https://www.notion.so/movill/e431fa5dd9f74ad9ac3ddbbed9b50e6e)
-    * [Front-end 개발자 인턴 채용](http://bit.ly/2N2a5f0)
-    * [Front-end 개발자 채용 **(노션 버전)**](https://www.notion.so/movill/679cc5f594e348c9b81789cc0694f062)
-    * [사내 기술 스택](https://stackshare.io/kakao-movill/movill)
 
 ### 채용 관련 행사
 
