@@ -106,6 +106,13 @@
     * [위워크 입주기업 릴레이 인터뷰](http://bitly.kr/6flAH)
     * [한국일보 인터뷰 - 이달의 생산성 기업](http://bitly.kr/TgWDe)
 
+* [채용시까지] 모빌 프론트엔드 개발자 인턴 채용
+    * [회사 소개](https://www.notion.so/movill/dfeb9169ced246f4bce9c9b829f3cc65)
+    * [팀원 소개](https://www.notion.so/movill/e431fa5dd9f74ad9ac3ddbbed9b50e6e)
+    * [Front-end 개발자 인턴 채용](http://bit.ly/2N2a5f0)
+    * [Front-end 개발자 채용 **(노션 버전)**](https://www.notion.so/movill/679cc5f594e348c9b81789cc0694f062)
+    * [사내 기술 스택](https://stackshare.io/kakao-movill/movill)
+
 ### 채용 관련 행사
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
