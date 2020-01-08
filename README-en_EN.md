@@ -49,7 +49,7 @@ The facebook page which communize informations such as technology/seminar for ju
 
 * [초보개발자모임](https://www.facebook.com/devbeginner/)
 
-## 4. Recruitments (2019)
+## 4. Recruitments (2020)
 
 Every notice of employment in this chapter is for **new/junior** from **a good company for developers to build a career**.
 
