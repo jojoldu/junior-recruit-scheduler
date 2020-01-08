@@ -1,51 +1,56 @@
 {
-  "recruits": [
-    {
-      "endDate": "채용시까지",
-      "link": "https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0",
-      "description": "당근마켓 백엔드/플랫폼 신입/인턴 채용"
-    },
-    {
-      "endDate": "채용시까지",
-      "link": "http://bit.ly/2M7dk2S",
-      "description": "8퍼센트 개발자 신입"
-    },
-    {
-      "endDate": "채용시까지",
-      "link": "http://bit.ly/2sLH9NA",
-      "description": "카카오 - 사내 정보 시스템 개발 신입"
-    },
-    {
-      "endDate": "채용시까지",
-      "link": "http://bit.ly/2sN04Zp",
-      "description": "카카오 - 컴퓨터비전 및 머신러닝 개발 신입"
-    },
-    {
-      "endDate": "채용시까지",
-      "link": "http://bit.ly/2IfFcQK",
-      "description": "MyMusicTaste 프론트엔드 개발 신입 채용"
-    },
-    {
-      "endDate": "채용시까지",
-      "link": "https://bit.ly/2HhIKSm",
-      "description": "피플펀드 백엔드 개발자 채용"
-    },
-    {
-      "endDate": "채용시까지",
-      "link": "http://bitly.kr/Bpeuv",
-      "description": "코멘토 Front-end 개발자 채용"
-    },
-    {
-      "endDate": "채용시까지",
-      "link": "http://bitly.kr/9nM23",
-      "description": "코멘토 Back-end 개발자 채용"
-    }
+	"recruits": [
+		{
+			"endDate": "2020.02.06 23:59:59",
+			"link": "http://bit.ly/2N2a5f0",
+			"description": "카카오 모빌 웹프론트엔드 인턴 채용"
+		},
     {
       "endDate": "채용시까지",
       "link": "https://www.wanted.co.kr/company/1628",
       "description": "매스프레소 개발자 채용"
-    }
-  ],
-  "seminars": [
-  ]
+    },
+    {
+			"endDate": "채용시까지",
+			"link": "https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0",
+			"description": "당근마켓 백엔드/플랫폼 신입/인턴 채용"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "http://bit.ly/2M7dk2S",
+			"description": "8퍼센트 개발자 신입"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "http://bit.ly/2sLH9NA",
+			"description": "카카오 - 사내 정보 시스템 개발 신입"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "http://bit.ly/2sN04Zp",
+			"description": "카카오 - 컴퓨터비전 및 머신러닝 개발 신입"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "http://bit.ly/2IfFcQK",
+			"description": "MyMusicTaste 프론트엔드 개발 신입 채용"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "https://bit.ly/2HhIKSm",
+			"description": "피플펀드 백엔드 개발자 채용"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "http://bitly.kr/Bpeuv",
+			"description": "코멘토 Front-end 개발자 채용"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "http://bitly.kr/9nM23",
+			"description": "코멘토 Back-end 개발자 채용"
+		}
+	],
+	"seminars": []
+
 }
