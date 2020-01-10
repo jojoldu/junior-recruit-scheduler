@@ -1,6 +1,6 @@
 # 주니어 개발자를 위한 취업 정보
 
-[Korean](./README.md) | [English](./README-en_EN.md) | [Chinese](./README-zh_CN.md) 
+[Korean](./README.md) | [English](./README-en_EN.md) | [Chinese](./README-zh_CN.md)
 
 <div align=center>
 
@@ -66,6 +66,8 @@
 
 ### 추천 기업
 
+* [2020.01.09 00:00:00 ~ 2020.01.19 23:59:59] [LINE plus Global Music 서버 개발 인턴 (정규직 채용 연계형)](https://recruit.linepluscorp.com/lineplus/career/detail/20003593?classId=&entTypeCd=&tag=&page=)  
+
 * [2020.01.07 00:00:00 ~ 2020.02.06 23:59:59] [모빌 프론트엔드 개발자 인턴 채용](http://bit.ly/2N2a5f0)
     * [회사 소개](https://www.notion.so/movill/dfeb9169ced246f4bce9c9b829f3cc65)
     * [팀원 소개](https://www.notion.so/movill/e431fa5dd9f74ad9ac3ddbbed9b50e6e)
@@ -76,7 +78,7 @@
 * [채용시까지] [매스프레소 개발자 채용](https://www.wanted.co.kr/company/1628)
 	* [iOS 개발자 채용](https://www.wanted.co.kr/wd/10952?referer_id=156143)
 	* [기술 블로그](https://medium.com/qandastudy)
-  
+
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
 * [채용시까지] [지그재그 IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
