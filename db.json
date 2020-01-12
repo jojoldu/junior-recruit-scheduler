@@ -1,6 +1,11 @@
 {
 	"recruits": [
 		{
+			"endDate": "2020.01.19 23:59:59",
+			"link": "https://recruit.linepluscorp.com/lineplus/career/detail/20003593?classId=&entTypeCd=&tag=&page=",
+			"description": "LINE plus Global Music 서버 개발 인턴 (정규직 채용 연계형)"
+		},
+		{
 			"endDate": "2020.02.06 23:59:59",
 			"link": "http://bit.ly/2N2a5f0",
 			"description": "카카오 모빌 웹프론트엔드 인턴 채용"
