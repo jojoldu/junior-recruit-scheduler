@@ -73,6 +73,12 @@
     * [Front-end 개발자 채용 **(노션 버전)**](https://www.notion.so/movill/679cc5f594e348c9b81789cc0694f062)
     * [사내 기술 스택](https://stackshare.io/kakao-movill/movill)
 
+* [채용시까지] [데브시스터즈 개발자 전분야 채용](https://careers.devsisters.com/)
+  * [2020년 전문연구요원/산업기능요원 채용](https://careers.devsisters.com/position/adhoc/2020/expert-research)
+      * 게임 서버 / 게임 클라이언트 / 웹 프론트엔드,백엔드 / Data Scientist / Machine Learning / 모바일 앱(Android, iOS)
+  * [기술블로그](https://tech.devsisters.com/)
+  * [링크드인 기업 페이지](https://www.linkedin.com/company/devsisters/)  
+
 * [채용시까지] [매스프레소 개발자 채용](https://www.wanted.co.kr/company/1628)
 	* [iOS 개발자 채용](https://www.wanted.co.kr/wd/10952?referer_id=156143)
 	* [기술 블로그](https://medium.com/qandastudy)
