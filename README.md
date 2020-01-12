@@ -263,6 +263,8 @@
 
 * [WeareSoft의 기술면접 자료 Repository](https://github.com/WeareSoft/tech-interview)
 
+* [30개 기업에서 받은 신입 면접 질문&답변](https://github.com/jobhope/TechnicalNote)
+
 ### 기타 정보
 
 * [개발자 채용시 기술검증 어떻게 할 것인가 - 세미나 후기](http://bit.ly/2QDKlWs)
