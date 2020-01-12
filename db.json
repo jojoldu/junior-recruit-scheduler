@@ -1,4 +1,4 @@
-{
+﻿{
 	"recruits": [
 		{
 			"endDate": "2020.01.19 23:59:59",
@@ -10,12 +10,17 @@
 			"link": "http://bit.ly/2N2a5f0",
 			"description": "카카오 모빌 웹프론트엔드 인턴 채용"
 		},
-    {
-      "endDate": "채용시까지",
-      "link": "https://www.wanted.co.kr/company/1628",
-      "description": "매스프레소 개발자 채용"
-    },
-    {
+		{
+			"endDate": "채용시까지",
+			"link": "https://careers.devsisters.com/position/adhoc/2020/expert-research/",
+			"description": "데브시스터즈 전문연구요원/산업기능요원 채용"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "https://www.wanted.co.kr/company/1628",
+			"description": "매스프레소 개발자 채용"
+		},
+		{
 			"endDate": "채용시까지",
 			"link": "https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0",
 			"description": "당근마켓 백엔드/플랫폼 신입/인턴 채용"
@@ -57,5 +62,4 @@
 		}
 	],
 	"seminars": []
-
 }
