@@ -199,6 +199,9 @@
 
 * [강디너의 이직 탐험기](https://kdinner.tistory.com/58)
 
+* [2020년 프론트엔드 / 백엔드 / 데브옵스 개발자가 되기 위한 로드맵](https://github.com/devJang/developer-roadmap/blob/master/README.md)
+
+
 ### 이력서 & 포트폴리오 작성법
 
 * [원티드랩에서 이야기하는 통과잘되는 이력서 작성법 (신입/경력 포함)](https://brunch.co.kr/@wantedlab/29)
