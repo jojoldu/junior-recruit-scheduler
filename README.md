@@ -66,6 +66,9 @@
 
 ### 추천 기업
 
+* [채용시까지] [플리토 iOS 개발자 채용](https://bit.ly/2QSpQGw)
+    * [원티드 채용 링크](https://www.wanted.co.kr/wd/31033)
+
 * [2020.01.13 00:00:00 ~ 2020.01.19 23:59:59] [네이버웹툰 2020년 상반기 개발 인턴십 채용 (체험형)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003606&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)  
 
 * [2020.01.09 00:00:00 ~ 2020.01.19 23:59:59] [LINE plus Global Music 서버 개발 인턴 (정규직 채용 연계형)](https://recruit.linepluscorp.com/lineplus/career/detail/20003593?classId=&entTypeCd=&tag=&page=)  
