@@ -66,10 +66,6 @@
 
 ### 추천 기업
 
-* [2020.01.13 00:00:00 ~ 2020.01.19 23:59:59] [네이버웹툰 2020년 상반기 개발 인턴십 채용 (체험형)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003606&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)  
-
-* [2020.01.09 00:00:00 ~ 2020.01.19 23:59:59] [LINE plus Global Music 서버 개발 인턴 (정규직 채용 연계형)](https://recruit.linepluscorp.com/lineplus/career/detail/20003593?classId=&entTypeCd=&tag=&page=)  
-
 * [2020.01.07 00:00:00 ~ 2020.02.06 23:59:59] [모빌 프론트엔드 개발자 인턴 채용](http://bit.ly/2N2a5f0)
     * [회사 소개](https://www.notion.so/movill/dfeb9169ced246f4bce9c9b829f3cc65)
     * [팀원 소개](https://www.notion.so/movill/e431fa5dd9f74ad9ac3ddbbed9b50e6e)
