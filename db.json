@@ -1,5 +1,10 @@
-﻿{
+{
 	"recruits": [
+        {
+            "endDate": "채용시까지",
+            "link": "https://bit.ly/2QSpQGw",
+            "description": "플리토 iOS 개발자 채용"
+        },
 		{
 			"endDate": "2020.02.06 23:59:59",
 			"link": "http://bit.ly/2N2a5f0",

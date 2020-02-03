@@ -66,6 +66,9 @@
 
 ### 추천 기업
 
+* [채용시까지] [플리토 iOS 개발자 채용](https://bit.ly/2QSpQGw)
+    * [원티드 채용 링크](https://www.wanted.co.kr/wd/31033)
+
 * [2020.01.07 00:00:00 ~ 2020.02.06 23:59:59] [모빌 프론트엔드 개발자 인턴 채용](http://bit.ly/2N2a5f0)
     * [회사 소개](https://www.notion.so/movill/dfeb9169ced246f4bce9c9b829f3cc65)
     * [팀원 소개](https://www.notion.so/movill/e431fa5dd9f74ad9ac3ddbbed9b50e6e)
