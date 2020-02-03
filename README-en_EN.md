@@ -85,7 +85,6 @@ If there is a company that has low JobPlanet ratings but you really want to reco
 * [Undetermined] [Riiid(산타토익(Santa TOEIC)) developer recruitment in all fields](https://career.riiid.app)
   * [Riiid company introduction](https://riiid.co/ko/)
   * [Front End Technology Stack](https://apply.riiid.app/)
-  * [(Reference) Introduction to Santa TOEIC](https://santatoeic.com/intro)
 
 * [Undetermined] [피플펀드(PeopleFund) Developer recruitment](https://bit.ly/2HhIKSm)
     * [Technology Blog](https://tech.peoplefund.co.kr/)

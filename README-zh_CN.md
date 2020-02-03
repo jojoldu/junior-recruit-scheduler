@@ -80,7 +80,6 @@
 * [招聘中] [Riiid 招聘所有开发人员](https://career.riiid.app)
   * [Riiid公司](https://riiid.co/ko/)
   * [前端技术栈](https://apply.riiid.app/)
-  * [(参考资料) Santa TOEIC简介](https://santatoeic.com/intro)
 
 * [招聘中] [Trevari初级开发人员](http://bit.ly/2ZSFUvi)
 
