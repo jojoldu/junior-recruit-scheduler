@@ -66,6 +66,10 @@
 
 ### 추천 기업
 
+* [채용시까지] [클래스101 개발자 채용](http://bit.ly/class101-recruit-dev)
+  * [클래스101 문화/기업 소개](http://bit.ly/class101-recruit-feb-2020)
+  * [로켓펀치 채용 링크](http://bit.ly/2OmRM5g)
+
 * [채용시까지] [플리토 iOS 개발자 채용](https://bit.ly/2QSpQGw)
     * [원티드 채용 링크](https://www.wanted.co.kr/wd/31033)
 
