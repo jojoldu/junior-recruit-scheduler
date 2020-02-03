@@ -60,6 +60,8 @@
 
 ### 推荐公司
 
+* [2020.01.08 00:00:00 ~ 到结束为止] [Coupang 2020年上半年新进开发商公开招聘 (Java, Android, iOS)](https://grnh.se/e3e7aa821)
+
 * [招聘中] [당근마켓 后端/平台 新手/实习生 招聘](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [博客](https://medium.com/daangn)
 * [招聘中] [ZIGZAG iOS/Android 新手](http://bit.ly/2JpPLob)
