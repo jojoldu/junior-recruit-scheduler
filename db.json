@@ -1,4 +1,4 @@
-{
+﻿{
 	"recruits": [
         {
             "endDate": "채용시까지",
@@ -9,11 +9,6 @@
 			"endDate": "2020.02.06 23:59:59",
 			"link": "http://bit.ly/2N2a5f0",
 			"description": "카카오 모빌 웹프론트엔드 인턴 채용"
-		},
-		{
-			"endDate": "TO마감시까지",
-			"link": "https://grnh.se/e3e7aa821",
-			"description": "쿠팡 2020 상반기 신입 개발자 공개채용 (Java, Android, iOS)"
 		},
 		{
 			"endDate": "채용시까지",

@@ -64,8 +64,6 @@ If there is a company that has low JobPlanet ratings but you really want to reco
 
 ### Recommended Company
 
-* [2020.01.08 00:00:00 ~ Undetermined] [Coupang 2020 the first halft junior developer public recruitment (Java, Android, iOS)](https://grnh.se/e3e7aa821)
-
 * [Undetermined] [당근마켓(Carrot Market) New/Intern Backend/Platform developer recruitment](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [Technical blog](https://medium.com/daangn)
 
