@@ -60,8 +60,6 @@
 
 ### 推荐公司
 
-* [2020.01.08 00:00:00 ~ 到结束为止] [Coupang 2020年上半年新进开发商公开招聘 (Java, Android, iOS)](https://grnh.se/e3e7aa821)
-
 * [招聘中] [당근마켓 后端/平台 新手/实习生 招聘](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [博客](https://medium.com/daangn)
 * [招聘中] [ZIGZAG iOS/Android 新手](http://bit.ly/2JpPLob)
@@ -131,7 +129,7 @@
 * [스타트업 주의 사항](https://www.facebook.com/dalinaum/posts/10157321350303468)
 
 * [MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지 - 참석후기](https://jojoldu.tistory.com/423)
-  
+
 * [当你的面试通过了一个你不喜欢的小公司](https://jojoldu.tistory.com/398)
 
 * [Tech HR - 阅读初级开发人员和高级开发人员之间的差异](https://jojoldu.tistory.com/163)
