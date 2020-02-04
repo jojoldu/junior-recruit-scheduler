@@ -26,9 +26,9 @@ I highly recommend you to do your portfolio and personal projects with Springboo
 
 ## 1. Introduction
 
-It's a repository for **good quality employment information** for junior developers. 
-I'd like to include an intern/new/junior recruitment & hackathon schedule. 
-The period means **closing of documents**. 
+It's a repository for **good quality employment information** for junior developers.
+I'd like to include an intern/new/junior recruitment & hackathon schedule.
+The period means **closing of documents**.
 (If you find out that the recruitment has been completed, please make a Pull Request.)
 
 ## 2. PR Rules
@@ -54,17 +54,15 @@ The facebook page which communize informations such as technology/seminar for ju
 Every notice of employment in this chapter is for **new/junior** from **a good company for developers to build a career**.
 
 > Significant traffic occurs,
-Have Code Reviews, Continuous Deployment, etc. 
+Have Code Reviews, Continuous Deployment, etc.
 Refers to a company interested in code quality.
 
 Companies with a JobPlanet rating of 3.3 or less can't add to it even if you give them PR.
-The purpose of this repository is to gather **good quality employment information** in one place. 
+The purpose of this repository is to gather **good quality employment information** in one place.
 **I'm not trying to contain all the company's recruitment information**.  
 If there is a company that has low JobPlanet ratings but you really want to recommend it, please leave the reason for that in PR.
 
 ### Recommended Company
-
-* [2020.01.08 00:00:00 ~ Undetermined] [Coupang 2020 the first halft junior developer public recruitment (Java, Android, iOS)](https://grnh.se/e3e7aa821)
 
 * [Undetermined] [당근마켓(Carrot Market) New/Intern Backend/Platform developer recruitment](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [Technical blog](https://medium.com/daangn)
@@ -113,12 +111,12 @@ Includes recruiting-related programming contests, hackathon schedules, seminars,
 
 ### How to get employment information
 
-**Personally, I don't recommend recruitment information for Job Korea or people..**. 
+**Personally, I don't recommend recruitment information for Job Korea or people..**.
 
 
 **잡코리아, 사람인 채용 정보는 개인적으로는 추천하지 않습니다**.  
 You may skip any additional forms or comments that appear to be copy & paste into your employment information.
-If **the companys are not interested in hiring as much, you can think that they don't have enough understanding of the developer**. 
+If **the companys are not interested in hiring as much, you can think that they don't have enough understanding of the developer**.
 Below are the JobPlanet/Wanted search criteria that I visit regularly.
 I'd like you to refer to it.
 
