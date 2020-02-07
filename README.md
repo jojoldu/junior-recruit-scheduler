@@ -73,13 +73,6 @@
 * [채용시까지] [플리토 iOS 개발자 채용](https://bit.ly/2QSpQGw)
     * [원티드 채용 링크](https://www.wanted.co.kr/wd/31033)
 
-* [2020.01.07 00:00:00 ~ 2020.02.06 23:59:59] [모빌 프론트엔드 개발자 인턴 채용](http://bit.ly/2N2a5f0)
-    * [회사 소개](https://www.notion.so/movill/dfeb9169ced246f4bce9c9b829f3cc65)
-    * [팀원 소개](https://www.notion.so/movill/e431fa5dd9f74ad9ac3ddbbed9b50e6e)
-    * [Front-end 개발자 인턴 채용](http://bit.ly/2N2a5f0)
-    * [Front-end 개발자 채용 **(노션 버전)**](https://www.notion.so/movill/679cc5f594e348c9b81789cc0694f062)
-    * [사내 기술 스택](https://stackshare.io/kakao-movill/movill)
-
 * [채용시까지] [데브시스터즈 개발자 전분야 채용](https://careers.devsisters.com/)
   * [2020년 전문연구요원/산업기능요원 채용](https://careers.devsisters.com/position/adhoc/2020/expert-research)
       * 게임 서버 / 게임 클라이언트 / 웹 프론트엔드,백엔드 / Data Scientist / Machine Learning / 모바일 앱(Android, iOS)
