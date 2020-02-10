@@ -1,4 +1,4 @@
-# 주니어 개발자를 위한 취업 정보
+﻿# 주니어 개발자를 위한 취업 정보
 
 [Korean](./README.md) | [English](./README-en_EN.md) | [Chinese](./README-zh_CN.md)
 
@@ -66,6 +66,7 @@
 
 ### 추천 기업
 
+* [2020.02.10 10:00:00 ~ 2020.02.24 14:00:00] [라인 신입 개발자 채용 - 앱 개발 챌린지](https://programmers.co.kr/competitions/139/2020-line-recruitment)
 * [채용시까지] [클래스101 개발자 채용](http://bit.ly/class101-recruit-dev)
   * [클래스101 문화/기업 소개](http://bit.ly/class101-recruit-feb-2020)
   * [로켓펀치 채용 링크](http://bit.ly/2OmRM5g)
