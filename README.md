@@ -13,7 +13,7 @@
 
 </div>
 
-> 이 저장소에 기여를 해주신 분들입니다.  
+> 이 저장소에 기여해주신 분들입니다.  
 정말 감사합니다. :pray:
 
 <div align=center>
@@ -34,9 +34,9 @@
 
 ## 2. PR 규칙
 
-* 기간이 정해져 있지 않다면 **채용시까지** 로 해주시면 됩니다.
+* 기간이 정해져 있지 않다면 **채용시까지**로 해주시면 됩니다.
 * **db.json**도 함께 수정해주셔야 합니다.
-    * db.json은 텔레그램 봇과 [co-duck 사이트](https://co-duck.com/)에서 **자동화** 하기 위함입니다.
+    * db.json은 텔레그램 봇과 [co-duck 사이트](https://co-duck.com/)에서 **자동화**하기 위함입니다.
     * 이후 별도 사이트나 페이스북에서 자동화될 예정입니다.
     * db.json의 규칙은 ```yyyy-MM-dd HH:mm:ss``` 입니다.
     * 마감 일자만 있다면 시간은 ```23:59:59``` 로 해주세요.
@@ -74,7 +74,7 @@
 * [채용시까지] [플리토 iOS 개발자 채용](https://bit.ly/2QSpQGw)
     * [원티드 채용 링크](https://www.wanted.co.kr/wd/31033)
 
-* [채용시까지] [데브시스터즈 개발자 전분야 채용](https://careers.devsisters.com/)
+* [채용시까지] [데브시스터즈 개발자 전 분야 채용](https://careers.devsisters.com/)
   * [2020년 전문연구요원/산업기능요원 채용](https://careers.devsisters.com/position/adhoc/2020/expert-research)
       * 게임 서버 / 게임 클라이언트 / 웹 프론트엔드,백엔드 / Data Scientist / Machine Learning / 모바일 앱(Android, iOS)
   * [기술블로그](https://tech.devsisters.com/)
@@ -101,7 +101,7 @@
   * [MyMusicTaste 개발문화](https://github.com/MyMusicTaste/recruit)
   * [기술 블로그](https://mymusictaste.github.io/)
 
-* [채용시까지] [Riiid(산타토익) 개발자 전분야 채용](https://career.riiid.app)
+* [채용시까지] [Riiid(산타토익) 개발자 전 분야 채용](https://career.riiid.app)
   * [Riiid 회사소개](https://riiid.co/ko/)
   * [프론트엔드 기술스택](https://apply.riiid.app/)
 
@@ -112,14 +112,14 @@
       * 사내 스터디 문화가 활발
       * 개발팀 문화가 좋아 대부분 좋은 회사로 이직 (쿠팡, 카카오 모빌리티, 카카오뱅크)
 
-* [채용시까지] [레이니스트 (뱅크샐러드) 전분야 채용](https://rainist.com/recruit/engineer)
+* [채용시까지] [레이니스트 (뱅크샐러드) 전 분야 채용](https://rainist.com/recruit/engineer)
 * [채용시까지] 코멘토 신입 채용
     * [Front-end 개발자 채용](https://bit.ly/35KpLet)
     * [Back-end 개발자 채용](https://bit.ly/2PI48pA)
-    * [함께 일 할 프론트앤드 개발자 보러 가기](https://brunch.co.kr/@comento/117)
-    * [함께 일 할 디자이너 보러 가기](https://brunch.co.kr/@comento/116)
-    * [함께 일 할 백앤드 개발자 보러 가기](https://brunch.co.kr/@comento/119)
-    * [함께 일 할 개발팀장 보러 가기](https://brunch.co.kr/@comento/120)
+    * [함께 일할 프론트앤드 개발자 보러 가기](https://brunch.co.kr/@comento/117)
+    * [함께 일할 디자이너 보러 가기](https://brunch.co.kr/@comento/116)
+    * [함께 일할 백앤드 개발자 보러 가기](https://brunch.co.kr/@comento/119)
+    * [함께 일할 개발팀장 보러 가기](https://brunch.co.kr/@comento/120)
     * [위워크 입주기업 릴레이 인터뷰](http://bitly.kr/6flAH)
     * [한국일보 인터뷰 - 이달의 생산성 기업](http://bitly.kr/TgWDe)
 
@@ -144,7 +144,7 @@
 
 ## 5. 신입 개발자 구직 팁
 
-**취업 팁 외에 다른 팁은 포함시키지 않습니다.**  
+**취업 팁 외에 다른 팁은 포함하지 않습니다.**  
 주니어를 위한 각종 팁은 [페이스북 페이지](https://www.facebook.com/devbeginner/)를 참고해주세요.
 
 ### 구직 전반
@@ -197,7 +197,7 @@
 
 ### 이력서 & 포트폴리오 작성법
 
-* [원티드랩에서 이야기하는 통과잘되는 이력서 작성법 (신입/경력 포함)](https://brunch.co.kr/@wantedlab/29)
+* [원티드랩에서 이야기하는 통과가 잘 되는 이력서 작성법 (신입/경력 포함)](https://brunch.co.kr/@wantedlab/29)
 
 * [OKKY "roggy"님의 신입 개발자 이력서 작성 요령](https://okky.kr/article/319687)
 
@@ -237,7 +237,7 @@
 
 * [너굴너굴님의 좋은면접자/지원자 되는 방법](https://repo.yona.io/doortts/blog/post/292)
 
-* [네이버 면접시 듣게 되는 41가지 질문(기사)](http://www.bloter.net/archives/245110)
+* [네이버 면접 시 듣게 되는 41가지 질문(기사)](http://www.bloter.net/archives/245110)
 
 * [카카오 면접 시 듣게 되는 70가지 질문(블로터)](http://www.bloter.net/archives/245529)
 
