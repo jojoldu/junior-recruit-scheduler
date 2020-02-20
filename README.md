@@ -67,6 +67,7 @@
 ### 추천 기업
 
 * [2020.02.10 10:00:00 ~ 2020.02.24 14:00:00] [라인 신입 개발자 채용 - 앱 개발 챌린지](https://programmers.co.kr/competitions/139/2020-line-recruitment)
+* [2020.02.20 00:00:00 ~ 2020.03.10 23:59:59] [NAVER VIBE 뮤직 서버 개발자 (프론트엔드/백엔드) 채용연계형 인턴십](http://bitly.kr/G6I2xscY)  
 * [채용시까지] [클래스101 개발자 채용](http://bit.ly/class101-recruit-dev)
   * [클래스101 문화/기업 소개](http://bit.ly/class101-recruit-feb-2020)
   * [로켓펀치 채용 링크](http://bit.ly/2OmRM5g)
