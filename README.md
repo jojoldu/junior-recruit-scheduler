@@ -64,8 +64,18 @@
 **모든 회사의 채용 정보를 담으려는 것이 아닙니다**.  
 잡플래닛 평점은 낮지만 정말 추천하고 싶은 회사가 있다면 그 사유를 같이 PR에 남겨주세요.
 
-### 추천 기업
+### 추천 기업 (마감일)
 
+* [2020.03.10 00:00:00 ~ 2020.03.30 00:00:00] [라인 신입 개발자 채용](http://bit.ly/2wPvQcI)
+
+* [2020.03.10 00:00:00 ~ 2020.03.31 00:00:00] [월간 카카오 3월 AdTech/비즈플랫폼 주니어 경력 개발자 모집](http://bit.ly/38FArvx)
+
+### 추천 기업 (수시 채용)
+
+* [채용시까지] [CODEF 주니어 개발자 채용](http://bit.ly/3aLr277)
+  * [CODEF 서비스 소개](https://codef.io/#/)
+  * [CODEF 문화 소개](https://www.notion.so/CODEF-c0eee9fa6d0042bd93328c1ed91090af)
+  * [CODEF 개발자 인터뷰 - 최동철 개발자](http://ohseyong.com/?p=2285)
 * [채용시까지] [클래스101 개발자 채용](http://bit.ly/class101-recruit-dev)
   * [클래스101 문화/기업 소개](http://bit.ly/class101-recruit-feb-2020)
   * [로켓펀치 채용 링크](http://bit.ly/2OmRM5g)
