@@ -70,6 +70,8 @@
 
 * [2020.03.10 00:00:00 ~ 2020.03.31 00:00:00] [월간 카카오 3월 AdTech/비즈플랫폼 주니어 경력 개발자 모집](http://bit.ly/38FArvx)
 
+* [2020.03.18 00:00:00 ~ 2020.04.02 23:00:00] [네이버 2020 CAMPUS HACKDAY Summer](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003868)
+
 ### 추천 기업 (수시 채용)
 
 * [채용시까지] [CODEF 주니어 개발자 채용](http://bit.ly/3aLr277)
