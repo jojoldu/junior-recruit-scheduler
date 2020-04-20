@@ -66,11 +66,10 @@
 
 ### 추천 기업 (마감일)
 
-* [2020.03.10 00:00:00 ~ 2020.03.30 00:00:00] [라인 신입 개발자 채용](http://bit.ly/2wPvQcI)
-
-* [2020.03.10 00:00:00 ~ 2020.03.31 00:00:00] [월간 카카오 3월 AdTech/비즈플랫폼 주니어 경력 개발자 모집](http://bit.ly/38FArvx)
-
-* [2020.03.18 00:00:00 ~ 2020.04.02 23:00:00] [네이버 2020 CAMPUS HACKDAY Summer](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003868)
+* [2020.04.01 00:00:00 ~ 2020.04.30 00:00:00] [네이버 - SRE 신입 개발자 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003755&classId=&jobId=&entTypeCd=001&searchTxt=&searchSysComCd=)
+* [2020.04.01 00:00:00 ~ 2020.05.07 00:00:00] [네이버 - 클로바 챗봇 플랫폼 신입 개발자 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003038&classId=&jobId=&entTypeCd=001&searchTxt=&searchSysComCd=)
+* [2020.04.14 00:00:00 ~ 2020.05.14 00:00:00] [비사이드소프트 신입 개발자 채용](https://bit.ly/2yr9HTa)
+  * [비사이드소프트 신입 개발자 성장기](https://www.bsidesoft.com/?cat=34)
 
 ### 추천 기업 (수시 채용)
 
@@ -111,10 +110,6 @@
 * [채용시까지] [MyMusicTaste Frontend 개발자 채용](http://bit.ly/2OOayk8)
   * [MyMusicTaste 개발문화](https://github.com/MyMusicTaste/recruit)
   * [기술 블로그](https://mymusictaste.github.io/)
-
-* [채용시까지] [Riiid(산타토익) 개발자 전 분야 채용](https://career.riiid.app)
-  * [Riiid 회사소개](https://riiid.co/ko/)
-  * [프론트엔드 기술스택](https://apply.riiid.app/)
 
 * [채용시까지] [피플펀드 개발자 채용](https://bit.ly/2HhIKSm)
     * [기술 블로그](https://tech.peoplefund.co.kr/)
