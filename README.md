@@ -67,6 +67,7 @@
 ### 추천 기업 (마감일)
 
 * [2020.04.01 00:00:00 ~ 2020.04.30 00:00:00] [네이버 - SRE 신입 개발자 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003755&classId=&jobId=&entTypeCd=001&searchTxt=&searchSysComCd=)
+* [2020.04.20 00:00:00 ~ 2020.05.03 00:00:00] [우아한형제들 테크캠프 인턴 모집](https://bit.ly/2XTAour)
 * [2020.04.20 00:00:00 ~ 2020.05.06 11:00:00] [2020 카카오 인턴십 for Tech developers](https://careers.kakao.com/jobs/P-11615)
 * [2020.04.01 00:00:00 ~ 2020.05.07 00:00:00] [네이버 - 클로바 챗봇 플랫폼 신입 개발자 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003038&classId=&jobId=&entTypeCd=001&searchTxt=&searchSysComCd=)
 * [2020.04.14 00:00:00 ~ 2020.05.14 00:00:00] [비사이드소프트 신입 개발자 채용](https://bit.ly/2yr9HTa)
