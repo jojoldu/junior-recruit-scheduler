@@ -228,8 +228,6 @@
 
 * [변성윤님의 Datascience-Interview-Questions](https://github.com/zzsza/Datascience-Interview-Questions)
 
-* [DaeHeeKim93(김대희)님의 기술면접 자료 Repository](https://github.com/DaeHeeKim93/DaeHeeKim-Review)
-
 * [我在年度访谈中遇到的问题清单 (技术)](https://github.com/KimHunJin/Study-Book/tree/master/interview)
 
 * [从个人经验来说遇到的常见问题](https://github.com/KSH-code/Technical-Interview/blob/master/README.md)
