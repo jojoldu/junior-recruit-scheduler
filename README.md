@@ -73,8 +73,6 @@
 
 ### 추천 기업 (마감일)
 
-* [2020.04.01 00:00:00 ~ 2020.04.30 00:00:00] [네이버 - SRE 신입 개발자 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003755&classId=&jobId=&entTypeCd=001&searchTxt=&searchSysComCd=)
-* [2020.04.20 00:00:00 ~ 2020.05.03 00:00:00] [우아한형제들 테크캠프 인턴 모집](https://bit.ly/2XTAour)
 * [2020.04.20 00:00:00 ~ 2020.05.06 11:00:00] [2020 카카오 인턴십 for Tech developers](https://careers.kakao.com/jobs/P-11615)
 * [2020.04.01 00:00:00 ~ 2020.05.07 00:00:00] [네이버 - 클로바 챗봇 플랫폼 신입 개발자 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003038&classId=&jobId=&entTypeCd=001&searchTxt=&searchSysComCd=)
 * [2020.04.14 00:00:00 ~ 2020.05.14 00:00:00] [비사이드소프트 신입 개발자 채용](https://bit.ly/2yr9HTa)
@@ -82,7 +80,7 @@
 
 ### 추천 기업 (수시 채용)
 
-* [채용시까지] [CODEF 주니어 개발자 채용](http://bit.ly/3aLr277)
+* [채용시까지] [CODEF 주니어 경력 개발자 채용](https://www.notion.so/f732e88b497343fa9cd2626a0885e7d2)
   * [CODEF 서비스 소개](https://codef.io/#/)
   * [CODEF 문화 소개](https://www.notion.so/CODEF-c0eee9fa6d0042bd93328c1ed91090af)
   * [CODEF 개발자 인터뷰 - 최동철 개발자](http://ohseyong.com/?p=2285)
@@ -115,10 +113,6 @@
   * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
   * [(참고자료) 냉정과 열정사이](https://brunch.co.kr/@leehosung/34)
   * [(참고자료) 두숟갈 스터디를 마치며](https://brunch.co.kr/@leehosung/42)
-
-* [채용시까지] [MyMusicTaste Frontend 개발자 채용](http://bit.ly/2OOayk8)
-  * [MyMusicTaste 개발문화](https://github.com/MyMusicTaste/recruit)
-  * [기술 블로그](https://mymusictaste.github.io/)
 
 * [채용시까지] [피플펀드 개발자 채용](https://bit.ly/2HhIKSm)
     * [기술 블로그](https://tech.peoplefund.co.kr/)
