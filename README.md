@@ -73,11 +73,9 @@
 
 ### 추천 기업 (마감일)
 
-* [2020.04.27 10:00:00 ~ 2020.05.22 17:00:00] [2020 Summer Coding - 여름방학 스타트업 인턴 프로그램](https://programmers.co.kr/competitions/146/2020-summer-coding)
-* [2020.04.20 00:00:00 ~ 2020.05.06 11:00:00] [2020 카카오 인턴십 for Tech developers](https://careers.kakao.com/jobs/P-11615)
-* [2020.04.01 00:00:00 ~ 2020.05.07 00:00:00] [네이버 - 클로바 챗봇 플랫폼 신입 개발자 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003038&classId=&jobId=&entTypeCd=001&searchTxt=&searchSysComCd=)
 * [2020.04.14 00:00:00 ~ 2020.05.14 00:00:00] [비사이드소프트 신입 개발자 채용](https://bit.ly/2yr9HTa)
   * [비사이드소프트 신입 개발자 성장기](https://www.bsidesoft.com/?cat=34)
+* [2020.05.08 00:00:00 ~ 2020.05.21 14:00:00] [2020 NCSOFT SUMMER INTERN 모집](https://careers.ncsoft.com/apply/list)
 
 ### 추천 기업 (수시 채용)
 
