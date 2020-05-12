@@ -75,7 +75,9 @@
 
 * [2020.04.14 00:00:00 ~ 2020.05.14 00:00:00] [비사이드소프트 신입 개발자 채용](https://bit.ly/2yr9HTa)
   * [비사이드소프트 신입 개발자 성장기](https://www.bsidesoft.com/?cat=34)
-* [2020.05.08 00:00:00 ~ 2020.05.21 14:00:00] [2020 NCSOFT SUMMER INTERN 모집](https://careers.ncsoft.com/apply/list)
+* [2020.05.08 00:00:00 ~ 2020.05.21 14:00:00] [2020 NCSOFT SUMMER INTERN 모집](https://careers.ncsoft.com/apply/list?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
+
+* [2020.05.04 00:00:00 ~ 2020.05.24 18:00:00] [네이버 웹툰 하계 인턴십](https://bit.ly/2yPE06j)
 
 ### 추천 기업 (수시 채용)
 

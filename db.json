@@ -1,19 +1,19 @@
 ﻿{
 	"recruits": [		
 		{
-			"endDate": "2020.05.06 11:00:00",
-			"link": "https://careers.kakao.com/jobs/P-11615",
-			"description": "2020 카카오 인턴십 for Tech developers"
-		},
-		{
-			"endDate": "2020.05.07 00:00:00",
-			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003038&classId=&jobId=&entTypeCd=001&searchTxt=&searchSysComCd=",
-			"description": "네이버 - 클로바 챗봇 플랫폼 신입 개발자 모집"
-		},
-		{
 			"endDate": "2020.05.14 00:00:00",
 			"link": "https://bit.ly/2yr9HTa",
 			"description": "비사이드소프트 신입 개발자 채용"
+		},
+		{
+			"endDate": "2020.05.21 14:00:00",
+			"link": "https://careers.ncsoft.com/apply/list?utm_source=https://github.com/jojoldu/junior-recruit-scheduler",
+			"description": "2020 NCSOFT SUMMER INTERN 모집"
+		},
+		{
+			"endDate": "2020.05.24 18:00:00",
+			"link": "https://bit.ly/2yPE06j",
+			"description": "네이버 웹툰 하계 인턴십"
 		},
 		{
 			"endDate": "채용시까지",
