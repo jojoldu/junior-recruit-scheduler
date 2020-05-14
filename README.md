@@ -25,13 +25,6 @@
 
 </div>
 
-## 이벤트
-
-[코디미](https://bit.ly/2YpBWfO) 에서 개발자 커리어 코디네이터로 잠깐 참여하게 되었습니다.  
-커리어와 관련해서 궁금한게 있으신 분들은 이벤트 기간 (~2020.05.12) 동안 한번 신청해보세요
-
-![코디미](./images/coordime.png)
-
 ## 1. 소개
 
 주니어 개발자를 위한 **양질의 채용정보**가 흩어져있는 것 같아 한곳에 모으기 위한 저장소입니다.  
@@ -73,8 +66,6 @@
 
 ### 추천 기업 (마감일)
 
-* [2020.04.14 00:00:00 ~ 2020.05.14 00:00:00] [비사이드소프트 신입 개발자 채용](https://bit.ly/2yr9HTa)
-  * [비사이드소프트 신입 개발자 성장기](https://www.bsidesoft.com/?cat=34)
 * [2020.05.08 00:00:00 ~ 2020.05.21 14:00:00] [2020 NCSOFT SUMMER INTERN 모집](https://careers.ncsoft.com/apply/list?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
 
 * [2020.05.04 00:00:00 ~ 2020.05.24 18:00:00] [네이버 웹툰 하계 인턴십](https://bit.ly/2yPE06j)
