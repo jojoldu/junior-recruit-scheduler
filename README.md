@@ -68,27 +68,16 @@
 
 * [2020.05.04 00:00:00 ~ 2020.05.24 18:00:00] [네이버 웹툰 하계 인턴십](https://bit.ly/2yPE06j)
 
-* [2020.05.21 00:00:00 ~ 2020.06.10 23:59:59] [네이버 예약 플랫폼 개발 인턴십](http://bitly.kr/n4eBsropK
-)
+* [2020.05.21 00:00:00 ~ 2020.06.10 23:59:59] [네이버 예약 플랫폼 개발 인턴십](http://bitly.kr/n4eBsropK)
 
-### 추천 기업 (수시 채용)
+### 추천 기업 (수시 & 상시 채용)
 
+* [채용시까지] [네이버 동영상 플랫폼 (인턴)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)
+* [채용시까지] [인프라 서비스 플랫폼 개발자 모집 (경력 5년미만)](https://careers.kakao.com/jobs/P-11485?keyword=%EC%8B%A0%EC%9E%85&page=1)
 * [채용시까지] [CODEF 주니어 경력 개발자 채용](https://www.notion.so/f732e88b497343fa9cd2626a0885e7d2)
   * [CODEF 서비스 소개](https://codef.io/#/)
   * [CODEF 문화 소개](https://www.notion.so/CODEF-c0eee9fa6d0042bd93328c1ed91090af)
   * [CODEF 개발자 인터뷰 - 최동철 개발자](http://ohseyong.com/?p=2285)
-* [채용시까지] [클래스101 개발자 채용](http://bit.ly/class101-recruit-dev)
-  * [클래스101 문화/기업 소개](http://bit.ly/class101-recruit-feb-2020)
-  * [로켓펀치 채용 링크](http://bit.ly/2OmRM5g)
-
-* [채용시까지] [플리토 iOS 개발자 채용](https://bit.ly/2QSpQGw)
-    * [원티드 채용 링크](https://www.wanted.co.kr/wd/31033)
-
-* [채용시까지] [데브시스터즈 개발자 전 분야 채용](https://careers.devsisters.com/)
-  * [2020년 전문연구요원/산업기능요원 채용](https://careers.devsisters.com/position/adhoc/2020/expert-research)
-      * 게임 서버 / 게임 클라이언트 / 웹 프론트엔드,백엔드 / Data Scientist / Machine Learning / 모바일 앱(Android, iOS)
-  * [기술블로그](https://tech.devsisters.com/)
-  * [링크드인 기업 페이지](https://www.linkedin.com/company/devsisters/)  
 
 * [채용시까지] [매스프레소 개발자 채용](https://www.wanted.co.kr/company/1628)
 	* [iOS 개발자 채용](https://www.wanted.co.kr/wd/10952?referer_id=156143)
@@ -96,34 +85,6 @@
 
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
-* [채용시까지] [지그재그 IOS/안드로이드 신입 채용](http://bit.ly/2JpPLob)
-  * [기술 블로그](https://devblog.croquis.com/ko/)
-  * [지그재그 트래픽](http://ppss.kr/archives/151825)
-  * [지그재그 아웃스탠딩](http://outstanding.kr/zigzag20170123/)
-
-* [채용시까지] [8퍼센트 신입 개발자 채용](http://bit.ly/2M7dk2S)
-  * [(참고자료) 박문수 이야기](https://brunch.co.kr/@leehosung/12)
-  * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
-  * [(참고자료) 냉정과 열정사이](https://brunch.co.kr/@leehosung/34)
-  * [(참고자료) 두숟갈 스터디를 마치며](https://brunch.co.kr/@leehosung/42)
-
-* [채용시까지] [피플펀드 개발자 채용](https://bit.ly/2HhIKSm)
-    * [기술 블로그](https://tech.peoplefund.co.kr/)
-    * 지인 추천
-      * 잡플래닛 평점 4.0
-      * 사내 스터디 문화가 활발
-      * 개발팀 문화가 좋아 대부분 좋은 회사로 이직 (쿠팡, 카카오 모빌리티, 카카오뱅크)
-
-* [채용시까지] [레이니스트 (뱅크샐러드) 전 분야 채용](https://rainist.com/recruit/engineer)
-* [채용시까지] 코멘토 신입 채용
-    * [Front-end 개발자 채용](https://bit.ly/35KpLet)
-    * [Back-end 개발자 채용](https://bit.ly/2PI48pA)
-    * [함께 일할 프론트앤드 개발자 보러 가기](https://brunch.co.kr/@comento/117)
-    * [함께 일할 디자이너 보러 가기](https://brunch.co.kr/@comento/116)
-    * [함께 일할 백앤드 개발자 보러 가기](https://brunch.co.kr/@comento/119)
-    * [함께 일할 개발팀장 보러 가기](https://brunch.co.kr/@comento/120)
-    * [위워크 입주기업 릴레이 인터뷰](http://bitly.kr/6flAH)
-    * [한국일보 인터뷰 - 이달의 생산성 기업](http://bitly.kr/TgWDe)
 
 
 ### 채용 관련 행사

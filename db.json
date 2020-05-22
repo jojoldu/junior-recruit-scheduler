@@ -1,15 +1,20 @@
 ﻿{
 	"recruits": [
 		{
-			"endDate": "2020.05.21 14:00:00",
-			"link": "https://careers.ncsoft.com/apply/list?utm_source=https://github.com/jojoldu/junior-recruit-scheduler",
-			"description": "2020 NCSOFT SUMMER INTERN 모집"
-		},
-		{
 			"endDate": "2020.05.24 18:00:00",
 			"link": "https://bit.ly/2yPE06j",
 			"description": "네이버 웹툰 하계 인턴십"
+		},		
+		{
+			"endDate": "2020.06.10 23:59:59",
+			"link": "http://bitly.kr/n4eBsropK",
+			"description": "네이버 예약 플랫폼 개발 인턴십"
 		},
+		{
+			"endDate": "채용시까지",
+			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=",
+			"description": "네이버 동영상 플랫폼 (인턴)"
+		},	
 		{
 			"endDate": "채용시까지",
 			"link": "https://www.notion.so/f732e88b497343fa9cd2626a0885e7d2",
@@ -17,33 +22,8 @@
 		},				
 		{
 			"endDate": "채용시까지",
-			"link": "http://bit.ly/class101-recruit-dev",
-			"description": "클래스101 개발자 채용"
-		},
-		{
-			"endDate": "채용시까지",
-			"link": "https://bit.ly/2QSpQGw",
-			"description": "플리토 iOS 개발자 채용"
-		},
-		{
-			"endDate": "채용시까지",
-			"link": "https://careers.devsisters.com/position/adhoc/2020/expert-research/",
-			"description": "데브시스터즈 전문연구요원/산업기능요원 채용"
-		},
-		{
-			"endDate": "채용시까지",
-			"link": "https://www.wanted.co.kr/company/1628",
-			"description": "매스프레소 개발자 채용"
-		},
-		{
-			"endDate": "채용시까지",
 			"link": "https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0",
 			"description": "당근마켓 백엔드/플랫폼 신입/인턴 채용"
-		},
-		{
-			"endDate": "채용시까지",
-			"link": "http://bit.ly/2M7dk2S",
-			"description": "8퍼센트 개발자 신입"
 		},
 		{
 			"endDate": "채용시까지",
@@ -52,23 +32,8 @@
 		},
 		{
 			"endDate": "채용시까지",
-			"link": "http://bit.ly/2sN04Zp",
-			"description": "카카오 - 컴퓨터비전 및 머신러닝 개발 신입"
-		},
-		{
-			"endDate": "채용시까지",
-			"link": "https://bit.ly/2HhIKSm",
-			"description": "피플펀드 백엔드 개발자 채용"
-		},
-		{
-			"endDate": "채용시까지",
-			"link": "http://bitly.kr/Bpeuv",
-			"description": "코멘토 Front-end 개발자 채용"
-		},
-		{
-			"endDate": "채용시까지",
-			"link": "http://bitly.kr/9nM23",
-			"description": "코멘토 Back-end 개발자 채용"
+			"link": "https://careers.kakao.com/jobs/P-11485?keyword=%EC%8B%A0%EC%9E%85&page=1",
+			"description": "카카오 - 인프라 서비스 플랫폼 개발자 모집 (경력 5년미만)"
 		}
 	],
 	"seminars": []
