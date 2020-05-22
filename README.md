@@ -66,9 +66,10 @@
 
 ### 추천 기업 (마감일)
 
-* [2020.05.08 00:00:00 ~ 2020.05.21 14:00:00] [2020 NCSOFT SUMMER INTERN 모집](https://careers.ncsoft.com/apply/list?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
-
 * [2020.05.04 00:00:00 ~ 2020.05.24 18:00:00] [네이버 웹툰 하계 인턴십](https://bit.ly/2yPE06j)
+
+* [2020.05.21 00:00:00 ~ 2020.06.10 23:59:59] [네이버 예약 플랫폼 개발 인턴십](http://bitly.kr/n4eBsropK
+)
 
 ### 추천 기업 (수시 채용)
 
