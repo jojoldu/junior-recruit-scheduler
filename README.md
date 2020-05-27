@@ -70,6 +70,8 @@
 
 * [2020.05.21 00:00:00 ~ 2020.06.10 23:59:59] [네이버 예약 플랫폼 개발 인턴십](http://bitly.kr/n4eBsropK)
 
+* [2020.06.01 00:00:00 ~ 2020.06.30 23:59:59] [부스트캠프 2020 모집](https://blog.naver.com/boostcamp_official/221971734084?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
+
 ### 추천 기업 (수시 & 상시 채용)
 
 * [채용시까지] [네이버 동영상 플랫폼 (인턴)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)

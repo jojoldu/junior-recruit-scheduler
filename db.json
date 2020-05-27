@@ -11,6 +11,11 @@
 			"description": "네이버 예약 플랫폼 개발 인턴십"
 		},
 		{
+			"endDate":"2020.06.30 23:59:59",
+			"link": "https://blog.naver.com/boostcamp_official/221971734084?utm_source=https://github.com/jojoldu/junior-recruit-scheduler",
+			"description": "부스트캠프 2020 모집"
+		},
+		{
 			"endDate": "채용시까지",
 			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=",
 			"description": "네이버 동영상 플랫폼 (인턴)"
