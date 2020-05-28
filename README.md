@@ -66,6 +66,10 @@
 
 ### 추천 기업 (마감일)
 
+* [2020.05.18 00:00:00 ~ 2020.06.07 23:59:59] [사람인 신입 개발자/DBA 채용](https://bit.ly/2XCyMmN)
+  * [기술블로그](https://saramin.github.io/)
+  * [현직 인터뷰](http://www.saramin.co.kr/zf_user/career-information/senior-list?jikjong_bcode=4&keyword=%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B0%9C%EB%B0%9C%ED%8C%80)
+
 * [2020.05.27 00:00:00 ~ 2020.06.08 15:00:00] [NHN 게임 개발 신입 공개채용](https://recruit.nhn.com/ent/recruitings/20001527?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
 
 * [2020.05.21 00:00:00 ~ 2020.06.10 23:59:59] [네이버 예약 플랫폼 개발 인턴십](http://bitly.kr/n4eBsropK)
