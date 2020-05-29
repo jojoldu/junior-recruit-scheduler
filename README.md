@@ -78,6 +78,10 @@
 
 ### 추천 기업 (수시 & 상시 채용)
 
+* [채용시까지] [프리윌린 프론트엔드어, 백엔드 개발자(주니어, 시니어) 채용](https://www.wanted.co.kr/company/1571)
+  * [프론트엔드(주니어, 시니어) 채용공고](https://www.wanted.co.kr/wd/8932)
+  * [백엔드(시니어) 채용공고](https://www.wanted.co.kr/wd/33504)
+  
 * [채용시까지] [네이버 동영상 플랫폼 (인턴)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)
 * [채용시까지] [인프라 서비스 플랫폼 개발자 모집 (경력 5년미만)](https://careers.kakao.com/jobs/P-11485?keyword=%EC%8B%A0%EC%9E%85&page=1)
 * [채용시까지] [CODEF 주니어 경력 개발자 채용](https://www.notion.so/f732e88b497343fa9cd2626a0885e7d2)
