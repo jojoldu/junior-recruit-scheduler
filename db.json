@@ -4,7 +4,7 @@
 			"endDate":"2020.06.07 23:59:59",
 			"link": "https://bit.ly/2XCyMmN",
 			"description": "사람인 신입 개발자/DBA 채용"
-		},		
+		},
 		{
 			"endDate":"2020.06.08 15:00:00",
 			"link": "https://recruit.nhn.com/ent/recruitings/20001527?utm_source=https://github.com/jojoldu/junior-recruit-scheduler",
@@ -21,15 +21,20 @@
 			"description": "부스트코스 2020 모집"
 		},
 		{
+			"endDate":"채용시까지",
+			"link": "https://www.wanted.co.kr/wd/8932",
+			"description": "프리윌린 프론트엔드/백엔드 개발자 채용(주니어, 시니어)"
+		},		
+		{
 			"endDate": "채용시까지",
 			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=",
 			"description": "네이버 동영상 플랫폼 (인턴)"
-		},	
+		},
 		{
 			"endDate": "채용시까지",
 			"link": "https://www.notion.so/f732e88b497343fa9cd2626a0885e7d2",
 			"description": "CODEF 주니어 개발자 채용"
-		},				
+		},
 		{
 			"endDate": "채용시까지",
 			"link": "https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0",
