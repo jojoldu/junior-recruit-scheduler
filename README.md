@@ -72,7 +72,7 @@
 
 * [2020.05.27 00:00:00 ~ 2020.06.08 15:00:00] [NHN 게임 개발 신입 공개채용](https://recruit.nhn.com/ent/recruitings/20001527?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
 
-* [2020.05.21 00:00:00 ~ 2020.06.10 23:59:59] [네이버 예약 플랫폼 개발 인턴십](http://bitly.kr/n4eBsropK)
+* [2020.05.21 00:00:00 ~ 2020.06.10 23:59:59] [네이버 예약 플랫폼 개발 인턴십](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004064&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=KR)
 
 * [2020.06.01 00:00:00 ~ 2020.06.30 23:59:59] [부스트캠프 2020 모집](https://blog.naver.com/boostcamp_official/221971734084?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
 
