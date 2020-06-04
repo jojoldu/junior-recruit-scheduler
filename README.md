@@ -97,8 +97,7 @@
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
 
-* [채용시까지] [에이전트소프트 채용공고] (http://www.agentsoft.co.kr/recruit/noti.php)
-
+* [채용시까지] [네이버 Computer Vision 체험형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004058&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)
 
 
 ### 채용 관련 행사

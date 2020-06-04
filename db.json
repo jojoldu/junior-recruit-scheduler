@@ -52,8 +52,8 @@
 		},
 		{
 			"endDate":"채용시까지",
-			"link": "http://www.agentsoft.co.kr/recruit/noti.php",
-			"description": "에이전트 소프트 채용공고"
+			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004058&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=",
+			"description": "네이버 Computer Vision 체험형 인턴"
 		}
 	],
 	"seminars": []
