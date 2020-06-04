@@ -76,7 +76,6 @@
 
 * [2020.06.01 00:00:00 ~ 2020.06.30 23:59:59] [부스트캠프 2020 모집](https://blog.naver.com/boostcamp_official/221971734084?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
 
-* [2020.06.01 00:00:00 ~ 2020.06.08 18:59:59] [네이버 AI 프로젝트 챌린지 인턴십](http://m.site.naver.com/0xia7)
 
 ### 추천 기업 (수시 & 상시 채용)
 
@@ -97,6 +96,9 @@
 
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
+
+* [채용시까지] [에이전트소프트 채용공고] (http://www.agentsoft.co.kr/recruit/noti.php)
+
 
 
 ### 채용 관련 행사
