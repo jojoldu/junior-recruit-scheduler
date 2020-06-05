@@ -76,6 +76,8 @@
 
 * [2020.06.01 00:00:00 ~ 2020.06.30 23:59:59] [부스트캠프 2020 모집](https://blog.naver.com/boostcamp_official/221971734084?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
 
+* [2020.05.27 00:00:00 ~ 2020.06.14 23:59:59] [네이버 Clova AI Platform Ecosystem 개발자 채용] (https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004078&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=)
+
 ### 추천 기업 (수시 & 상시 채용)
 
 * [채용시까지] [프리윌린 프론트엔드 "주니어, 시니어", 백엔드 개발자 "시니어" 채용](https://www.wanted.co.kr/company/1571)
