@@ -78,6 +78,8 @@
 
 * [2020.05.27 00:00:00 ~ 2020.06.14 23:59:59] [네이버 Clova AI Platform Ecosystem 개발자 채용] (https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004078&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=)
 
+* [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자 모집] (https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
+
 ### 추천 기업 (수시 & 상시 채용)
 
 * [채용시까지] [프리윌린 프론트엔드 "주니어, 시니어", 백엔드 개발자 "시니어" 채용](https://www.wanted.co.kr/company/1571)
