@@ -21,14 +21,14 @@
 			"description": "부스트캠프 2020 모집"
 		},
 		{
-			"endDate":"채용시까지",
-			"link": "https://www.wanted.co.kr/wd/8932",
-			"description": "프리윌린 프론트엔드/백엔드 개발자 채용(주니어, 시니어)"
-		},		
-		{
 			"endDate": "채용시까지",
 			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=",
 			"description": "네이버 동영상 플랫폼 (인턴)"
+		},
+		{
+			"endDate":"채용시까지",
+			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004058&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=",
+			"description": "네이버 Computer Vision 체험형 인턴"
 		},
 		{
 			"endDate": "채용시까지",
@@ -52,8 +52,8 @@
 		},
 		{
 			"endDate":"채용시까지",
-			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004058&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=",
-			"description": "네이버 Computer Vision 체험형 인턴"
+			"link": "https://www.wanted.co.kr/wd/8932",
+			"description": "프리윌린 프론트엔드/백엔드 개발자 채용(주니어, 시니어)"
 		}
 	],
 	"seminars": []

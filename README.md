@@ -66,11 +66,11 @@
 
 ### 추천 기업 (마감일)
 
-* [2020.05.20 00:00:00 ~ 2020.06.08 14:00:00] [2020 컴투스 SUMMER 인턴십 GENIUS 2기 채용 (서버 프로그래밍 부문)](https://com2us.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=28112)
-
 * [2020.05.18 00:00:00 ~ 2020.06.07 23:59:59] [사람인 신입 개발자/DBA 채용](https://bit.ly/2XCyMmN)
   * [기술블로그](https://saramin.github.io/)
   * [현직 인터뷰](http://www.saramin.co.kr/zf_user/career-information/senior-list?jikjong_bcode=4&keyword=%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B0%9C%EB%B0%9C%ED%8C%80)
+
+* [2020.05.20 00:00:00 ~ 2020.06.08 14:00:00] [2020 컴투스 SUMMER 인턴십 GENIUS 2기 채용 (서버 프로그래밍 부문)](https://com2us.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=28112)
 
 * [2020.05.27 00:00:00 ~ 2020.06.08 15:00:00] [NHN 게임 개발 신입 공개채용](https://recruit.nhn.com/ent/recruitings/20001527?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
 
@@ -81,6 +81,10 @@
 
 ### 추천 기업 (수시 & 상시 채용)
 
+* [채용시까지] [네이버 동영상 플랫폼 (인턴)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)
+
+* [채용시까지] [네이버 Computer Vision 체험형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004058&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)  
+
 * [채용시까지] [iPortfolio "Adroid 개발자" 채용(경력 무관)](https://programmers.co.kr/job_positions/2040)
   * [iPortfolio 공식 사이트](https://iportfolio.co.kr/)
 
@@ -88,8 +92,8 @@
   * [프론트엔드(주니어, 시니어) 채용공고](https://www.wanted.co.kr/wd/8932)
   * [백엔드(시니어) 채용공고](https://www.wanted.co.kr/wd/33504)
   
-* [채용시까지] [네이버 동영상 플랫폼 (인턴)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)
-* [채용시까지] [인프라 서비스 플랫폼 개발자 모집 (경력 5년미만)](https://careers.kakao.com/jobs/P-11485?keyword=%EC%8B%A0%EC%9E%85&page=1)
+* [채용시까지] [카카오 - 인프라 서비스 플랫폼 개발자 모집 (경력 5년미만)](https://careers.kakao.com/jobs/P-11485?keyword=%EC%8B%A0%EC%9E%85&page=1)
+
 * [채용시까지] [CODEF 주니어 경력 개발자 채용](https://www.notion.so/f732e88b497343fa9cd2626a0885e7d2)
   * [CODEF 서비스 소개](https://codef.io/#/)
   * [CODEF 문화 소개](https://www.notion.so/CODEF-c0eee9fa6d0042bd93328c1ed91090af)
@@ -101,9 +105,6 @@
 
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
-
-* [채용시까지] [네이버 Computer Vision 체험형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004058&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)
-
 
 ### 채용 관련 행사
 
