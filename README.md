@@ -66,6 +66,8 @@
 
 ### 추천 기업 (마감일)
 
+* [2020.05.20 00:00:00 ~ 2020.06.08 14:00:00] [2020 컴투스 SUMMER 인턴십 GENIUS 2기 채용 (서버 프로그래밍 부문)](https://com2us.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=28112)
+
 * [2020.05.18 00:00:00 ~ 2020.06.07 23:59:59] [사람인 신입 개발자/DBA 채용](https://bit.ly/2XCyMmN)
   * [기술블로그](https://saramin.github.io/)
   * [현직 인터뷰](http://www.saramin.co.kr/zf_user/career-information/senior-list?jikjong_bcode=4&keyword=%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B0%9C%EB%B0%9C%ED%8C%80)
@@ -77,6 +79,9 @@
 * [2020.06.01 00:00:00 ~ 2020.06.30 23:59:59] [부스트캠프 2020 모집](https://blog.naver.com/boostcamp_official/221971734084?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
 
 ### 추천 기업 (수시 & 상시 채용)
+
+* [채용시까지] [iPortfolio "Adroid 개발자" 채용(경력 무관)](https://programmers.co.kr/job_positions/2040)
+  * [iPortfolio 공식 사이트](https://iportfolio.co.kr/)
 
 * [채용시까지] [프리윌린 프론트엔드 "주니어, 시니어", 백엔드 개발자 "시니어" 채용](https://www.wanted.co.kr/company/1571)
   * [프론트엔드(주니어, 시니어) 채용공고](https://www.wanted.co.kr/wd/8932)
