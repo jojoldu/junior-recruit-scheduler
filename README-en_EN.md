@@ -64,8 +64,6 @@ If there is a company that has low JobPlanet ratings but you really want to reco
 
 ### Recommended Company
 
-* [2020.03.18 00:00:00 ~ 2020.04.02 23:00:00] [NAVER 2020 CAMPUS HACKDAY Summer](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003868)
-
 * [Undetermined] [당근마켓(Carrot Market) New/Intern Backend/Platform developer recruitment](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [Technical blog](https://medium.com/daangn)
 
