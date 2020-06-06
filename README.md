@@ -78,6 +78,8 @@
 
 ### 추천 기업 (수시 & 상시 채용)
 
+* [채용시까지] [the teams 프론트엔드 엔지니어 채용](https://www.theteams.kr/recruit/wanted/4511?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
 * [채용시까지] [프리윌린 프론트엔드 "주니어, 시니어", 백엔드 개발자 "시니어" 채용](https://www.wanted.co.kr/company/1571)
   * [프론트엔드(주니어, 시니어) 채용공고](https://www.wanted.co.kr/wd/8932)
   * [백엔드(시니어) 채용공고](https://www.wanted.co.kr/wd/33504)
