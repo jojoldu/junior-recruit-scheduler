@@ -1,11 +1,6 @@
 ﻿{
 	"recruits": [
 		{
-			"endDate":"2020.06.07 23:59:59",
-			"link": "https://bit.ly/2XCyMmN",
-			"description": "사람인 신입 개발자/DBA 채용"
-		},
-		{
 			"endDate":"2020.06.08 15:00:00",
 			"link": "https://recruit.nhn.com/ent/recruitings/20001527?utm_source=https://github.com/jojoldu/junior-recruit-scheduler",
 			"description": "NHN 게임 개발 신입 공개채용"
