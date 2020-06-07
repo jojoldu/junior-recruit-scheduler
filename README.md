@@ -78,6 +78,7 @@
 
 * [2020.06.01 00:00:00 ~ 2020.06.30 23:59:59] [부스트캠프 2020 모집](https://blog.naver.com/boostcamp_official/221971734084?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
 
+* [2020.06.08 00:00:00 ~ 2020.09.08 23:59:59] [네이버 AI기반 글로벌 추천 서비스/시스템 개발자 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004095&classId=&jobId=&entTypeCd=001&searchTxt=%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0&searchSysComCd=)
 
 ### 추천 기업 (수시 & 상시 채용)
 
