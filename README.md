@@ -81,6 +81,8 @@
 
 ### 추천 기업 (수시 & 상시 채용)
 
+* [채용시까지] [클래스 101 웹 프론트엔드 개발자 모집](https://www.notion.so/1fa730f7383648329c1bae168bbd2fba)
+
 * [채용시까지] [네이버 동영상 플랫폼 (인턴)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)
 
 * [채용시까지] [네이버 Computer Vision 체험형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004058&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)  
