@@ -81,6 +81,8 @@
 
 ### 추천 기업 (수시 & 상시 채용)
 
+* [채용시까지] [퍼블리토(PUBLYTO) 웹 프론트엔드 개발자](https://www.wanted.co.kr/wd/16835?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
 * [채용시까지] [네이버 동영상 플랫폼 (인턴)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)
 
 * [채용시까지] [네이버 Computer Vision 체험형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004058&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)  
