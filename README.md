@@ -70,7 +70,7 @@
   
 * [2020.06.01 00:00:00 ~ 2020.06.30 23:59:59] [부스트캠프 2020 모집](https://blog.naver.com/boostcamp_official/221971734084?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
 
-* [2020.05.27 00:00:00 ~ 2020.06.14 23:59:59] [네이버 Clova AI Platform Ecosystem 개발자 채용] (https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004078&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=)
+* [2020.06.08 00:00:00 ~ 2020.09.08 23:59:59] [네이버 AI기반 글로벌 추천 서비스 신입 개발자 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004095&classId=&jobId=&entTypeCd=001&searchTxt=%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0&searchSysComCd=)
 
 * [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자 모집] (https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
 
@@ -80,8 +80,6 @@
 
 * [채용시까지] [네이버 Computer Vision 체험형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004058&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)  
 
-* [채용시까지] [iPortfolio "Adroid 개발자" 채용(경력 무관)](https://programmers.co.kr/job_positions/2040)
-  * [iPortfolio 공식 사이트](https://iportfolio.co.kr/)
 * [채용시까지] [쿠페이 2020 하반기 신입 개발자 공개채용 (Java, Android, iOS)](https://rocketyourcareer.kr.coupang.com/%EC%A7%81%EB%AC%B4/-/2020-java-android-ios/24450/16365832?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 * [채용시까지] [카카오 - 인프라 서비스 플랫폼 개발자 모집 (경력 5년미만)](https://careers.kakao.com/jobs/P-11485?keyword=%EC%8B%A0%EC%9E%85&page=1)
