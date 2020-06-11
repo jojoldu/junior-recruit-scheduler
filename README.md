@@ -70,6 +70,8 @@
   
 * [2020.06.01 00:00:00 ~ 2020.06.30 23:59:59] [부스트캠프 2020 모집](https://blog.naver.com/boostcamp_official/221971734084?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
 
+* [2020.05.27 00:00:00 ~ 2020.06.14 23:59:59] [네이버 Clova AI Platform Ecosystem 개발자 채용] (https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004078&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=)
+
 * [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자 모집] (https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
 
 ### 추천 기업 (수시 & 상시 채용)
@@ -95,6 +97,8 @@
 
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
+
+* [채용시까지] [샌드박스 풀스택 개발자 채용](https://www.sandbox.co.kr/careers/sandbox/127) 
 
 ### 채용 관련 행사
 
