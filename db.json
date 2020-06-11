@@ -6,6 +6,16 @@
 			"description":"네이버 Clova AI Platform Ecosystem 개발자 모집"
 		},
 		{
+			"endDate":"2020.06.21 23:59:59",
+			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004116&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=",
+			"description": "2020년 NBP 개발부문 하계 인턴십 모집"
+		},
+		{
+			"endDate":"2020.06.21 23:59:59",
+			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004117&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=",
+			"description": "2020년 NBP 엔지니어부문 하계 인턴십 모집"
+		},
+		{
 			"endDate":"2020.06.30 23:59:59",
 			"link": "https://blog.naver.com/boostcamp_official/221971734084?utm_source=https://github.com/jojoldu/junior-recruit-scheduler",
 			"description": "부스트캠프 2020 모집"
