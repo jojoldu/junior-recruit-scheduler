@@ -66,15 +66,9 @@
 
 ### 추천 기업 (마감일)
 
-* [2020.05.20 00:00:00 ~ 2020.06.08 14:00:00] [2020 컴투스 SUMMER 인턴십 GENIUS 2기 채용 (서버 프로그래밍 부문)](https://com2us.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=28112)
-
-* [2020.05.27 00:00:00 ~ 2020.06.08 15:00:00] [NHN 게임 개발 신입 공개채용](https://recruit.nhn.com/ent/recruitings/20001527?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
-
-* [2020.05.21 00:00:00 ~ 2020.06.10 23:59:59] [네이버 예약 플랫폼 개발 인턴십](http://bitly.kr/n4eBsropK)
-
-* [2020.06.01 00:00:00 ~ 2020.06.30 23:59:59] [부스트캠프 2020 모집](https://blog.naver.com/boostcamp_official/221971734084?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
-
 * [2020.05.27 00:00:00 ~ 2020.06.14 23:59:59] [네이버 Clova AI Platform Ecosystem 개발자 채용] (https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004078&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=)
+  
+* [2020.06.01 00:00:00 ~ 2020.06.30 23:59:59] [부스트캠프 2020 모집](https://blog.naver.com/boostcamp_official/221971734084?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
 
 * [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자 모집] (https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
 
