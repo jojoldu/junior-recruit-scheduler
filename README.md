@@ -84,8 +84,6 @@
 
 * [채용시까지] [네이버 Computer Vision 체험형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004058&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)  
 
-* [채용시까지] [쿠페이 2020 하반기 신입 개발자 공개채용 (Java, Android, iOS)](https://rocketyourcareer.kr.coupang.com/%EC%A7%81%EB%AC%B4/-/2020-java-android-ios/24450/16365832?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
 * [채용시까지] [카카오 - 인프라 서비스 플랫폼 개발자 모집 (경력 5년미만)](https://careers.kakao.com/jobs/P-11485?keyword=%EC%8B%A0%EC%9E%85&page=1)
 
 * [채용시까지] [CODEF 주니어 경력 개발자 채용](https://www.notion.so/f732e88b497343fa9cd2626a0885e7d2)
