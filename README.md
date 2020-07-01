@@ -67,14 +67,6 @@
 
 ### 추천 기업 (마감일)
 
-* [2020.05.27 00:00:00 ~ 2020.06.14 23:59:59] [네이버 Clova AI Platform Ecosystem 개발자 채용](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004078&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=)
-
-* [2020.06.11 00:00:00 ~ 2020.06.21 23:59:59] [2020년 NBP 개발부문 하계 인턴십 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004116&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)
-
-* [2020.06.11 00:00:00 ~ 2020.06.21 23:59:59] [2020년 NBP 엔지니어부문 하계 인턴십 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004117&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)
-
-* [2020.06.01 00:00:00 ~ 2020.06.30 23:59:59] [부스트캠프 2020 모집](https://blog.naver.com/boostcamp_official/221971734084?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
-
 * [2020.06.08 00:00:00 ~ 2020.09.08 23:59:59] [네이버 AI기반 글로벌 추천 서비스 신입 개발자 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004095&classId=&jobId=&entTypeCd=001&searchTxt=%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0&searchSysComCd=)
 
 * [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자 모집](https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
