@@ -111,7 +111,7 @@ Includes recruiting-related programming contests, hackathon schedules, seminars,
 
 ### How to get employment information
 
-**Personally, I don't recommend recruitment information for Job Korea or people..**.
+**Personally, I don't recommend recruitment information for Job Korea or Saramin..**.
 You may skip any additional forms or comments that appear to be copy & paste into your employment information.
 If **the companys are not interested in hiring as much, you can think that they don't have enough understanding of the developer**.
 Below are the JobPlanet/Wanted search criteria that I visit regularly.
