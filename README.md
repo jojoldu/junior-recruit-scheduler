@@ -120,8 +120,6 @@
 
 * [원티드와 함께하는 개발자 커리어 터치 참석 후기](https://velog.io/@doondoony/후기-원티드와-함께하는-개발자-커리어-터치)
 
-* [용욱님의 스타트업 주의 사항](https://www.facebook.com/dalinaum/posts/10157321350303468)
-
 * [MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지 - 참석후기](https://jojoldu.tistory.com/423)
 
 * [마음에 안드는 중소기업에 합격했을때](https://jojoldu.tistory.com/398)
@@ -139,8 +137,6 @@
 * [진유림님의 이직 이야기](https://milooy.wordpress.com/2018/02/07/moving-job/)
 
 * [이한별님의 구직 이야기](http://lhb0517.tistory.com/entry/reviewofjojoldu)
-
-* [김남윤님의 신입 개발자 취업 도전기](https://www.slideshare.net/ssuser565d51/ss-61448739)
 
 * [변성윤님의 Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/)
 
