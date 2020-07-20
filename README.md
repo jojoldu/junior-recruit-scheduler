@@ -97,6 +97,13 @@
 
 * [채용시까지] [샌드박스 풀스택 개발자 채용](https://www.sandbox.co.kr/careers/sandbox/127) 
 
+* [채용시까지] [데브시스터즈 개발자 채용](https://careers.devsisters.com/)
+    * [기술블로그](https://tech.devsisters.com/)
+    * [데이터 서비스/DevOps 엔지니어](https://careers.devsisters.com/position/detail?jobPosition=179)
+    * [쿠키런:오븐브레이크 클라이언트 개발자(주니어)](https://careers.devsisters.com/position/detail?jobPosition=15)
+    * [모바일 게임 플랫폼 백엔드 개발자(주니어)](https://careers.devsisters.com/position/detail?jobPosition=10)
+    * [사내 기술 스택](https://stackshare.io/devsisters/infra)
+
 ### 채용 관련 행사
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
