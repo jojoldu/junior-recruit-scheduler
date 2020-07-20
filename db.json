@@ -1,6 +1,11 @@
 ﻿{
 	"recruits": [
 		{
+			"endDate":"2020.07.29 23:59:59",
+			"link": "https://toss.im/career/next-developer-2020",
+			"description": "토스 3년차 이하 개발자 채용"
+		},
+		{
 			"endDate":"2020.08.02 18:00:009",
 			"link": "https://bit.ly/2WzbbDO",
 			"description": "네이버 웹툰 개발 인턴"
@@ -49,6 +54,11 @@
 			"endDate": "채용시까지",
 			"link": "https://careers.kakao.com/jobs/P-11485?keyword=%EC%8B%A0%EC%9E%85&page=1",
 			"description": "카카오 - 인프라 서비스 플랫폼 개발자 모집 (경력 5년미만)"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "https://careers.devsisters.com/",
+			"description": "데브시스터즈 개발자 채용"
 		}
 	],
 	"seminars": []
