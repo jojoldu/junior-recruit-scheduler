@@ -75,8 +75,6 @@
 
 * [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자 모집](https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
 
-* [2020.07.02 00:00:00 ~ 2020.07.19 23:59:59] [줌인터넷 검색서비스 개발(신입/경력)](https://estsoft.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=31278)
-
 ### 추천 기업 (수시 & 상시 채용)
 
 * [채용시까지] [네이버 동영상 플랫폼 (인턴)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)
