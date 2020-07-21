@@ -69,7 +69,9 @@
 
 * [2020.07.20 00:00:00 ~ 2020.07.29 23:59:59] [토스 3년차 이하 개발자 채용](https://toss.im/career/next-developer-2020)
 
-* [2020.07.20 00:00:00 ~ 2020.08.02 18:00:00] [네이버 웹툰 개발 인턴](https://bit.ly/2WzbbDO)
+* [2020.07.20 00:00:00 ~ 2020.08.02 18:00:00] [네이버 웹툰 개발 체험형 인턴](https://bit.ly/2WzbbDO)
+
+* [2020.07.20 00:00:00 ~ 2020.08.02 18:00:00] [네이버 웹툰 개발/리서치 인턴 (채용 연계형)](https://recruit.webtoonscorp.com/webtoon/ko/job/detail?annoId=20004253&classId=170&jobId=&classNm=&searchTxt=&jobKeyword=&page=)
 
 * [2020.06.08 00:00:00 ~ 2020.09.08 23:59:59] [네이버 AI기반 글로벌 추천 서비스 신입 개발자 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004095&classId=&jobId=&entTypeCd=001&searchTxt=%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0&searchSysComCd=)
 

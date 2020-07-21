@@ -6,9 +6,14 @@
 			"description": "토스 3년차 이하 개발자 채용"
 		},
 		{
-			"endDate":"2020.08.02 18:00:009",
+			"endDate":"2020.08.02 18:00:00",
 			"link": "https://bit.ly/2WzbbDO",
-			"description": "네이버 웹툰 개발 인턴"
+			"description": "네이버 웹툰 개발 체험형 인턴"
+		},
+		{
+			"endDate":"2020.08.02 18:00:00",
+			"link": "https://recruit.webtoonscorp.com/webtoon/ko/job/detail?annoId=20004253&classId=170&jobId=&classNm=&searchTxt=&jobKeyword=&page=",
+			"description": "네이버 웹툰 개발/리서치 인턴 (채용 연계형)"
 		},		
 		{
 			"endDate":"2020.09.08 23:59:59",
