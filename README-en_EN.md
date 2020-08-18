@@ -65,7 +65,7 @@ If there is a company that has low JobPlanet ratings but you really want to reco
 ### Recommended Company
 
 * [Undetermined] [AB180 Engineer recruitment](https://abit.ly/ab180)
-  * **100M+ Devices, 1M+ RPM. 1B+ Events/day**
+  * **100M+ Devices, 1M+ RPM. 1B+ Events/day**. 
 Helping [100+ brands](https://abit.ly/ab180-clients) drive digital growth through marketing technology and strategy.
   * [Our Culture](https://abit.ly/ab180-culture)
   * [Front-end Engineer](https://abit.ly/join-ab180-frontend)
