@@ -75,6 +75,14 @@
 
 ### 추천 기업 (수시 & 상시 채용)
 
+* [채용시까지] [AB180 엔지니어 영입중](https://abit.ly/ab180)
+  * **1억 대의 디바이스. 100만 RPM. 하루 10억 건 이상의 이벤트 데이터**를 다루는 데이터 기업.  
+(GS SHOP 등 [100+ 개의 기업](https://abit.ly/ab180-clients)이 제품 사용중)
+  * [어떤 문화와 동료를 지향하나요?](https://abit.ly/ab180-culture)
+  * [Front-end Engineer](https://abit.ly/join-ab180-frontend)
+  * [Back-end Engineer](https://abit.ly/join-ab180-backend)
+  * [Data Engineer](https://abit.ly/join-ab180-data-engineer)
+
 * [채용시까지] [네이버 동영상 플랫폼 (인턴)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)
 
 * [채용시까지] [네이버 Computer Vision 체험형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004058&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)  
