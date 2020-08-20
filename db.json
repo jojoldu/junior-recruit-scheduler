@@ -1,11 +1,6 @@
 ﻿{
 	"recruits": [
 		{
-			"endDate":"2020.07.29 23:59:59",
-			"link": "https://toss.im/career/next-developer-2020",
-			"description": "토스 3년차 이하 개발자 채용"
-		},	
-		{
 			"endDate":"2020.08.31 23:59:59",
 			"link": "https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=32841",
 			"description": "카카오페이지 글로벌 운영 플랫폼 개발자 채용"
