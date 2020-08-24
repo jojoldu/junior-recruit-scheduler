@@ -69,6 +69,8 @@
 
 * [2020.07.27 14:00:00 ~ 2020.08.31 23:59:59] [카카오페이지 글로벌 운영 플랫폼 개발자 채용](https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=32841)
 
+* [2020.08.24 00:00:00 ~ 2020.09.07 19:00:00] [2021 카카오 블라인드 신입 개발자 채용](https://careers.kakao.com/2021-developer?utm_source=junior-recruit-scheduler)
+  
 * [2020.06.08 00:00:00 ~ 2020.09.08 23:59:59] [네이버 AI기반 글로벌 추천 서비스 신입 개발자 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004095&classId=&jobId=&entTypeCd=001&searchTxt=%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0&searchSysComCd=)
 
 * [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자 모집](https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
