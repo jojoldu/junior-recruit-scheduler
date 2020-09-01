@@ -22,17 +22,22 @@
 		},
 		{
 			"endDate": "2020.09.30 23:59:59",
-			"link": "https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=35260",
+			"link": "https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=35260&utm_source=junior-recruit-scheduler",
 			"description": "카카오페이지 백오피스/운영툴 개발자 모집"
 		  },
 		  {
 			"endDate": "2020.09.30 23:59:59",
-			"link": "https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=32841",
+			"link": "https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=32841&utm_source=junior-recruit-scheduler",
 			"description": "카카오페이지 글로벌 운영 플랫폼 개발자 채용"
+		  },
+		  {
+			"endDate": "2020.09.30 23:59:59",
+			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004418&utm_source=junior-recruit-scheduler",
+			"description": "네이버 글로벌 검색 FE 엔지니어 채용연계형 인턴 모집"
 		  },
 		{
 			"endDate":"2020.12.31 00:00:00",
-			"link":"https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209",
+			"link":"https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209&utm_source=junior-recruit-scheduler",
 			"description":"카카오엔터프라이즈 AI검색플랫폼 서버 개발자 모집"
 		},
 		{
@@ -42,7 +47,7 @@
 		},
 		{
 			"endDate": "채용시까지",
-			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=",
+			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&utm_source=junior-recruit-scheduler",
 			"description": "네이버 동영상 플랫폼 (인턴)"
 		},
 		{
