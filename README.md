@@ -122,8 +122,10 @@
     * [모바일 게임 플랫폼 백엔드 개발자(주니어)](https://careers.devsisters.com/position/detail?jobPosition=10)
     * [사내 기술 스택](https://stackshare.io/devsisters/infra)
 
-* [채용시까지] [뱅크샐러드 신입 및 인턴 개발자 채용](https://career.banksalad.com)
+* [채용시까지] [뱅크샐러드 신입 및 인턴 개발자 채용](https://career.banksalad.com/jobs/?category=tech)
     * [기술블로그](https://blog.banksalad.com)
+    * [개발자 인턴십 공고](https://career.banksalad.com/jobs/?category=tech&organization=Server%20Engineer%20%28Click%21%29&position=%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%9D%B8%ED%84%B4%EC%8B%AD)
+    * [개발자 신입 공고](https://career.banksalad.com/jobs/?category=tech&organization=Server%20Engineer%20%28Click%21%29&position=%EC%8B%A0%EC%9E%85%20%EA%B0%9C%EB%B0%9C%EC%9E%90)
 
 ### 채용 관련 행사
 
