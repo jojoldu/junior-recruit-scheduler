@@ -79,8 +79,6 @@
   
 * [2020.09.01 00:00:00 ~ 2020.09.30 23:59:59] [카카오페이지 백오피스/운영툴 개발자 모집](https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=35260)
 
-* [2020.08.31 10:00:00 ~ 2020.09.30 23:59:59] [카카오페이지 글로벌 운영 플랫폼 개발자 채용](https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=32841)
-
 * [2020.08.19 00:00:00 ~ 2020.09.30 23:59:59] [네이버 글로벌 검색 FE 엔지니어 채용연계형 인턴 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004418&utm_source=junior-recruit-scheduler)
 
 * [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자 모집](https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
