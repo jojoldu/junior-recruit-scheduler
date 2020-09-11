@@ -35,7 +35,7 @@ The period means **closing of documents**.
 
 * If you don't have a fixed period, you can write as **Undetermined**.
 * You have to change **db.json** Too.
-* db.json is for **automation** in telegram bot. [co-duck Site](https://co-duck.com/)    
+* db.json is for **automation** in telegram bot. [co-duck Site](https://co-duck.com/)
 * It will be automated on a separate site or on Facebook.
     * Rule for db.json is```yyyy-MM-dd HH:mm:ss```.
     * If it has only closing date, please set closing time as ```23:59:59```.
@@ -59,10 +59,18 @@ Refers to a company interested in code quality.
 
 Companies with a JobPlanet rating of 3.3 or less can't add to it even if you give them PR.
 The purpose of this repository is to gather **good quality employment information** in one place.
-**I'm not trying to contain all the company's recruitment information**.  
+**I'm not trying to contain all the company's recruitment information**.
 If there is a company that has low JobPlanet ratings but you really want to recommend it, please leave the reason for that in PR.
 
 ### Recommended Company
+
+* [Undetermined] [AB180 Engineer recruitment](https://abit.ly/ab180)
+  * **100M+ Devices, 1M+ RPM. 1B+ Events/day**.  
+Helping [100+ brands](https://abit.ly/ab180-clients) drive digital growth through marketing technology and strategy.
+  * [Our Culture](https://abit.ly/ab180-culture)
+  * [Front-end Engineer](https://abit.ly/join-ab180-frontend)
+  * [Back-end Engineer](https://abit.ly/join-ab180-backend)
+  * [Data Engineer](https://abit.ly/join-ab180-data-engineer)
 
 * [Undetermined] [당근마켓(Carrot Market) New/Intern Backend/Platform developer recruitment](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [Technical blog](https://medium.com/daangn)
@@ -111,10 +119,7 @@ Includes recruiting-related programming contests, hackathon schedules, seminars,
 
 ### How to get employment information
 
-**Personally, I don't recommend recruitment information for Job Korea or people..**.
-
-
-**잡코리아, 사람인 채용 정보는 개인적으로는 추천하지 않습니다**.  
+**Personally, I don't recommend recruitment information for Job Korea or Saramin..**.
 You may skip any additional forms or comments that appear to be copy & paste into your employment information.
 If **the companys are not interested in hiring as much, you can think that they don't have enough understanding of the developer**.
 Below are the JobPlanet/Wanted search criteria that I visit regularly.
@@ -126,7 +131,7 @@ I'd like you to refer to it.
 
 ## 5. Developer Job Tips
 
-**It does not include any tips other than job tips.**  
+**It does not include any tips other than job tips.**
 You can find various tips for juniors on the [Facebook Page](https://www.facebook.com/devbeginner/).
 
 ### General

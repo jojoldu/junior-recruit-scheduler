@@ -43,9 +43,10 @@
 
 ## 3. 취업 관련 추천 링크
 
-5년 차 개발자가 3번째 직장에 오기까지 이야기를 담은 시리즈
+제 블로그에 있는 글 중 취업 관련 추천 글입니다.
 
 * [3번째 직장에 오기까지](http://bit.ly/2sFSGim)
+* [(2020) 1. 비전공자로 자바 백엔드 개발자 시작하기](https://jojoldu.tistory.com/505)
 
 주니어 개발자분들에게 필요한 기술/세미나 등의 소식을 공유하는 페이스북 페이지
 
@@ -66,21 +67,37 @@
 
 ### 추천 기업 (마감일)
 
-* [2020.05.27 00:00:00 ~ 2020.06.14 23:59:59] [네이버 Clova AI Platform Ecosystem 개발자 채용](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004078&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=)
-  
-* [2020.06.01 00:00:00 ~ 2020.06.30 23:59:59] [부스트캠프 2020 모집](https://blog.naver.com/boostcamp_official/221971734084?utm_source=https://github.com/jojoldu/junior-recruit-scheduler)
+* [2020.08.24 00:00:00 ~ 2020.09.07 17:00:00] [2020년 하반기 SW개발 신입 LINER 공개채용](https://recruit.linepluscorp.com/lineplus/career/detail/20004424?utm_source=junior-recruit-schedule)
+
+* [2020.08.24 00:00:00 ~ 2020.09.07 19:00:00] [2021 카카오 블라인드 신입 개발자 채용](https://careers.kakao.com/2021-developer?utm_source=junior-recruit-scheduler)
 
 * [2020.06.08 00:00:00 ~ 2020.09.08 23:59:59] [네이버 AI기반 글로벌 추천 서비스 신입 개발자 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004095&classId=&jobId=&entTypeCd=001&searchTxt=%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0&searchSysComCd=)
+
+* [2020.09.04 00:00:00 ~ 2020.09.18 18:00:00] [2020 네이버 신입 개발자 공개채용](https://www.naver-recruit2020.com/)
+
+* [2020.09.01 00:00:00 ~ 2020.09.18 23:59:59] [네이버 예약&주문 플랫폼 개발 (채용연계형 인턴십)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004426&utm_source=junior-recruit-scheduler)
+  
+* [2020.09.01 00:00:00 ~ 2020.09.30 23:59:59] [카카오페이지 백오피스/운영툴 개발자 모집](https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=35260)
+
+* [2020.08.19 00:00:00 ~ 2020.09.30 23:59:59] [네이버 글로벌 검색 FE 엔지니어 채용연계형 인턴 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004418&utm_source=junior-recruit-scheduler)
+
+* [2020.09.07 00:00:00 ~ 2020.10.02 23:59:59] [[Forest] 네이버 쇼핑검색 플랫폼 개발 인턴십(채용 연계형)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004514)
 
 * [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자 모집](https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
 
 ### 추천 기업 (수시 & 상시 채용)
 
+* [채용시까지] [AB180 엔지니어 영입중](https://abit.ly/ab180)
+  * **1억 대의 디바이스. 100만 RPM. 하루 10억 건 이상의 이벤트 데이터**를 다루는 데이터 기업.  
+(GS SHOP 등 [100+ 개의 기업](https://abit.ly/ab180-clients)이 제품 사용중)
+  * [어떤 문화와 동료를 지향하나요?](https://abit.ly/ab180-culture)
+  * [Front-end Engineer](https://abit.ly/join-ab180-frontend)
+  * [Back-end Engineer](https://abit.ly/join-ab180-backend)
+  * [Data Engineer](https://abit.ly/join-ab180-data-engineer)
+
 * [채용시까지] [네이버 동영상 플랫폼 (인턴)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)
 
 * [채용시까지] [네이버 Computer Vision 체험형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004058&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)  
-
-* [채용시까지] [쿠페이 2020 하반기 신입 개발자 공개채용 (Java, Android, iOS)](https://rocketyourcareer.kr.coupang.com/%EC%A7%81%EB%AC%B4/-/2020-java-android-ios/24450/16365832?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 * [채용시까지] [카카오 - 인프라 서비스 플랫폼 개발자 모집 (경력 5년미만)](https://careers.kakao.com/jobs/P-11485?keyword=%EC%8B%A0%EC%9E%85&page=1)
 
@@ -96,13 +113,23 @@
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
 
-* [채용시까지] [샌드박스 풀스택 개발자 채용](https://www.sandbox.co.kr/careers/sandbox/127) 
+* [채용시까지] [샌드박스 풀스택 개발자 채용](https://www.sandbox.co.kr/careers/sandbox/127)
+
+* [채용시까지] [데브시스터즈 개발자 채용](https://careers.devsisters.com/)
+    * [기술블로그](https://tech.devsisters.com/)
+    * [데이터 서비스/DevOps 엔지니어](https://careers.devsisters.com/position/detail?jobPosition=179)
+    * [쿠키런:오븐브레이크 클라이언트 개발자(주니어)](https://careers.devsisters.com/position/detail?jobPosition=15)
+    * [모바일 게임 플랫폼 백엔드 개발자(주니어)](https://careers.devsisters.com/position/detail?jobPosition=10)
+    * [사내 기술 스택](https://stackshare.io/devsisters/infra)
+
+* [채용시까지] [뱅크샐러드 신입 및 인턴 개발자 채용](https://career.banksalad.com/jobs/?category=tech)
+    * [기술블로그](https://blog.banksalad.com)
+    * [개발자 인턴십 공고](https://career.banksalad.com/jobs/?category=tech&organization=Server%20Engineer%20%28Click%21%29&position=%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%9D%B8%ED%84%B4%EC%8B%AD)
+    * [개발자 신입 공고](https://career.banksalad.com/jobs/?category=tech&organization=Server%20Engineer%20%28Click%21%29&position=%EC%8B%A0%EC%9E%85%20%EA%B0%9C%EB%B0%9C%EC%9E%90)
 
 ### 채용 관련 행사
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
-
-
 
 ### 이외 채용정보 얻는 법
 
@@ -125,8 +152,6 @@
 
 * [원티드와 함께하는 개발자 커리어 터치 참석 후기](https://velog.io/@doondoony/후기-원티드와-함께하는-개발자-커리어-터치)
 
-* [스타트업 주의 사항](https://www.facebook.com/dalinaum/posts/10157321350303468)
-
 * [MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지 - 참석후기](https://jojoldu.tistory.com/423)
 
 * [마음에 안드는 중소기업에 합격했을때](https://jojoldu.tistory.com/398)
@@ -139,29 +164,13 @@
 
 * [이종립(aka. 기계인간)님의 SI탈출하기 세미나 by OKKY](http://bit.ly/2LAkFqL)
 
-* [남궁성의 코드초보스터디 카페 모음](http://cafe.naver.com/javachobostudy)
-  * [신입취업조언 1탄 : 포트폴리오편 - 천진님](http://cafe.naver.com/javachobostudy/119166)
-  * [이력서 작성과 면접 이야기 - 천진님](http://cafe.naver.com/javachobostudy/125568)
-  * [학원출신 취업, 면접 그리고 미래.. - 비달사슴님](http://cafe.naver.com/javachobostudy/117693)
-  * [신입 연봉의 현실(SI) - es현님](http://cafe.naver.com/javachobostudy/143200)
-
 * [김은향님의 신입 개발자 이야기](https://www.slideshare.net/EunhyangKim2/ss-87782520)
 
 * [진유림님의 이직 이야기](https://milooy.wordpress.com/2018/02/07/moving-job/)
 
 * [이한별님의 구직 이야기](http://lhb0517.tistory.com/entry/reviewofjojoldu)
 
-* [김남윤님의 신입 개발자 취업 도전기](https://www.slideshare.net/ssuser565d51/ss-61448739)
-
-* [박준영님의 이직 이야기](https://joont92.github.io/life/27%EC%82%B4-2%EB%B2%88%EC%A7%B8-%EC%9D%B4%EC%A7%81)
-
 * [변성윤님의 Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/)
-
-* [OKKY "마음까지전하는"님의 웹개발자 신입 구직 팁](https://okky.kr/article/314704)
-
-* [피해야 할 개발자 일자리의 징후](http://www.itworld.co.kr/news/105216)
-
-* [컴공으로 대기업 취업하기, 인적성 검사 통과 요령 및 면접 필살기](https://medium.com/@xissy/%EC%BB%B4%EA%B3%B5%EC%9C%BC%EB%A1%9C-%EB%8C%80%EA%B8%B0%EC%97%85-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0-cbf42d46e269)
 
 * [원티드와 함께하는 개발자 커리어 터치](https://www.notion.so/8a5fb590ae204295adf8117b5f58e32e)
 
@@ -171,11 +180,8 @@
 
 ### 이력서 & 포트폴리오 작성법
 
+* [정원희님의 개발자 이력서 작성하기](https://brunch.co.kr/@hee072794/132)
 * [원티드랩에서 이야기하는 통과가 잘 되는 이력서 작성법 (신입/경력 포함)](https://brunch.co.kr/@wantedlab/29)
-
-* [OKKY "roggy"님의 신입 개발자 이력서 작성 요령](https://okky.kr/article/319687)
-
-* [OKKY "load2000"님의 포트폴리오 작성 팁](https://okky.kr/article/368504)
 
 * [이민석 교수님의 신입 개발자 자기소개서 작성법](http://hl1itj.tistory.com/90)
 
@@ -183,25 +189,15 @@
 
 * [Outsider님의 이력서](https://blog.outsider.ne.kr/1234)
 
-* [jerome님의 포털(네이버, 다음, 줌 등)에 지원하는 신입공채 개발자들의 자기소개서 작성 팁](http://jerome75.tistory.com/2)
-
 * [parkscom님의 신입 개발자를 위한 이력서 쓰기](http://parkscom.tistory.com/1167111262)
-
-* [라태웅님의 신입 포트폴리오](https://okky.kr/article/397774)
-
-* [(소프트웨어 엔지니어를 위한) 끝내주는 이력서를 쓰는 방법](http://www.haeyounglee.com/post/41769497481/how-to-write-a-killer-resume#.WVNvOnc6-V4)
 
 * [우아한형제들 구인본님 - 이직 초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
 
 * [마르코님의 번역 - 2017년 개발자 이력서 작성 가이드](https://brunch.co.kr/@imagineer/215)
 
-* [posquit0님의 Awesome CV - LaTeX로 끝내주는 영문 이력서 작성](https://github.com/posquit0/Awesome-CV)
-
 * [권희정님의 개발자의 포트폴리오 ・ 이력서 작성법](https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html)
 
 * [JSpiner님의 github로 다같이 쓰는 이력서](https://github.com/JSpiner/RESUME)
-
-* [나동빈님의 초보 개발자를 위한, 개발자 포트폴리오 만드는 방법](https://www.youtube.com/watch?v=hElB_FY33xs&t=8s)
 
 ### 면접 팁
 
