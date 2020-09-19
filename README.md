@@ -67,8 +67,6 @@
 
 ### 추천 기업 (마감일)
 
-* [2020.09.04 00:00:00 ~ 2020.09.18 18:00:00] [2020 네이버 신입 개발자 공개채용](https://www.naver-recruit2020.com/)
-
 * [2020.09.01 00:00:00 ~ 2020.09.18 23:59:59] [네이버 예약&주문 플랫폼 개발 (채용연계형 인턴십)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004426&utm_source=junior-recruit-scheduler)
   
 * [2020.09.01 00:00:00 ~ 2020.09.30 23:59:59] [카카오페이지 백오피스/운영툴 개발자 모집](https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=35260)
