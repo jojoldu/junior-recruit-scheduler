@@ -67,6 +67,8 @@
 
 ### 추천 기업 (마감일)
 
+* [2020.09.14 11:00:00 ~ 2020.10.08 18:00:00] [2020 Dev-Matching: 웹 백엔드 개발자](https://programmers.co.kr/competitions/416/2020-web-be-second)
+
 * [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자 모집](https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
 
 ### 추천 기업 (수시 & 상시 채용)
