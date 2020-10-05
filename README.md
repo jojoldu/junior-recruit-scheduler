@@ -67,17 +67,9 @@
 
 ### 추천 기업 (마감일)
 
-* [2020.09.04 00:00:00 ~ 2020.09.18 18:00:00] [2020 네이버 신입 개발자 공개채용](https://www.naver-recruit2020.com/)
+* [2020.09.21 00:00:00 ~ 2020.10.05 23:59:59] [네이버 웍스모바일 동계인턴 (프론트/백엔드/모바일) 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004570&utm_source=junior-recruit-scheduler)
 
-* [2020.09.01 00:00:00 ~ 2020.09.18 23:59:59] [네이버 예약&주문 플랫폼 개발 (채용연계형 인턴십)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004426&utm_source=junior-recruit-scheduler)
-  
-* [2020.09.01 00:00:00 ~ 2020.09.30 23:59:59] [카카오페이지 백오피스/운영툴 개발자 모집](https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=35260)
-
-* [2020.08.19 00:00:00 ~ 2020.09.30 23:59:59] [네이버 글로벌 검색 FE 엔지니어 채용연계형 인턴 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004418&utm_source=junior-recruit-scheduler)
-
-* [2020.09.07 00:00:00 ~ 2020.09.25 23:59:59] [스노우 Cake Studio 앱 개발자 (React Native) 모집](https://recruit.snowcorp.com/snow/recruitMain) | [상세공고](https://www.notion.so/Cake-2-d38363372334446ba4b4457a5b94c195)
-
-* [2020.09.07 00:00:00 ~ 2020.10.02 23:59:59] [[Forest] 네이버 쇼핑검색 플랫폼 개발 인턴십(채용 연계형)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004514)
+* [2020.09.14 11:00:00 ~ 2020.10.08 18:00:00] [2020 Dev-Matching: 웹 백엔드 개발자](https://programmers.co.kr/competitions/416/2020-web-be-second)
 
 * [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자 모집](https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
 
