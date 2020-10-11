@@ -67,6 +67,9 @@
 
 ### 추천 기업 (마감일)
 
+* [2020.10.23 00:00:00 ~ 2020.11.04 10:00:00] [우아한형제들 우아한테크코스 3기 모집(프론트엔드/백엔드)](https://woowacourse.github.io/apply.html)
+	* [우아한형제들 우아한테크코스 3기 모집 공고](https://woowabros.github.io/techcourse/2020/10/06/woowacourse.html)
+
 * [2020.09.21 00:00:00 ~ 2020.10.05 23:59:59] [네이버 웍스모바일 동계인턴 (프론트/백엔드/모바일) 모집](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004570&utm_source=junior-recruit-scheduler)
 
 * [2020.09.22 11:00:00 ~ 2020.10.13 17:00:00] [NHN 그룹사 신입 개발자 공개채용](https://recruit.nhn.com/ent/landing?#none)
