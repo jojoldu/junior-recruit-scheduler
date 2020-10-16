@@ -119,6 +119,11 @@
     * [개발자 인턴십 공고](https://career.banksalad.com/jobs/?category=tech&organization=Server%20Engineer%20%28Click%21%29&position=%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%9D%B8%ED%84%B4%EC%8B%AD)
     * [개발자 신입 공고](https://career.banksalad.com/jobs/?category=tech&organization=Server%20Engineer%20%28Click%21%29&position=%EC%8B%A0%EC%9E%85%20%EA%B0%9C%EB%B0%9C%EC%9E%90)
 
+* [채용시까지] [코멘토 Front-end 개발자 채용](https://www.notion.so/comento/Front-end-23adb41a65d34ca383d23f049f7b55b9)
+    * [이재성 대표 인터뷰](https://ppss.kr/archives/207946)
+    * [CTO 인터뷰](https://brunch.co.kr/@comento/120)
+    * [프론트엔드 개발자 인터뷰](https://brunch.co.kr/@comento/117)
+
 ### 채용 관련 행사
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
