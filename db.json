@@ -64,6 +64,11 @@
 			"endDate": "채용시까지",
 			"link": "https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80",
 			"description": "토스 엔지니어 채용"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "https://www.notion.so/comento/Front-end-23adb41a65d34ca383d23f049f7b55b9",
+			"description": "코멘토 Front-end 개발자 채용"
 		}
 	],
 	"seminars": [
