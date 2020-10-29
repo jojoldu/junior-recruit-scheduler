@@ -70,6 +70,8 @@
 * [2020.10.23 00:00:00 ~ 2020.11.04 10:00:00] [우아한형제들 우아한테크코스 3기 모집(프론트엔드/백엔드)](https://woowacourse.github.io/apply.html)
 	* [우아한형제들 우아한테크코스 3기 모집 공고](https://woowabros.github.io/techcourse/2020/10/06/woowacourse.html)
 
+* [2020.10.28 09:00:00 ~ 2020.11.10 15:00:00] [티몬 IT 개발자 신입채용(Front-end 개발/Back-end 개발/모바일 개발)](https://corp.tmon.co.kr/recruit/detail/000/147665)
+
 * [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자 모집](https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
 
 ### 추천 기업 (수시 & 상시 채용)
