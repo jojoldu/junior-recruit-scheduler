@@ -12,6 +12,11 @@
 		},
 		{
 			"endDate": "채용시까지",
+			"link": "https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=39160",
+			"description": "카카오페이지 글로벌 서비스 안드로이드 앱 개발자 모집"
+		},
+		{
+			"endDate": "채용시까지",
 			"link": "https://abit.ly/ab180",
 			"description": "데이터 기업 AB180 엔지니어 영입중"
 		},
