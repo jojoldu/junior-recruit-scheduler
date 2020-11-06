@@ -74,6 +74,8 @@
 
 ### 추천 기업 (수시 & 상시 채용)
 
+* [채용시까지] [카카오페이지 글로벌 서비스 안드로이드 앱 개발자 모집](https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=39160)
+
 * [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
   * [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
 
