@@ -67,14 +67,13 @@
 
 ### 추천 기업 (마감일)
 
-* [2020.10.23 00:00:00 ~ 2020.11.04 10:00:00] [우아한형제들 우아한테크코스 3기 모집(프론트엔드/백엔드)](https://woowacourse.github.io/apply.html)
-	* [우아한형제들 우아한테크코스 3기 모집 공고](https://woowabros.github.io/techcourse/2020/10/06/woowacourse.html)
+* [2020.11.05 00:00:00 ~ 2020.11.18 18:00:00] [네이버웹툰 2021년 동계인턴십(개발/리서치)](https://recruit.webtoonscorp.com/webtoon/ko/job/detail?annoId=20004708&classId=170&utm_source=jojoldu/junior-recruit-scheduler)
+
+* [2020.11.01 10:00:00 ~ 2020.12.01 10:00:00] [카카오페이지 글로벌 서비스 안드로이드 앱 개발자 모집](https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=39160&utm_source=jojoldu/junior-recruit-scheduler)
 
 * [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자 모집](https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
 
 ### 추천 기업 (수시 & 상시 채용)
-
-* [채용시까지] [카카오페이지 글로벌 서비스 안드로이드 앱 개발자 모집](https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=39160)
 
 * [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
   * [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
