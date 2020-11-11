@@ -69,6 +69,8 @@
 
 * [2020.11.05 00:00:00 ~ 2020.11.18 18:00:00] [네이버웹툰 2021년 동계인턴십(개발/리서치)](https://recruit.webtoonscorp.com/webtoon/ko/job/detail?annoId=20004708&classId=170&utm_source=jojoldu/junior-recruit-scheduler)
 
+* [2020.11.09 00:00:00 ~ 2020.11.27 23:59:59] [카카오엔터프라이즈 Technical Writer 인턴](https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=40307&utm_source=jojoldu/junior-recruit-scheduler)
+
 * [2020.11.01 10:00:00 ~ 2020.12.01 10:00:00] [카카오페이지 글로벌 서비스 안드로이드 앱 개발자 모집](https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=39160&utm_source=jojoldu/junior-recruit-scheduler)
 
 * [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자 모집](https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
