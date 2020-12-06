@@ -1,19 +1,14 @@
 ﻿{
 	"recruits": [
 		{
-			"endDate": "2020.11.18 18:00:00",
-			"link": "https://recruit.webtoonscorp.com/webtoon/ko/job/detail?annoId=20004708&classId=170&utm_source=jojoldu/junior-recruit-scheduler",
-			"description": "[네이버웹툰] 2021년 동계인턴십(개발/리서치)"
+			"endDate": "2020.12.13 23:59:59",
+			"link": "https://hwahae.co.kr/recruit/apply/49?utm_source=jojoldu/junior-recruit-scheduler",
+			"description": "화해 (버드뷰) 신입 백엔드 개발자"
 		},
 		{
-			"endDate": "2020.11.27 23:59:59",
-			"link": "https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=40307&utm_source=jojoldu/junior-recruit-scheduler",
-			"description": "카카오엔터프라이즈 Technical Writer 인턴"
-		},
-		{
-			"endDate": "2020.12.01 10:00:00",
-			"link": "https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=39160&utm_source=jojoldu/junior-recruit-scheduler",
-			"description": "카카오페이지 글로벌 서비스 안드로이드 앱 개발자"
+			"endDate": "2020.12.20 23:59:00",
+			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004702&utm_source=jojoldu/junior-recruit-scheduler",
+			"description": "2020 네이버 지도 개발 체험형 인턴"
 		},
 		{
 			"endDate":"2020.12.31 00:00:00",
@@ -21,9 +16,9 @@
 			"description":"카카오엔터프라이즈 AI검색플랫폼 서버 개발자"
 		},
 		{
-			"endDate": "채용시까지",
-			"link": "https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=39160",
-			"description": "카카오페이지 글로벌 서비스 안드로이드 앱 개발자"
+			"endDate":"채용시까지",
+			"link":"https://careers.kakao.com/jobs/S-1144?utm_source=jojoldu/junior-recruit-scheduler",
+			"description":"카카오엔터프라이즈 서버/웹프론트/Android 개발 인턴 모집"
 		},
 		{
 			"endDate": "채용시까지",
@@ -52,33 +47,8 @@
 		},
 		{
 			"endDate": "채용시까지",
-			"link": "http://bit.ly/2sLH9NA",
-			"description": "카카오 - 사내 정보 시스템 개발 신입"
-		},
-		{
-			"endDate": "채용시까지",
-			"link": "https://careers.kakao.com/jobs/P-11485?keyword=%EC%8B%A0%EC%9E%85&page=1",
-			"description": "카카오 - 인프라 서비스 플랫폼 개발자 모집 (경력 5년미만)"
-		},
-		{
-			"endDate": "채용시까지",
-			"link": "https://careers.devsisters.com/",
-			"description": "데브시스터즈 개발자 채용"
-		},
-		{
-			"endDate": "채용시까지",
-			"link": "https://career.banksalad.com/jobs/?category=tech&organization=Server%20Engineer%20%28Click%21%29&position=%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%9D%B8%ED%84%B4%EC%8B%AD",
-			"description": "뱅크샐러드 신입 및 인턴 개발자 채용"
-		},
-		{
-			"endDate": "채용시까지",
 			"link": "https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80",
 			"description": "토스 엔지니어 채용"
-		},
-		{
-			"endDate": "채용시까지",
-			"link": "https://www.notion.so/comento/Front-end-23adb41a65d34ca383d23f049f7b55b9",
-			"description": "코멘토 Front-end 개발자 채용"
 		}
 	],
 	"seminars": [

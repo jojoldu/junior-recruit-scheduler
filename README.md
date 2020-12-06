@@ -67,15 +67,15 @@
 
 ### 추천 기업 (마감일)
 
-* [2020.11.05 00:00:00 ~ 2020.11.18 18:00:00] [네이버웹툰 2021년 동계인턴십(개발/리서치)](https://recruit.webtoonscorp.com/webtoon/ko/job/detail?annoId=20004708&classId=170&utm_source=jojoldu/junior-recruit-scheduler)
+* [2020.11.23 00:00:00 ~ 2020.12.13 23:59:59] [화해 (버드뷰) 신입 백엔드 개발자](https://hwahae.co.kr/recruit/apply/49?utm_source=jojoldu/junior-recruit-scheduler)
 
-* [2020.11.09 00:00:00 ~ 2020.11.27 23:59:59] [카카오엔터프라이즈 Technical Writer 인턴](https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=40307&utm_source=jojoldu/junior-recruit-scheduler)
-
-* [2020.11.01 10:00:00 ~ 2020.12.01 10:00:00] [카카오페이지 글로벌 서비스 안드로이드 앱 개발자 모집](https://kakaopage.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=39160&utm_source=jojoldu/junior-recruit-scheduler)
-
-* [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자 모집](https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
+* [2020.11.01 00:00:00 ~ 2020.12.20 23:59:00] [2020 네이버 지도 개발 체험형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004702&utm_source=jojoldu/junior-recruit-scheduler)
+  
+* [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자](https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
 
 ### 추천 기업 (수시 & 상시 채용)
+
+* [채용시까지] [카카오엔터프라이즈 서버/웹프론트/Android 개발 인턴 모집](https://careers.kakao.com/jobs/S-1144?utm_source=jojoldu/junior-recruit-scheduler)
 
 * [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
   * [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
@@ -84,46 +84,18 @@
   * **1억 대의 디바이스. 100만 RPM. 하루 10억 건 이상의 이벤트 데이터**를 다루는 데이터 기업.  
 (GS SHOP 등 [100+ 개의 기업](https://abit.ly/ab180-clients)이 제품 사용중)
   * [어떤 문화와 동료를 지향하나요?](https://abit.ly/ab180-culture)
-  * [Front-end Engineer](https://abit.ly/join-ab180-frontend)
-  * [Back-end Engineer](https://abit.ly/join-ab180-backend)
-  * [Data Engineer](https://abit.ly/join-ab180-data-engineer)
+  
+* [채용시까지] [네이버 동영상 플랫폼 (인턴)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&utm_source=jojoldu/junior-recruit-scheduler)
 
-* [채용시까지] [네이버 동영상 플랫폼 (인턴)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)
-
-* [채용시까지] [네이버 Computer Vision 체험형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004058&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)  
-
-* [채용시까지] [카카오 - 인프라 서비스 플랫폼 개발자 모집 (경력 5년미만)](https://careers.kakao.com/jobs/P-11485?keyword=%EC%8B%A0%EC%9E%85&page=1)
+* [채용시까지] [네이버 Computer Vision 체험형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004058&utm_source=jojoldu/junior-recruit-scheduler)  
 
 * [채용시까지] [CODEF 주니어 경력 개발자 채용](https://www.notion.so/f732e88b497343fa9cd2626a0885e7d2)
   * [CODEF 서비스 소개](https://codef.io/#/)
   * [CODEF 문화 소개](https://www.notion.so/CODEF-c0eee9fa6d0042bd93328c1ed91090af)
   * [CODEF 개발자 인터뷰 - 최동철 개발자](http://ohseyong.com/?p=2285)
 
-* [채용시까지] [매스프레소 개발자 채용](https://www.wanted.co.kr/company/1628)
-	* [iOS 개발자 채용](https://www.wanted.co.kr/wd/10952?referer_id=156143)
-	* [기술 블로그](https://medium.com/qandastudy)
-
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
-
-* [채용시까지] [샌드박스 풀스택 개발자 채용](https://www.sandbox.co.kr/careers/sandbox/127)
-
-* [채용시까지] [데브시스터즈 개발자 채용](https://careers.devsisters.com/)
-    * [기술블로그](https://tech.devsisters.com/)
-    * [데이터 서비스/DevOps 엔지니어](https://careers.devsisters.com/position/detail?jobPosition=179)
-    * [쿠키런:오븐브레이크 클라이언트 개발자(주니어)](https://careers.devsisters.com/position/detail?jobPosition=15)
-    * [모바일 게임 플랫폼 백엔드 개발자(주니어)](https://careers.devsisters.com/position/detail?jobPosition=10)
-    * [사내 기술 스택](https://stackshare.io/devsisters/infra)
-
-* [채용시까지] [뱅크샐러드 신입 및 인턴 개발자 채용](https://career.banksalad.com/jobs/?category=tech)
-    * [기술블로그](https://blog.banksalad.com)
-    * [개발자 인턴십 공고](https://career.banksalad.com/jobs/?category=tech&organization=Server%20Engineer%20%28Click%21%29&position=%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%9D%B8%ED%84%B4%EC%8B%AD)
-    * [개발자 신입 공고](https://career.banksalad.com/jobs/?category=tech&organization=Server%20Engineer%20%28Click%21%29&position=%EC%8B%A0%EC%9E%85%20%EA%B0%9C%EB%B0%9C%EC%9E%90)
-
-* [채용시까지] [코멘토 Front-end 개발자 채용](https://www.notion.so/comento/Front-end-23adb41a65d34ca383d23f049f7b55b9)
-    * [이재성 대표 인터뷰](https://ppss.kr/archives/207946)
-    * [CTO 인터뷰](https://brunch.co.kr/@comento/120)
-    * [프론트엔드 개발자 인터뷰](https://brunch.co.kr/@comento/117)
 
 ### 채용 관련 행사
 
