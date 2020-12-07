@@ -69,6 +69,8 @@
 
 * [2020.11.23 00:00:00 ~ 2020.12.13 23:59:59] [화해 (버드뷰) 신입 백엔드 개발자](https://hwahae.co.kr/recruit/apply/49?utm_source=jojoldu/junior-recruit-scheduler)
 
+* [2020.12.03 00:00:00 ~ 2020.12.15 23:59:59] [NTS (네이버 계열사) WEB UI개발 채용전제형 인턴십](https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20004856&utm_source=jojoldu/junior-recruit-scheduler)
+
 * [2020.11.01 00:00:00 ~ 2020.12.20 23:59:00] [2020 네이버 지도 개발 체험형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004702&utm_source=jojoldu/junior-recruit-scheduler)
   
 * [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자](https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
