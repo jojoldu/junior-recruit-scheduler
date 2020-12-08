@@ -99,6 +99,10 @@
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
 
+* [채용시까지] [열정에 기름붓기 - 크리에이터 클럽 개발자 채용](https://www.notion.so/passionoil/25bfaebf55284f04852608c1ff623712)
+  * [크리에이터 클럽 서비스 사이트(리뉴얼 예정)](https://passionoil.kr/)
+  * [팀 블로그](https://blog.creatorclub.kr/)
+
 ### 채용 관련 행사
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
