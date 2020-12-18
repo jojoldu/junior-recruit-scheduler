@@ -67,15 +67,14 @@
 
 ### 추천 기업 (마감일)
 
-* [2020.11.23 00:00:00 ~ 2020.12.13 23:59:59] [화해 (버드뷰) 신입 백엔드 개발자](https://hwahae.co.kr/recruit/apply/49?utm_source=jojoldu/junior-recruit-scheduler)
-
-* [2020.12.03 00:00:00 ~ 2020.12.15 23:59:59] [NTS (네이버 계열사) WEB UI개발 채용전제형 인턴십](https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20004856&utm_source=jojoldu/junior-recruit-scheduler)
-
 * [2020.11.01 00:00:00 ~ 2020.12.20 23:59:00] [2020 네이버 지도 개발 체험형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004702&utm_source=jojoldu/junior-recruit-scheduler)
   
 * [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자](https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
 
 ### 추천 기업 (수시 & 상시 채용)
+
+* [채용시까지] [비사이드소프트 신입 개발자 채용](https://www.rocketpunch.com/jobs/86459/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9?utm_source=jojoldu/junior-recruit-scheduler)
+  * [파일럿프로젝트 과정](https://www.bsidesoft.com/2417)
 
 * [채용시까지] [열정에 기름붓기 - 크리에이터 클럽 개발자 채용](https://www.notion.so/passionoil/25bfaebf55284f04852608c1ff623712)
   * [크리에이터 클럽 서비스 사이트(리뉴얼 예정)](https://passionoil.kr/)
