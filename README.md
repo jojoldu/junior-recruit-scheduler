@@ -80,8 +80,6 @@
   * [크리에이터 클럽 서비스 사이트(리뉴얼 예정)](https://passionoil.kr/)
   * [팀 블로그](https://blog.creatorclub.kr/)
 
-* [채용시까지] [카카오엔터프라이즈 서버/웹프론트/Android 개발 인턴 모집](https://careers.kakao.com/jobs/S-1144?utm_source=jojoldu/junior-recruit-scheduler)
-
 * [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
   * [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
 
