@@ -78,10 +78,6 @@
 * [채용시까지] [비사이드소프트 신입 개발자 채용](https://www.rocketpunch.com/jobs/86459/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9?utm_source=jojoldu/junior-recruit-scheduler)
   * [파일럿프로젝트 과정](https://www.bsidesoft.com/2417)
 
-* [채용시까지] [열정에 기름붓기 - 크리에이터 클럽 개발자 채용](https://www.notion.so/passionoil/25bfaebf55284f04852608c1ff623712)
-  * [크리에이터 클럽 서비스 사이트(리뉴얼 예정)](https://passionoil.kr/)
-  * [팀 블로그](https://blog.creatorclub.kr/)
-
 * [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
   * [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
 
