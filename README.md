@@ -66,8 +66,6 @@
 잡플래닛 평점은 낮지만 정말 추천하고 싶은 회사가 있다면 그 사유를 같이 PR에 남겨주세요.
 
 ### 추천 기업 (마감일)
-  
-* [2019.11.01 00:00:00 ~ 2020.12.31 00:00:00] [카카오엔터프라이즈 AI검색플랫폼 서버 개발자](https://kakaoenterprise.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=17209)
 
 * [2020.12.21 00:00:00 ~ 2021.01.08 23:59:59] [네이버 예약 플랫폼 프론트엔드/백엔드 개발(채용연계형 인턴십)](https://recruit.navercorp.com/naver/job/detail/all?annoId=20004943&utm_source=junior-recruit-scheduler)
 
