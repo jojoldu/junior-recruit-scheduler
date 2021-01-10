@@ -1,10 +1,5 @@
 ﻿{
-	"recruits": [	
-		{
-			"endDate":"2021.01.08 23:59:59",
-			"link":"https://recruit.navercorp.com/naver/job/detail/all?annoId=20004943&utm_source=junior-recruit-scheduler",
-			"description":"네이버 예약 플랫폼 프론트엔드/백엔드 개발(채용연계형 인턴십)"
-		},		
+	"recruits": [		
 		{
 			"endDate":"2021.01.24 23:59:59",
 			"link":"https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004972&utm_source=junior-recruit-scheduler",

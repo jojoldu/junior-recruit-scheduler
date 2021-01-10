@@ -67,8 +67,6 @@
 
 ### 추천 기업 (마감일)
 
-* [2020.12.21 00:00:00 ~ 2021.01.08 23:59:59] [네이버 예약 플랫폼 프론트엔드/백엔드 개발(채용연계형 인턴십)](https://recruit.navercorp.com/naver/job/detail/all?annoId=20004943&utm_source=junior-recruit-scheduler)
-
 * [2020.12.24 00:00:00 ~ 2021.01.24 23:59:59] [네이버 지식 백과 서비스 개발 및 데이터 처리 (신입)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004972&utm_source=junior-recruit-scheduler)
 
 * [2020.12.28 00:00:00 ~ 2021.02.28 23:59:59] [네이버 쇼핑 Aggregation 플랫폼 개발 인턴십 모집(채용 연계형)](https://recruit.navercorp.com/naver/job/detail/all?annoId=20004980&utm_source=junior-recruit-scheduler)
@@ -101,7 +99,7 @@
 * [채용시까지] [버즈니 AI 백엔드/플랫폼 신입/경력 채용 (전문연구요원 가능)](https://recruit.buzzni.com/recruit/ai-lab-ai-%eb%b0%b1%ec%97%94%eb%93%9c-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-%ec%a0%84%eb%ac%b8%ec%97%b0%ea%b5%ac%ec%9a%94%ec%9b%90-%ea%b0%80%eb%8a%a5/)
   * [기술 블로그](https://buzzni.com/blog/)
 
-### 채용 관련 행사
+### 채용 관련 행사 & 교육 코스
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
 
