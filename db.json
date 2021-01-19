@@ -52,5 +52,15 @@
 		}
 	],
 	"seminars": [
+		{
+			"endDate": "2021.02.18 17:00:00",
+			"description": "2021 소프트웨어 마에스트로 모집",
+			"link": "https://www.swmaestro.org/sw/main/contents.do?menuNo=200033"
+		},
+		{
+			"endDate": "2021.02.11 16:42:00",
+			"description": "2021년도 42 SEOUL 모집",
+			"link": "https://innovationacademy.kr/notice?board=4&post=104&utm_source=jojoldu/junior-recruit-scheduler"
+		}
 	]
 }
