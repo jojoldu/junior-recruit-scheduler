@@ -115,7 +115,9 @@
 
 채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.
 
-* [2021년도 42 SEOUL 모집](https://innovationacademy.kr/notice?board=4&post=104&utm_source=jojoldu/junior-recruit-scheduler)
+* [2021.01.18 10:00:00 ~ 2021.02.18 17:00:00] [2021 소프트웨어 마에스트로 모집](https://www.swmaestro.org/sw/main/contents.do?menuNo=200033)
+  * [소프트웨어 마에스트로 11기 지원 과정 & 합격 후기](https://medium.com/claudiajkang-life/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EB%A7%88%EC%97%90%EC%8A%A4%ED%8A%B8%EB%A1%9C-11%EA%B8%B0-%EC%A7%80%EC%9B%90-%EA%B3%BC%EC%A0%95-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-11db193e659a)
+* [2021.01.14 16:42:00 ~ 2021.07.22 16:42:00 (선착순)] [2021년도 42 SEOUL 모집](https://innovationacademy.kr/notice?board=4&post=104&utm_source=jojoldu/junior-recruit-scheduler)
   * [선발 프로세스](https://42seoul.kr/admission)
   * [지원 방법](https://42seoul.kr/apply)
 
