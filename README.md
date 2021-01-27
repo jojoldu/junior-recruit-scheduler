@@ -79,9 +79,9 @@
 
 ### 추천 기업 (마감일)
 
-* [2020.12.24 00:00:00 ~ 2021.01.24 23:59:59] [네이버 지식 백과 서비스 개발 및 데이터 처리 (신입)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004972&utm_source=junior-recruit-scheduler)
-
 * [2020.12.28 00:00:00 ~ 2021.02.28 23:59:59] [네이버 쇼핑 Aggregation 플랫폼 개발 인턴십 모집(채용 연계형)](https://recruit.navercorp.com/naver/job/detail/all?annoId=20004980&utm_source=junior-recruit-scheduler)
+
+* [2021.01-25 00:00:00 ~ 2021.02.28 23:59:59] [헤이조이스 백엔드개발/프론트엔드개발(신입)](https://www.notion.so/heyjoyce/85b7c21bb70c4001a6a6b962f933a020)
 
 ### 추천 기업 (수시 & 상시 채용)
 
