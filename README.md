@@ -64,7 +64,7 @@
 
 * [초보개발자모임](https://www.facebook.com/devbeginner/)
 
-## 4. 채용 (2020)
+## 4. 채용 (2021)
 
 채용에 올라온 기업들은 모두 **개발자로서 커리어 쌓기가 좋은 회사**의 **신입/주니어** 채용을 기준으로 합니다.  
 
@@ -78,8 +78,6 @@
 잡플래닛 평점은 낮지만 정말 추천하고 싶은 회사가 있다면 그 사유를 같이 PR에 남겨주세요.
 
 ### 추천 기업 (마감일)
-
-* [2020.12.24 00:00:00 ~ 2021.01.24 23:59:59] [네이버 지식 백과 서비스 개발 및 데이터 처리 (신입)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004972&utm_source=junior-recruit-scheduler)
 
 * [2020.12.28 00:00:00 ~ 2021.02.28 23:59:59] [네이버 쇼핑 Aggregation 플랫폼 개발 인턴십 모집(채용 연계형)](https://recruit.navercorp.com/naver/job/detail/all?annoId=20004980&utm_source=junior-recruit-scheduler)
 
