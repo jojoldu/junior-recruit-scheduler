@@ -25,6 +25,18 @@
 
 </div>
 
+<div align=center>
+
+[![개발바닥 1화](./images/youtube.png)](https://bit.ly/3bNQ2hA)
+
+개발자 지인과 함께 [유튜브 채널](https://bit.ly/3bNQ2hA)을 시작하였습니다.  
+스타트업에서 개발자로 취업하고 일하는 것에 대해서 이런 저런 관점으로 이야기 해볼까 합니다.  
+  
+여러분의 고민들 (취준생/주니어) 을 받아서 그에 대한 고민 상담도 같이 해보겠습니다 :)
+
+</div>
+
+
 ## 1. 소개
 
 주니어 개발자를 위한 **양질의 채용정보**가 흩어져있는 것 같아 한곳에 모으기 위한 저장소입니다.  
@@ -67,8 +79,6 @@
 
 ### 추천 기업 (마감일)
 
-* [2020.12.21 00:00:00 ~ 2021.01.08 23:59:59] [네이버 예약 플랫폼 프론트엔드/백엔드 개발(채용연계형 인턴십)](https://recruit.navercorp.com/naver/job/detail/all?annoId=20004943&utm_source=junior-recruit-scheduler)
-
 * [2020.12.24 00:00:00 ~ 2021.01.24 23:59:59] [네이버 지식 백과 서비스 개발 및 데이터 처리 (신입)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004972&utm_source=junior-recruit-scheduler)
 
 * [2020.12.28 00:00:00 ~ 2021.02.28 23:59:59] [네이버 쇼핑 Aggregation 플랫폼 개발 인턴십 모집(채용 연계형)](https://recruit.navercorp.com/naver/job/detail/all?annoId=20004980&utm_source=junior-recruit-scheduler)
@@ -100,12 +110,25 @@
   
 * [채용시까지] [버즈니 AI 백엔드/플랫폼 신입/경력 채용 (전문연구요원 가능)](https://recruit.buzzni.com/recruit/ai-lab-ai-%eb%b0%b1%ec%97%94%eb%93%9c-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-%ec%a0%84%eb%ac%b8%ec%97%b0%ea%b5%ac%ec%9a%94%ec%9b%90-%ea%b0%80%eb%8a%a5/)
   * [기술 블로그](https://buzzni.com/blog/)
+  
+* [채용시까지] [코멘토 Front-end 개발자 채용](https://www.notion.so/comento/Front-end-23adb41a65d34ca383d23f049f7b55b9)
+  * [이재성 대표 인터뷰](https://ppss.kr/archives/207946)
+  * [CTO 인터뷰](https://brunch.co.kr/@comento/120)
+  * [프론트엔드 개발자 인터뷰](https://brunch.co.kr/@comento/117)
 
 * [채용시까지] [스트리미 엔지니어 채용](https://github.com/gopax/Recruit)
-  
-### 채용 관련 행사
 
-채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
+### 채용 관련 행사 & 교육 코스
+
+채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.
+
+* [2021.01.18 10:00:00 ~ 2021.02.18 17:00:00] [2021 소프트웨어 마에스트로 모집](https://www.swmaestro.org/sw/main/contents.do?menuNo=200033)
+  * [소프트웨어 마에스트로 11기 지원 과정 & 합격 후기](https://medium.com/claudiajkang-life/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EB%A7%88%EC%97%90%EC%8A%A4%ED%8A%B8%EB%A1%9C-11%EA%B8%B0-%EC%A7%80%EC%9B%90-%EA%B3%BC%EC%A0%95-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-11db193e659a)
+* [2021.01.14 16:42:00 ~ 2021.07.22 16:42:00 (선착순)] [2021년도 42 SEOUL 모집](https://innovationacademy.kr/notice?board=4&post=104&utm_source=jojoldu/junior-recruit-scheduler)
+  * [선발 프로세스](https://42seoul.kr/admission)
+  * [지원 방법](https://42seoul.kr/apply)
+
+![42seoul-2021](./images/42seoul-2021.png)
 
 ### 이외 채용정보 얻는 법
 

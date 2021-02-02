@@ -1,15 +1,11 @@
 ﻿{
+
 	"recruits": [	
-		{
-			"endDate":"2021.01.08 23:59:59",
-			"link":"https://recruit.navercorp.com/naver/job/detail/all?annoId=20004943&utm_source=junior-recruit-scheduler",
-			"description":"네이버 예약 플랫폼 프론트엔드/백엔드 개발(채용연계형 인턴십)"
-		},		
 		{
 			"endDate":"2021.01.24 23:59:59",
 			"link":"https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004972&utm_source=junior-recruit-scheduler",
 			"description":"네이버 지식 백과 서비스 개발 및 데이터 처리 (신입)"
-		},		
+		},
 		{
 			"endDate":"2021.02.28 23:59:59",
 			"link":"https://recruit.navercorp.com/naver/job/detail/all?annoId=20004980&utm_source=junior-recruit-scheduler",
@@ -59,8 +55,23 @@
 			"endDate": "채용시까지",
 			"link": "https://github.com/gopax/Recruit",
 			"description": "스트리미 엔지니어 채용"
+     },
+		{
+			"endDate": "채용시까지",
+			"link": "https://www.notion.so/comento/Front-end-23adb41a65d34ca383d23f049f7b55b9",
+			"description": "코멘토 Front-end 개발자 채용"
 		}
 	],
 	"seminars": [
+		{
+			"endDate": "2021.02.18 17:00:00",
+			"description": "2021 소프트웨어 마에스트로 모집",
+			"link": "https://www.swmaestro.org/sw/main/contents.do?menuNo=200033"
+		},
+		{
+			"endDate": "2021.02.11 16:42:00",
+			"description": "2021년도 42 SEOUL 모집",
+			"link": "https://innovationacademy.kr/notice?board=4&post=104&utm_source=jojoldu/junior-recruit-scheduler"
+		}
 	]
 }
