@@ -118,6 +118,9 @@
 
 * [채용시까지] [스트리미 엔지니어 채용](https://github.com/gopax/Recruit)
 
+* [채용시까지] [오일나우 웹 프론트 신입/경력 채용](https://https://www.notion.so/91f036e4b22041dd866682fea7516140)
+  * [오일나우 팀 블로그](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8)
+  
 ### 채용 관련 행사 & 교육 코스
 
 채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.
