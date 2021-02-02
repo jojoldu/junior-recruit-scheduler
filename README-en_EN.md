@@ -113,6 +113,7 @@ Helping [100+ brands](https://abit.ly/ab180-clients) drive digital growth throug
     * [WeWork's Resident's Relay Interview](http://bitly.kr/6flAH)
     * [Hankook Ilbo Interview - Productivity Company of the Month](http://bitly.kr/TgWDe)
 
+* [Undetermined] [Streami Inc Engineer Recruitment](https://github.com/gopax/Recruit)
 ### Employment-Related Events
 
 Includes recruiting-related programming contests, hackathon schedules, seminars, and more.

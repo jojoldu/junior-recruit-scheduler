@@ -116,6 +116,7 @@
   * [CTO 인터뷰](https://brunch.co.kr/@comento/120)
   * [프론트엔드 개발자 인터뷰](https://brunch.co.kr/@comento/117)
 
+* [채용시까지] [스트리미 엔지니어 채용](https://github.com/gopax/Recruit)
 
 ### 채용 관련 행사 & 교육 코스
 

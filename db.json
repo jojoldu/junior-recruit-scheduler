@@ -53,6 +53,11 @@
 		},
 		{
 			"endDate": "채용시까지",
+			"link": "https://github.com/gopax/Recruit",
+			"description": "스트리미 엔지니어 채용"
+     },
+		{
+			"endDate": "채용시까지",
 			"link": "https://www.notion.so/comento/Front-end-23adb41a65d34ca383d23f049f7b55b9",
 			"description": "코멘토 Front-end 개발자 채용"
 		}
