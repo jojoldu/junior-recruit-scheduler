@@ -1,10 +1,11 @@
 ﻿{
-	"recruits": [		
+
+	"recruits": [	
 		{
 			"endDate":"2021.01.24 23:59:59",
 			"link":"https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004972&utm_source=junior-recruit-scheduler",
 			"description":"네이버 지식 백과 서비스 개발 및 데이터 처리 (신입)"
-		},		
+		},
 		{
 			"endDate":"2021.02.28 23:59:59",
 			"link":"https://recruit.navercorp.com/naver/job/detail/all?annoId=20004980&utm_source=junior-recruit-scheduler",
@@ -49,6 +50,11 @@
 			"endDate": "채용시까지",
 			"link": "https://recruit.buzzni.com/recruit/ai-lab-ai-%eb%b0%b1%ec%97%94%eb%93%9c-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-%ec%a0%84%eb%ac%b8%ec%97%b0%ea%b5%ac%ec%9a%94%ec%9b%90-%ea%b0%80%eb%8a%a5/",
 			"description": "버즈니 AI 플랫폼 엔지니어 채용"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "https://www.notion.so/comento/Front-end-23adb41a65d34ca383d23f049f7b55b9",
+			"description": "코멘토 Front-end 개발자 채용"
 		}
 	],
 	"seminars": [
