@@ -79,14 +79,15 @@
 
 ### 추천 기업 (마감일)
 
+* [2020.11.05 00:00:00 ~ 2021.02.28 23:59:59] [네이버 글로벌 검색 서비스 개발 (신입)](http://recruit.navercorp.com/naver/job/detail/developer?annoId=20004728&utm_source=junior-recruit-scheduler)
+
 * [2020.12.28 00:00:00 ~ 2021.02.28 23:59:59] [네이버 쇼핑 Aggregation 플랫폼 개발 인턴십 모집(채용 연계형)](https://recruit.navercorp.com/naver/job/detail/all?annoId=20004980&utm_source=junior-recruit-scheduler)
 
-* [2021.01-25 00:00:00 ~ 2021.02.28 23:59:59] [헤이조이스 백엔드개발/프론트엔드개발(신입)](https://www.notion.so/heyjoyce/85b7c21bb70c4001a6a6b962f933a020)
+* [2021.01.25 00:00:00 ~ 2021.02.28 23:59:59] [헤이조이스 백엔드개발/프론트엔드개발(신입)](https://www.notion.so/heyjoyce/85b7c21bb70c4001a6a6b962f933a020)
 
 ### 추천 기업 (수시 & 상시 채용)
 
-* [채용시까지] [비사이드소프트 신입 개발자 채용](https://www.rocketpunch.com/jobs/86459/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9?utm_source=jojoldu/junior-recruit-scheduler)
-  * [파일럿프로젝트 과정](https://www.bsidesoft.com/2417)
+* [채용시까지] [카카오 인프라 서비스 플랫폼 개발자 (경력 5년미만)](https://careers.kakao.com/jobs/P-11485?utm_source=junior-recruit-scheduler)
 
 * [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
   * [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
@@ -97,8 +98,6 @@
   * [어떤 문화와 동료를 지향하나요?](https://abit.ly/ab180-culture)
   
 * [채용시까지] [네이버 동영상 플랫폼 (인턴)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&utm_source=jojoldu/junior-recruit-scheduler)
-
-* [채용시까지] [네이버 Computer Vision 체험형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004058&utm_source=jojoldu/junior-recruit-scheduler)  
 
 * [채용시까지] [CODEF 주니어 경력 개발자 채용](https://www.notion.so/f732e88b497343fa9cd2626a0885e7d2)
   * [CODEF 서비스 소개](https://codef.io/#/)
@@ -150,7 +149,23 @@
 **취업 팁 외에 다른 팁은 포함하지 않습니다.**  
 주니어를 위한 각종 팁은 [페이스북 페이지](https://www.facebook.com/devbeginner/)를 참고해주세요.
 
+### 카카오 코딩 테스트 문제 해설
+
+* [2021] 카카오 신입 공채 코딩 테스트 [1차](https://tech.kakao.com/2021/01/25/2021-kakao-recruitment-round-1/) 해설
+
+* [2020] 카카오 신입 공채 코딩 테스트 [1차](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/), [2차](https://tech.kakao.com/2019/10/21/2020-카카오-블라인드-공채-2차-오프라인-코딩-테스트-문/) 해설
+  
+* [2019] 카카오 신입 공채 코딩 테스트 [1차](http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/), [2차](http://tech.kakao.com/2018/10/23/kakao-blind-recruitment-round-2/) 해설
+
+* [2018] 카카오 코드 페스티벌 [예선전](http://tech.kakao.com/2018/08/09/code-festival-2018-round-1/), [본선](http://tech.kakao.com/2018/09/12/code-festival-2018-round-2/) 해설
+
+* [2018] 카카오 블라인드 코딩테스트 [1차](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/), [2차](http://tech.kakao.com/2017/10/24/kakao-blind-recruitment-round-2/), [3차](http://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/) 해설
+
+* [2017] 카카오 코드 페스티벌 [예선전](http://tech.kakao.com/2017/08/11/code-festival-round-1/), [본선](http://tech.kakao.com/2017/09/13/code-festival-round-2/) 해설
+
 ### 구직 전반
+
+* [쟈미님의 공채없이 카카오 개발자 취준기](https://jyami.tistory.com/126)
 
 * [원티드와 함께하는 개발자 커리어 터치 참석 후기](https://velog.io/@doondoony/후기-원티드와-함께하는-개발자-커리어-터치)
 
@@ -176,7 +191,7 @@
 
 * [원티드와 함께하는 개발자 커리어 터치](https://www.notion.so/8a5fb590ae204295adf8117b5f58e32e)
 
-* [28세 요우의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382)
+* [28세 요우님의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382)
 
 * [강디너의 이직 탐험기](https://kdinner.tistory.com/58)
 
@@ -240,11 +255,8 @@
 * [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
 * [나무위키 SI](https://namu.wiki/w/SI)
 * [피해야 하는 중소기업 거르는 꿀팁](http://principlesofknowledge.kr/archives/31414)
-* 2017 카카오 코드 페스티벌 [예선전](http://tech.kakao.com/2017/08/11/code-festival-round-1/), [본선](http://tech.kakao.com/2017/09/13/code-festival-round-2/) 해설
-* 2018 카카오 블라인드 코딩테스트 [1차](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/), [2차](http://tech.kakao.com/2017/10/24/kakao-blind-recruitment-round-2/), [3차](http://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/) 해설
-* 2018 카카오 코드 페스티벌 [예선전](http://tech.kakao.com/2018/08/09/code-festival-2018-round-1/), [본선](http://tech.kakao.com/2018/09/12/code-festival-2018-round-2/) 해설
-* 2019 카카오 신입 공채 코딩 테스트 [1차](http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/), [2차](http://tech.kakao.com/2018/10/23/kakao-blind-recruitment-round-2/) 해설
-* 2020 카카오 신입 공채 코딩 테스트 [1차](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/), [2차](https://tech.kakao.com/2019/10/21/2020-카카오-블라인드-공채-2차-오프라인-코딩-테스트-문/) 해설
+
+
 * [Java Interview Question (영문)](https://www.javatpoint.com/corejava-interview-questions)
 
 ### 추천 도서
