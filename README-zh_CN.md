@@ -101,6 +101,12 @@
     * [위워크 입주기업 릴레이 인터뷰](http://bitly.kr/6flAH)
     * [한국일보 인터뷰 - 이달의 생산성 기업](http://bitly.kr/TgWDe)
 
+* [招聘中] [Skelter Labs 软件工程师招聘](https://www.notion.so/71edafe219b0432da0b1959f622c9f1a)
+  * 即使你不是AI专家，也可以来面试。
+  * [Skelter Labs CEO 采访](https://www.youtube.com/watch?v=uIhKDGz2ENo&t=349s)
+  * [Skelter Labs 团队文化介绍](https://blog.naver.com/skelterlabs/221860320455)
+  * [Skelter Labs 最新消息](https://www.skelterlabs.com/ko/news/)
+
 ### 招聘事件
 
 包括编程竞赛，hackathon时间表，研讨会以及与招聘相关的更多内容。
