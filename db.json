@@ -1,6 +1,11 @@
 ﻿{
 	"recruits": [
 		{
+			"endDate":"2021.02.21 23:59:59",
+			"link":"https://naverfincorp-career.com/nfin/job/detail/developer?annoId=20005127&utm_source=junior-recruit-scheduler)",
+			"description":"네이버 파이낸셜(페이) 경력 3년이하 백엔드/프론트 개발자 채용"
+		},		
+		{
 			"endDate":"2021.02.28 23:59:59",
 			"link":"https://www.notion.so/heyjoyce/85b7c21bb70c4001a6a6b962f933a020",
 			"description":"헤이조이스 백엔드개발/프론트엔드개발(신입)"
