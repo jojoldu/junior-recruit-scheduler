@@ -64,7 +64,7 @@
 
 * [초보개발자모임](https://www.facebook.com/devbeginner/)
 
-## 4. 채용 (2020)
+## 4. 채용 (2021)
 
 채용에 올라온 기업들은 모두 **개발자로서 커리어 쌓기가 좋은 회사**의 **신입/주니어** 채용을 기준으로 합니다.  
 
@@ -121,9 +121,15 @@
 
 * [채용시까지] [스트리미 엔지니어 채용](https://github.com/gopax/Recruit)
 
-* [채용시까지] [오일나우 웹 프론트 신입/경력 채용](https://https://www.notion.so/91f036e4b22041dd866682fea7516140)
+* [채용시까지] [오일나우 웹 프론트 신입/경력 채용](https://www.notion.so/91f036e4b22041dd866682fea7516140)
   * [오일나우 팀 블로그](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8)
-  
+
+* [채용시까지] [스켈터랩스 소프트웨어 엔지니어 채용](https://www.notion.so/71edafe219b0432da0b1959f622c9f1a)
+  * AI 전문 인력이 아니더라도 인터뷰에는 전혀 지장이 없으며, 전문 연구 요원도 상시 채용하고 있습니다.
+  * [스켈터랩스 CEO 인터뷰](https://www.youtube.com/watch?v=uIhKDGz2ENo&t=349s)
+  * [스켈터랩스 팀 문화 소개](https://blog.naver.com/skelterlabs/221860320455)
+  * [스켈터랩스 뉴스](https://www.skelterlabs.com/ko/news/)
+
 ### 채용 관련 행사 & 교육 코스
 
 채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.

@@ -114,6 +114,13 @@ Helping [100+ brands](https://abit.ly/ab180-clients) drive digital growth throug
     * [Hankook Ilbo Interview - Productivity Company of the Month](http://bitly.kr/TgWDe)
 
 * [Undetermined] [Streami Inc Engineer Recruitment](https://github.com/gopax/Recruit)
+
+* [Undetermined] [Skelter Labs Software Engineer Recruitment](https://www.notion.so/71edafe219b0432da0b1959f622c9f1a)
+  * Even if you're not an AI professional, there's no problem with interviews.
+  * [Skelter Labs CEO Interview](https://www.youtube.com/watch?v=uIhKDGz2ENo&t=349s)
+  * [Skelter Labs Team Culture](https://blog.naver.com/skelterlabs/221860320455)
+  * [Skelter Labs News](https://www.skelterlabs.com/ko/news/)
+
 ### Employment-Related Events
 
 Includes recruiting-related programming contests, hackathon schedules, seminars, and more.
