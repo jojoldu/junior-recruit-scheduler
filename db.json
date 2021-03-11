@@ -1,11 +1,6 @@
 ﻿{
 	"recruits": [
 		{
-			"endDate":"2021.02.21 23:59:59",
-			"link":"https://naverfincorp-career.com/nfin/job/detail/developer?annoId=20005127&utm_source=junior-recruit-scheduler)",
-			"description":"네이버 파이낸셜(페이) 경력 3년이하 백엔드/프론트 개발자 채용"
-		},		
-		{
 			"endDate":"2021.02.28 23:59:59",
 			"link":"https://www.notion.so/heyjoyce/85b7c21bb70c4001a6a6b962f933a020",
 			"description":"헤이조이스 백엔드개발/프론트엔드개발(신입)"
@@ -19,7 +14,17 @@
 			"endDate":"2021.02.28 23:59:59",
 			"link":"http://recruit.navercorp.com/naver/job/detail/developer?annoId=20004728&utm_source=junior-recruit-scheduler",
 			"description":"네이버 글로벌 검색 서비스 개발 (신입)"
+		},		
+		{
+			"endDate":"2021.03.15 17:00:00",
+			"link":"https://careers.linecorp.com/ko/2021_1st?utm_source=junior-recruit-scheduler",
+			"description":"2021 라인 신입 개발자 공채"
 		},
+		{
+			"endDate": "채용시까지",
+			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005215&utm_source=junior-recruit-scheduler",
+			"description": "네이버 SmartEditor 백엔드 개발 채용연계형 인턴"
+		},			
 		{
 			"endDate": "채용시까지",
 			"link": "https://careers.kakao.com/jobs/P-11485?utm_source=junior-recruit-scheduler",
