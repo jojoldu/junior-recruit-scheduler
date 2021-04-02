@@ -81,6 +81,8 @@
 
 * [2021.03.22 09:00:00 ~ 2021.04.02 17:00:00] [2021 카카오 커머스 신입/경력 개발 공채](https://programmers.co.kr/competitions/1010/2021-kakaocommerce-developers?utm_source=junior-recruit-scheduler)
 
+* [2021.04.02 09:00:00 ~ 2021.04.12 18:00:00] [2021 네이버 신입 개발 공채](https://recruit.navercorp.com/naver/job/detail/developer/?annoId=20005623&utm_source=junior-recruit-scheduler)
+  
 ### 추천 기업 (수시 & 상시 채용)
 
 * [채용시까지] [네이버 SmartEditor 백엔드 개발 채용연계형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005215&utm_source=junior-recruit-scheduler)
