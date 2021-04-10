@@ -1,10 +1,5 @@
 ﻿{
-	"recruits": [
-		{
-			"endDate":"2021.04.02 17:00:00",
-			"link":"https://programmers.co.kr/competitions/1010/2021-kakaocommerce-developers?utm_source=junior-recruit-scheduler",
-			"description":"2021 카카오 커머스 신입/경력 개발 공채"
-		},		
+	"recruits": [		
 		{
 			"endDate":"2021.04.12 18:00:00",
 			"link":"https://recruit.navercorp.com/naver/job/detail/developer/?annoId=20005623&utm_source=junior-recruit-scheduler",
@@ -37,7 +32,7 @@
 		},
 		{
 			"endDate": "채용시까지",
-			"link": "https://www.notion.so/f732e88b497343fa9cd2626a0885e7d2",
+			"link": "https://www.notion.so/fee06e9581f542a4898f803a9a601603",
 			"description": "CODEF 주니어 개발자 채용"
 		},
 		{

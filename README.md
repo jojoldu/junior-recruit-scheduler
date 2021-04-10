@@ -101,11 +101,9 @@
 * [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
   * [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
 
-- [채용시까지] [CODEF 주니어 경력 개발자 채용](https://www.notion.so/f732e88b497343fa9cd2626a0885e7d2)
-
-  - [CODEF 서비스 소개](https://codef.io/#/)
-  - [CODEF 문화 소개](https://www.notion.so/CODEF-c0eee9fa6d0042bd93328c1ed91090af)
-  - [CODEF 개발자 인터뷰 - 최동철 개발자](http://ohseyong.com/?p=2285)
+* [상시채용] [코드에프 주니어 경력 개발자 채용](https://www.notion.so/codef/fee06e9581f542a4898f803a9a601603)
+  * [코드에프 서비스 소개](https://about.codef.io/#/)
+  * [코드에프 문화 소개](https://www.notion.so/codef/24b49fbb14c746cb85c9bc090313c16e)
 
 - [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   - [기술 블로그](https://medium.com/daangn)
@@ -133,8 +131,6 @@
 
 채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.
 
-- [2021.01.18 10:00:00 ~ 2021.02.18 17:00:00] [2021 소프트웨어 마에스트로 모집](https://www.swmaestro.org/sw/main/contents.do?menuNo=200033)
-  - [소프트웨어 마에스트로 11기 지원 과정 & 합격 후기](https://medium.com/claudiajkang-life/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EB%A7%88%EC%97%90%EC%8A%A4%ED%8A%B8%EB%A1%9C-11%EA%B8%B0-%EC%A7%80%EC%9B%90-%EA%B3%BC%EC%A0%95-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-11db193e659a)
 - [2021.01.14 16:42:00 ~ 2021.07.22 16:42:00 (선착순)] [2021년도 42 SEOUL 모집](https://innovationacademy.kr/notice?board=4&post=104&utm_source=jojoldu/junior-recruit-scheduler)
   - [선발 프로세스](https://42seoul.kr/admission)
   - [지원 방법](https://42seoul.kr/apply)
