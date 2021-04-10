@@ -78,14 +78,8 @@
 
 ### 추천 기업 (마감일)
 
-- [2020.11.05 00:00:00 ~ 2021.02.28 23:59:59] [네이버 글로벌 검색 서비스 개발 (신입)](http://recruit.navercorp.com/naver/job/detail/developer?annoId=20004728&utm_source=junior-recruit-scheduler)
-
-- [2020.12.28 00:00:00 ~ 2021.02.28 23:59:59] [네이버 쇼핑 Aggregation 플랫폼 개발 인턴십 모집(채용 연계형)](https://recruit.navercorp.com/naver/job/detail/all?annoId=20004980&utm_source=junior-recruit-scheduler)
-
-- [2021.01.25 00:00:00 ~ 2021.02.28 23:59:59] [헤이조이스 백엔드개발/프론트엔드개발(신입)](https://www.notion.so/heyjoyce/85b7c21bb70c4001a6a6b962f933a020)
-
-- [2021.03.02 00:00:00 ~ 2021.03.15 17:00:00] [2021 라인 신입 개발자 공채](https://careers.linecorp.com/ko/2021_1st?utm_source=junior-recruit-scheduler)
-
+* [2021.04.02 09:00:00 ~ 2021.04.12 18:00:00] [2021 네이버 신입 개발 공채](https://recruit.navercorp.com/naver/job/detail/developer/?annoId=20005623&utm_source=junior-recruit-scheduler)
+  
 ### 추천 기업 (수시 & 상시 채용)
 
 - [채용시까지] [네이버 SmartEditor 백엔드 개발 채용연계형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005215&utm_source=junior-recruit-scheduler)
@@ -101,6 +95,11 @@
     (GS SHOP 등 [100+ 개의 기업](https://abit.ly/ab180-clients)이 제품 사용중)
   - [어떤 문화와 동료를 지향하나요?](https://abit.ly/ab180-culture)
 - [채용시까지] [네이버 동영상 플랫폼 (인턴)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&utm_source=jojoldu/junior-recruit-scheduler)
+
+* [상시채용] [모두의싸인 주니어 개발자 채용](https://www.notion.so/61da1be2959b40ae8621f1bdc44d605b?utm_source=junior-recruit-scheduler)
+
+* [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
+  * [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
 
 - [채용시까지] [CODEF 주니어 경력 개발자 채용](https://www.notion.so/f732e88b497343fa9cd2626a0885e7d2)
 
@@ -207,6 +206,7 @@
 ### 이력서 & 포트폴리오 작성법
 
 - [정원희님의 개발자 이력서 작성하기](https://brunch.co.kr/@hee072794/132)
+
 - [원티드랩에서 이야기하는 통과가 잘 되는 이력서 작성법 (신입/경력 포함)](https://brunch.co.kr/@wantedlab/29)
 
 - [이민석 교수님의 신입 개발자 자기소개서 작성법](http://hl1itj.tistory.com/90)
