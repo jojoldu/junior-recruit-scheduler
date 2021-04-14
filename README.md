@@ -78,7 +78,8 @@
 
 ### 추천 기업 (마감일)
 
-* [2021.04.02 09:00:00 ~ 2021.04.12 18:00:00] [2021 네이버 신입 개발 공채](https://recruit.navercorp.com/naver/job/detail/developer/?annoId=20005623&utm_source=junior-recruit-scheduler)
+* [2021.04.12 09:00:00 ~ 2021.04.26 17:00:00] [2021 라인 광고 플랫폼 채용 연계형 인턴](https://careers.linecorp.com/ko/jobs/418?utm_source=junior-recruit-scheduler)
+* [2021.04.15 09:00:00 ~ 2021.05.03 17:00:00] [2021 카카오 채용 연계형 인턴](https://careers.kakao.com/jobs/P-11983?utm_source=junior-recruit-scheduler)
   
 ### 추천 기업 (수시 & 상시 채용)
 
