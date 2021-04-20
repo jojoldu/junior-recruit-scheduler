@@ -200,6 +200,8 @@
 
 - [강디너의 이직 탐험기](https://kdinner.tistory.com/58)
 
+- [sizplay의 주니어 프론트엔드 개발자 이직 팁](https://www.sizplay.dev/Interview/주니어-프론트엔드-개발자-이직-팁/)
+
 ### 이력서 & 포트폴리오 작성법
 
 - [정원희님의 개발자 이력서 작성하기](https://brunch.co.kr/@hee072794/132)
@@ -219,6 +221,8 @@
 - [권희정님의 개발자의 포트폴리오 ・ 이력서 작성법](https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html)
 
 - [JSpiner님의 github로 다같이 쓰는 이력서](https://github.com/JSpiner/RESUME)
+
+- [sizplay의 주니어 프론트엔드 개발자 이력서 작성 팁](sizplay.dev/Interview/주니어-프론트엔드-개발자-이력서-작성-팁/)
 
 ### 면접 팁
 
