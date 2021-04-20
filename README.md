@@ -224,6 +224,8 @@
 
 - [sizplay의 주니어 프론트엔드 개발자 이력서 작성 팁](sizplay.dev/Interview/주니어-프론트엔드-개발자-이력서-작성-팁/)
 
+- [minieetea님의 잘 정리된 이력서보다 중요한 것](https://minieetea.com/2021/04/archives/6193)
+
 ### 면접 팁
 
 - [JBee(한재엽)님의 기술면접 자료 Repository](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
