@@ -205,7 +205,7 @@
 
 ### 이력서 & 포트폴리오 작성법
 
-- [정원희님의 개발자 이력서 작성하기](https://brunch.co.kr/@hee072794/132)
+- [정원희님의 개발자 이력서 작성하기](https://wonny.space/writing/work/engineer-resume)
 
 - [원티드랩에서 이야기하는 통과가 잘 되는 이력서 작성법 (신입/경력 포함)](https://brunch.co.kr/@wantedlab/29)
 
