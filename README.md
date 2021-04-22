@@ -141,7 +141,6 @@
 
 - [2021.04.28 09:00:00 ~ 2021.05.06 13:00:00] [2021 우아한테크캠프 4기 모집](https://woowabros.github.io/devrel/2021/04/20/woowa-techcamp_4th.html)
   - [우아한형제들 공식 인재영입 홈페이지](https://www.woowahan.com/#/recruit/tech)
-  ![2021 우아한테크캠프 4기 모집](./images/woowahan-tech-camp-4th.jpg) 
 
 ### 이외 채용정보 얻는 법
 
