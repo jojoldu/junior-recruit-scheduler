@@ -223,7 +223,7 @@
 
 - [JSpiner님의 github로 다같이 쓰는 이력서](https://github.com/JSpiner/RESUME)
 
-- [sizplay의 주니어 프론트엔드 개발자 이력서 작성 팁](sizplay.dev/Interview/주니어-프론트엔드-개발자-이력서-작성-팁/)
+- [sizplay의 주니어 프론트엔드 개발자 이력서 작성 팁](https://www.sizplay.dev/Interview/주니어-프론트엔드-개발자-이력서-작성-팁/)
 
 - [minieetea님의 잘 정리된 이력서보다 중요한 것](https://minieetea.com/2021/04/archives/6193)
 
