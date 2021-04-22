@@ -91,6 +91,11 @@
 			"endDate": "2021.02.18 17:00:00",
 			"description": "2021 소프트웨어 마에스트로 모집",
 			"link": "https://www.swmaestro.org/sw/main/contents.do?menuNo=200033"
+		},
+		{
+			"endDate": "2021.05.06 13:00:00",
+			"description": "2021 우아한테크캠프 4기 모집",
+			"link": "https://woowabros.github.io/devrel/2021/04/20/woowa-techcamp_4th.html"
 		}
 	]
 }
