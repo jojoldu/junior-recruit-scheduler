@@ -268,6 +268,7 @@
 - [피해야 하는 중소기업 거르는 꿀팁](http://principlesofknowledge.kr/archives/31414)
 
 - [Java Interview Question (영문)](https://www.javatpoint.com/corejava-interview-questions)
+- [Java 8 Interview Question (영문)](https://www.interviewbit.com/java-8-interview-questions/)
 
 ### 추천 도서
 
