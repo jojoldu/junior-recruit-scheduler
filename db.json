@@ -11,6 +11,11 @@
 			"description":"2021 네이버웹툰 하계인턴십 채용연계형(개발/리서치)"
 		},
 		{
+			"endDate":"2021.05.10 23:59:59",
+			"link":"https://recruit.worksmobile.com/worksmobile/recruitIng?openId=20005800_",
+			"description":"2021 웍스모바일 하계 인턴 모집 (채용연계형)"
+		},
+		{
 			"endDate":"2021.05.03 17:00:00",
 			"link":"https://careers.kakao.com/jobs/P-11983?utm_source=junior-recruit-scheduler",
 			"description":"2021 카카오 채용 연계형 인턴"
@@ -69,7 +74,7 @@
 			"endDate": "채용시까지",
 			"link": "https://github.com/gopax/Recruit",
 			"description": "스트리미 엔지니어 채용"
-     	},
+     		},
 		{
 			"endDate": "채용시까지",
 			"link": "https://www.notion.so/comento/Front-end-23adb41a65d34ca383d23f049f7b55b9",
