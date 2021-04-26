@@ -81,6 +81,7 @@
 * [2021.04.12 09:00:00 ~ 2021.04.26 17:00:00] [2021 라인 광고 플랫폼 채용 연계형 인턴](https://careers.linecorp.com/ko/jobs/418?utm_source=junior-recruit-scheduler)
 * [2021.04.20 09:00:00 ~ 2021.04.30 17:00:00] [2021 네이버웹툰 하계인턴십 채용연계형(개발/리서치)](https://recruit.webtoonscorp.com/webtoon/ko/job/detail?annoId=20005728)
 * [2021.04.15 09:00:00 ~ 2021.05.03 17:00:00] [2021 카카오 채용 연계형 인턴](https://careers.kakao.com/jobs/P-11983?utm_source=junior-recruit-scheduler)
+* [2021.04.26 09:00:00 ~ 2021.05.10 23:59:59] [2021 웍스모바일 하계 인턴 모집(채용연계형)](https://recruit.worksmobile.com/worksmobile/recruitIng?openId=20005800_)
   
 ### 추천 기업 (수시 & 상시 채용)
 
