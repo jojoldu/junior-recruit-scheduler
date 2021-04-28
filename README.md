@@ -1,4 +1,4 @@
-﻿# 주니어 개발자를 위한 취업 정보
+# 주니어 개발자를 위한 취업 정보
 
 [Korean](./README.md) | [English](./README-en_EN.md) | [Chinese](./README-zh_CN.md)
 
@@ -84,8 +84,6 @@
 * [2021.04.26 09:00:00 ~ 2021.05.10 23:59:59] [2021 웍스모바일 하계 인턴 모집(채용연계형)](https://recruit.worksmobile.com/worksmobile/recruitIng?openId=20005800_)
   
 ### 추천 기업 (수시 & 상시 채용)
-
-- [채용시까지] [네이버 SmartEditor 백엔드 개발 채용연계형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005215&utm_source=junior-recruit-scheduler)
 
 - [채용시까지] [카카오 인프라 서비스 플랫폼 개발자 (경력 5년미만)](https://careers.kakao.com/jobs/P-11485?utm_source=junior-recruit-scheduler)
 
