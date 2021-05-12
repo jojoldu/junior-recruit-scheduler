@@ -77,13 +77,12 @@
 잡플래닛 평점은 낮지만 정말 추천하고 싶은 회사가 있다면 그 사유를 같이 PR에 남겨주세요.
 
 ### 추천 기업 (마감일)
-
-* [2021.04.12 09:00:00 ~ 2021.04.26 17:00:00] [2021 라인 광고 플랫폼 채용 연계형 인턴](https://careers.linecorp.com/ko/jobs/418?utm_source=junior-recruit-scheduler)
-* [2021.04.20 09:00:00 ~ 2021.04.30 17:00:00] [2021 네이버웹툰 하계인턴십 채용연계형(개발/리서치)](https://recruit.webtoonscorp.com/webtoon/ko/job/detail?annoId=20005728)
-* [2021.04.15 09:00:00 ~ 2021.05.03 17:00:00] [2021 카카오 채용 연계형 인턴](https://careers.kakao.com/jobs/P-11983?utm_source=junior-recruit-scheduler)
-* [2021.04.26 09:00:00 ~ 2021.05.10 23:59:59] [2021 웍스모바일 하계 인턴 모집(채용연계형)](https://recruit.worksmobile.com/worksmobile/recruitIng?openId=20005800_)
   
 ### 추천 기업 (수시 & 상시 채용)
+
+- [채용시까지] [반려생활 React Native 신입 개발](https://bit.ly/3y4Pehe)
+  - [개발바닥 호돌맨님의 회사](https://news.mt.co.kr/mtview.php?no=2019080916265637549)
+  - [기사 - 배민 팀장 관두고 '창업'](https://news.mt.co.kr/mtview.php?no=2019080916265637549)
 
 - [채용시까지] [네이버 SmartEditor 백엔드 개발 채용연계형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005215&utm_source=junior-recruit-scheduler)
 

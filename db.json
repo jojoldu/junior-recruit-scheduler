@@ -1,25 +1,10 @@
 ﻿{
 	"recruits": [		
 		{
-			"endDate":"2021.04.26 17:00:00",
-			"link":"https://careers.linecorp.com/ko/jobs/418?utm_source=junior-recruit-scheduler",
-			"description":"2021 라인 광고 플랫폼 채용 연계형 인턴"
-		},
-		{
-			"endDate":"2021.04.30 17:00:00",
-			"link":"https://recruit.webtoonscorp.com/webtoon/ko/job/detail?annoId=20005728",
-			"description":"2021 네이버웹툰 하계인턴십 채용연계형(개발/리서치)"
-		},
-		{
-			"endDate":"2021.05.10 23:59:59",
-			"link":"https://recruit.worksmobile.com/worksmobile/recruitIng?openId=20005800_",
-			"description":"2021 웍스모바일 하계 인턴 모집 (채용연계형)"
-		},
-		{
-			"endDate":"2021.05.03 17:00:00",
-			"link":"https://careers.kakao.com/jobs/P-11983?utm_source=junior-recruit-scheduler",
-			"description":"2021 카카오 채용 연계형 인턴"
-		},
+			"endDate": "수시채용",
+			"link": "https://bit.ly/3y4Pehe",
+			"description": "반려생활 React Native 신입 개발자 채용"
+		},		
 		{
 			"endDate": "수시채용",
 			"link": "https://www.notion.so/61da1be2959b40ae8621f1bdc44d605b?utm_source=junior-recruit-scheduler",
