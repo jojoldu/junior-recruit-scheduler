@@ -78,6 +78,8 @@
 
 ### 추천 기업 (마감일)
   
+* [2021.05.17 10:00:00 ~ 2021.06.06 23:59:59] [2021 사람인 IT연구소 신입 개발자 공개채용](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=40241978&view_type=search)
+
 ### 추천 기업 (수시 & 상시 채용)
 
 - [채용시까지] [반려생활 React Native 신입 개발](https://bit.ly/3y4Pehe)
