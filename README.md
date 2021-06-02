@@ -1,4 +1,4 @@
-# 주니어 개발자를 위한 취업 정보
+﻿# 주니어 개발자를 위한 취업 정보
 
 [Korean](./README.md) | [English](./README-en_EN.md) | [Chinese](./README-zh_CN.md)
 
@@ -81,10 +81,6 @@
 * [2021.05.17 10:00:00 ~ 2021.06.06 23:59:59] [2021 사람인 IT연구소 신입 개발자 공개채용](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=40241978&view_type=search)
 
 ### 추천 기업 (수시 & 상시 채용)
-
-- [채용시까지] [반려생활 React Native 신입 개발](https://bit.ly/3y4Pehe)
-  - [개발바닥 호돌맨님의 회사](https://news.mt.co.kr/mtview.php?no=2019080916265637549)
-  - [기사 - 배민 팀장 관두고 '창업'](https://news.mt.co.kr/mtview.php?no=2019080916265637549)
 
 - [채용시까지] [네이버 SmartEditor 백엔드 개발 채용연계형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005215&utm_source=junior-recruit-scheduler)
 
