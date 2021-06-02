@@ -98,7 +98,6 @@
   - **1억 대의 디바이스. 100만 RPM. 하루 10억 건 이상의 이벤트 데이터**를 다루는 데이터 기업.  
     (GS SHOP 등 [100+ 개의 기업](https://abit.ly/ab180-clients)이 제품 사용중)
   - [어떤 문화와 동료를 지향하나요?](https://abit.ly/ab180-culture)
-- [채용시까지] [네이버 동영상 플랫폼 (인턴)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&utm_source=jojoldu/junior-recruit-scheduler)
 
 * [상시채용] [모두의싸인 주니어 개발자 채용](https://www.notion.so/61da1be2959b40ae8621f1bdc44d605b?utm_source=junior-recruit-scheduler)
 
