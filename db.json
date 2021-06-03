@@ -73,14 +73,14 @@
 	],
 	"seminars": [
 		{
-			"endDate": "2021.02.11 16:42:00",
+			"endDate": "2021.07.22 16:42:00",
 			"description": "2021년도 42 SEOUL 모집",
 			"link": "https://innovationacademy.kr/notice?board=4&post=104&utm_source=jojoldu/junior-recruit-scheduler"
 		},
 		{
-			"endDate": "2021.05.06 13:00:00",
-			"description": "2021 우아한테크캠프 4기 모집",
-			"link": "https://woowabros.github.io/devrel/2021/04/20/woowa-techcamp_4th.html"
+			"endDate": "2021.06.21 11:00:00]",
+			"description": "부스트캠프 웹·모바일 6기 모집",
+			"link": "https://boostcamp.connect.or.kr/guide_wm.html"
 		}
 	]
 }

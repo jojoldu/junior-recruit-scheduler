@@ -1,4 +1,4 @@
-# 주니어 개발자를 위한 취업 정보
+﻿# 주니어 개발자를 위한 취업 정보
 
 [Korean](./README.md) | [English](./README-en_EN.md) | [Chinese](./README-zh_CN.md)
 
@@ -140,7 +140,6 @@
 
 ![42seoul-2021](./images/42seoul-2021.png)
 
-- [2021.04.28 09:00:00 ~ 2021.05.06 13:00:00] [2021 우아한테크캠프 4기 모집](https://woowabros.github.io/devrel/2021/04/20/woowa-techcamp_4th.html)
 - [2021.05.13 09:00:00 ~ 2021.06.21 11:00:00] [부스트캠프 웹·모바일 6기 모집](https://boostcamp.connect.or.kr/guide_wm.html)
 
 ### 이외 채용정보 얻는 법
