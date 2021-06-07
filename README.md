@@ -95,7 +95,7 @@
     (GS SHOP 등 [100+ 개의 기업](https://abit.ly/ab180-clients)이 제품 사용중)
   - [어떤 문화와 동료를 지향하나요?](https://abit.ly/ab180-culture)
 
-* [상시채용] [모두의싸인 주니어 개발자 채용](https://www.notion.so/61da1be2959b40ae8621f1bdc44d605b?utm_source=junior-recruit-scheduler)
+* [상시채용] [모두싸인 주니어 개발자 채용](https://www.notion.so/61da1be2959b40ae8621f1bdc44d605b?utm_source=junior-recruit-scheduler)
 
 * [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
   * [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
