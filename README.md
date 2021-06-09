@@ -77,8 +77,8 @@
 잡플래닛 평점은 낮지만 정말 추천하고 싶은 회사가 있다면 그 사유를 같이 PR에 남겨주세요.
 
 ### 추천 기업 (마감일)
-  
-* [2021.05.17 10:00:00 ~ 2021.06.06 23:59:59] [2021 사람인 IT연구소 신입 개발자 공개채용](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=40241978&view_type=search)
+
+- [2021.06.09 ~ 2021.06.16 23:59:59] [NAVER FINANCIAL 하계 SW 개발자 인턴십](https://naverfincorp-career.com/nfin/job/detail/developer?annoId=20005945&classId=&jobId=&entTypeCd=&searchTxt=)
 
 ### 추천 기업 (수시 & 상시 채용)
 
