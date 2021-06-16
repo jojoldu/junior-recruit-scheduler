@@ -129,6 +129,10 @@
   - 현존하는 최선의 기술(State of the art technology)들을 집대성하여 구축한 세계에서 가장 신뢰받는 Intelligence Platform 트릿지는 A.T. Kearney, 코스트코, 델몬트, 카길, 월마트, 코카콜라 등 약 200개국 기업, 리서처들이 유용하게 사용하고 있습니다.
   - 기술 적용의 유효성과 임팩트를 최대화함으로써 역사상으로 해결하지 못한 식량자원 무역의 문제를 해결하고 있습니다. 풍부한 경력을 가지고 온 개발자들도 트릿지 서비스의 방대한 정보량에 놀라움을 표현해주셨어요. “최대”의 문제를 “최고”의 팀과 해결하고 싶은 인재를 모십니다.
 
+- [채용시까지] [Swingvy Back-end engineer 채용](https://swingvy.slite.com/p/note/2FpJguueEPL36XzqznkGfh)
+  - [Swingvy careers page](https://www.swingvy.com/my/company/careers)
+  - [What’s it like to work with us as an engineer?](https://www.swingvy.com/blog-my/whats-it-like-to-work-with-us-as-an-engineer) 
+
 ### 채용 관련 행사 & 교육 코스
 
 채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.
