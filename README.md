@@ -82,8 +82,6 @@
 
 ### 추천 기업 (수시 & 상시 채용)
 
-- [채용시까지] [네이버 SmartEditor 백엔드 개발 채용연계형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005215&utm_source=junior-recruit-scheduler)
-
 - [채용시까지] [카카오 인프라 서비스 플랫폼 개발자 (경력 5년미만)](https://careers.kakao.com/jobs/P-11485?utm_source=junior-recruit-scheduler)
 
 - [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
