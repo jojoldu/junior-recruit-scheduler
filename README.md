@@ -77,8 +77,6 @@
 잡플래닛 평점은 낮지만 정말 추천하고 싶은 회사가 있다면 그 사유를 같이 PR에 남겨주세요.
 
 ### 추천 기업 (마감일)
-  
-* [2021.05.17 10:00:00 ~ 2021.06.06 23:59:59] [2021 사람인 IT연구소 신입 개발자 공개채용](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=40241978&view_type=search)
 
 ### 추천 기업 (수시 & 상시 채용)
 
@@ -98,11 +96,12 @@
 * [상시채용] [모두싸인 주니어 개발자 채용](https://www.notion.so/61da1be2959b40ae8621f1bdc44d605b?utm_source=junior-recruit-scheduler)
 
 * [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
-  * [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
+
+  - [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
 
 * [상시채용] [코드에프 주니어 경력 개발자 채용](https://www.notion.so/codef/fee06e9581f542a4898f803a9a601603)
-  * [코드에프 서비스 소개](https://about.codef.io/#/)
-  * [코드에프 문화 소개](https://www.notion.so/codef/24b49fbb14c746cb85c9bc090313c16e)
+  - [코드에프 서비스 소개](https://about.codef.io/#/)
+  - [코드에프 문화 소개](https://www.notion.so/codef/24b49fbb14c746cb85c9bc090313c16e)
 
 - [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   - [기술 블로그](https://medium.com/daangn)
@@ -121,6 +120,7 @@
   - [오일나우 팀 블로그](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8)
 
 - [채용시까지] [스켈터랩스 소프트웨어 엔지니어 채용](https://www.notion.so/71edafe219b0432da0b1959f622c9f1a)
+
   - AI 전문 인력이 아니더라도 인터뷰에는 전혀 지장이 없으며, 전문 연구 요원도 상시 채용하고 있습니다.
   - [스켈터랩스 CEO 인터뷰](https://www.youtube.com/watch?v=uIhKDGz2ENo&t=349s)
   - [스켈터랩스 팀 문화 소개](https://blog.naver.com/skelterlabs/221860320455)
