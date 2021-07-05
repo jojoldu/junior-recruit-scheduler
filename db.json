@@ -1,5 +1,10 @@
 ﻿{
-	"recruits": [		
+	"recruits": [	
+		{
+			"endDate":"2021.07.12 17:00:00",
+			"link": "https://kakaopay.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=63003&preview=1",
+			"description": "2021 카카오페이 채용연계형 개발자 인턴십"
+		},
 		{
 			"endDate": "수시채용",
 			"link": "https://www.notion.so/61da1be2959b40ae8621f1bdc44d605b?utm_source=junior-recruit-scheduler",
