@@ -77,12 +77,10 @@
 잡플래닛 평점은 낮지만 정말 추천하고 싶은 회사가 있다면 그 사유를 같이 PR에 남겨주세요.
 
 ### 추천 기업 (마감일)
-  
-* [2021.05.17 10:00:00 ~ 2021.06.06 23:59:59] [2021 사람인 IT연구소 신입 개발자 공개채용](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=40241978&view_type=search)
+
+[2021.07.02 10:00:00 ~ 2021.07.12 17:00:00] [2021 카카오페이 채용연계형 개발자 인턴십](https://kakaopay.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=63003&preview=1)
 
 ### 추천 기업 (수시 & 상시 채용)
-
-- [채용시까지] [네이버 SmartEditor 백엔드 개발 채용연계형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005215&utm_source=junior-recruit-scheduler)
 
 - [채용시까지] [카카오 인프라 서비스 플랫폼 개발자 (경력 5년미만)](https://careers.kakao.com/jobs/P-11485?utm_source=junior-recruit-scheduler)
 
@@ -98,11 +96,12 @@
 * [상시채용] [모두싸인 주니어 개발자 채용](https://www.notion.so/61da1be2959b40ae8621f1bdc44d605b?utm_source=junior-recruit-scheduler)
 
 * [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
-  * [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
+
+  - [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
 
 * [상시채용] [코드에프 주니어 경력 개발자 채용](https://www.notion.so/codef/fee06e9581f542a4898f803a9a601603)
-  * [코드에프 서비스 소개](https://about.codef.io/#/)
-  * [코드에프 문화 소개](https://www.notion.so/codef/24b49fbb14c746cb85c9bc090313c16e)
+  - [코드에프 서비스 소개](https://about.codef.io/#/)
+  - [코드에프 문화 소개](https://www.notion.so/codef/24b49fbb14c746cb85c9bc090313c16e)
 
 - [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   - [기술 블로그](https://medium.com/daangn)
@@ -121,6 +120,7 @@
   - [오일나우 팀 블로그](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8)
 
 - [채용시까지] [스켈터랩스 소프트웨어 엔지니어 채용](https://www.notion.so/71edafe219b0432da0b1959f622c9f1a)
+
   - AI 전문 인력이 아니더라도 인터뷰에는 전혀 지장이 없으며, 전문 연구 요원도 상시 채용하고 있습니다.
   - [스켈터랩스 CEO 인터뷰](https://www.youtube.com/watch?v=uIhKDGz2ENo&t=349s)
   - [스켈터랩스 팀 문화 소개](https://blog.naver.com/skelterlabs/221860320455)
@@ -130,9 +130,14 @@
   - 현존하는 최선의 기술(State of the art technology)들을 집대성하여 구축한 세계에서 가장 신뢰받는 Intelligence Platform 트릿지는 A.T. Kearney, 코스트코, 델몬트, 카길, 월마트, 코카콜라 등 약 200개국 기업, 리서처들이 유용하게 사용하고 있습니다.
   - 기술 적용의 유효성과 임팩트를 최대화함으로써 역사상으로 해결하지 못한 식량자원 무역의 문제를 해결하고 있습니다. 풍부한 경력을 가지고 온 개발자들도 트릿지 서비스의 방대한 정보량에 놀라움을 표현해주셨어요. “최대”의 문제를 “최고”의 팀과 해결하고 싶은 인재를 모십니다.
 
+
 - [채용시까지] [Swingvy Back-end engineer 채용](https://swingvy.slite.com/p/note/2FpJguueEPL36XzqznkGfh)
   - [Swingvy careers page](https://www.swingvy.com/my/company/careers)
   - [What’s it like to work with us as an engineer?](https://www.swingvy.com/blog-my/whats-it-like-to-work-with-us-as-an-engineer) 
+
+- [채용시까지] [테크타카(ARGO) 소프트웨어 엔지니어 채용](https://www.notion.so/techtaka/Backend-Engineer-6b32f56083cf48e7a0d2454f34d8262a)
+  - [CEO 인터뷰](https://www.notion.so/techtaka/CEO-3e8eee73a3e64942a2a9a60ff3fc1dbb)
+  - [팀원 이야기](https://www.notion.so/techtaka/ARGO-c8480fe7449e4d5dad791fdf42e0abb7)
 
 ### 채용 관련 행사 & 교육 코스
 
@@ -143,8 +148,6 @@
   - [지원 방법](https://42seoul.kr/apply)
 
 ![42seoul-2021](./images/42seoul-2021.png)
-
-- [2021.05.13 09:00:00 ~ 2021.06.21 11:00:00] [부스트캠프 웹·모바일 6기 모집](https://boostcamp.connect.or.kr/guide_wm.html)
 
 ### 이외 채용정보 얻는 법
 
