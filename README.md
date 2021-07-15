@@ -78,7 +78,6 @@
 
 ### 추천 기업 (마감일)
 
-[2021.07.02 10:00:00 ~ 2021.07.12 17:00:00] [2021 카카오페이 채용연계형 개발자 인턴십](https://kakaopay.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=63003&preview=1)
 
 ### 추천 기업 (수시 & 상시 채용)
 
