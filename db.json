@@ -1,5 +1,15 @@
 ﻿{
-	"recruits": [	
+	"recruits": [
+		{
+			"endDate": "수시채용",
+			"link": "https://www.notion.so/NodeJS-c3df214ebb28423092f6798122156c4d",
+			"description": "인프런 백엔드 개발자(NodeJS) 채용"	
+		},	
+		{
+			"endDate": "수시채용",
+			"link": "https://www.notion.so/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642",
+			"description": "인프런 프론트엔드 개발자(React / VanillaJS) 채용"	
+		},	
 		{
 			"endDate": "수시채용",
 			"link": "https://www.notion.so/61da1be2959b40ae8621f1bdc44d605b?utm_source=junior-recruit-scheduler",
