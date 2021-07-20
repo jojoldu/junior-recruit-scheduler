@@ -97,10 +97,6 @@
 
 * [상시채용] [모두싸인 주니어 개발자 채용](https://www.notion.so/61da1be2959b40ae8621f1bdc44d605b?utm_source=junior-recruit-scheduler)
 
-* [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
-
-  - [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
-
 * [상시채용] [코드에프 주니어 경력 개발자 채용](https://www.notion.so/codef/fee06e9581f542a4898f803a9a601603)
   - [코드에프 서비스 소개](https://about.codef.io/#/)
   - [코드에프 문화 소개](https://www.notion.so/codef/24b49fbb14c746cb85c9bc090313c16e)
