@@ -1,6 +1,11 @@
 ﻿{
 	"recruits": [
 		{
+			"endDate": "2021.08.08 23:59:00",
+			"link": "https://recruit.kakaobank.com/2021dev?utm_source=jojoldu/junior-recruit-scheduler",
+			"description": "2021 카카오뱅크 경력 1~3년차 개발자 공채"
+		},
+		{
 			"endDate": "수시채용",
 			"link": "https://www.notion.so/NodeJS-c3df214ebb28423092f6798122156c4d",
 			"description": "인프런 백엔드 개발자(NodeJS) 채용"	
@@ -9,7 +14,17 @@
 			"endDate": "수시채용",
 			"link": "https://www.notion.so/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642",
 			"description": "인프런 프론트엔드 개발자(React / VanillaJS) 채용"	
-		},	
+		},
+		{
+			"endDate": "수시채용",
+			"link": "https://careers.kakao.com/jobs/P-12053?utm_source=junior-recruit-scheduler",
+			"description": "카카오 테크직군 SW 교육기획 (경력 5년미만)"
+		},
+		{
+			"endDate": "수시채용",
+			"link": "https://careers.kakao.com/jobs/P-11485?utm_source=junior-recruit-scheduler",
+			"description": "카카오 인프라 서비스 플랫폼 개발자 (경력 5년미만)"
+		},
 		{
 			"endDate": "수시채용",
 			"link": "https://www.notion.so/61da1be2959b40ae8621f1bdc44d605b?utm_source=junior-recruit-scheduler",
