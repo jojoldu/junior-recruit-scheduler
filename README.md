@@ -78,12 +78,15 @@
 
 ### 추천 기업 (마감일)
 
+* [2021.07.30 00:00:00 ~ 2021.08.08 23:59:00] [2021 카카오뱅크 경력 1~3년차 개발자 공채](https://recruit.kakaobank.com/2021dev?utm_source=jojoldu/junior-recruit-scheduler)
 
 ### 추천 기업 (수시 & 상시 채용)
 
 - [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://www.notion.so/NodeJS-c3df214ebb28423092f6798122156c4d)
   - [프론트엔드 개발자 (React / VanillaJS) (신입/경력)](https://www.notion.so/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642)
+
+- [채용시까지] [카카오 테크직군 SW 교육기획 (경력 5년미만)](https://careers.kakao.com/jobs/P-12053?utm_source=junior-recruit-scheduler)
 - [채용시까지] [카카오 인프라 서비스 플랫폼 개발자 (경력 5년미만)](https://careers.kakao.com/jobs/P-11485?utm_source=junior-recruit-scheduler)
 
 - [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
