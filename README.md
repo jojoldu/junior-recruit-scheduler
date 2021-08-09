@@ -78,12 +78,14 @@
 
 ### 추천 기업 (마감일)
 
-* [2021.08.02 00:00:00 ~ 2021.08.11 23:59:00] [2021 토스 3년차 이하 개발자 채용](https://toss.im/career/next-developer-2021?utm_source=jojoldu/junior-recruit-scheduler)
-* [2021.08.02 00:00:00 ~ 2021.08.16 23:59:00] [2021 라이엇게임즈코리아 신입 개발자 채용](https://careers.kr.riotgames.com/ca8009e7-1ac2-4501-8e89-dc6d4243c65a?utm_source=jojoldu/junior-recruit-scheduler)
+- [2021.08.02 00:00:00 ~ 2021.08.11 23:59:00] [2021 토스 3년차 이하 개발자 채용](https://toss.im/career/next-developer-2021?utm_source=jojoldu/junior-recruit-scheduler)
+- [2021.08.02 00:00:00 ~ 2021.08.16 23:59:00] [2021 라이엇게임즈코리아 신입 개발자 채용](https://careers.kr.riotgames.com/ca8009e7-1ac2-4501-8e89-dc6d4243c65a?utm_source=jojoldu/junior-recruit-scheduler)
+- [2021.08.09 11:00:00 ~ 2021.08.20 17:00:00] [그렙(프로그래머스) 채용 챌린지](https://programmers.co.kr/competitions/1586?slug=2021-grepp-challenge)
 
 ### 추천 기업 (수시 & 상시 채용)
 
 - [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
+
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://www.notion.so/NodeJS-c3df214ebb28423092f6798122156c4d)
   - [프론트엔드 개발자 (React / VanillaJS) (신입/경력)](https://www.notion.so/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642)
 
@@ -133,12 +135,14 @@
   - [스켈터랩스 뉴스](https://www.skelterlabs.com/ko/news/)
 
 - [채용시까지] [Tridge Software Engineer 채용](https://grnh.se/7150da0c3us)
+
   - 현존하는 최선의 기술(State of the art technology)들을 집대성하여 구축한 세계에서 가장 신뢰받는 Intelligence Platform 트릿지는 A.T. Kearney, 코스트코, 델몬트, 카길, 월마트, 코카콜라 등 약 200개국 기업, 리서처들이 유용하게 사용하고 있습니다.
   - 기술 적용의 유효성과 임팩트를 최대화함으로써 역사상으로 해결하지 못한 식량자원 무역의 문제를 해결하고 있습니다. 풍부한 경력을 가지고 온 개발자들도 트릿지 서비스의 방대한 정보량에 놀라움을 표현해주셨어요. “최대”의 문제를 “최고”의 팀과 해결하고 싶은 인재를 모십니다.
 
 - [채용시까지] [Swingvy Back-end engineer 채용](https://swingvy.slite.com/p/note/2FpJguueEPL36XzqznkGfh)
+
   - [Swingvy careers page](https://www.swingvy.com/my/company/careers)
-  - [What’s it like to work with us as an engineer?](https://www.swingvy.com/blog-my/whats-it-like-to-work-with-us-as-an-engineer) 
+  - [What’s it like to work with us as an engineer?](https://www.swingvy.com/blog-my/whats-it-like-to-work-with-us-as-an-engineer)
 
 ### 채용 관련 행사 & 교육 코스
 
