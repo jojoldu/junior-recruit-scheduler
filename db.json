@@ -11,6 +11,11 @@
 			"description": "2021 라이엇게임즈코리아 신입 개발자 채용"
 		},
 		{
+			"endDate": "2021.08.20 17:00:00",
+			"link": "https://programmers.co.kr/competitions/1586?slug=2021-grepp-challenge",
+			"description": "그렙(프로그래머스) 채용 챌린지"
+		},
+		{
 			"endDate": "수시채용",
 			"link": "https://www.notion.so/NodeJS-c3df214ebb28423092f6798122156c4d",
 			"description": "인프런 백엔드 개발자(NodeJS) 채용"	
