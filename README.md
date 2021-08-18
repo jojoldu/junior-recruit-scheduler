@@ -78,8 +78,7 @@
 
 ### 추천 기업 (마감일)
 
-* [2021.08.02 00:00:00 ~ 2021.08.11 23:59:00] [2021 토스 3년차 이하 개발자 채용](https://toss.im/career/next-developer-2021?utm_source=jojoldu/junior-recruit-scheduler)
-* [2021.08.02 00:00:00 ~ 2021.08.16 23:59:00] [2021 라이엇게임즈코리아 신입 개발자 채용](https://careers.kr.riotgames.com/ca8009e7-1ac2-4501-8e89-dc6d4243c65a?utm_source=jojoldu/junior-recruit-scheduler)
+* [2021.08.18 00:00:00 ~ 2021.08.29 23:59:00] [2021 당근마켓 개발자/디자이너 인턴 채용](https://daangn.notion.site/MVP-928486810e664e35976ec55ef25ccced?utm_source=jojoldu/junior-recruit-scheduler)
 
 ### 추천 기업 (수시 & 상시 채용)
 
