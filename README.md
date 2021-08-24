@@ -144,12 +144,6 @@
 
 채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.
 
-- [2021.01.14 16:42:00 ~ 2021.07.22 16:42:00 (선착순)] [2021년도 42 SEOUL 모집](https://innovationacademy.kr/notice?board=4&post=104&utm_source=jojoldu/junior-recruit-scheduler)
-  - [선발 프로세스](https://42seoul.kr/admission)
-  - [지원 방법](https://42seoul.kr/apply)
-
-![42seoul-2021](./images/42seoul-2021.png)
-
 ### 이외 채용정보 얻는 법
 
 **잡코리아, 사람인 채용 정보는 개인적으로는 추천하지 않습니다**.  
