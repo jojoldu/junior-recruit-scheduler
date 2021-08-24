@@ -78,8 +78,7 @@
 
 ### 추천 기업 (마감일)
 
-* [2021.08.02 00:00:00 ~ 2021.08.11 23:59:00] [2021 토스 3년차 이하 개발자 채용](https://toss.im/career/next-developer-2021?utm_source=jojoldu/junior-recruit-scheduler)
-* [2021.08.02 00:00:00 ~ 2021.08.16 23:59:00] [2021 라이엇게임즈코리아 신입 개발자 채용](https://careers.kr.riotgames.com/ca8009e7-1ac2-4501-8e89-dc6d4243c65a?utm_source=jojoldu/junior-recruit-scheduler)
+* [2021.08.18 00:00:00 ~ 2021.08.29 23:59:00] [2021 당근마켓 개발자/디자이너 인턴 채용](https://daangn.notion.site/MVP-928486810e664e35976ec55ef25ccced?utm_source=jojoldu/junior-recruit-scheduler)
 
 ### 추천 기업 (수시 & 상시 채용)
 
@@ -100,10 +99,6 @@
   - [어떤 문화와 동료를 지향하나요?](https://abit.ly/ab180-culture)
 
 * [상시채용] [모두싸인 주니어 개발자 채용](https://www.notion.so/61da1be2959b40ae8621f1bdc44d605b?utm_source=junior-recruit-scheduler)
-
-* [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
-
-  - [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
 
 * [상시채용] [코드에프 주니어 경력 개발자 채용](https://www.notion.so/codef/fee06e9581f542a4898f803a9a601603)
   - [코드에프 서비스 소개](https://about.codef.io/#/)

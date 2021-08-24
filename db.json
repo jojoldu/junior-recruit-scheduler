@@ -1,14 +1,9 @@
 ﻿{
 	"recruits": [
 		{
-			"endDate": "2021.08.11 23:59:00",
-			"link": "https://toss.im/career/next-developer-2021?utm_source=jojoldu/junior-recruit-scheduler",
-			"description": "2021 토스 3년차 이하 개발자 채용"
-		},
-		{
-			"endDate": "2021.08.16 23:59:00",
-			"link": "https://careers.kr.riotgames.com/ca8009e7-1ac2-4501-8e89-dc6d4243c65a?utm_source=jojoldu/junior-recruit-scheduler",
-			"description": "2021 라이엇게임즈코리아 신입 개발자 채용"
+			"endDate": "2021.08.29 23:59:00",
+			"link": "https://daangn.notion.site/MVP-928486810e664e35976ec55ef25ccced?utm_source=jojoldu/junior-recruit-scheduler",
+			"description": "2021 당근마켓 개발자/디자이너 인턴 채용"
 		},
 		{
 			"endDate": "수시채용",
@@ -96,7 +91,10 @@
 			"description": "Swingvy Back-end engineer 채용"
 		}
 	],
+
 	"seminars": [
 
 	]
+
+
 }
