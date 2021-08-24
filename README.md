@@ -79,6 +79,9 @@
 ### 추천 기업 (마감일)
 
 * [2021.08.18 00:00:00 ~ 2021.08.29 23:59:00] [2021 당근마켓 개발자/디자이너 인턴 채용](https://daangn.notion.site/MVP-928486810e664e35976ec55ef25ccced?utm_source=jojoldu/junior-recruit-scheduler)
+
+* [2021.08.19 11:00:00 ~ 2021.09.06 17:00:00] [2022 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/competitions/1571?slug=2022-kakao-blind-recruitment)
+
 * [2021.08.24 11:00:00 ~ 2021.09.06 17:00:00] [SW 개발 신입 LINER 공개 채용](https://www.careers-2021-liner.com)
 
 ### 추천 기업 (수시 & 상시 채용)
@@ -100,10 +103,6 @@
   - [어떤 문화와 동료를 지향하나요?](https://abit.ly/ab180-culture)
 
 * [상시채용] [모두싸인 주니어 개발자 채용](https://www.notion.so/61da1be2959b40ae8621f1bdc44d605b?utm_source=junior-recruit-scheduler)
-
-* [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
-
-  - [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
 
 * [상시채용] [코드에프 주니어 경력 개발자 채용](https://www.notion.so/codef/fee06e9581f542a4898f803a9a601603)
   - [코드에프 서비스 소개](https://about.codef.io/#/)
@@ -148,12 +147,6 @@
 ### 채용 관련 행사 & 교육 코스
 
 채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.
-
-- [2021.01.14 16:42:00 ~ 2021.07.22 16:42:00 (선착순)] [2021년도 42 SEOUL 모집](https://innovationacademy.kr/notice?board=4&post=104&utm_source=jojoldu/junior-recruit-scheduler)
-  - [선발 프로세스](https://42seoul.kr/admission)
-  - [지원 방법](https://42seoul.kr/apply)
-
-![42seoul-2021](./images/42seoul-2021.png)
 
 ### 이외 채용정보 얻는 법
 
