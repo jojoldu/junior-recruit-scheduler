@@ -79,6 +79,7 @@
 ### 추천 기업 (마감일)
 
 * [2021.08.18 00:00:00 ~ 2021.08.29 23:59:00] [2021 당근마켓 개발자/디자이너 인턴 채용](https://daangn.notion.site/MVP-928486810e664e35976ec55ef25ccced?utm_source=jojoldu/junior-recruit-scheduler)
+* [2021.08.19 11:00:00 ~ 2021.09.06 17:00:00] [2022 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/competitions/1571?slug=2022-kakao-blind-recruitment)
 
 ### 추천 기업 (수시 & 상시 채용)
 
