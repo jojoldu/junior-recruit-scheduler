@@ -91,11 +91,5 @@
 			"description": "Swingvy Back-end engineer 채용"
 		}
 	],
-	"seminars": [
-		{
-			"endDate": "2021.07.22 16:42:00",
-			"description": "2021년도 42 SEOUL 모집",
-			"link": "https://innovationacademy.kr/notice?board=4&post=104&utm_source=jojoldu/junior-recruit-scheduler"
-		}
-	]
+	"seminars": []
 }
