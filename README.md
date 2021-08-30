@@ -268,6 +268,8 @@
 
 - [30개 기업에서 받은 신입 면접 질문&답변](https://github.com/jobhope/TechnicalNote)
 
+- ["우리 회사에 궁금한 점 없어요?"를 위한 질문 목록](https://github.com/univdev/nice-developer-job-questions)
+
 ### 기타 정보
 
 - [개발자 채용시 기술검증 어떻게 할 것인가 - 세미나 후기](http://bit.ly/2QDKlWs)
