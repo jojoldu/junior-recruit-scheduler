@@ -80,10 +80,6 @@
 
 * [2021.08.18 00:00:00 ~ 2021.08.29 23:59:00] [2021 당근마켓 개발자/디자이너 인턴 채용](https://daangn.notion.site/MVP-928486810e664e35976ec55ef25ccced?utm_source=jojoldu/junior-recruit-scheduler)
 
-* [2021.08.19 11:00:00 ~ 2021.09.06 17:00:00] [2022 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/competitions/1571?slug=2022-kakao-blind-recruitment)
-
-* [2021.08.24 11:00:00 ~ 2021.09.06 17:00:00] [SW 개발 신입 LINER 공개 채용](https://www.careers-2021-liner.com)
-
 ### 추천 기업 (수시 & 상시 채용)
 
 - [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
