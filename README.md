@@ -86,7 +86,7 @@
 
 ### 추천 기업 (수시 & 상시 채용)
 
-- [채용시까지] [크리마 Junior Software Engineer](https://www.rocketpunch.com/jobs/93621/Junior-Software-Engineer)
+- [채용시까지] [크리마 Junior Software Engineer](https://www.notion.so/crema/CREMA-3cfbd23e20dd4529adbfacfc05175af2)
 
 - [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://www.notion.so/NodeJS-c3df214ebb28423092f6798122156c4d)
