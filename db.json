@@ -1,6 +1,11 @@
 ﻿{
 	"recruits": [
 		{
+			"endDate": "수시채용",
+			"link": "https://www.notion.so/CREMA-3cfbd23e20dd4529adbfacfc05175af2,
+			"description": "크리마 Software Engineer 채용"	
+		},
+		{
 			"endDate": "2021.09.06 17:00:00",
 			"link": "https://programmers.co.kr/competitions/1571?slug=2022-kakao-blind-recruitment",
 			"description": "2022 KAKAO BLIND RECRUITMENT"
