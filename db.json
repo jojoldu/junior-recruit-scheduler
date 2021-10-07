@@ -1,20 +1,34 @@
 ﻿{
 	"recruits": [
 		{
-
-			"endDate": "수시채용",
-			"link": "https://www.notion.so/CREMA-3cfbd23e20dd4529adbfacfc05175af2,
-			"description": "크리마 Software Engineer 채용"	
+			"endDate": "2021.10.18 23:59:00",
+			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006685",
+			"description": "웍스 모바일 동계인턴 (채용연계형"
+		},
+		{
+			"endDate": "2021.11.03 10:00:00",
+			"link": "https://techblog.woowahan.com/5977?utm_source=jojoldu/junior-recruit-scheduler",
+			"description": "우아한 테크코스 웹 백엔드/프론트엔드"
 		},
     {
 			"endDate": "수시채용",
 			"link": "https://www.notion.so/NodeJS-c3df214ebb28423092f6798122156c4d",
-			"description": "인프런 백엔드 개발자(NodeJS) 채용"	
-		},	
+			"description": "인프런 백엔드 개발자(NodeJS) 채용"
+		},
 		{
 			"endDate": "수시채용",
 			"link": "https://www.notion.so/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642",
-			"description": "인프런 프론트엔드 개발자(React / VanillaJS) 채용"	
+			"description": "인프런 프론트엔드 개발자(React / VanillaJS) 채용"
+		},
+		{
+			"endDate": "수시채용",
+			"link": "https://apply.workable.com/buzzvil/?lng=en",
+			"description": "버즈빌 주니어 개발자 (서버/데이터/웹프론트/모바일) 채용"
+		},
+		{
+			"endDate": "수시채용",
+			"link": "https://www.notion.so/CREMA-3cfbd23e20dd4529adbfacfc05175af2",
+			"description": "크리마 Software Engineer 채용"
 		},
 		{
 			"endDate": "수시채용",
@@ -25,12 +39,7 @@
 			"endDate": "수시채용",
 			"link": "https://www.notion.so/61da1be2959b40ae8621f1bdc44d605b?utm_source=junior-recruit-scheduler",
 			"description": "모두싸인 주니어 개발자 채용"
-		},			
-		{
-			"endDate": "채용시까지",
-			"link": "https://careers.kakao.com/jobs/P-11485?utm_source=junior-recruit-scheduler",
-			"description": "카카오 인프라 서비스 플랫폼 개발자 (경력 5년미만)"
-		},		
+		},
 		{
 			"endDate": "채용시까지",
 			"link": "https://abit.ly/ab180",

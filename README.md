@@ -78,13 +78,18 @@
 
 ### 추천 기업 (마감일)
 
-### 추천 기업 (수시 & 상시 채용)
+* [2021.10.04 00:00:00 ~ 2021.10.18 23:59:00] [웍스 모바일 동계인턴 (채용연계형)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006685)
+* [2021.10.22 00:00:00 ~ 2021.11.03 10:00:00] [우아한 테크코스 웹 백엔드/프론트엔드](https://techblog.woowahan.com/5977?utm_source=jojoldu/junior-recruit-scheduler)
 
-- [채용시까지] [크리마 Software Engineer](https://www.notion.so/crema/CREMA-3cfbd23e20dd4529adbfacfc05175af2)
+### 추천 기업 (수시 & 상시 채용)
 
 - [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://www.notion.so/NodeJS-c3df214ebb28423092f6798122156c4d)
   - [프론트엔드 개발자 (React / VanillaJS) (신입/경력)](https://www.notion.so/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642)
+
+- [채용시까지] [버즈빌 주니어 개발자 (서버/데이터/웹프론트/모바일) 채용](https://apply.workable.com/buzzvil/?lng=en)
+
+- [채용시까지] [크리마 Software Engineer](https://www.notion.so/crema/CREMA-3cfbd23e20dd4529adbfacfc05175af2)
 
 - [채용시까지] [카카오 인프라 서비스 플랫폼 개발자 (경력 5년미만)](https://careers.kakao.com/jobs/P-11485?utm_source=junior-recruit-scheduler)
 
@@ -131,7 +136,7 @@
 
 - [채용시까지] [Swingvy Back-end engineer 채용](https://swingvy.slite.com/p/note/2FpJguueEPL36XzqznkGfh)
   - [Swingvy careers page](https://www.swingvy.com/my/company/careers)
-  - [What’s it like to work with us as an engineer?](https://www.swingvy.com/blog-my/whats-it-like-to-work-with-us-as-an-engineer) 
+  - [What’s it like to work with us as an engineer?](https://www.swingvy.com/blog-my/whats-it-like-to-work-with-us-as-an-engineer)
 
 - [채용시까지] [테크타카(ARGO) 소프트웨어 엔지니어 채용](https://www.notion.so/techtaka/Backend-Engineer-6b32f56083cf48e7a0d2454f34d8262a)
   - [CEO 인터뷰](https://www.notion.so/techtaka/CEO-3e8eee73a3e64942a2a9a60ff3fc1dbb)
