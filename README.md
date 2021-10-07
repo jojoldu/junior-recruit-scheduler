@@ -78,12 +78,6 @@
 
 ### 추천 기업 (마감일)
 
-* [2021.08.18 00:00:00 ~ 2021.08.29 23:59:00] [2021 당근마켓 개발자/디자이너 인턴 채용](https://daangn.notion.site/MVP-928486810e664e35976ec55ef25ccced?utm_source=jojoldu/junior-recruit-scheduler)
-
-* [2021.08.19 11:00:00 ~ 2021.09.06 17:00:00] [2022 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/competitions/1571?slug=2022-kakao-blind-recruitment)
-
-* [2021.08.24 11:00:00 ~ 2021.09.06 17:00:00] [SW 개발 신입 LINER 공개 채용](https://www.careers-2021-liner.com)
-
 ### 추천 기업 (수시 & 상시 채용)
 
 - [채용시까지] [크리마 Software Engineer](https://www.notion.so/crema/CREMA-3cfbd23e20dd4529adbfacfc05175af2)
@@ -92,7 +86,6 @@
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://www.notion.so/NodeJS-c3df214ebb28423092f6798122156c4d)
   - [프론트엔드 개발자 (React / VanillaJS) (신입/경력)](https://www.notion.so/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642)
 
-- [채용시까지] [카카오 테크직군 SW 교육기획 (경력 5년미만)](https://careers.kakao.com/jobs/P-12053?utm_source=junior-recruit-scheduler)
 - [채용시까지] [카카오 인프라 서비스 플랫폼 개발자 (경력 5년미만)](https://careers.kakao.com/jobs/P-11485?utm_source=junior-recruit-scheduler)
 
 - [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
@@ -110,8 +103,6 @@
   - [코드에프 서비스 소개](https://about.codef.io/#/)
   - [코드에프 문화 소개](https://www.notion.so/codef/24b49fbb14c746cb85c9bc090313c16e)
 
-- [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
-  - [기술 블로그](https://medium.com/daangn)
 - [채용시까지] [버즈니 AI 백엔드/플랫폼 신입/경력 채용 (전문연구요원 가능)](https://recruit.buzzni.com/recruit/ai-lab-ai-%eb%b0%b1%ec%97%94%eb%93%9c-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-%ec%a0%84%eb%ac%b8%ec%97%b0%ea%b5%ac%ec%9a%94%ec%9b%90-%ea%b0%80%eb%8a%a5/)
   - [기술 블로그](https://buzzni.com/blog/)
 - [채용시까지] [코멘토 Front-end 개발자 채용](https://www.notion.so/comento/Front-end-23adb41a65d34ca383d23f049f7b55b9)
