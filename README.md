@@ -78,19 +78,12 @@
 
 ### 추천 기업 (마감일)
 
-* [2021.08.18 00:00:00 ~ 2021.08.29 23:59:00] [2021 당근마켓 개발자/디자이너 인턴 채용](https://daangn.notion.site/MVP-928486810e664e35976ec55ef25ccced?utm_source=jojoldu/junior-recruit-scheduler)
-
-* [2021.08.19 11:00:00 ~ 2021.09.06 17:00:00] [2022 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/competitions/1571?slug=2022-kakao-blind-recruitment)
-
-* [2021.08.24 11:00:00 ~ 2021.09.06 17:00:00] [SW 개발 신입 LINER 공개 채용](https://www.careers-2021-liner.com)
-
 ### 추천 기업 (수시 & 상시 채용)
 
 - [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://www.notion.so/NodeJS-c3df214ebb28423092f6798122156c4d)
   - [프론트엔드 개발자 (React / VanillaJS) (신입/경력)](https://www.notion.so/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642)
 
-- [채용시까지] [카카오 테크직군 SW 교육기획 (경력 5년미만)](https://careers.kakao.com/jobs/P-12053?utm_source=junior-recruit-scheduler)
 - [채용시까지] [카카오 인프라 서비스 플랫폼 개발자 (경력 5년미만)](https://careers.kakao.com/jobs/P-11485?utm_source=junior-recruit-scheduler)
 
 - [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
