@@ -1,6 +1,12 @@
 ﻿{
 	"recruits": [
 		{
+
+			"endDate": "수시채용",
+			"link": "https://www.notion.so/CREMA-3cfbd23e20dd4529adbfacfc05175af2,
+			"description": "크리마 Software Engineer 채용"	
+		},
+    {
 			"endDate": "수시채용",
 			"link": "https://www.notion.so/NodeJS-c3df214ebb28423092f6798122156c4d",
 			"description": "인프런 백엔드 개발자(NodeJS) 채용"	
@@ -34,11 +40,6 @@
 			"endDate": "채용시까지",
 			"link": "https://www.notion.so/fee06e9581f542a4898f803a9a601603",
 			"description": "CODEF 주니어 개발자 채용"
-		},
-		{
-			"endDate": "채용시까지",
-			"link": "https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0",
-			"description": "당근마켓 백엔드/플랫폼 신입/인턴 채용"
 		},
 		{
 			"endDate": "채용시까지",
