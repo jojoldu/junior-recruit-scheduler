@@ -1,9 +1,14 @@
 ﻿{
 	"recruits": [
 		{
+			"endDate": "2021.10.18 17:00:00",
+			"link": "https://recruit.nhn.com/ent/landing",
+			"description": "NHN 그룹사 신입 개발자 공채"
+		},
+		{
 			"endDate": "2021.10.18 23:59:00",
 			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006685",
-			"description": "웍스 모바일 동계인턴 (채용연계형"
+			"description": "웍스 모바일 동계인턴 (채용연계형)"
 		},
 		{
 			"endDate": "2021.11.03 10:00:00",

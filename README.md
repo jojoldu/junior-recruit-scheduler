@@ -78,6 +78,7 @@
 
 ### 추천 기업 (마감일)
 
+* [2021.09.27 00:00:00 ~ 2021.10.18 17:00:00] [NHN 그룹사 신입 개발자 공채](https://recruit.nhn.com/ent/landing)
 * [2021.10.04 00:00:00 ~ 2021.10.18 23:59:00] [웍스 모바일 동계인턴 (채용연계형)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006685)
 * [2021.10.22 00:00:00 ~ 2021.11.03 10:00:00] [우아한 테크코스 웹 백엔드/프론트엔드](https://techblog.woowahan.com/5977?utm_source=jojoldu/junior-recruit-scheduler)
 
