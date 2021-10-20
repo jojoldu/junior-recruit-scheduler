@@ -143,6 +143,10 @@
   - [CEO 인터뷰](https://www.notion.so/techtaka/CEO-3e8eee73a3e64942a2a9a60ff3fc1dbb)
   - [팀원 이야기](https://www.notion.so/techtaka/ARGO-c8480fe7449e4d5dad791fdf42e0abb7)
 
+- [채용시까지] [맘시터 백엔드 엔지니어 채용  (Spring/Kotlin)](https://www.mfort.co.kr/b6d60b71-5238-419f-9b23-e48d9bd4523a)
+  - [맘편한세상 기업소개](https://www.mfort.co.kr/)
+  - [CTO 인터뷰](https://www.mfort.co.kr/af72a611-989b-4ade-9a5c-ee411159bc2b) 
+
 ### 채용 관련 행사 & 교육 코스
 
 채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.
