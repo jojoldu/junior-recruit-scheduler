@@ -78,9 +78,9 @@
 
 ### 추천 기업 (마감일)
 
-* [2021.09.27 00:00:00 ~ 2021.10.18 17:00:00] [NHN 그룹사 신입 개발자 공채](https://recruit.nhn.com/ent/landing)
-* [2021.10.04 00:00:00 ~ 2021.10.18 23:59:00] [웍스 모바일 동계인턴 (채용연계형)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006685)
-* [2021.10.22 00:00:00 ~ 2021.11.03 10:00:00] [우아한 테크코스 웹 백엔드/프론트엔드](https://techblog.woowahan.com/5977?utm_source=jojoldu/junior-recruit-scheduler)
+* [2021.11.01 00:00:00 ~ 2021.11.12 18:00:00] [네이버 - 콘텐츠 관리 플랫폼 개발 인턴(체험형)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006853)
+* [2021.11.01 00:00:00 ~ 2021.11.12 18:00:00] [네이버 - SmartEditor Android 앱 개발 채용연계형 인턴십](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006854)
+
 
 ### 추천 기업 (수시 & 상시 채용)
 
@@ -88,6 +88,7 @@
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://www.notion.so/NodeJS-c3df214ebb28423092f6798122156c4d)
   - [프론트엔드 개발자 (React / VanillaJS) (주니어경력 ~ 경력)](https://www.notion.so/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642)
 
+- [채용시까지] [[브런치/티스토리] Android 앱 개발자(1년차 이상)](https://careers.kakao.com/jobs/P-12234)
 - [채용시까지] [버즈빌 주니어 개발자 (서버/데이터/웹프론트/모바일) 채용](https://apply.workable.com/buzzvil/?lng=en)
 
 - [채용시까지] [크리마 Software Engineer](https://www.notion.so/crema/CREMA-3cfbd23e20dd4529adbfacfc05175af2)
