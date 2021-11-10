@@ -80,7 +80,7 @@
 
 * [2021.11.01 00:00:00 ~ 2021.11.12 18:00:00] [네이버 - 콘텐츠 관리 플랫폼 개발 인턴(체험형)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006853)
 * [2021.11.01 00:00:00 ~ 2021.11.12 18:00:00] [네이버 - SmartEditor Android 앱 개발 채용연계형 인턴십](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006854)
-
+* [2021.11.08 00:00:00 ~ 2021.11.22 17:00:00] [LINE studio 게임개발 인턴십 (Server/Client 개발 정규직 채용 연계형)](https://careers.linecorp.com/ko/jobs/925)
 
 ### 추천 기업 (수시 & 상시 채용)
 
