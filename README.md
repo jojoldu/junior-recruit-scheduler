@@ -148,6 +148,11 @@
   - [맘편한세상 기업소개](https://www.mfort.co.kr/)
   - [CTO 인터뷰](https://www.mfort.co.kr/af72a611-989b-4ade-9a5c-ee411159bc2b) 
 
+- [채용시까지] [백엔드 엔지니어 (Backend Engineer)](https://team.jaranda.kr/backend)
+  - 성인교육 큐레이션 시장이 점차 활성화되고 있는 것처럼, 키즈 교육과 돌봄 시장에서의 붐을 이르키고 있는 에듀테크기업 자란다 입니다.
+  - [자란다의 핵심 경쟁력](https://team.jaranda.kr/corevalue)
+  - [외부 인재 추천제도 '자란다 자란다 잘한다'](https://team.jaranda.kr/outsiderecruit)
+
 ### 채용 관련 행사 & 교육 코스
 
 채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.
