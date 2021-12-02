@@ -155,6 +155,13 @@
   - [자란다의 핵심 경쟁력](https://team.jaranda.kr/corevalue)
   - [외부 인재 추천제도 '자란다 자란다 잘한다'](https://team.jaranda.kr/outsiderecruit)
 
+- [채용시까지][비즈니스캔버스 백엔드/프론트엔드 엔지니어 채용](https://typed.biz/career)
+  - [회사 소개](https://businesscanvas.notion.site/Team-Typed-We-re-hiring-e8b8849a7569428eb43a9d911af9ef76)
+  - [제품 소개](https://www.typed.biz/?lang=ko)
+  - [개발자 인터뷰](https://www.youtube.com/watch?v=6AcS5wSRSiQ)
+  - [PM 인터뷰](https://www.youtube.com/watch?v=r4CaoI9ryr8)
+  - [유튜브 채널](https://www.youtube.com/channel/UC5TE3eZk_t-OUl-BY-VTK_w/featured)
+
 ### 채용 관련 행사 & 교육 코스
 
 채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.
