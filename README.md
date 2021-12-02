@@ -78,9 +78,6 @@
 
 ### 추천 기업 (마감일)
 
-* [2021.09.27 00:00:00 ~ 2021.10.18 17:00:00] [NHN 그룹사 신입 개발자 공채](https://recruit.nhn.com/ent/landing)
-* [2021.10.04 00:00:00 ~ 2021.10.18 23:59:00] [웍스 모바일 동계인턴 (채용연계형)](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006685)
-* [2021.10.22 00:00:00 ~ 2021.11.03 10:00:00] [우아한 테크코스 웹 백엔드/프론트엔드](https://techblog.woowahan.com/5977?utm_source=jojoldu/junior-recruit-scheduler)
 
 ### 추천 기업 (수시 & 상시 채용)
 
@@ -88,6 +85,7 @@
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://www.notion.so/NodeJS-c3df214ebb28423092f6798122156c4d)
   - [프론트엔드 개발자 (React / VanillaJS) (주니어경력 ~ 경력)](https://www.notion.so/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642)
 
+- [채용시까지] [[브런치/티스토리] Android 앱 개발자(1년차 이상)](https://careers.kakao.com/jobs/P-12234)
 - [채용시까지] [버즈빌 주니어 개발자 (서버/데이터/웹프론트/모바일) 채용](https://apply.workable.com/buzzvil/?lng=en)
 
 - [채용시까지] [크리마 Software Engineer](https://www.notion.so/crema/CREMA-3cfbd23e20dd4529adbfacfc05175af2)
@@ -145,7 +143,17 @@
 
 - [채용시까지] [맘시터 백엔드 엔지니어 채용  (Spring/Kotlin)](https://www.mfort.co.kr/b6d60b71-5238-419f-9b23-e48d9bd4523a)
   - [맘편한세상 기업소개](https://www.mfort.co.kr/)
-  - [CTO 인터뷰](https://www.mfort.co.kr/af72a611-989b-4ade-9a5c-ee411159bc2b) 
+  - [CTO 인터뷰](https://www.mfort.co.kr/af72a611-989b-4ade-9a5c-ee411159bc2b)
+
+- [채용시까지] [그리팅 프론트엔드 엔지니어 채용 (React) (경력 무관)](https://career.greetinghr.com/o/NjY2Nw.x-pZslsIqIf6n8MbCGRT-bg8kbU)
+- [채용시까지] [그리팅 백엔드 엔지니어 채용 (Python) (경력 무관)](https://career.greetinghr.com/o/NjY2OA.ScI3Fb42vGPG07gKQ8imUUUIqlc)
+  - **쏘카, 아이디어스, 샌드박스 등** 국내 유명 스타트업이 사용하는 채용 관리 솔루션을 개발하는 두들린입니다! 
+  - 런칭 1년만에 시리즈 A 투자 유치를 준비하는 **로켓 성장 스타트업**에서 함께 성장할 팀원을 찾고 있습니다.
+
+- [채용시까지] [백엔드 엔지니어 (Backend Engineer)](https://team.jaranda.kr/backend)
+  - 성인교육 큐레이션 시장이 점차 활성화되고 있는 것처럼, 키즈 교육과 돌봄 시장에서의 붐을 이르키고 있는 에듀테크기업 자란다 입니다.
+  - [자란다의 핵심 경쟁력](https://team.jaranda.kr/corevalue)
+  - [외부 인재 추천제도 '자란다 자란다 잘한다'](https://team.jaranda.kr/outsiderecruit)
 
 - [채용시까지][비즈니스캔버스 백엔드/프론트엔드 엔지니어 채용](https://typed.biz/career)
   - [회사 소개](https://businesscanvas.notion.site/Team-Typed-We-re-hiring-e8b8849a7569428eb43a9d911af9ef76)
@@ -283,7 +291,6 @@
 - [개발자 채용시 기술검증 어떻게 할 것인가 - 세미나 후기](http://bit.ly/2QDKlWs)
 - [2016 KSUG 경력 관리 세미나](http://bit.ly/2JEexjS)
 - [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
-- [나무위키 SI](https://namu.wiki/w/SI)
 - [피해야 하는 중소기업 거르는 꿀팁](http://principlesofknowledge.kr/archives/31414)
 
 - [Java Interview Question (영문)](https://www.javatpoint.com/corejava-interview-questions)
