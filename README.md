@@ -1,4 +1,4 @@
-﻿# 주니어 개발자를 위한 취업 정보
+# 주니어 개발자를 위한 취업 정보
 
 [Korean](./README.md) | [English](./README-en_EN.md) | [Chinese](./README-zh_CN.md)
 
@@ -291,6 +291,7 @@
 - [개발자 채용시 기술검증 어떻게 할 것인가 - 세미나 후기](http://bit.ly/2QDKlWs)
 - [2016 KSUG 경력 관리 세미나](http://bit.ly/2JEexjS)
 - [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
+- [나무위키 SI(시스템 통합) 문서](https://namu.wiki/w/시스템%20통합)
 - [피해야 하는 중소기업 거르는 꿀팁](http://principlesofknowledge.kr/archives/31414)
 
 - [Java Interview Question (영문)](https://www.javatpoint.com/corejava-interview-questions)
