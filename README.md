@@ -82,8 +82,8 @@
 ### 추천 기업 (수시 & 상시 채용)
 
 - [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
-  - [백엔드 개발자 (NodeJS) (신입/경력)](https://www.notion.so/NodeJS-c3df214ebb28423092f6798122156c4d)
-  - [프론트엔드 개발자 (React / VanillaJS) (주니어경력 ~ 경력)](https://www.notion.so/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642)
+  - [백엔드 개발자 (NodeJS) (신입/경력)](https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840)
+  - [프론트엔드 개발자 (React / VanillaJS) (경력)](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569)
 
 - [채용시까지] [[브런치/티스토리] Android 앱 개발자(1년차 이상)](https://careers.kakao.com/jobs/P-12234)
 - [채용시까지] [버즈빌 주니어 개발자 (서버/데이터/웹프론트/모바일) 채용](https://apply.workable.com/buzzvil/?lng=en)
