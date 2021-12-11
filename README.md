@@ -299,4 +299,3 @@
 ### 추천 도서
 
 - [프로그래밍 면접 이렇게 준비한다](https://book.naver.com/bookdb/book_detail.nhn?bid=15064639)
-  - [요약정리](https://www.slideshare.net/ddayinhwang9/ss-60152650)
