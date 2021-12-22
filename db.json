@@ -2,12 +2,12 @@
 	"recruits": [
     		{
 			"endDate": "수시채용",
-			"link": "https://www.notion.so/NodeJS-c3df214ebb28423092f6798122156c4d",
+			"link": "https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840",
 			"description": "인프런 백엔드 개발자(NodeJS) 채용"
 		},
 		{
 			"endDate": "수시채용",
-			"link": "https://www.notion.so/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642",
+			"link": "https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569",
 			"description": "인프런 프론트엔드 개발자(React / VanillaJS) 채용"
 		},
 		{
@@ -29,11 +29,6 @@
 			"endDate": "수시채용",
 			"link": "https://careers.kakao.com/jobs/P-11485?utm_source=junior-recruit-scheduler",
 			"description": "카카오 인프라 서비스 플랫폼 개발자 (경력 5년미만)"
-		},
-		{
-			"endDate": "수시채용",
-			"link": "https://www.notion.so/61da1be2959b40ae8621f1bdc44d605b?utm_source=junior-recruit-scheduler",
-			"description": "모두싸인 주니어 개발자 채용"
 		},
 		{
 			"endDate": "채용시까지",
@@ -92,9 +87,9 @@
 		},
 		{
 			"endDate": "채용시까지",
-
 			"link": "https://typed.biz/career",
 			"description": "비즈니스캔버스 프론트엔드/백엔드 엔지니어 채용"
+		},
 		{
 			"endDate": "채용시까지",
 			"link": "https://career.greetinghr.com/o/NjY2Nw.x-pZslsIqIf6n8MbCGRT-bg8kbU",
@@ -110,11 +105,17 @@
 			"link": "https://team.jaranda.kr/backend",
 			"description": "자란다 백엔드 엔지니어 채용"
 		},
+    {
+			"endDate": "채용시까지",
+			"link": "https://channel.io/jobs?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu",
+			"description": "[채널코퍼레이션] 채널톡 엔지니어 채용"
+		},
 		{
 			"endDate": "채용시까지",
-			"link": "https://ucut.in/d7bfb",
+			"link": "https://blog.naver.com/bold-9/222544928421",
 			"description": "볼드나인 소프트웨어 엔지니어(React / NodeJS) 채용"
-		}
+     }
+
 	],
 
 	"seminars": [
