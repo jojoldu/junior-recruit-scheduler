@@ -167,6 +167,12 @@
   - [제품 소개](https://channel.io/ko?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu)
   - [유튜브 채널](https://www.youtube.com/c/%EC%B1%84%EB%84%90%ED%86%A1)
 
+- [채용시까지] [볼드나인(BOLD9) 소프트웨어 엔지니어 채용 (React / NodeJS)](https://blog.naver.com/bold-9/222544928421)
+  - [홈페이지](https://bold-9.com/)
+  - [회사소개](https://blog.naver.com/bold-9/222528579063)
+  - [백엔드 개발자 인터뷰](https://blog.naver.com/bold-9/222552391789)
+  - [프론트엔드 개발자 인터뷰](https://blog.naver.com/bold-9/222570943274)
+
 ### 채용 관련 행사 & 교육 코스
 
 채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.
