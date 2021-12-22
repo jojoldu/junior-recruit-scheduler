@@ -109,6 +109,11 @@
 			"endDate": "채용시까지",
 			"link": "https://team.jaranda.kr/backend",
 			"description": "자란다 백엔드 엔지니어 채용"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "https://channel.io/jobs?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu",
+			"description": "[채널코퍼레이션] 채널톡 엔지니어 채용"
 		}
 	],
 
