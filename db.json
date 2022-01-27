@@ -114,11 +114,16 @@
 			"endDate": "채용시까지",
 			"link": "https://blog.naver.com/bold-9/222544928421",
 			"description": "볼드나인 소프트웨어 엔지니어(React / NodeJS) 채용"
-     }
+    	 }
 
 	],
 
 	"seminars": [
+		{
+			"endDate": "~ 2022.02.17 17:00:00",
+			"link": "https://swmaestro.org/sw/main/contents.do?menuNo=200033",
+			"description": "2022 소프트웨어 마에스트로"
+    	 }
 
 	]
 
