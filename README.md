@@ -146,9 +146,10 @@
   - [CTO 인터뷰](https://www.mfort.co.kr/af72a611-989b-4ade-9a5c-ee411159bc2b)
 
 - [채용시까지] [그리팅 프론트엔드 엔지니어 채용 (React) (경력 무관)](https://career.greetinghr.com/o/NjY2Nw.x-pZslsIqIf6n8MbCGRT-bg8kbU)
-- [채용시까지] [그리팅 백엔드 엔지니어 채용 (Python) (경력 무관)](https://career.greetinghr.com/o/NjY2OA.ScI3Fb42vGPG07gKQ8imUUUIqlc)
+- [채용시까지] [그리팅 백엔드 엔지니어 채용 (Node.js) (경력 무관)](https://career.greetinghr.com/o/NjY2OA.ScI3Fb42vGPG07gKQ8imUUUIqlc)
+  - [회사 소개](https://doodlin.career.greetinghr.com)
   - **쏘카, 아이디어스, 샌드박스 등** 국내 유명 스타트업이 사용하는 채용 관리 솔루션을 개발하는 두들린입니다! 
-  - 런칭 1년만에 시리즈 A 투자 유치를 준비하는 **로켓 성장 스타트업**에서 함께 성장할 팀원을 찾고 있습니다.
+  - **로켓 성장 스타트업**에서 함께 기술로 채용을 혁신할 팀원을 찾습니다!
 
 - [채용시까지] [백엔드 엔지니어 (Backend Engineer)](https://team.jaranda.kr/backend)
   - 성인교육 큐레이션 시장이 점차 활성화되고 있는 것처럼, 키즈 교육과 돌봄 시장에서의 붐을 이르키고 있는 에듀테크기업 자란다 입니다.
