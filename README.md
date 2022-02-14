@@ -144,8 +144,9 @@
   - [맘편한세상 기업소개](https://www.mfort.co.kr/)
   - [CTO 인터뷰](https://www.mfort.co.kr/af72a611-989b-4ade-9a5c-ee411159bc2b)
 
-- [채용시까지] [그리팅 프론트엔드 엔지니어 채용 (React) (경력 무관)](https://career.greetinghr.com/o/NjY2Nw.x-pZslsIqIf6n8MbCGRT-bg8kbU)
-- [채용시까지] [그리팅 백엔드 엔지니어 채용 (Node.js) (경력 무관)](https://career.greetinghr.com/o/NjY2OA.ScI3Fb42vGPG07gKQ8imUUUIqlc)
+- [채용시까지] [그리팅 경력 무관 개발자 채용](https://doodlin.career.greetinghr.com/) 
+  - [프론트엔드 엔지니어 채용 (React) (경력 무관)](https://career.greetinghr.com/o/NjY2Nw.x-pZslsIqIf6n8MbCGRT-bg8kbU)
+  - [그리팅 백엔드 엔지니어 채용 (Node.js) (경력 무관)](https://career.greetinghr.com/o/NjY2OA.ScI3Fb42vGPG07gKQ8imUUUIqlc)
   - [회사 소개](https://doodlin.career.greetinghr.com)
   - **쏘카, 아이디어스, 샌드박스 등** 국내 유명 스타트업이 사용하는 채용 관리 솔루션을 개발하는 두들린입니다! 
   - **로켓 성장 스타트업**에서 함께 기술로 채용을 혁신할 팀원을 찾습니다!
@@ -162,7 +163,7 @@
   - [PM 인터뷰](https://www.youtube.com/watch?v=r4CaoI9ryr8)
   - [유튜브 채널](https://www.youtube.com/channel/UC5TE3eZk_t-OUl-BY-VTK_w/featured)
 
-- [채용시까지] [\[채널코퍼레이션\] 채널톡 엔지니어 채용](https://channel.io/jobs?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu)
+- [채용시까지] [채널코퍼레이션 - 채널톡 엔지니어 채용](https://channel.io/jobs?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu)
   - We make a future classic product! 채팅 CRM 통합 솔루션 **채널톡**을 만드는 채널코퍼레이션입니다.
   - **6만개 이상의 기업**이 선택한 채널톡, 같이 만들어 보실래요?
   - [회사 소개](https://channel.io/ko/team?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu)
