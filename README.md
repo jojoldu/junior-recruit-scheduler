@@ -117,7 +117,7 @@
 
 - [채용시까지] [스트리미 엔지니어 채용](https://github.com/gopax/Recruit)
 
-- [채용시까지] [오일나우 웹 프론트 신입/경력 채용](https://www.notion.so/91f036e4b22041dd866682fea7516140)
+- [채용시까지] [오일나우 iOS 개발자 신입/경력 채용](https://www.notion.so/91f036e4b22041dd866682fea7516140)
 
   - [오일나우 팀 블로그](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8)
 
@@ -151,8 +151,8 @@
   - **쏘카, 아이디어스, 샌드박스 등** 국내 유명 스타트업이 사용하는 채용 관리 솔루션을 개발하는 두들린입니다! 
   - **로켓 성장 스타트업**에서 함께 기술로 채용을 혁신할 팀원을 찾습니다!
 
-- [채용시까지] [백엔드 엔지니어 (Backend Engineer)](https://team.jaranda.kr/backend)
-  - 성인교육 큐레이션 시장이 점차 활성화되고 있는 것처럼, 키즈 교육과 돌봄 시장에서의 붐을 이르키고 있는 에듀테크기업 자란다 입니다.
+- [채용시까지] 자란다 - 백엔드 엔지니어 (Backend Engineer) (https://team.jaranda.kr/backend)
+  - [자란다] 성인교육 큐레이션 시장이 점차 활성화되고 있는 것처럼, 키즈 교육과 돌봄 시장에서의 붐을 이르키고 있는 에듀테크기업 자란다 입니다.
   - [자란다의 핵심 경쟁력](https://team.jaranda.kr/corevalue)
   - [외부 인재 추천제도 '자란다 자란다 잘한다'](https://team.jaranda.kr/outsiderecruit)
 
@@ -275,6 +275,8 @@
 - [sizplay의 주니어 프론트엔드 개발자 이력서 작성 팁](https://www.sizplay.dev/Interview/주니어-프론트엔드-개발자-이력서-작성-팁/)
 
 - [minieetea님의 잘 정리된 이력서보다 중요한 것](https://minieetea.com/2021/04/archives/6193)
+
+- [김태성님의 신입 개발자가 포트폴리오를 준비할 때 알아두면 좋은 것들](https://bit.ly/3q7jxSs)
 
 ### 면접 팁
 
