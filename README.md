@@ -176,6 +176,12 @@
   - [백엔드 개발자 인터뷰](https://blog.naver.com/bold-9/222552391789)
   - [프론트엔드 개발자 인터뷰](https://blog.naver.com/bold-9/222570943274)
 
+- [채용시까지] [Tappytoon 소프트웨어 엔지니어 채용](https://www.notion.so/7af701800b964339bd9dedf063defb87)
+    - 한국 웹툰과 웹소설을 500만 해외 독자들에게 서비스 하고 있는 [Tappytoon](https://www.notion.so/Tappytoon-128aac1c1b0f497daf3369b362cd9b1e) 입니다.
+    - [백엔드 개발자](https://www.notion.so/50af7cafca9649e1942025296de7dc0f?v=d5462bde1ae54995aab2c588627f316c)
+    - [프론트엔드 개발자](https://www.notion.so/4dc667a8d43d426294dc1772764204e5?v=533bb1690d9e4a9e83f45272a972819f)
+    - [개발 본부는 이렇게 일해요!](https://www.notion.so/baa3c95db54b4ecf8465b2b8c4790677)
+
 ### 채용 관련 행사 & 교육 코스
 
 채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.
