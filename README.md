@@ -81,8 +81,6 @@
 
 ### 추천 기업 (수시 & 상시 채용)
 
-- [2022.01.31 00:00:00 ~ 2022.02.20 23:59:59] [당근페이 (Java, Kotlin) 서버 개발자 인턴 (정규직 전환 가능)](https://team.daangn.com/jobs/4939071003/)
-
 - [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840)
   - [프론트엔드 개발자 (React / VanillaJS) (경력)](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569)
@@ -186,7 +184,6 @@
 
 채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.
 
-* [2022.01.17 10:00:00 ~ 2022.02.17 17:00:00] [2022 소프트웨어 마에스트로](https://swmaestro.org/sw/main/contents.do?menuNo=200033)
 
 ### 이외 채용정보 얻는 법
 
