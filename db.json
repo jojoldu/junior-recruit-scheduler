@@ -1,6 +1,11 @@
 ﻿{
 	"recruits": [
 		{
+			"endDate": "2022.02.28 23:59:00",
+			"link": "https://naverfincorp-career.com/nfin/job/detail/search?annoId=20007566",
+			"description": "[네이버파이낸셜] 2022년 경력1일 이상 개발자 공개 채용"
+		},
+		{
 			"endDate": "수시채용",
 			"link": "https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840",
 			"description": "인프런 백엔드 개발자(NodeJS) 채용"
