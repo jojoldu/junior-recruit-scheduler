@@ -57,7 +57,7 @@
 제 블로그에 있는 글 중 취업 관련 추천 글입니다.
 
 - [3번째 직장에 오기까지](http://bit.ly/2sFSGim)
-- [(2020) 1. 비전공자로 자바 백엔드 개발자 시작하기](https://jojoldu.tistory.com/505)
+- [(2021) 1. 비전공자로 자바 백엔드 개발자 시작하기](https://jojoldu.tistory.com/505)
 
 주니어 개발자분들에게 필요한 기술/세미나 등의 소식을 공유하는 페이스북 페이지
 
@@ -150,7 +150,7 @@
   - **쏘카, 아이디어스, 샌드박스 등** 국내 유명 스타트업이 사용하는 채용 관리 솔루션을 개발하는 두들린입니다! 
   - **로켓 성장 스타트업**에서 함께 기술로 채용을 혁신할 팀원을 찾습니다!
 
-- [채용시까지] 자란다 - 백엔드 엔지니어 (Backend Engineer) (https://team.jaranda.kr/backend)
+- [채용시까지] [자란다 - 백엔드 엔지니어 (Backend Engineer)](https://team.jaranda.kr/backend)
   - [자란다] 성인교육 큐레이션 시장이 점차 활성화되고 있는 것처럼, 키즈 교육과 돌봄 시장에서의 붐을 이르키고 있는 에듀테크기업 자란다 입니다.
   - [자란다의 핵심 경쟁력](https://team.jaranda.kr/corevalue)
   - [외부 인재 추천제도 '자란다 자란다 잘한다'](https://team.jaranda.kr/outsiderecruit)
