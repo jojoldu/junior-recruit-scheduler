@@ -79,6 +79,7 @@
 ### 추천 기업 (마감일)
 
 * [2022.02.21 00:00:00 ~ 2022.02.28 23:59:00] [네이버파이낸셜 - 2022년 경력1일 이상 개발자 공개 채용](https://naverfincorp-career.com/nfin/job/detail/search?annoId=20007566)
+* [2022.02.25 10:00:00 ~ 2022.03.10 17:00:00] [2022 SK ICT Family 신입 개발자 채용 챌린지](https://programmers.co.kr/competitions/2231)
 
 ### 추천 기업 (수시 & 상시 채용)
 
