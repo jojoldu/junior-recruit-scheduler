@@ -78,11 +78,13 @@
 
 ### 추천 기업 (마감일)
 
-* [2022.02.21 00:00:00 ~ 2022.02.28 23:59:00] [네이버파이낸셜 - 2022년 경력1일 이상 개발자 공개 채용](https://naverfincorp-career.com/nfin/job/detail/search?annoId=20007566)
+- [2022.03.04 00:00:00 ~ 2022.03.21 17:00:00] [LINE - 2022 상반기 신입 LINER 공개 채용](https://newliner-recruit-2022-1h.com/)
+- [2022.02.21 00:00:00 ~ 2022.02.28 23:59:00] [네이버파이낸셜 - 2022년 경력1일 이상 개발자 공개 채용](https://naverfincorp-career.com/nfin/job/detail/search?annoId=20007566)
 
 ### 추천 기업 (수시 & 상시 채용)
 
 - [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
+
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840)
   - [프론트엔드 개발자 (React / VanillaJS) (경력)](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569)
 
@@ -128,34 +130,41 @@
   - [스켈터랩스 뉴스](https://www.skelterlabs.com/ko/news/)
 
 - [채용시까지] [Tridge Software Engineer 채용](https://grnh.se/7150da0c3us)
+
   - 현존하는 최선의 기술(State of the art technology)들을 집대성하여 구축한 세계에서 가장 신뢰받는 Intelligence Platform 트릿지는 A.T. Kearney, 코스트코, 델몬트, 카길, 월마트, 코카콜라 등 약 200개국 기업, 리서처들이 유용하게 사용하고 있습니다.
   - 기술 적용의 유효성과 임팩트를 최대화함으로써 역사상으로 해결하지 못한 식량자원 무역의 문제를 해결하고 있습니다. 풍부한 경력을 가지고 온 개발자들도 트릿지 서비스의 방대한 정보량에 놀라움을 표현해주셨어요. “최대”의 문제를 “최고”의 팀과 해결하고 싶은 인재를 모십니다.
 
 - [채용시까지] [Swingvy Back-end engineer 채용](https://swingvy.slite.com/p/note/2FpJguueEPL36XzqznkGfh)
+
   - [Swingvy careers page](https://www.swingvy.com/my/company/careers)
   - [What’s it like to work with us as an engineer?](https://www.swingvy.com/blog-my/whats-it-like-to-work-with-us-as-an-engineer)
 
 - [채용시까지] [테크타카(ARGO) 소프트웨어 엔지니어 채용](https://www.notion.so/techtaka/Backend-Engineer-6b32f56083cf48e7a0d2454f34d8262a)
+
   - [CEO 인터뷰](https://www.notion.so/techtaka/CEO-3e8eee73a3e64942a2a9a60ff3fc1dbb)
   - [팀원 이야기](https://www.notion.so/techtaka/ARGO-c8480fe7449e4d5dad791fdf42e0abb7)
 
-- [채용시까지] [맘시터 백엔드 엔지니어 채용  (Spring/Kotlin)](https://www.mfort.co.kr/b6d60b71-5238-419f-9b23-e48d9bd4523a)
+- [채용시까지] [맘시터 백엔드 엔지니어 채용 (Spring/Kotlin)](https://www.mfort.co.kr/b6d60b71-5238-419f-9b23-e48d9bd4523a)
+
   - [맘편한세상 기업소개](https://www.mfort.co.kr/)
   - [CTO 인터뷰](https://www.mfort.co.kr/af72a611-989b-4ade-9a5c-ee411159bc2b)
 
-- [채용시까지] [그리팅 경력 무관 개발자 채용](https://doodlin.career.greetinghr.com/) 
+- [채용시까지] [그리팅 경력 무관 개발자 채용](https://doodlin.career.greetinghr.com/)
+
   - [프론트엔드 엔지니어 채용 (React) (경력 무관)](https://career.greetinghr.com/o/NjY2Nw.x-pZslsIqIf6n8MbCGRT-bg8kbU)
   - [그리팅 백엔드 엔지니어 채용 (Node.js) (경력 무관)](https://career.greetinghr.com/o/NjY2OA.ScI3Fb42vGPG07gKQ8imUUUIqlc)
   - [회사 소개](https://doodlin.career.greetinghr.com)
-  - **쏘카, 아이디어스, 샌드박스 등** 국내 유명 스타트업이 사용하는 채용 관리 솔루션을 개발하는 두들린입니다! 
+  - **쏘카, 아이디어스, 샌드박스 등** 국내 유명 스타트업이 사용하는 채용 관리 솔루션을 개발하는 두들린입니다!
   - **로켓 성장 스타트업**에서 함께 기술로 채용을 혁신할 팀원을 찾습니다!
 
 - [채용시까지] [자란다 - 백엔드 엔지니어 (Backend Engineer)](https://team.jaranda.kr/backend)
+
   - [자란다] 성인교육 큐레이션 시장이 점차 활성화되고 있는 것처럼, 키즈 교육과 돌봄 시장에서의 붐을 이르키고 있는 에듀테크기업 자란다 입니다.
   - [자란다의 핵심 경쟁력](https://team.jaranda.kr/corevalue)
   - [외부 인재 추천제도 '자란다 자란다 잘한다'](https://team.jaranda.kr/outsiderecruit)
 
 - [채용시까지][비즈니스캔버스 백엔드/프론트엔드 엔지니어 채용](https://typed.biz/career)
+
   - [회사 소개](https://businesscanvas.notion.site/Team-Typed-We-re-hiring-e8b8849a7569428eb43a9d911af9ef76)
   - [제품 소개](https://www.typed.biz/?lang=ko)
   - [개발자 인터뷰](https://www.youtube.com/watch?v=6AcS5wSRSiQ)
@@ -163,6 +172,7 @@
   - [유튜브 채널](https://www.youtube.com/channel/UC5TE3eZk_t-OUl-BY-VTK_w/featured)
 
 - [채용시까지] [채널코퍼레이션 - 채널톡 엔지니어 채용](https://channel.io/jobs?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu)
+
   - We make a future classic product! 채팅 CRM 통합 솔루션 **채널톡**을 만드는 채널코퍼레이션입니다.
   - **6만개 이상의 기업**이 선택한 채널톡, 같이 만들어 보실래요?
   - [회사 소개](https://channel.io/ko/team?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu)
@@ -170,21 +180,21 @@
   - [유튜브 채널](https://www.youtube.com/c/%EC%B1%84%EB%84%90%ED%86%A1)
 
 - [채용시까지] [볼드나인(BOLD9) 소프트웨어 엔지니어 채용 (React / NodeJS)](https://blog.naver.com/bold-9/222544928421)
+
   - [홈페이지](https://bold-9.com/)
   - [회사소개](https://blog.naver.com/bold-9/222528579063)
   - [백엔드 개발자 인터뷰](https://blog.naver.com/bold-9/222552391789)
   - [프론트엔드 개발자 인터뷰](https://blog.naver.com/bold-9/222570943274)
 
 - [채용시까지] [Tappytoon 소프트웨어 엔지니어 채용](https://www.notion.so/7af701800b964339bd9dedf063defb87)
-    - 한국 웹툰과 웹소설을 500만 해외 독자들에게 서비스 하고 있는 [Tappytoon](https://www.notion.so/Tappytoon-128aac1c1b0f497daf3369b362cd9b1e) 입니다.
-    - [백엔드 개발자](https://www.notion.so/50af7cafca9649e1942025296de7dc0f?v=d5462bde1ae54995aab2c588627f316c)
-    - [프론트엔드 개발자](https://www.notion.so/4dc667a8d43d426294dc1772764204e5?v=533bb1690d9e4a9e83f45272a972819f)
-    - [개발 본부는 이렇게 일해요!](https://www.notion.so/baa3c95db54b4ecf8465b2b8c4790677)
+  - 한국 웹툰과 웹소설을 500만 해외 독자들에게 서비스 하고 있는 [Tappytoon](https://www.notion.so/Tappytoon-128aac1c1b0f497daf3369b362cd9b1e) 입니다.
+  - [백엔드 개발자](https://www.notion.so/50af7cafca9649e1942025296de7dc0f?v=d5462bde1ae54995aab2c588627f316c)
+  - [프론트엔드 개발자](https://www.notion.so/4dc667a8d43d426294dc1772764204e5?v=533bb1690d9e4a9e83f45272a972819f)
+  - [개발 본부는 이렇게 일해요!](https://www.notion.so/baa3c95db54b4ecf8465b2b8c4790677)
 
 ### 채용 관련 행사 & 교육 코스
 
 채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.
-
 
 ### 이외 채용정보 얻는 법
 

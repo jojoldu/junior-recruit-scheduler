@@ -1,6 +1,11 @@
 ﻿{
 	"recruits": [
 		{
+			"endDate": "2022.03.21 17:00:00",
+			"link": "https://newliner-recruit-2022-1h.com/",
+			"description": "[LINE] 2022 상반기 신입 LINER 공개 채용"
+		}
+		{
 			"endDate": "2022.02.28 23:59:00",
 			"link": "https://naverfincorp-career.com/nfin/job/detail/search?annoId=20007566",
 			"description": "[네이버파이낸셜] 2022년 경력1일 이상 개발자 공개 채용"
