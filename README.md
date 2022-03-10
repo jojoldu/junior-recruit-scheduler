@@ -192,9 +192,10 @@
   - [개발 본부는 이렇게 일해요!](https://www.notion.so/baa3c95db54b4ecf8465b2b8c4790677)
 
 - [채용시까지] [커먼컴퓨터 Software Engineer 채용](https://link.ainize.ai/3HZkIZN)
+  - 블록체인 위에 모두를 위한 컴퓨터를 만들고 있는 커먼컴퓨터에서 다음 미래를 같이 만들어갈 갈 분을 찾고 있습니다. 
   - [홈페이지](https://comcom.ai/)
   - [커먼컴퓨터는 이런 미래를 만들고 있어요](https://www.youtube.com/watch?v=ehxt1PDeVG0)
-  - [인턴 후기](https://velog.io/@woomurf/Common-Computer-Summer-Internship-%ED%9B%84%EA%B8%B0), 현재 Software Engineer로 근무 중이십니다!
+  - [인턴 후기](https://velog.io/@woomurf/Common-Computer-Summer-Internship-%ED%9B%84%EA%B8%B0) (인턴 후, 현재 Software Engineer로 근무 중)
 
 ### 채용 관련 행사 & 교육 코스
 
