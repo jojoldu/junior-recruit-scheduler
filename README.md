@@ -191,6 +191,11 @@
   - [프론트엔드 개발자](https://www.notion.so/4dc667a8d43d426294dc1772764204e5?v=533bb1690d9e4a9e83f45272a972819f)
   - [개발 본부는 이렇게 일해요!](https://www.notion.so/baa3c95db54b4ecf8465b2b8c4790677)
 
+- [채용시까지] [커먼컴퓨터 Software Engineer 채용](https://link.ainize.ai/3HZkIZN)
+  - [홈페이지](https://comcom.ai/)
+  - [커먼컴퓨터는 이런 미래를 만들고 있어요](https://www.youtube.com/watch?v=ehxt1PDeVG0)
+  - [인턴 후기](https://velog.io/@woomurf/Common-Computer-Summer-Internship-%ED%9B%84%EA%B8%B0), 현재 Software Engineer로 근무 중이십니다!
+
 ### 채용 관련 행사 & 교육 코스
 
 채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.
