@@ -285,7 +285,7 @@
 
 - [김태성님의 신입 개발자가 포트폴리오를 준비할 때 알아두면 좋은 것들](https://bit.ly/3q7jxSs)
 
-- [양희찬님의 신입 개발자 면접 CS/언어 등 주요 키워드 정리 마인드맵](https://gitmind.com/app/doc/272a8e98e32f1c13e58dd8afbfe1feb7s)
+- [양희찬님의 신입 개발자 면접 CS/언어 등 주요 키워드 정리 마인드맵](https://gitmind.com/app/doc/272a8e98e32f1c13e58dd8afbfe1feb7)
 
 ### 면접 팁
 
