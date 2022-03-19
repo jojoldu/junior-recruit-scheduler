@@ -191,6 +191,11 @@
   - [프론트엔드 개발자](https://www.notion.so/4dc667a8d43d426294dc1772764204e5?v=533bb1690d9e4a9e83f45272a972819f)
   - [개발 본부는 이렇게 일해요!](https://www.notion.so/baa3c95db54b4ecf8465b2b8c4790677)
 
+- [채용시까지] [넥슨 코리아 개인화개발팀 백엔드 개발(C#) 채용](https://career.nexon.com/user/recruit/member/postDetail?joinCorp=NX&reNo=20220096)
+  - 개발 기술에 관심이 높은 주니어를 찾습니다.
+  - [인텔리전스랩스 테크 블로그](https://labstechblog.oopy.io/)
+  
+
 ### 채용 관련 행사 & 교육 코스
 
 채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.
