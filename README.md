@@ -269,7 +269,7 @@
 
 - [정원희님의 개발자 이력서 작성하기](https://wonny.space/writing/work/engineer-resume)
 
-- [원티드랩에서 이야기하는 통과가 잘 되는 이력서 작성법 (신입/경력 포함)](https://brunch.co.kr/@wantedlab/29)
+- [원티드랩에서 이야기하는 통과가 잘 되는 이력서 작성법 (신입/경력 포함)](https://brunch.co.kr/@wantedlab/43)
 
 - [이민석 교수님의 신입 개발자 자기소개서 작성법](http://hl1itj.tistory.com/90)
 
