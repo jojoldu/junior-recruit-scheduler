@@ -119,7 +119,12 @@
 			"endDate": "채용시까지",
 			"link": "https://www.notion.so/7af701800b964339bd9dedf063defb87",
 			"description": "Tappytoon 소프트웨어 엔지니어 채용"
-    	 }
+    	 },
+		{
+			"endDate": "채용시까지",
+			"link": "https://career.nexon.com/user/recruit/member/postDetail?joinCorp=NX&reNo=20220096",
+			"description": "넥슨 코리아 개인화개발팀 백엔드 개발(C#) 채용"
+		},
 
 	],
 
