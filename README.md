@@ -143,10 +143,11 @@
   - [CEO 인터뷰](https://www.notion.so/techtaka/CEO-3e8eee73a3e64942a2a9a60ff3fc1dbb)
   - [팀원 이야기](https://www.notion.so/techtaka/ARGO-c8480fe7449e4d5dad791fdf42e0abb7)
 
-- [채용시까지] [맘시터 백엔드 엔지니어 채용 (Spring/Kotlin)](https://www.mfort.co.kr/b6d60b71-5238-419f-9b23-e48d9bd4523a)
+- [채용시까지] [맘시터 백엔드/FE 엔지니어 채용 (Spring/Kotlin)](https://www.mfort.co.kr/#ba8c56f46fad442c816127aeb9418d41)
 
   - [맘편한세상 기업소개](https://www.mfort.co.kr/)
   - [CTO 인터뷰](https://www.mfort.co.kr/af72a611-989b-4ade-9a5c-ee411159bc2b)
+  - [기술블로그](https://tech.mfort.co.kr)
 
 - [채용시까지] [그리팅 경력 무관 개발자 채용](https://doodlin.career.greetinghr.com/)
 
