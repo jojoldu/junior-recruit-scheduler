@@ -143,10 +143,11 @@
   - [CEO 인터뷰](https://www.notion.so/techtaka/CEO-3e8eee73a3e64942a2a9a60ff3fc1dbb)
   - [팀원 이야기](https://www.notion.so/techtaka/ARGO-c8480fe7449e4d5dad791fdf42e0abb7)
 
-- [채용시까지] [맘시터 백엔드 엔지니어 채용 (Spring/Kotlin)](https://www.mfort.co.kr/b6d60b71-5238-419f-9b23-e48d9bd4523a)
+- [채용시까지] [맘시터 백엔드/FE 엔지니어 채용 (Spring/Kotlin)](https://www.mfort.co.kr/#ba8c56f46fad442c816127aeb9418d41)
 
   - [맘편한세상 기업소개](https://www.mfort.co.kr/)
   - [CTO 인터뷰](https://www.mfort.co.kr/af72a611-989b-4ade-9a5c-ee411159bc2b)
+  - [기술블로그](https://tech.mfort.co.kr)
 
 - [채용시까지] [그리팅 경력 무관 개발자 채용](https://doodlin.career.greetinghr.com/)
 
@@ -196,6 +197,10 @@
   - [홈페이지](https://comcom.ai/)
   - [커먼컴퓨터는 이런 미래를 만들고 있어요](https://www.youtube.com/watch?v=ehxt1PDeVG0)
   - [인턴 후기](https://velog.io/@woomurf/Common-Computer-Summer-Internship-%ED%9B%84%EA%B8%B0) (인턴 후, 현재 Software Engineer로 근무 중)
+
+- [채용시까지] [넥슨 코리아 개인화개발팀 백엔드 개발(C#) 채용](https://career.nexon.com/user/recruit/member/postDetail?joinCorp=NX&reNo=20220096)
+  - 개발 기술에 관심이 높고 배움에 의지가 충만한 주니어를 찾습니다.
+  - [인텔리전스랩스 테크 블로그](https://labstechblog.oopy.io/)
 
 ### 채용 관련 행사 & 교육 코스
 
@@ -269,7 +274,7 @@
 
 - [정원희님의 개발자 이력서 작성하기](https://wonny.space/writing/work/engineer-resume)
 
-- [원티드랩에서 이야기하는 통과가 잘 되는 이력서 작성법 (신입/경력 포함)](https://brunch.co.kr/@wantedlab/29)
+- [원티드랩에서 이야기하는 통과가 잘 되는 이력서 작성법 (신입/경력 포함)](https://brunch.co.kr/@wantedlab/43)
 
 - [이민석 교수님의 신입 개발자 자기소개서 작성법](http://hl1itj.tistory.com/90)
 
