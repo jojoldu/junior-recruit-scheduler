@@ -1,11 +1,6 @@
 ﻿{
 	"recruits": [
 		{
-			"endDate": "2022.03.21 17:00:00",
-			"link": "https://newliner-recruit-2022-1h.com/",
-			"description": "[LINE] 2022 상반기 신입 LINER 공개 채용"
-		},
-		{
 			"endDate": "수시채용",
 			"link": "https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840",
 			"description": "인프런 백엔드 개발자(NodeJS) 채용"
