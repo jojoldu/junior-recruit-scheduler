@@ -1,18 +1,27 @@
+const fs = require('fs-extra');
+
 /**
- * Created by jojoldu@gmail.com on 09/06/2018
- * Blog : http://jojoldu.tistory.com
- * Github : http://github.com/jojoldu
+ *
+ * @returns {Promise<object>}
  */
+async function build() {
+  const data = await fs.readFile('db.json', 'utf8');
+  const trim = JSON.stringify(data.trim());
+  return JSON.parse(trim);
+}
 
-const fs = require('fs');
-fs.readFile('db.json', 'utf8', (err, data) => {
-    if (err) throw err;
-    try {
-        const trim = JSON.stringify(data.trim());
-        JSON.parse(trim);
-    } catch (e) {
-        throw e;
-    }
+const failMessage = 'db.json Parse Fail';
 
-    console.log('JSON Compile Success');
-});
+build()
+  .then((data) => {
+      if(data.length === 0) {
+          console.log(failMessage);
+          throw new Error('build는 성공했으나 JSON이 비어있습니다.');
+      }
+      console.log('JSON Compile Success')
+  })
+  .catch(e => {
+      console.log(failMessage, e);
+      throw e;
+  });
+

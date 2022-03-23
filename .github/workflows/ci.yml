@@ -1,0 +1,30 @@
+name: ci
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - "**"
+
+jobs:
+  docker:
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+
+    steps:
+      # 해당 저장소의 코드를 가져옵니다.
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      # Node 16 버전을 사용합니다.
+      - name: Install node
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+          cache: 'npm'
+
+      # JSON 스키마 검증
+      - name: Run builds
+        run: npm run build
