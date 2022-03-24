@@ -5,9 +5,8 @@ const fs = require('fs-extra');
  * @returns {Promise<object>}
  */
 async function build() {
-  const data = await fs.readFile('db.json', 'utf8');
-  const trim = JSON.stringify(data.trim());
-  return JSON.parse(trim);
+  const json = await fs.readFile('db.json', 'utf8');
+  return JSON.parse(JSON.stringify(json.trim()));
 }
 
 const failMessage = 'db.json Parse Fail';
