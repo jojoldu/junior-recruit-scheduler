@@ -84,7 +84,7 @@
 - [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
 
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840)
-  - [프론트엔드 개발자 (React / VanillaJS) (경력)](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569)
+  - [프론트엔드 개발자 (React / VanillaJS) (신입/경력)](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569)
 
 - [채용시까지] [[그린랩스] 백엔드 개발 (신입 및 3년 이하)](https://greenlabs.co.kr/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/%ec%8b%a0%ec%84%a0%eb%a7%88%ec%bc%93%ea%b0%9c%eb%b0%9c%ec%8b%a4-%eb%b0%b1%ec%97%94%eb%93%9c-%ea%b0%9c%eb%b0%9c-%ec%8b%a0%ec%9e%85-%eb%b0%8f-3%eb%85%84-%ec%9d%b4%ed%95%98/)
 
