@@ -1,32 +1,42 @@
 ﻿{
   "recruits": [
     {
-      "endDate": "수시채용",
+      "endDate": "채용시까지",
       "link": "https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840",
       "description": "인프런 백엔드 개발자(NodeJS) 채용"
     },
     {
-      "endDate": "수시채용",
+      "endDate": "채용시까지",
       "link": "https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569",
       "description": "인프런 프론트엔드 개발자(React / VanillaJS) 채용"
     },
     {
-      "endDate": "수시채용",
-      "link": "https://careers.kakao.com/jobs/P-12234",
+      "endDate": "채용시까지",
+      "link": "https://greenlabs.co.kr/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/%ec%8b%a0%ec%84%a0%eb%a7%88%ec%bc%93%ea%b0%9c%eb%b0%9c%ec%8b%a4-%eb%b0%b1%ec%97%94%eb%93%9c-%ea%b0%9c%eb%b0%9c-%ec%8b%a0%ec%9e%85-%eb%b0%8f-3%eb%85%84-%ec%9d%b4%ed%95%98/",
+      "description": "[그린랩스] 백엔드 개발 (신입 및 3년 이하)"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "https://team.daangn.com/jobs/5041198003/",
+      "description": "[당근마켓] 당근미니 팀 R&D 엔지니어 인턴"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "htt  ps://careers.kakao.com/jobs/P-12234",
       "description": "[브런치/티스토리] Android 앱 개발자(1년차 이상) 채용"
     },
     {
-      "endDate": "수시채용",
+      "endDate": "채용시까지",
       "link": "https://apply.workable.com/buzzvil/?lng=en",
       "description": "버즈빌 주니어 개발자 (서버/데이터/웹프론트/모바일) 채용"
     },
     {
-      "endDate": "수시채용",
+      "endDate": "채용시까지",
       "link": "https://www.notion.so/CREMA-3cfbd23e20dd4529adbfacfc05175af2",
       "description": "크리마 Software Engineer 채용"
     },
     {
-      "endDate": "수시채용",
+      "endDate": "채용시까지",
       "link": "https://careers.kakao.com/jobs/P-11485?utm_source=junior-recruit-scheduler",
       "description": "카카오 인프라 서비스 플랫폼 개발자 (경력 5년미만)"
     },
