@@ -25,6 +25,11 @@
     "noUnusedParameters": true,
     "strict": true,
     "useUnknownInCatchVariables": false,
-    "noImplicitOverride": true,
-  }
+    "noImplicitOverride": true
+  },
+  "include": [
+    "src",
+    "test",
+    "data,"
+  ]
 }
