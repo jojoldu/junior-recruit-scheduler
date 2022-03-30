@@ -91,7 +91,7 @@
 - [채용시까지] [[당근마켓] 당근미니 팀 R&D 엔지니어 인턴](https://team.daangn.com/jobs/5041198003/)
 
 - [채용시까지] [[브런치/티스토리] Android 앱 개발자(1년차 이상)](https://careers.kakao.com/jobs/P-12234)
-- [채용시까지] [버즈빌 주니어 개발자 (서버/데이터/웹프론트/모바일) 채용](https://apply.workable.com/buzzvil/?lng=en)
+- [채용시까지] [버즈빌 주니어 개발자 (서버/데이터/데브옵스/웹프론트/모바일) 채용](https://buzzvil.career.greetinghr.com/)
 
 - [채용시까지] [크리마 Software Engineer](https://www.notion.so/crema/CREMA-3cfbd23e20dd4529adbfacfc05175af2)
 
