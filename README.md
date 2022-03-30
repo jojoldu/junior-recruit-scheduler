@@ -92,6 +92,8 @@
 
 - [채용시까지] [[브런치/티스토리] Android 앱 개발자(1년차 이상)](https://careers.kakao.com/jobs/P-12234)
 - [채용시까지] [버즈빌 주니어 개발자 (서버/데이터/데브옵스/웹프론트/모바일) 채용](https://buzzvil.career.greetinghr.com/)
+  - [회사소개](https://www.buzzvil.com/ko)
+  - [기술 블로그](https://tech.buzzvil.com/)
 
 - [채용시까지] [크리마 Software Engineer](https://www.notion.so/crema/CREMA-3cfbd23e20dd4529adbfacfc05175af2)
 
