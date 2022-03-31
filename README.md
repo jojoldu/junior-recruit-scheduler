@@ -101,10 +101,13 @@
 
   - [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
 
-- [채용시까지] [AB180 엔지니어 영입중](https://abit.ly/ab180)
+- [채용시까지] [AB180 엔지니어 영입중](https://dev-recruit.ab180.co)
   - **1억 대의 디바이스. 100만 RPM. 하루 10억 건 이상의 이벤트 데이터**를 다루는 데이터 기업.  
     (GS SHOP 등 [100+ 개의 기업](https://abit.ly/ab180-clients)이 제품 사용중)
   - [어떤 문화와 동료를 지향하나요?](https://abit.ly/ab180-culture)
+  - [Backend Engineer - Data Pipeline](https://dev-recruit.ab180.co/be-data-pipeline)
+  - [BackEnd Engineer - Data Serving API](https://dev-recruit.ab180.co/be-data-serving-api)
+  - [BackEnd Engineer - Platform API](https://dev-recruit.ab180.co/be-platform-api)
 
 * [상시채용] [코드에프 주니어 경력 개발자 채용](https://www.notion.so/codef/fee06e9581f542a4898f803a9a601603)
   - [코드에프 서비스 소개](https://about.codef.io/#/)
