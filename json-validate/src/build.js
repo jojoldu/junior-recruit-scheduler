@@ -1,12 +1,12 @@
-const fs = require('fs-extra');
+const appRoot = require('app-root-path');
 
 /**
  *
  * @returns {Promise<object>}
  */
 async function build() {
-  const json = await fs.readFile('db.json', 'utf8');
-  return JSON.parse(JSON.stringify(json.trim()));
+  const json = appRoot.require('/data/db.json');
+  return JSON.parse(JSON.stringify(json));
 }
 
 const failMessage = 'db.json Parse Fail';

@@ -24,6 +24,7 @@
   "homepage": "https://github.com/jojoldu/junior-recruit-scheduler#readme",
   "dependencies": {
     "amanda": "^1.0.1",
+    "app-root-path": "^3.0.0",
     "fs-extra": "^10.0.1",
     "ts-node": "^10.7.0"
   },
