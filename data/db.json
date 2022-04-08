@@ -37,8 +37,23 @@
     },
     {
       "endDate": "채용시까지",
-      "link": "https://abit.ly/ab180",
+      "link": "https://dev-recruit.ab180.co",
       "description": "데이터 기업 AB180 엔지니어"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "https://dev-recruit.ab180.co/be-data-pipeline",
+      "description": "AB180 Backend Engineer - Data Pipeline"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "https://dev-recruit.ab180.co/be-data-serving-api",
+      "description": "AB180 BackEnd Engineer - Data Serving API"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "https://dev-recruit.ab180.co/be-platform-api",
+      "description": "AB180 BackEnd Engineer - Platform API"
     },
     {
       "endDate": "채용시까지",
