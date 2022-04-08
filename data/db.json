@@ -1,6 +1,11 @@
 ﻿{
   "recruits": [
     {
+      "endDate": "2022.04.20 23:59:59",
+      "link": "https://boards.greenhouse.io/birdview/jobs/4433435004",
+      "description": "버드뷰(화해) 백엔드 신입 공개채용"
+    },
+    {
       "endDate": "채용시까지",
       "link": "https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840",
       "description": "인프런 백엔드 개발자(NodeJS) 채용"
