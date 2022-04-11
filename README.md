@@ -209,6 +209,12 @@
   - 개발 기술에 관심이 높고 배움에 의지가 충만한 주니어를 찾습니다.
   - [인텔리전스랩스 테크 블로그](https://labstechblog.oopy.io/)
 
+- [채용시까지] [비사이드코리아 Typescript 개발자 채용](https://www.notion.so/bsidekr/f85a1d4d18fc410fbfff09f418e40982)
+  - 소액 주주분들과 함께 상장사의 거버넌스를 개선하는 플랫폼 [비사이드](https://www.notion.so/bsidekr/67e415e8f6094175a4dd5d86cdb0d265)입니다.
+  - 출시 한달 만에 3개의 상장사를 대상으로 **1200억원의 주식**을 양도 받고, 에스엠 주주총회에서 완승을 거두었습니다. 변하하고 있는 자본시장의 흐름 속에서 같이 방점을 찍을 분을 찾고 있습니다.
+  - [프런트엔드 개발자](https://www.notion.so/bsidekr/Front-end-7dee4ec661e04bb399d6dded40e43518)
+  - [벡앤드 개발자](https://www.notion.so/bsidekr/Back-end-5f716fe6c32f4a92ac13eff52b4e863f)
+
 ### 채용 관련 행사 & 교육 코스
 
 채용과 관련된 프로그래밍 대회, 교육 코스, 해커톤 일정, 세미나 등을 포함합니다.
