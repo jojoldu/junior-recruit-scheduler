@@ -347,6 +347,7 @@
 - [2016 KSUG 경력 관리 세미나](http://bit.ly/2JEexjS)
 - [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
 - [피해야 하는 중소기업 거르는 꿀팁](http://principlesofknowledge.kr/archives/31414)
+- [회사의 정보를 찾아보자](https://applecoke.tistory.com/388)
 
 - [Java Interview Question (영문)](https://www.javatpoint.com/corejava-interview-questions)
 - [Java 8 Interview Question (영문)](https://www.interviewbit.com/java-8-interview-questions/)
