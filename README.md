@@ -79,6 +79,7 @@
 ### 추천 기업 (마감일)
 
 - [2022.04.07 00:00:00 ~ 2022.04.20 23:59:59] [버드뷰(화해) 백엔드 신입 공개채용](https://boards.greenhouse.io/birdview/jobs/4433435004)
+- [2022.04.25 00:00:00 ~ 2022.05.06 18:00:00] [네이버파이낸셜 2022 상반기 대졸 신입 공채](https://naverfincorp-career.com/nfin/job/detail/developer?annoId=20008110&classId=&jobId=&entTypeCd=&searchTxt=)
 
 ### 추천 기업 (수시 & 상시 채용)
 
