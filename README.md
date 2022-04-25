@@ -195,10 +195,10 @@
 
 - [채용시까지] [Tappytoon 소프트웨어 엔지니어 채용](https://about.tappytoon.com/)
   - 한국 대표 웹툰과 웹소설을 해외 192개국 독자들에게 그들의 언어로 제공하는 글로벌 프리미엄 콘텐츠 플랫폼 태피툰 [Tappytoon](https://www.tappytoon.com/en/home/comics) 입니다.
-    - [[코어 인프라] 백엔드 개발자 (5년 이상)](https://about.tappytoon.com/ccaf03c6-4058-4396-b367-960557663e71)
-    - [백엔드 개발자 (3년 이상)](https://about.tappytoon.com/ccaf03c6-4058-4396-b367-960557663e71)
-    - [프론트엔드 개발자 (3년 이상)](https://about.tappytoon.com/369b7de6-14c9-472f-b84b-ae68159532f0)
-    - [두근두근, 개발팀 라이프 미리보기](https://about.tappytoon.com/d4f5e93a-8ed3-45a7-b992-d8f5d32f471f)
+  - [[코어 인프라] 백엔드 개발자 (5년 이상)](https://about.tappytoon.com/ccaf03c6-4058-4396-b367-960557663e71)
+  - [백엔드 개발자 (3년 이상)](https://about.tappytoon.com/ccaf03c6-4058-4396-b367-960557663e71)
+  - [프론트엔드 개발자 (3년 이상)](https://about.tappytoon.com/369b7de6-14c9-472f-b84b-ae68159532f0)
+  - [두근두근, 개발팀 라이프 미리보기](https://about.tappytoon.com/d4f5e93a-8ed3-45a7-b992-d8f5d32f471f)
 
 - [채용시까지] [커먼컴퓨터 Software Engineer 채용](https://link.ainize.ai/3HZkIZN)
   - 블록체인 위에 모두를 위한 컴퓨터를 만들고 있는 커먼컴퓨터에서 다음 미래를 같이 만들어갈 갈 분을 찾고 있습니다. 
