@@ -78,6 +78,8 @@
 
 ### 추천 기업 (마감일)
 
+- [2022.04.25 00:00:00 ~ 2022.05.05 13:00:00] [우아한테크캠프 인턴 - 웹프론트엔드/안드로이드](https://naverfincorp-career.com/nfin/job/detail/developer?annoId=20008110&classId=&jobId=&entTypeCd=&searchTxt=)
+  - [2022우아한테크캠프 5기 소개](https://techblog.woowahan.com/8154/)
 - [2022.04.25 00:00:00 ~ 2022.05.06 18:00:00] [네이버파이낸셜 2022 상반기 대졸 신입 공채](https://naverfincorp-career.com/nfin/job/detail/developer?annoId=20008110&classId=&jobId=&entTypeCd=&searchTxt=)
 
 
