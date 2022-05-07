@@ -87,6 +87,8 @@
 
 - [채용시까지] [[당근마켓] 당근미니 팀 R&D 엔지니어 인턴](https://team.daangn.com/jobs/5041198003/)
 
+- [채용시까지] [[야놀자] 클라우드 엔지니어 (인턴)](https://careers.yanolja.co/job/System-Engineering%ED%8C%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4/8340944/)
+
 - [채용시까지] [[브런치/티스토리] Android 앱 개발자(1년차 이상)](https://careers.kakao.com/jobs/P-12234)
 - [채용시까지] [버즈빌 주니어 개발자 (서버/데이터/데브옵스/웹프론트/모바일) 채용](https://buzzvil.career.greetinghr.com/)
   - [회사소개](https://www.buzzvil.com/ko)
