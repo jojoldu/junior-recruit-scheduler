@@ -1,15 +1,6 @@
 ﻿{
   "recruits": [
-    {
-      "endDate": "2022.05.05 13:00:00",
-      "link": "https://naverfincorp-career.com/nfin/job/detail/developer?annoId=20008110&classId=&jobId=&entTypeCd=&searchTxt=",
-      "description": "우아한테크캠프 인턴 - 웹프론트엔드/안드로이드"
-    },
-    {
-      "endDate": "2022.05.06 18:00:00",
-      "link": "https://naverfincorp-career.com/nfin/job/detail/developer?annoId=20008110&classId=&jobId=&entTypeCd=&searchTxt=",
-      "description": "네이버파이낸셜 2022 상반기 대졸 신입 공채"
-    },
+
     {
       "endDate": "채용시까지",
       "link": "https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840",
