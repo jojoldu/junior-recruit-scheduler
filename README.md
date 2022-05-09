@@ -78,6 +78,8 @@
 
 ### 추천 기업 (마감일)
 
+* [2022.05.04 10:00:00 ~ 2022.05.16 17:00:00] [카카오페이 신입 서버 개발자 모집](https://kakaopay.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=97732)
+
 ### 추천 기업 (수시 & 상시 채용)
 
 - [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
