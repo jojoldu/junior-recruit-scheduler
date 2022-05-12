@@ -181,9 +181,10 @@
 - [채용시까지] [채널코퍼레이션 - 채널톡 엔지니어 채용](https://channel.io/jobs?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu)
 
   - We make a future classic product! 채팅 CRM 통합 솔루션 **채널톡**을 만드는 채널코퍼레이션입니다.
-  - **6만개 이상의 기업**이 선택한 채널톡, 같이 만들어 보실래요?
+  - **9만개 이상의 기업**이 선택한 채널톡, 같이 만들어 보실래요?
   - [회사 소개](https://channel.io/ko/team?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu)
   - [제품 소개](https://channel.io/ko?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu)
+  - [채널톡 블로그](https://channel.io/ko/blog?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu)
   - [유튜브 채널](https://www.youtube.com/c/%EC%B1%84%EB%84%90%ED%86%A1)
 
 - [채용시까지] [볼드나인(BOLD9) 소프트웨어 엔지니어 채용 (React / NodeJS)](https://blog.naver.com/bold-9/222544928421)
