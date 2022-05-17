@@ -211,7 +211,7 @@
   - [커먼컴퓨터는 이런 미래를 만들고 있어요](https://www.youtube.com/watch?v=ehxt1PDeVG0)
   - [인턴 후기](https://velog.io/@woomurf/Common-Computer-Summer-Internship-%ED%9B%84%EA%B8%B0) (인턴 후, 현재 Software Engineer로 근무 중)
 
-- [채용시까지] [넥슨 코리아 개인화개발팀 백엔드 개발(C#) 채용](https://career.nexon.com/user/recruit/member/postDetail?joinCorp=NX&reNo=20220096)
+- [채용시까지] [넥슨 코리아 개인화개발팀 백엔드 개발(C#) 채용](https://career.nexon.com/user/recruit/member/postDetail?joinCorp=NX&reNo=20220237)
   - 개발 기술에 관심이 높고 배움에 의지가 충만한 주니어를 찾습니다.
   - [인텔리전스랩스 테크 블로그](https://labstechblog.oopy.io/)
 
