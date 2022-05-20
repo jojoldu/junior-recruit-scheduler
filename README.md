@@ -83,6 +83,10 @@
 * [2022.05.02 10:00:00 ~ 2022.05.16 17:00:00] [ssafy 8기 교육생 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=75)
 
 ### 추천 기업 (수시 & 상시 채용)
+- [채용시까지] [넥스트유니콘 백엔드/프론트엔드 개발자 채용](https://nextunicorn.oopy.io/)
+  - 스타트업의 문제를 해결해서 세상을 혁신하는 [넥스트유니콘](https://www.nextunicorn.kr/)입니다.
+  - [프론트엔드 개발자 채용](https://nextunicorn.oopy.io/1df286bb-77c8-4591-ba07-2791296c2129)
+  - [백엔드 개발자 채용](https://nextunicorn.oopy.io/37f9489f-a64c-4845-81e1-71f57772cbf6)
 
 - [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
 
