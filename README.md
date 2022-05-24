@@ -78,9 +78,6 @@
 
 ### 추천 기업 (마감일)
 
-* [2022.05.04 10:00:00 ~ 2022.05.16 17:00:00] [카카오페이 신입 서버 개발자 모집](https://kakaopay.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=97732)
-
-* [2022.05.02 10:00:00 ~ 2022.05.16 17:00:00] [ssafy 8기 교육생 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=75)
 
 ### 추천 기업 (수시 & 상시 채용)
 
