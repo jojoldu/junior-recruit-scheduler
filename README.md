@@ -347,6 +347,9 @@
 
 - [30개 기업에서 받은 신입 면접 질문&답변](https://github.com/jobhope/TechnicalNote)
 
+- [네이버 FE 경력면접 150:1 경쟁률을 뚫은 공부자료](https://github.com/d-virusss/interview_frontend)
+
+
 ### 기타 정보
 
 - [개발자 채용시 기술검증 어떻게 할 것인가 - 세미나 후기](http://bit.ly/2QDKlWs)
