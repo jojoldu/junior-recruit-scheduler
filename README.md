@@ -78,9 +78,7 @@
 
 ### 추천 기업 (마감일)
 
-* [2022.05.04 10:00:00 ~ 2022.05.16 17:00:00] [카카오페이 신입 서버 개발자 모집](https://kakaopay.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=97732)
-
-* [2022.05.02 10:00:00 ~ 2022.05.16 17:00:00] [ssafy 8기 교육생 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=75)
+- [2022.06.17 00:00:00 ~ 2022.06.28 18:00:00 [네이버 기술 직군 신입 채용: Track\_공채](https://recruit.navercorp.com/cnts/open#n)
 
 ### 추천 기업 (수시 & 상시 채용)
 
@@ -95,6 +93,7 @@
 
 - [채용시까지] [[브런치/티스토리] Android 앱 개발자(1년차 이상)](https://careers.kakao.com/jobs/P-12234)
 - [채용시까지] [버즈빌 주니어 개발자 (서버/데이터/데브옵스/웹프론트/모바일) 채용](https://buzzvil.career.greetinghr.com/)
+
   - [회사소개](https://www.buzzvil.com/ko)
   - [기술 블로그](https://tech.buzzvil.com/)
 
@@ -199,6 +198,7 @@
   - [프론트엔드 개발자 인터뷰](https://blog.naver.com/bold-9/222570943274)
 
 - [채용시까지] [Tappytoon 소프트웨어 엔지니어 채용](https://about.tappytoon.com/)
+
   - 한국 대표 웹툰과 웹소설을 해외 192개국 독자들에게 그들의 언어로 제공하는 글로벌 프리미엄 콘텐츠 플랫폼 태피툰 [Tappytoon](https://www.tappytoon.com/en/home/comics) 입니다.
   - [[코어 인프라] 백엔드 개발자 (5년 이상)](https://about.tappytoon.com/ccaf03c6-4058-4396-b367-960557663e71)
   - [백엔드 개발자 (3년 이상)](https://about.tappytoon.com/ccaf03c6-4058-4396-b367-960557663e71)
@@ -206,12 +206,14 @@
   - [두근두근, 개발팀 라이프 미리보기](https://about.tappytoon.com/d4f5e93a-8ed3-45a7-b992-d8f5d32f471f)
 
 - [채용시까지] [커먼컴퓨터 Software Engineer 채용](https://link.ainize.ai/3HZkIZN)
-  - 블록체인 위에 모두를 위한 컴퓨터를 만들고 있는 커먼컴퓨터에서 다음 미래를 같이 만들어갈 갈 분을 찾고 있습니다. 
+
+  - 블록체인 위에 모두를 위한 컴퓨터를 만들고 있는 커먼컴퓨터에서 다음 미래를 같이 만들어갈 갈 분을 찾고 있습니다.
   - [홈페이지](https://comcom.ai/)
   - [커먼컴퓨터는 이런 미래를 만들고 있어요](https://www.youtube.com/watch?v=ehxt1PDeVG0)
   - [인턴 후기](https://velog.io/@woomurf/Common-Computer-Summer-Internship-%ED%9B%84%EA%B8%B0) (인턴 후, 현재 Software Engineer로 근무 중)
 
 - [채용시까지] [넥슨 코리아 개인화개발팀 백엔드 개발(C#) 채용](https://career.nexon.com/user/recruit/member/postDetail?joinCorp=NX&reNo=20220237)
+
   - 개발 기술에 관심이 높고 배움에 의지가 충만한 주니어를 찾습니다.
   - [인텔리전스랩스 테크 블로그](https://labstechblog.oopy.io/)
 
