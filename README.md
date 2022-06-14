@@ -81,6 +81,10 @@
 - [2022.06.17 00:00:00 ~ 2022.06.28 18:00:00 [네이버 기술 직군 신입 채용: Track\_공채](https://recruit.navercorp.com/cnts/open#n)
 
 ### 추천 기업 (수시 & 상시 채용)
+- [채용시까지] [넥스트유니콘 백엔드/프론트엔드 개발자 채용](https://nextunicorn.oopy.io/)
+  - 스타트업의 문제를 해결해서 세상을 혁신하는 [넥스트유니콘](https://www.nextunicorn.kr/)입니다.
+  - [프론트엔드 개발자 채용(신입/경력)](https://nextunicorn.oopy.io/1df286bb-77c8-4591-ba07-2791296c2129)
+  - [백엔드 개발자 채용(1년차 이상)](https://nextunicorn.oopy.io/37f9489f-a64c-4845-81e1-71f57772cbf6)
 
 - [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
 
