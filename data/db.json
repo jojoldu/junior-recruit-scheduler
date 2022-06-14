@@ -11,20 +11,15 @@
       "description": "인프런 프론트엔드 개발자(React / VanillaJS) 채용"
     },
     {
-      "endDate": "2022.05.16 17:00:00",
-      "link": "https://kakaopay.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=97732",
-      "description": "카카오페이 신입 서버 개발자 모집"
-    },
-    {
-      "endDate": "2022.05.16 17:00:00",
-      "link": "https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=75",
-      "description": "ssafy 8기 교육생 모집"
+      "endDate": "2022.06.28 18:00:00",
+      "link": "https://recruit.navercorp.com/cnts/open#n",
+      "description": "네이버 기술 직군 신입 채용: Track_공채"
     },
     {
       "endDate": "채용시까지",
       "link": "https://team.daangn.com/jobs/4939071003/",
       "description": "서버 개발자 인턴 - 당근페이 서비스 (Java / Kotlin)"
-    },    
+    },
     {
       "endDate": "채용시까지",
       "link": "https://careers.yanolja.co/job/System-Engineering%ED%8C%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4/8340944/",
@@ -166,6 +161,5 @@
       "description": "비사이드코리아 Typescript 개발자 채용"
     }
   ],
-  "seminars": [
-  ]
+  "seminars": []
 }
