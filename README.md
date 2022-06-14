@@ -78,7 +78,7 @@
 
 ### 추천 기업 (마감일)
 
-- [2022.06.17 00:00:00 ~ 2022.06.28 18:00:00 [네이버 기술 직군 신입 채용: Track\_공채](https://recruit.navercorp.com/cnts/open#n)
+- [2022.06.17 00:00:00 ~ 2022.06.28 18:00:00] [네이버 기술 직군 신입 채용: Track_공채](https://recruit.navercorp.com/cnts/open#n)
 
 ### 추천 기업 (수시 & 상시 채용)
 - [채용시까지] [넥스트유니콘 백엔드/프론트엔드 개발자 채용](https://nextunicorn.oopy.io/)
