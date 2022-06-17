@@ -366,3 +366,5 @@
 ### 추천 도서
 
 - [프로그래밍 면접 이렇게 준비한다](https://book.naver.com/bookdb/book_detail.nhn?bid=15064639)
+
+> 매우 유용하다..
