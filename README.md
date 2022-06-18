@@ -249,7 +249,7 @@
 
 - [2021] 카카오 신입 공채 코딩 테스트 [1차](https://tech.kakao.com/2021/01/25/2021-kakao-recruitment-round-1/), [2차](https://tech.kakao.com/2021/02/16/2021-kakao-recruitment-round-2/) 해설
 
-- [2020] 카카오 신입 공채 코딩 테스트 [1차](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/), [2차](https://tech.kakao.com/2019/10/21/2020-카카오-블라인드-공채-2차-오프라인-코딩-테스트-문/) 해설
+- [2020] 카카오 신입 공채 코딩 테스트 [1차](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/), [2차](https://tech.kakao.com/2019/10/21/kakao-blind-recruitment-2020-round2/) 해설
 - [2019] 카카오 신입 공채 코딩 테스트 [1차](http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/), [2차](http://tech.kakao.com/2018/10/23/kakao-blind-recruitment-round-2/) 해설
 
 - [2018] 카카오 코드 페스티벌 [예선전](http://tech.kakao.com/2018/08/09/code-festival-2018-round-1/), [본선](http://tech.kakao.com/2018/09/12/code-festival-2018-round-2/) 해설
