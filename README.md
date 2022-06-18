@@ -91,8 +91,6 @@
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840)
   - [프론트엔드 개발자 (React / VanillaJS) (신입/경력)](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569)
 
-- [채용시까지] [서버 개발자 인턴 - 당근페이 서비스 (Java / Kotlin)](https://team.daangn.com/jobs/4939071003/)
-
 - [채용시까지] [[야놀자] 클라우드 엔지니어 (인턴)](https://careers.yanolja.co/job/System-Engineering%ED%8C%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4/8340944/)
 
 - [채용시까지] [[브런치/티스토리] Android 앱 개발자(1년차 이상)](https://careers.kakao.com/jobs/P-12234)
