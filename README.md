@@ -91,11 +91,8 @@
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840)
   - [프론트엔드 개발자 (React / VanillaJS) (신입/경력)](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569)
 
-- [채용시까지] [서버 개발자 인턴 - 당근페이 서비스 (Java / Kotlin)](https://team.daangn.com/jobs/4939071003/)
-
-- [채용시까지] [[야놀자] 클라우드 엔지니어 (인턴)](https://careers.yanolja.co/job/System-Engineering%ED%8C%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4/8340944/)
-
 - [채용시까지] [[브런치/티스토리] Android 앱 개발자(1년차 이상)](https://careers.kakao.com/jobs/P-12234)
+
 - [채용시까지] [버즈빌 주니어 개발자 (서버/데이터/데브옵스/웹프론트/모바일) 채용](https://buzzvil.career.greetinghr.com/)
 
   - [회사소개](https://www.buzzvil.com/ko)
@@ -252,7 +249,7 @@
 
 - [2021] 카카오 신입 공채 코딩 테스트 [1차](https://tech.kakao.com/2021/01/25/2021-kakao-recruitment-round-1/), [2차](https://tech.kakao.com/2021/02/16/2021-kakao-recruitment-round-2/) 해설
 
-- [2020] 카카오 신입 공채 코딩 테스트 [1차](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/), [2차](https://tech.kakao.com/2019/10/21/2020-카카오-블라인드-공채-2차-오프라인-코딩-테스트-문/) 해설
+- [2020] 카카오 신입 공채 코딩 테스트 [1차](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/), [2차](https://tech.kakao.com/2019/10/21/kakao-blind-recruitment-2020-round2/) 해설
 - [2019] 카카오 신입 공채 코딩 테스트 [1차](http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/), [2차](http://tech.kakao.com/2018/10/23/kakao-blind-recruitment-round-2/) 해설
 
 - [2018] 카카오 코드 페스티벌 [예선전](http://tech.kakao.com/2018/08/09/code-festival-2018-round-1/), [본선](http://tech.kakao.com/2018/09/12/code-festival-2018-round-2/) 해설
