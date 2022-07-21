@@ -2,6 +2,16 @@
   "recruits": [
     {
       "endDate": "채용시까지",
+      "link": "https://qmit-careers.oopy.io/2a3ee834-c103-480f-9076-57eeee48d694",
+      "description": "큐엠아이티 백엔드 개발자 채용"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "https://qmit-careers.oopy.io/52fab9af-ef50-4d66-be9c-e1e18bd4bef8",
+      "description": "큐엠아이티 프론트엔드 개발자 채용"
+    },
+    {
+      "endDate": "채용시까지",
       "link": "https://nextunicorn.oopy.io/1df286bb-77c8-4591-ba07-2791296c2129",
       "description": "넥스트유니콘 프론트엔드 개발자(React) 채용"
     },
