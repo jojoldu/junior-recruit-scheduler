@@ -79,9 +79,13 @@
 ### 추천 기업 (마감일)
 
 - [2022.07.25 00:00:00 ~ 2022.08.03 00:00:00] [2022 토스 NEXT 개발자 챌린지](https://toss.im/career/next-developer-2022)
-- [2022.06.17 00:00:00 ~ 2022.06.28 18:00:00] [네이버 기술 직군 신입 채용: Track\_공채](https://recruit.navercorp.com/cnts/open#n)
 
 ### 추천 기업 (수시 & 상시 채용)
+
+- [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
+
+  - [백엔드 개발자 (NodeJS) (신입/경력)](https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840)
+  - [프론트엔드 개발자 (React / VanillaJS) (신입/경력)](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569)
 
 - [채용시까지] [큐엠아이티 백엔드 / 프론트엔드 개발자 채용](https://qmit-careers.oopy.io/)
   - [백엔드 개발자 채용 (신입/경력)](https://qmit-careers.oopy.io/2a3ee834-c103-480f-9076-57eeee48d694)
@@ -92,11 +96,6 @@
   - 스타트업의 문제를 해결해서 세상을 혁신하는 [넥스트유니콘](https://www.nextunicorn.kr/)입니다.
   - [프론트엔드 개발자 채용(신입/경력)](https://nextunicorn.oopy.io/1df286bb-77c8-4591-ba07-2791296c2129)
   - [백엔드 개발자 채용(1년차 이상)](https://nextunicorn.oopy.io/37f9489f-a64c-4845-81e1-71f57772cbf6)
-
-- [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
-
-  - [백엔드 개발자 (NodeJS) (신입/경력)](https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840)
-  - [프론트엔드 개발자 (React / VanillaJS) (신입/경력)](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569)
 
 - [채용시까지] [서버 개발자 인턴 - 당근페이 서비스 (Java / Kotlin)](https://team.daangn.com/jobs/4939071003/)
 
@@ -227,12 +226,6 @@
 
   - 개발 기술에 관심이 높고 배움에 의지가 충만한 주니어를 찾습니다.
   - [인텔리전스랩스 테크 블로그](https://labstechblog.oopy.io/)
-
-- [채용시까지] [비사이드코리아 Typescript 개발자 채용](https://www.notion.so/bsidekr/f85a1d4d18fc410fbfff09f418e40982)
-  - 소액 주주분들과 함께 상장사의 거버넌스를 개선하는 플랫폼 [비사이드](https://www.notion.so/bsidekr/67e415e8f6094175a4dd5d86cdb0d265)입니다.
-  - 출시 한달 만에 3개의 상장사를 대상으로 **1200억원의 주식**을 양도 받고, 에스엠 주주총회에서 완승을 거두었습니다. 변하하고 있는 자본시장의 흐름 속에서 같이 방점을 찍을 분을 찾고 있습니다.
-  - [프런트엔드 개발자](https://www.notion.so/bsidekr/Front-end-7dee4ec661e04bb399d6dded40e43518)
-  - [벡앤드 개발자](https://www.notion.so/bsidekr/Back-end-5f716fe6c32f4a92ac13eff52b4e863f)
 
 ### 채용 관련 행사 & 교육 코스
 

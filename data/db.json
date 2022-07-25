@@ -1,6 +1,21 @@
 ﻿{
   "recruits": [
     {
+      "endDate": "2022.08.03 00:00:00",
+      "link": "https://toss.im/career/next-developer-2022",
+      "description": "2022 토스 NEXT 개발자 챌린지"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840",
+      "description": "인프런 백엔드 개발자(NodeJS) 채용"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569",
+      "description": "인프런 프론트엔드 개발자(React / VanillaJS) 채용"
+    },
+    {
       "endDate": "채용시까지",
       "link": "https://qmit-careers.oopy.io/2a3ee834-c103-480f-9076-57eeee48d694",
       "description": "큐엠아이티 백엔드 개발자 채용"
@@ -19,26 +34,6 @@
       "endDate": "채용시까지",
       "link": "https://nextunicorn.oopy.io/37f9489f-a64c-4845-81e1-71f57772cbf6",
       "description": "넥스트유니콘 백엔드 개발자(Java / Kotlin) 채용"
-    },
-    {
-      "endDate": "채용시까지",
-      "link": "https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840",
-      "description": "인프런 백엔드 개발자(NodeJS) 채용"
-    },
-    {
-      "endDate": "채용시까지",
-      "link": "https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569",
-      "description": "인프런 프론트엔드 개발자(React / VanillaJS) 채용"
-    },
-    {
-      "endDate": "2022.06.28 18:00:00",
-      "link": "https://recruit.navercorp.com/cnts/open#n",
-      "description": "네이버 기술 직군 신입 채용: Track_공채"
-    },
-    {
-      "endDate": "2022.08.03 00:00:00",
-      "link": "https://toss.im/career/next-developer-2022",
-      "description": "2022 토스 NEXT 개발자 챌린지"
     },
     {
       "endDate": "채용시까지",
@@ -72,11 +67,6 @@
     },
     {
       "endDate": "채용시까지",
-      "link": "https://dev-recruit.ab180.co",
-      "description": "데이터 기업 AB180 엔지니어"
-    },
-    {
-      "endDate": "채용시까지",
       "link": "https://dev-recruit.ab180.co/be-data-pipeline",
       "description": "AB180 Backend Engineer - Data Pipeline"
     },
@@ -94,11 +84,6 @@
       "endDate": "채용시까지",
       "link": "https://www.notion.so/fee06e9581f542a4898f803a9a601603",
       "description": "CODEF 주니어 개발자 채용"
-    },
-    {
-      "endDate": "채용시까지",
-      "link": "https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80",
-      "description": "토스 엔지니어 채용"
     },
     {
       "endDate": "채용시까지",
@@ -179,11 +164,6 @@
       "endDate": "채용시까지",
       "link": "https://career.nexon.com/user/recruit/member/postDetail?joinCorp=NX&reNo=20220096",
       "description": "넥슨 코리아 개인화개발팀 백엔드 개발(C#) 채용"
-    },
-    {
-      "endDate": "채용시까지",
-      "link": "https://www.notion.so/bsidekr/f85a1d4d18fc410fbfff09f418e40982",
-      "description": "비사이드코리아 Typescript 개발자 채용"
     }
   ],
   "seminars": []
