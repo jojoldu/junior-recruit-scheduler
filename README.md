@@ -78,7 +78,8 @@
 
 ### 추천 기업 (마감일)
 
-- [2022.06.17 00:00:00 ~ 2022.06.28 18:00:00] [네이버 기술 직군 신입 채용: Track_공채](https://recruit.navercorp.com/cnts/open#n)
+- [2022.07.25 00:00:00 ~ 2022.08.03 00:00:00] [2022 토스 NEXT 개발자 챌린지](https://toss.im/career/next-developer-2022)
+- [2022.06.17 00:00:00 ~ 2022.06.28 18:00:00] [네이버 기술 직군 신입 채용: Track\_공채](https://recruit.navercorp.com/cnts/open#n)
 
 ### 추천 기업 (수시 & 상시 채용)
 
@@ -86,8 +87,8 @@
   - [백엔드 개발자 채용 (신입/경력)](https://qmit-careers.oopy.io/2a3ee834-c103-480f-9076-57eeee48d694)
   - [프론트엔드 개발자 채용 (신입/경력)](https://qmit-careers.oopy.io/52fab9af-ef50-4d66-be9c-e1e18bd4bef8)
 
-
 - [채용시까지] [넥스트유니콘 백엔드/프론트엔드 개발자 채용](https://nextunicorn.oopy.io/)
+
   - 스타트업의 문제를 해결해서 세상을 혁신하는 [넥스트유니콘](https://www.nextunicorn.kr/)입니다.
   - [프론트엔드 개발자 채용(신입/경력)](https://nextunicorn.oopy.io/1df286bb-77c8-4591-ba07-2791296c2129)
   - [백엔드 개발자 채용(1년차 이상)](https://nextunicorn.oopy.io/37f9489f-a64c-4845-81e1-71f57772cbf6)
@@ -358,6 +359,9 @@
 - [WeareSoft의 기술면접 자료 Repository](https://github.com/WeareSoft/tech-interview)
 
 - [30개 기업에서 받은 신입 면접 질문&답변](https://github.com/jobhope/TechnicalNote)
+
+- [네이버 FE 경력면접 150:1 경쟁률을 뚫은 공부자료](https://github.com/d-virusss/interview_frontend)
+
 
 ### 기타 정보
 
