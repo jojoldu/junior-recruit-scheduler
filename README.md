@@ -82,7 +82,7 @@
 * [2022.07.28 00:00:00 ~ 2022.08.07 23:59:59] [파수 하반기 1차 신입/경력 채용](https://career.fasoo.com/recruit2022)
   * [채용소개서](https://fasoo-recruit.notion.site/cce9d38a501f4d3abfd67bceb91e19b0)
   * [개발자 인터뷰(신입)](https://youtu.be/oKpdGA7bFSk)
-  * [개발자 인터뷰(경력)](https://)ㅇㄹㅇㄹ
+  * [개발자 인터뷰(경력)](https://youtu.be/wmHAneJq37g)
 
 
 ### 추천 기업 (수시 & 상시 채용)
