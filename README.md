@@ -137,7 +137,7 @@
 
 - [채용시까지] [스트리미 엔지니어 채용](https://github.com/gopax/Recruit)
 
-- [채용시까지] [오일나우 iOS 개발자 신입/경력 채용](https://www.notion.so/91f036e4b22041dd866682fea7516140)
+- [채용시까지] [오일나우 개발자 채용 보러가기](https://oilnow.notion.site/070d572ae8d04191bf052135f967ea46)
 
   - [오일나우 팀 블로그](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8)
 
