@@ -78,6 +78,7 @@
 
 ### 추천 기업 (마감일)
 
+- [2022.09.05 ~ 2022.09.16 18:00:00] [2022 하반기 네이버웹툰 신입 개발자 채용](https://recruit.webtoonscorp.com/rcrt/view.do?annoId=30000420)
 
 - [2022.09.01 10:00:00 ~ 2022.09.19 17:00:00] [2023 카카오 신입 개발자 블라인드 채용](https://careers.kakao.com/2023-developer)
 
@@ -205,14 +206,6 @@
   - [백엔드 개발자 인터뷰](https://blog.naver.com/bold-9/222552391789)
   - [프론트엔드 개발자 인터뷰](https://blog.naver.com/bold-9/222570943274)
 
-- [채용시까지] [Tappytoon 소프트웨어 엔지니어 채용](https://about.tappytoon.com/)
-
-  - 한국 대표 웹툰과 웹소설을 해외 192개국 독자들에게 그들의 언어로 제공하는 글로벌 프리미엄 콘텐츠 플랫폼 태피툰 [Tappytoon](https://www.tappytoon.com/en/home/comics) 입니다.
-  - [[코어 인프라] 백엔드 개발자 (5년 이상)](https://about.tappytoon.com/ccaf03c6-4058-4396-b367-960557663e71)
-  - [백엔드 개발자 (3년 이상)](https://about.tappytoon.com/ccaf03c6-4058-4396-b367-960557663e71)
-  - [프론트엔드 개발자 (3년 이상)](https://about.tappytoon.com/369b7de6-14c9-472f-b84b-ae68159532f0)
-  - [두근두근, 개발팀 라이프 미리보기](https://about.tappytoon.com/d4f5e93a-8ed3-45a7-b992-d8f5d32f471f)
-
 - [채용시까지] [커먼컴퓨터 Software Engineer 채용](https://link.ainize.ai/3HZkIZN)
 
   - 블록체인 위에 모두를 위한 컴퓨터를 만들고 있는 커먼컴퓨터에서 다음 미래를 같이 만들어갈 갈 분을 찾고 있습니다.
@@ -299,25 +292,13 @@
 
 - [원티드랩에서 이야기하는 통과가 잘 되는 이력서 작성법 (신입/경력 포함)](https://brunch.co.kr/@wantedlab/43)
 
-- [이민석 교수님의 신입 개발자 자기소개서 작성법](http://hl1itj.tistory.com/90)
-
 - [seungdols님의 신입 자소서 작성법](https://brunch.co.kr/@seungdols/11)
 
 - [Outsider님의 이력서](https://blog.outsider.ne.kr/1234)
 
 - [우아한형제들 구인본님 - 이직 초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
 
-- [마르코님의 번역 - 2017년 개발자 이력서 작성 가이드](https://brunch.co.kr/@imagineer/215)
-
-- [권희정님의 개발자의 포트폴리오 ・ 이력서 작성법](https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html)
-
-- [JSpiner님의 github로 다같이 쓰는 이력서](https://github.com/JSpiner/RESUME)
-
-- [sizplay의 주니어 프론트엔드 개발자 이력서 작성 팁](https://www.sizplay.dev/Interview/주니어-프론트엔드-개발자-이력서-작성-팁/)
-
 - [minieetea님의 잘 정리된 이력서보다 중요한 것](https://minieetea.com/2021/04/archives/6193)
-
-- [김태성님의 신입 개발자가 포트폴리오를 준비할 때 알아두면 좋은 것들](https://bit.ly/3q7jxSs)
 
 ### 면접 팁
 
@@ -335,8 +316,6 @@
 
 - [초보팀장의 일기 - 면접을 볼 때마다 하는 질문들](https://web.archive.org/web/20170420162138/http://blog.java2game.com/401)
 
-- [Awesome Interview Questions - GitHub](https://github.com/MaximAbramchuck/awesome-interview-questions)
-
 - [개발자를 채용하면서 느꼈던 것들](http://sungjk.github.io/2017/06/11/interview-guide.html)
 
 - [이번 기술 면접 중 기억나는 질문과 답변들 (프론트엔드)](https://medium.com/@jimkimau/이번-기술-면접-중-기억나는-질문과-답변들-712daa9a2dc)
@@ -347,10 +326,6 @@
 
 - [직접 경험을 통해 추려낸 공통 질문](https://github.com/KSH-code/Technical-Interview/blob/master/README.md)
 
-- [WeareSoft의 기술면접 자료 Repository](https://github.com/WeareSoft/tech-interview)
-
-- [30개 기업에서 받은 신입 면접 질문&답변](https://github.com/jobhope/TechnicalNote)
-
 - [네이버 FE 경력면접 150:1 경쟁률을 뚫은 공부자료](https://github.com/d-virusss/interview_frontend)
 
 
@@ -360,9 +335,6 @@
 - [2016 KSUG 경력 관리 세미나](http://bit.ly/2JEexjS)
 - [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
 - [피해야 하는 중소기업 거르는 꿀팁](http://principlesofknowledge.kr/archives/31414)
-
-- [Java Interview Question (영문)](https://www.javatpoint.com/corejava-interview-questions)
-- [Java 8 Interview Question (영문)](https://www.interviewbit.com/java-8-interview-questions/)
 
 ### 추천 도서
 
