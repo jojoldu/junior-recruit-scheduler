@@ -78,7 +78,9 @@
 
 ### 추천 기업 (마감일)
 
+
 - [2022.09.01 10:00:00 ~ 2022.09.19 17:00:00] [2023 카카오 신입 개발자 블라인드 채용](https://careers.kakao.com/2023-developer)
+
 
 ### 추천 기업 (수시 & 상시 채용)
 
@@ -96,10 +98,6 @@
   - 스타트업의 문제를 해결해서 세상을 혁신하는 [넥스트유니콘](https://www.nextunicorn.kr/)입니다.
   - [프론트엔드 개발자 채용(신입/경력)](https://nextunicorn.oopy.io/1df286bb-77c8-4591-ba07-2791296c2129)
   - [백엔드 개발자 채용(1년차 이상)](https://nextunicorn.oopy.io/37f9489f-a64c-4845-81e1-71f57772cbf6)
-
-- [채용시까지] [서버 개발자 인턴 - 당근페이 서비스 (Java / Kotlin)](https://team.daangn.com/jobs/4939071003/)
-
-- [채용시까지] [[야놀자] 클라우드 엔지니어 (인턴)](https://careers.yanolja.co/job/System-Engineering%ED%8C%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4/8340944/)
 
 - [채용시까지] [[브런치/티스토리] Android 앱 개발자(1년차 이상)](https://careers.kakao.com/jobs/P-12234)
 - [채용시까지] [버즈빌 주니어 개발자 (서버/데이터/데브옵스/웹프론트/모바일) 채용](https://buzzvil.career.greetinghr.com/)
@@ -137,7 +135,7 @@
 
 - [채용시까지] [스트리미 엔지니어 채용](https://github.com/gopax/Recruit)
 
-- [채용시까지] [오일나우 iOS 개발자 신입/경력 채용](https://www.notion.so/91f036e4b22041dd866682fea7516140)
+- [채용시까지] [오일나우 개발자 채용 보러가기](https://oilnow.notion.site/070d572ae8d04191bf052135f967ea46)
 
   - [오일나우 팀 블로그](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8)
 
