@@ -1,6 +1,11 @@
 ﻿{
   "recruits": [
     {
+      "endDate": "2022.09.19 17:00:00",
+      "link": "https://careers.kakao.com/2023-developer",
+      "description": "2023 카카오 신입 개발자 블라인드 채용"
+    },
+    {
       "endDate": "채용시까지",
       "link": "https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840",
       "description": "인프런 백엔드 개발자(NodeJS) 채용"
