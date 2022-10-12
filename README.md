@@ -85,7 +85,6 @@
 ### 추천 기업 (수시 & 상시 채용)
 
 - [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
-
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840)
   - [프론트엔드 개발자 (React / VanillaJS) (경력)](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569)
 
@@ -94,23 +93,18 @@
   - [프론트엔드 개발자 채용 (신입/경력)](https://qmit-careers.oopy.io/52fab9af-ef50-4d66-be9c-e1e18bd4bef8)
 
 - [채용시까지] [넥스트유니콘 백엔드/프론트엔드 개발자 채용](https://nextunicorn.oopy.io/)
-
   - 스타트업의 문제를 해결해서 세상을 혁신하는 [넥스트유니콘](https://www.nextunicorn.kr/)입니다.
   - [프론트엔드 개발자 채용(신입/경력)](https://nextunicorn.oopy.io/1df286bb-77c8-4591-ba07-2791296c2129)
   - [백엔드 개발자 채용(1년차 이상)](https://nextunicorn.oopy.io/37f9489f-a64c-4845-81e1-71f57772cbf6)
 
-- [채용시까지] [[브런치/티스토리] Android 앱 개발자(1년차 이상)](https://careers.kakao.com/jobs/P-12234)
 - [채용시까지] [버즈빌 주니어 개발자 (서버/데이터/데브옵스/웹프론트/모바일) 채용](https://buzzvil.career.greetinghr.com/)
-
   - [회사소개](https://www.buzzvil.com/ko)
   - [기술 블로그](https://tech.buzzvil.com/)
 
 - [채용시까지] [크리마 Software Engineer](https://www.notion.so/crema/CREMA-3cfbd23e20dd4529adbfacfc05175af2)
 
-- [채용시까지] [카카오 인프라 서비스 플랫폼 개발자 (경력 5년미만)](https://careers.kakao.com/jobs/P-11485?utm_source=junior-recruit-scheduler)
 
 - [채용시까지] [토스팀 엔지니어 채용](https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80)
-
   - [토스, 루머의 루머의 루머](https://youtu.be/HYxpv8a7I4I)
 
 - [채용시까지] [AB180 엔지니어 영입중](https://dev-recruit.ab180.co)
@@ -122,13 +116,11 @@
   - [BackEnd Engineer - Platform API](https://dev-recruit.ab180.co/be-platform-api)
 
 * [상시채용] [코드에프 경력 개발자 채용](https://team.codef.io/recruit)
-  - [코드에프 서비스 소개](https://about.codef.io/#/)
-  - [코드에프 문화 소개](https://www.notion.so/codef/24b49fbb14c746cb85c9bc090313c16e)
 
 - [채용시까지] [버즈니 AI 백엔드/플랫폼 신입/경력 채용 (전문연구요원 가능)](https://recruit.buzzni.com/recruit/ai-lab-ai-%eb%b0%b1%ec%97%94%eb%93%9c-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-%ec%a0%84%eb%ac%b8%ec%97%b0%ea%b5%ac%ec%9a%94%ec%9b%90-%ea%b0%80%eb%8a%a5/)
   - [기술 블로그](https://buzzni.com/blog/)
-- [채용시까지] [코멘토 Front-end 개발자 채용](https://www.notion.so/comento/Front-end-23adb41a65d34ca383d23f049f7b55b9)
 
+- [채용시까지] [코멘토 Front-end 개발자 채용](https://www.notion.so/comento/Front-end-23adb41a65d34ca383d23f049f7b55b9)
   - [이재성 대표 인터뷰](https://ppss.kr/archives/207946)
   - [CTO 인터뷰](https://brunch.co.kr/@comento/120)
   - [프론트엔드 개발자 인터뷰](https://brunch.co.kr/@comento/117)
@@ -136,23 +128,19 @@
 - [채용시까지] [스트리미 엔지니어 채용](https://github.com/gopax/Recruit)
 
 - [채용시까지] [오일나우 개발자 채용 보러가기](https://oilnow.notion.site/070d572ae8d04191bf052135f967ea46)
-
   - [오일나우 팀 블로그](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8)
 
 - [채용시까지] [스켈터랩스 소프트웨어 엔지니어 채용](https://www.notion.so/71edafe219b0432da0b1959f622c9f1a)
-
   - AI 전문 인력이 아니더라도 인터뷰에는 전혀 지장이 없으며, 전문 연구 요원도 상시 채용하고 있습니다.
   - [스켈터랩스 CEO 인터뷰](https://www.youtube.com/watch?v=uIhKDGz2ENo&t=349s)
   - [스켈터랩스 팀 문화 소개](https://blog.naver.com/skelterlabs/221860320455)
   - [스켈터랩스 뉴스](https://www.skelterlabs.com/ko/news/)
 
 - [채용시까지] [Tridge Software Engineer 채용](https://grnh.se/7150da0c3us)
-
   - 현존하는 최선의 기술(State of the art technology)들을 집대성하여 구축한 세계에서 가장 신뢰받는 Intelligence Platform 트릿지는 A.T. Kearney, 코스트코, 델몬트, 카길, 월마트, 코카콜라 등 약 200개국 기업, 리서처들이 유용하게 사용하고 있습니다.
   - 기술 적용의 유효성과 임팩트를 최대화함으로써 역사상으로 해결하지 못한 식량자원 무역의 문제를 해결하고 있습니다. 풍부한 경력을 가지고 온 개발자들도 트릿지 서비스의 방대한 정보량에 놀라움을 표현해주셨어요. “최대”의 문제를 “최고”의 팀과 해결하고 싶은 인재를 모십니다.
 
 - [채용시까지] [Swingvy Back-end engineer 채용](https://swingvy.slite.com/p/note/2FpJguueEPL36XzqznkGfh)
-
   - [Swingvy careers page](https://www.swingvy.com/my/company/careers)
   - [What’s it like to work with us as an engineer?](https://www.swingvy.com/blog-my/whats-it-like-to-work-with-us-as-an-engineer)
 
@@ -162,13 +150,11 @@
   - [팀원 이야기](https://www.notion.so/techtaka/ARGO-c8480fe7449e4d5dad791fdf42e0abb7)
 
 - [채용시까지] [맘시터 백엔드/FE 엔지니어 채용 (Spring/Kotlin)](https://www.mfort.co.kr/#ba8c56f46fad442c816127aeb9418d41)
-
   - [맘편한세상 기업소개](https://www.mfort.co.kr/)
   - [CTO 인터뷰](https://www.mfort.co.kr/af72a611-989b-4ade-9a5c-ee411159bc2b)
   - [기술블로그](https://tech.mfort.co.kr)
 
 - [채용시까지] [그리팅 경력 무관 개발자 채용](https://doodlin.career.greetinghr.com/)
-
   - [프론트엔드 엔지니어 채용 (React) (경력 무관)](https://career.greetinghr.com/o/NjY2Nw.x-pZslsIqIf6n8MbCGRT-bg8kbU)
   - [그리팅 백엔드 엔지니어 채용 (Node.js) (경력 무관)](https://career.greetinghr.com/o/NjY2OA.ScI3Fb42vGPG07gKQ8imUUUIqlc)
   - [회사 소개](https://doodlin.career.greetinghr.com)
@@ -176,13 +162,11 @@
   - **로켓 성장 스타트업**에서 함께 기술로 채용을 혁신할 팀원을 찾습니다!
 
 - [채용시까지] [자란다 - 백엔드 엔지니어 (Backend Engineer)](https://team.jaranda.kr/backend)
-
   - [자란다] 성인교육 큐레이션 시장이 점차 활성화되고 있는 것처럼, 키즈 교육과 돌봄 시장에서의 붐을 이르키고 있는 에듀테크기업 자란다 입니다.
   - [자란다의 핵심 경쟁력](https://team.jaranda.kr/corevalue)
   - [외부 인재 추천제도 '자란다 자란다 잘한다'](https://team.jaranda.kr/outsiderecruit)
 
 - [채용시까지][비즈니스캔버스 백엔드/프론트엔드 엔지니어 채용](https://typed.biz/career)
-
   - [회사 소개](https://businesscanvas.notion.site/Team-Typed-We-re-hiring-e8b8849a7569428eb43a9d911af9ef76)
   - [제품 소개](https://www.typed.biz/?lang=ko)
   - [개발자 인터뷰](https://www.youtube.com/watch?v=6AcS5wSRSiQ)
@@ -190,7 +174,6 @@
   - [유튜브 채널](https://www.youtube.com/channel/UC5TE3eZk_t-OUl-BY-VTK_w/featured)
 
 - [채용시까지] [채널코퍼레이션 - 채널톡 엔지니어 채용](https://channel.io/jobs?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu)
-
   - We make a future classic product! 채팅 CRM 통합 솔루션 **채널톡**을 만드는 채널코퍼레이션입니다.
   - **9만개 이상의 기업**이 선택한 채널톡, 같이 만들어 보실래요?
   - [회사 소개](https://channel.io/ko/team?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu)
@@ -199,21 +182,18 @@
   - [유튜브 채널](https://www.youtube.com/c/%EC%B1%84%EB%84%90%ED%86%A1)
 
 - [채용시까지] [볼드나인(BOLD9) 소프트웨어 엔지니어 채용 (React / NodeJS)](https://blog.naver.com/bold-9/222544928421)
-
   - [홈페이지](https://bold-9.com/)
   - [회사소개](https://blog.naver.com/bold-9/222528579063)
   - [백엔드 개발자 인터뷰](https://blog.naver.com/bold-9/222552391789)
   - [프론트엔드 개발자 인터뷰](https://blog.naver.com/bold-9/222570943274)
 
 - [채용시까지] [커먼컴퓨터 Software Engineer 채용](https://link.ainize.ai/3HZkIZN)
-
   - 블록체인 위에 모두를 위한 컴퓨터를 만들고 있는 커먼컴퓨터에서 다음 미래를 같이 만들어갈 갈 분을 찾고 있습니다.
   - [홈페이지](https://comcom.ai/)
   - [커먼컴퓨터는 이런 미래를 만들고 있어요](https://www.youtube.com/watch?v=ehxt1PDeVG0)
   - [인턴 후기](https://velog.io/@woomurf/Common-Computer-Summer-Internship-%ED%9B%84%EA%B8%B0) (인턴 후, 현재 Software Engineer로 근무 중)
 
 - [채용시까지] [넥슨 코리아 개인화개발팀 백엔드 개발(C#) 채용](https://career.nexon.com/user/recruit/member/postDetail?joinCorp=NX&reNo=20220237)
-
   - 개발 기술에 관심이 높고 배움에 의지가 충만한 주니어를 찾습니다.
   - [인텔리전스랩스 테크 블로그](https://labstechblog.oopy.io/)
 
