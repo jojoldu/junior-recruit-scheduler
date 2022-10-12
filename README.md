@@ -87,7 +87,7 @@
 - [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
 
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840)
-  - [프론트엔드 개발자 (React / VanillaJS) (신입/경력)](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569)
+  - [프론트엔드 개발자 (React / VanillaJS) (경력)](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569)
 
 - [채용시까지] [큐엠아이티 백엔드 / 프론트엔드 개발자 채용](https://qmit-careers.oopy.io/)
   - [백엔드 개발자 채용 (신입/경력)](https://qmit-careers.oopy.io/2a3ee834-c103-480f-9076-57eeee48d694)
@@ -121,7 +121,7 @@
   - [BackEnd Engineer - Data Serving API](https://dev-recruit.ab180.co/be-data-serving-api)
   - [BackEnd Engineer - Platform API](https://dev-recruit.ab180.co/be-platform-api)
 
-* [상시채용] [코드에프 주니어 경력 개발자 채용](https://www.notion.so/codef/fee06e9581f542a4898f803a9a601603)
+* [상시채용] [코드에프 경력 개발자 채용](https://team.codef.io/recruit)
   - [코드에프 서비스 소개](https://about.codef.io/#/)
   - [코드에프 문화 소개](https://www.notion.so/codef/24b49fbb14c746cb85c9bc090313c16e)
 
