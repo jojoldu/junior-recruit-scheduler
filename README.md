@@ -88,6 +88,8 @@
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840)
   - [프론트엔드 개발자 (React / VanillaJS) (경력)](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569)
 
+- [채용시까지] [콜리 1년차이상 백엔드 / 프론트엔드 / DevOps 채용](https://ccoli-co.notion.site/DevOps-9f2d3cb0bf004d90b1cf2380307e8091)
+
 - [채용시까지] [큐엠아이티 백엔드 / 프론트엔드 개발자 채용](https://qmit-careers.oopy.io/)
   - [백엔드 개발자 채용 (신입/경력)](https://qmit-careers.oopy.io/2a3ee834-c103-480f-9076-57eeee48d694)
   - [프론트엔드 개발자 채용 (신입/경력)](https://qmit-careers.oopy.io/52fab9af-ef50-4d66-be9c-e1e18bd4bef8)
