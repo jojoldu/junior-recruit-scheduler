@@ -1,6 +1,11 @@
 ﻿{
   "recruits": [
     {
+      "endDate": "2022.11.06 23:59:00",
+      "link": "https://www.coupang.jobs/kr/jobs/job/2022-%EC%BF%A0%ED%8C%A1-%ED%85%8C%ED%81%AC-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B3%B5%EA%B0%9C%EC%B1%84%EC%9A%A9-4655280/",
+      "description": "2022 쿠팡 테크 신입 개발자 공개채용"
+    },    
+    {
       "endDate": "2022.11.07 23:59:00",
       "link": "https://recruit.navercorp.com/rcrt/view.do?annoId=30000633",
       "description": "2022 웍스모바일 동계 인턴 모집(채용연계형)"
