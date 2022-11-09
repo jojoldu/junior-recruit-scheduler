@@ -91,6 +91,10 @@
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840)
   - [프론트엔드 개발자 (React / VanillaJS) (경력)](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569)
 
+- [채용시까지] [아인시스에이아이랩 Software Engineer 채용](http://notion.so/aicers/Software-Engineer-e7184bdc9f7a4c5d9de6b607c190ddbe)
+  - 업계 최고의 전문가들과 함께 성장할 Software Engineer를 찾고 있습니다.
+  - 아인시스에이아이랩의 복지, 문화 등을 알고 싶다면 [아인시스에이아이랩 채용페이지](https://aicers.notion.site/f642c6cd0e7a4e14a20990398bd7bc52)를 참고해주세요!
+
 - [채용시까지] [콜리 1년차이상 백엔드 / 프론트엔드 / DevOps 채용](https://ccoli-co.notion.site/DevOps-9f2d3cb0bf004d90b1cf2380307e8091)
 
 - [채용시까지] [큐엠아이티 백엔드 / 프론트엔드 개발자 채용](https://qmit-careers.oopy.io/)
