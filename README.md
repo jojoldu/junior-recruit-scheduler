@@ -192,11 +192,11 @@
   - [백엔드 개발자 인터뷰](https://blog.naver.com/bold-9/222552391789)
   - [프론트엔드 개발자 인터뷰](https://blog.naver.com/bold-9/222570943274)
 
-- [채용시까지] [커먼컴퓨터 Software Engineer 채용](https://link.ainize.ai/3HZkIZN)
+- [채용시까지] [커먼컴퓨터 Software Engineer 채용](https://link.ainize.ai/3WLg9Lc)
   - 블록체인 위에 모두를 위한 컴퓨터를 만들고 있는 커먼컴퓨터에서 다음 미래를 같이 만들어갈 갈 분을 찾고 있습니다.
   - [홈페이지](https://comcom.ai/)
   - [커먼컴퓨터는 이런 미래를 만들고 있어요](https://www.youtube.com/watch?v=ehxt1PDeVG0)
-  - [인턴 후기](https://velog.io/@woomurf/Common-Computer-Summer-Internship-%ED%9B%84%EA%B8%B0) (인턴 후, 현재 Software Engineer로 근무 중)
+  - [인턴 후기](https://velog.io/@zihooy/comcom-intern)
 
 - [채용시까지] [넥슨 코리아 개인화개발팀 백엔드 개발(C#) 채용](https://career.nexon.com/user/recruit/member/postDetail?joinCorp=NX&reNo=20220237)
   - 개발 기술에 관심이 높고 배움에 의지가 충만한 주니어를 찾습니다.
