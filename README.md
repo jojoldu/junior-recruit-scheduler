@@ -78,8 +78,6 @@
 
 ### 추천 기업 (마감일)
 
- - [2022.10.31 00:00:00 ~ 2022.11.06 23:59:00] [2022 쿠팡 테크 신입 개발자 공개채용](https://www.coupang.jobs/kr/jobs/job/2022-%EC%BF%A0%ED%8C%A1-%ED%85%8C%ED%81%AC-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B3%B5%EA%B0%9C%EC%B1%84%EC%9A%A9-4655280/) 
- - [2022.10.24 00:00:00 ~ 2022.11.07 23:59:00] [2022 웍스모바일 동계 인턴 모집(채용연계형)](https://recruit.navercorp.com/rcrt/view.do?annoId=30000633)
 
 ### 채용 관련 교육 코스
 
@@ -294,7 +292,7 @@
 
 - [애플 면접에서 듣게 되는 33가지 질문(기사)](http://www.bloter.net/archives/244910)
 
-- [초보팀장의 일기 - 면접을 볼 때마다 하는 질문들](https://web.archive.org/web/20170420162138/http://blog.java2game.com/401)
+- [초보팀장의 일기 - 면접을 볼 때마다 하는 질문들](https://jangsunjin.tistory.com/401)
 
 - [개발자를 채용하면서 느꼈던 것들](http://sungjk.github.io/2017/06/11/interview-guide.html)
 
