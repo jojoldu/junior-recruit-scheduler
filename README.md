@@ -202,6 +202,12 @@
   - 개발 기술에 관심이 높고 배움에 의지가 충만한 주니어를 찾습니다.
   - [인텔리전스랩스 테크 블로그](https://labstechblog.oopy.io/)
 
+- [상시채용] [비사이드코리아 Typescript 개발자 채용](https://www.notion.so/bsidekr/f85a1d4d18fc410fbfff09f418e40982)
+  - 소액 주주분들과 함께 상장사의 거버넌스를 개선하는 플랫폼 [비사이드](https://www.notion.so/bsidekr/67e415e8f6094175a4dd5d86cdb0d265)입니다.
+  - [홈페이지](https://corp.bside.ai/)
+  - [프런트엔드 개발자](https://www.wanted.co.kr/wd/120365)
+  - [벡앤드 개발자](https://www.wanted.co.kr/wd/124859)
+
 ### 이외 채용정보 얻는 법
 
 **잡코리아, 사람인 채용 정보는 개인적으로는 추천하지 않습니다**.  
