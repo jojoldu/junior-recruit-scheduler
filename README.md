@@ -202,6 +202,10 @@
   - 개발 기술에 관심이 높고 배움에 의지가 충만한 주니어를 찾습니다.
   - [인텔리전스랩스 테크 블로그](https://labstechblog.oopy.io/)
 
+- [채용시까지] [메이아이 백엔드 개발자 채용](https://recruit-may-i.oopy.io/backend-developer?utm_source=github&utm_campaign=jojoldu)
+  - 메이아이는 오프라인 공간의 방문객 데이터 애널리틱스 플랫폼 매쉬를 만드는 영상 처리 인공지능 테크 스타트업입니다.
+  - 오프라인 데이터 분석을 위한 **observability 서비스**를 함께 만들어나갈 분을 찾고 있습니다!
+
 ### 이외 채용정보 얻는 법
 
 **잡코리아, 사람인 채용 정보는 개인적으로는 추천하지 않습니다**.  
