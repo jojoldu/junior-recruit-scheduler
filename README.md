@@ -292,11 +292,11 @@
 
 - [너굴너굴님의 좋은면접자/지원자 되는 방법](https://repo.yona.io/doortts/blog/post/292)
 
-- [네이버 면접 시 듣게 되는 41가지 질문(기사)](http://www.bloter.net/archives/245110)
+- [네이버 면접 시 듣게 되는 41가지 질문(기사)](https://www.bloter.net/news/articleView.html?idxno=22294)
 
-- [카카오 면접 시 듣게 되는 70가지 질문(블로터)](http://www.bloter.net/archives/245529)
+- [카카오 면접 시 듣게 되는 70가지 질문(블로터)](https://www.bloter.net/news/articleView.html?idxno=22327)
 
-- [애플 면접에서 듣게 되는 33가지 질문(기사)](http://www.bloter.net/archives/244910)
+- [애플 면접에서 듣게 되는 33가지 질문(기사)](https://www.bloter.net/news/articleView.html?idxno=22280)
 
 - [초보팀장의 일기 - 면접을 볼 때마다 하는 질문들](https://jangsunjin.tistory.com/401)
 
