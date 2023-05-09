@@ -89,6 +89,10 @@
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840)
   - [프론트엔드 개발자 (React / VanillaJS) (경력)](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569)
 
+- [채용시까지] [크레비스파트너스 SaaS 백엔드 개발자(C#) 신입/경력 채용 (전문연구요원 가능)](https://www.crevisse.com/careers/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=13283180&t=board)
+  - [팀 소개](https://careers.brictoworks.com/)
+  - [팀 인터뷰](https://blog.donus.org/category/team)
+
 - [채용시까지] [콜리 1년차이상 백엔드 / 프론트엔드 / DevOps 채용](https://ccoli-co.notion.site/DevOps-9f2d3cb0bf004d90b1cf2380307e8091)
 
 - [채용시까지] [큐엠아이티 백엔드 / 프론트엔드 개발자 채용](https://qmit-careers.oopy.io/)
