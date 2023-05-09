@@ -78,8 +78,6 @@
 
 ### 추천 기업 (마감일)
 
- - [2022.10.31 00:00:00 ~ 2022.11.06 23:59:00] [2022 쿠팡 테크 신입 개발자 공개채용](https://www.coupang.jobs/kr/jobs/job/2022-%EC%BF%A0%ED%8C%A1-%ED%85%8C%ED%81%AC-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B3%B5%EA%B0%9C%EC%B1%84%EC%9A%A9-4655280/) 
- - [2022.10.24 00:00:00 ~ 2022.11.07 23:59:00] [2022 웍스모바일 동계 인턴 모집(채용연계형)](https://recruit.navercorp.com/rcrt/view.do?annoId=30000633)
 
 ### 채용 관련 교육 코스
 
@@ -90,6 +88,10 @@
 - [채용시까지] [인프런 백엔드 / 프론트엔드 신입, 경력 개발자](https://inflab.notion.site/d96215b0d4d44f62ba65c88120c999c5)
   - [백엔드 개발자 (NodeJS) (신입/경력)](https://inflab.notion.site/NodeJS-4a7668d2564a4180a0721a2135f97840)
   - [프론트엔드 개발자 (React / VanillaJS) (경력)](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569)
+
+- [채용시까지] [크레비스파트너스 SaaS 백엔드 개발자(C#) 신입/경력 채용 (전문연구요원 가능)](https://www.crevisse.com/careers/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=13283180&t=board)
+  - [팀 소개](https://careers.brictoworks.com/)
+  - [팀 인터뷰](https://blog.donus.org/category/team)
 
 - [채용시까지] [콜리 1년차이상 백엔드 / 프론트엔드 / DevOps 채용](https://ccoli-co.notion.site/DevOps-9f2d3cb0bf004d90b1cf2380307e8091)
 
@@ -192,11 +194,11 @@
   - [백엔드 개발자 인터뷰](https://blog.naver.com/bold-9/222552391789)
   - [프론트엔드 개발자 인터뷰](https://blog.naver.com/bold-9/222570943274)
 
-- [채용시까지] [커먼컴퓨터 Software Engineer 채용](https://link.ainize.ai/3HZkIZN)
+- [채용시까지] [커먼컴퓨터 Software Engineer 채용](https://link.ainize.ai/3WLg9Lc)
   - 블록체인 위에 모두를 위한 컴퓨터를 만들고 있는 커먼컴퓨터에서 다음 미래를 같이 만들어갈 갈 분을 찾고 있습니다.
   - [홈페이지](https://comcom.ai/)
   - [커먼컴퓨터는 이런 미래를 만들고 있어요](https://www.youtube.com/watch?v=ehxt1PDeVG0)
-  - [인턴 후기](https://velog.io/@woomurf/Common-Computer-Summer-Internship-%ED%9B%84%EA%B8%B0) (인턴 후, 현재 Software Engineer로 근무 중)
+  - [인턴 후기](https://velog.io/@zihooy/comcom-intern)
 
 - [채용시까지] [넥슨 코리아 개인화개발팀 백엔드 개발(C#) 채용](https://career.nexon.com/user/recruit/member/postDetail?joinCorp=NX&reNo=20220237)
   - 개발 기술에 관심이 높고 배움에 의지가 충만한 주니어를 찾습니다.
@@ -205,6 +207,12 @@
 - [채용시까지] [메이아이 백엔드 개발자 채용](https://recruit-may-i.oopy.io/backend-developer?utm_source=github&utm_campaign=jojoldu)
   - 메이아이는 오프라인 공간의 방문객 데이터 애널리틱스 플랫폼 매쉬를 만드는 영상 처리 인공지능 테크 스타트업입니다.
   - 오프라인 데이터 분석을 위한 **observability 서비스**를 함께 만들어나갈 분을 찾고 있습니다!
+
+- [상시채용] [비사이드코리아 Typescript 개발자 채용](https://www.notion.so/bsidekr/f85a1d4d18fc410fbfff09f418e40982)
+  - 소액 주주분들과 함께 상장사의 거버넌스를 개선하는 플랫폼 [비사이드](https://www.notion.so/bsidekr/67e415e8f6094175a4dd5d86cdb0d265)입니다.
+  - [홈페이지](https://corp.bside.ai/)
+  - [프런트엔드 개발자](https://www.wanted.co.kr/wd/120365)
+  - [벡앤드 개발자](https://www.wanted.co.kr/wd/124859)
 
 ### 이외 채용정보 얻는 법
 
@@ -292,13 +300,13 @@
 
 - [너굴너굴님의 좋은면접자/지원자 되는 방법](https://repo.yona.io/doortts/blog/post/292)
 
-- [네이버 면접 시 듣게 되는 41가지 질문(기사)](http://www.bloter.net/archives/245110)
+- [네이버 면접 시 듣게 되는 41가지 질문(기사)](https://www.bloter.net/news/articleView.html?idxno=22294)
 
-- [카카오 면접 시 듣게 되는 70가지 질문(블로터)](http://www.bloter.net/archives/245529)
+- [카카오 면접 시 듣게 되는 70가지 질문(블로터)](https://www.bloter.net/news/articleView.html?idxno=22327)
 
-- [애플 면접에서 듣게 되는 33가지 질문(기사)](http://www.bloter.net/archives/244910)
+- [애플 면접에서 듣게 되는 33가지 질문(기사)](https://www.bloter.net/news/articleView.html?idxno=22280)
 
-- [초보팀장의 일기 - 면접을 볼 때마다 하는 질문들](https://web.archive.org/web/20170420162138/http://blog.java2game.com/401)
+- [초보팀장의 일기 - 면접을 볼 때마다 하는 질문들](https://jangsunjin.tistory.com/401)
 
 - [개발자를 채용하면서 느꼈던 것들](http://sungjk.github.io/2017/06/11/interview-guide.html)
 

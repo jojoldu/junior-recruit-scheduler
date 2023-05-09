@@ -1,6 +1,11 @@
 ﻿{
   "recruits": [
     {
+      "endDate": "채용시까지",
+      "link": "https://www.crevisse.com/careers/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=13283180&t=board",
+      "description": "크레비스파트너스 SaaS 백엔드 개발자(C#) 신입/경력 채용 (전문연구요원 가능)"
+    },
+    {
       "endDate": "2022.11.06 23:59:00",
       "link": "https://www.coupang.jobs/kr/jobs/job/2022-%EC%BF%A0%ED%8C%A1-%ED%85%8C%ED%81%AC-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B3%B5%EA%B0%9C%EC%B1%84%EC%9A%A9-4655280/",
       "description": "2022 쿠팡 테크 신입 개발자 공개채용"
@@ -152,7 +157,7 @@
     },
     {
       "endDate": "채용시까지",
-      "link": "https://link.ainize.ai/3HZkIZN",
+      "link": "https://link.ainize.ai/3WLg9Lc",
       "description": "커먼컴퓨터 Software Engineer 채용"
     },
     {
