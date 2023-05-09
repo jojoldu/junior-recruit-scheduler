@@ -84,7 +84,14 @@
 
 ### 추천 기업 (수시 & 상시 채용)
 
-- [채용시까지] [인프런 백엔드 주니어 개발자](https://www.rallit.com/positions/1507/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-node-js-%EC%8B%A0%EC%9E%85-%EA%B2%BD%EB%A0%A5)
+- [채용시까지] [인프런 - 백엔드 주니어 개발자](https://www.rallit.com/positions/1507/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-node-js-%EC%8B%A0%EC%9E%85-%EA%B2%BD%EB%A0%A5)
+
+- [채용시까지] [Velog - 풀스택 인턴](https://chaf.career.greetinghr.com/o/77046)
+
+- [채용시까지] [야놀자 - 채용연계형 인턴](https://www.rallit.com/positions/1434/software-engineering-intern-%EC%B1%84%EC%9A%A9-%EC%97%B0%EA%B3%84%ED%98%95-%EC%9D%B8%ED%84%B4)
+
+- [채용시까지] [그리팅 - 백오피스 엔지니어 (전환형 인턴)](https://www.rallit.com/positions/1466/%EA%B7%B8%EB%A6%AC%ED%8C%85-%EB%B0%B1%EC%98%A4%ED%94%BC%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%A0%84%ED%99%98%ED%98%95-%EC%9D%B8%ED%84%B4)
+
 
 - [채용시까지] [크레비스파트너스 SaaS 백엔드 개발자(C#) 신입/경력 채용 (전문연구요원 가능)](https://www.crevisse.com/careers/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=13283180&t=board)
   - [팀 소개](https://careers.brictoworks.com/)
@@ -95,44 +102,11 @@
   - [백엔드 개발자 채용 (신입/경력)](https://qmit-careers.oopy.io/2a3ee834-c103-480f-9076-57eeee48d694)
   - [프론트엔드 개발자 채용 (신입/경력)](https://qmit-careers.oopy.io/52fab9af-ef50-4d66-be9c-e1e18bd4bef8)
 
-- [채용시까지] [넥스트유니콘 백엔드/프론트엔드 개발자 채용](https://nextunicorn.oopy.io/)
-  - 스타트업의 문제를 해결해서 세상을 혁신하는 [넥스트유니콘](https://www.nextunicorn.kr/)입니다.
-  - [프론트엔드 개발자 채용(신입/경력)](https://nextunicorn.oopy.io/1df286bb-77c8-4591-ba07-2791296c2129)
-  - [백엔드 개발자 채용(1년차 이상)](https://nextunicorn.oopy.io/37f9489f-a64c-4845-81e1-71f57772cbf6)
-
-- [채용시까지] [AB180 엔지니어 영입중](https://dev-recruit.ab180.co)
-  - **1억 대의 디바이스. 100만 RPM. 하루 10억 건 이상의 이벤트 데이터**를 다루는 데이터 기업.  
-    (GS SHOP 등 [100+ 개의 기업](https://abit.ly/ab180-clients)이 제품 사용중)
-  - [어떤 문화와 동료를 지향하나요?](https://abit.ly/ab180-culture)
-  - [Backend Engineer - Data Pipeline](https://dev-recruit.ab180.co/be-data-pipeline)
-  - [BackEnd Engineer - Data Serving API](https://dev-recruit.ab180.co/be-data-serving-api)
-  - [BackEnd Engineer - Platform API](https://dev-recruit.ab180.co/be-platform-api)
-
-
-- [채용시까지] [테크타카(ARGO) 소프트웨어 엔지니어 채용](https://www.notion.so/techtaka/Backend-Engineer-6b32f56083cf48e7a0d2454f34d8262a)
-
-  - [CEO 인터뷰](https://www.notion.so/techtaka/CEO-3e8eee73a3e64942a2a9a60ff3fc1dbb)
-  - [팀원 이야기](https://www.notion.so/techtaka/ARGO-c8480fe7449e4d5dad791fdf42e0abb7)
-
-
-- [채용시까지] [그리팅 경력 무관 개발자 채용](https://doodlin.career.greetinghr.com/)
-  - [프론트엔드 엔지니어 채용 (React) (경력 무관)](https://career.greetinghr.com/o/NjY2Nw.x-pZslsIqIf6n8MbCGRT-bg8kbU)
-  - [그리팅 백엔드 엔지니어 채용 (Node.js) (경력 무관)](https://career.greetinghr.com/o/NjY2OA.ScI3Fb42vGPG07gKQ8imUUUIqlc)
-  - [회사 소개](https://doodlin.career.greetinghr.com)
-  - **쏘카, 아이디어스, 샌드박스 등** 국내 유명 스타트업이 사용하는 채용 관리 솔루션을 개발하는 두들린입니다!
-  - **로켓 성장 스타트업**에서 함께 기술로 채용을 혁신할 팀원을 찾습니다!
 
 - [채용시까지] [자란다 - 백엔드 엔지니어 (Backend Engineer)](https://team.jaranda.kr/backend)
   - [자란다] 성인교육 큐레이션 시장이 점차 활성화되고 있는 것처럼, 키즈 교육과 돌봄 시장에서의 붐을 이르키고 있는 에듀테크기업 자란다 입니다.
   - [자란다의 핵심 경쟁력](https://team.jaranda.kr/corevalue)
   - [외부 인재 추천제도 '자란다 자란다 잘한다'](https://team.jaranda.kr/outsiderecruit)
-
-- [채용시까지][비즈니스캔버스 백엔드/프론트엔드 엔지니어 채용](https://typed.biz/career)
-  - [회사 소개](https://businesscanvas.notion.site/Team-Typed-We-re-hiring-e8b8849a7569428eb43a9d911af9ef76)
-  - [제품 소개](https://www.typed.biz/?lang=ko)
-  - [개발자 인터뷰](https://www.youtube.com/watch?v=6AcS5wSRSiQ)
-  - [PM 인터뷰](https://www.youtube.com/watch?v=r4CaoI9ryr8)
-  - [유튜브 채널](https://www.youtube.com/channel/UC5TE3eZk_t-OUl-BY-VTK_w/featured)
 
 - [채용시까지] [채널코퍼레이션 - 채널톡 엔지니어 채용](https://channel.io/jobs?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu)
   - We make a future classic product! 채팅 CRM 통합 솔루션 **채널톡**을 만드는 채널코퍼레이션입니다.
@@ -148,11 +122,6 @@
   - [백엔드 개발자 인터뷰](https://blog.naver.com/bold-9/222552391789)
   - [프론트엔드 개발자 인터뷰](https://blog.naver.com/bold-9/222570943274)
 
-- [채용시까지] [커먼컴퓨터 Software Engineer 채용](https://link.ainize.ai/3WLg9Lc)
-  - 블록체인 위에 모두를 위한 컴퓨터를 만들고 있는 커먼컴퓨터에서 다음 미래를 같이 만들어갈 갈 분을 찾고 있습니다.
-  - [홈페이지](https://comcom.ai/)
-  - [커먼컴퓨터는 이런 미래를 만들고 있어요](https://www.youtube.com/watch?v=ehxt1PDeVG0)
-  - [인턴 후기](https://velog.io/@zihooy/comcom-intern)
 
 - [채용시까지] [메이아이 백엔드 개발자 채용](https://recruit-may-i.oopy.io/backend-developer?utm_source=github&utm_campaign=jojoldu)
   - 메이아이는 오프라인 공간의 방문객 데이터 애널리틱스 플랫폼 매쉬를 만드는 영상 처리 인공지능 테크 스타트업입니다.
