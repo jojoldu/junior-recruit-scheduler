@@ -86,9 +86,9 @@
 
 - [채용시까지] [인프런 - 백엔드 주니어 개발자](https://www.rallit.com/positions/1507/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-node-js-%EC%8B%A0%EC%9E%85-%EA%B2%BD%EB%A0%A5)
 
+
 - [채용시까지] [Velog - 풀스택 인턴](https://chaf.career.greetinghr.com/o/77046)
 
-- [채용시까지] [야놀자 - 채용연계형 인턴](https://www.rallit.com/positions/1434/software-engineering-intern-%EC%B1%84%EC%9A%A9-%EC%97%B0%EA%B3%84%ED%98%95-%EC%9D%B8%ED%84%B4)
 
 - [채용시까지] [그리팅 - 백오피스 엔지니어 (전환형 인턴)](https://www.rallit.com/positions/1466/%EA%B7%B8%EB%A6%AC%ED%8C%85-%EB%B0%B1%EC%98%A4%ED%94%BC%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%A0%84%ED%99%98%ED%98%95-%EC%9D%B8%ED%84%B4)
 
@@ -108,6 +108,7 @@
   - [자란다의 핵심 경쟁력](https://team.jaranda.kr/corevalue)
   - [외부 인재 추천제도 '자란다 자란다 잘한다'](https://team.jaranda.kr/outsiderecruit)
 
+
 - [채용시까지] [채널코퍼레이션 - 채널톡 엔지니어 채용](https://channel.io/jobs?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu)
   - We make a future classic product! 채팅 CRM 통합 솔루션 **채널톡**을 만드는 채널코퍼레이션입니다.
   - **9만개 이상의 기업**이 선택한 채널톡, 같이 만들어 보실래요?
@@ -115,6 +116,7 @@
   - [제품 소개](https://channel.io/ko?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu)
   - [채널톡 블로그](https://channel.io/ko/blog?utm_source=github&utm_medium=txt-link&utm_campaign=jojoldu)
   - [유튜브 채널](https://www.youtube.com/c/%EC%B1%84%EB%84%90%ED%86%A1)
+
 
 - [채용시까지] [볼드나인(BOLD9) 소프트웨어 엔지니어 채용 (React / NodeJS)](https://blog.naver.com/bold-9/222544928421)
   - [홈페이지](https://bold-9.com/)
@@ -126,6 +128,7 @@
 - [채용시까지] [메이아이 백엔드 개발자 채용](https://recruit-may-i.oopy.io/backend-developer?utm_source=github&utm_campaign=jojoldu)
   - 메이아이는 오프라인 공간의 방문객 데이터 애널리틱스 플랫폼 매쉬를 만드는 영상 처리 인공지능 테크 스타트업입니다.
   - 오프라인 데이터 분석을 위한 **observability 서비스**를 함께 만들어나갈 분을 찾고 있습니다!
+
 
 - [상시채용] [비사이드코리아 Typescript 개발자 채용](https://www.notion.so/bsidekr/f85a1d4d18fc410fbfff09f418e40982)
   - 소액 주주분들과 함께 상장사의 거버넌스를 개선하는 플랫폼 [비사이드](https://www.notion.so/bsidekr/67e415e8f6094175a4dd5d86cdb0d265)입니다.
