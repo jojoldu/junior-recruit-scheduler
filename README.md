@@ -98,11 +98,6 @@
   - [팀 인터뷰](https://blog.donus.org/category/team)
 
 
-- [채용시까지] [큐엠아이티 백엔드 / 프론트엔드 개발자 채용](https://qmit-careers.oopy.io/)
-  - [백엔드 개발자 채용 (신입/경력)](https://qmit-careers.oopy.io/2a3ee834-c103-480f-9076-57eeee48d694)
-  - [프론트엔드 개발자 채용 (신입/경력)](https://qmit-careers.oopy.io/52fab9af-ef50-4d66-be9c-e1e18bd4bef8)
-
-
 - [채용시까지] [자란다 - 백엔드 엔지니어 (Backend Engineer)](https://team.jaranda.kr/backend)
   - [자란다] 성인교육 큐레이션 시장이 점차 활성화되고 있는 것처럼, 키즈 교육과 돌봄 시장에서의 붐을 이르키고 있는 에듀테크기업 자란다 입니다.
   - [자란다의 핵심 경쟁력](https://team.jaranda.kr/corevalue)
