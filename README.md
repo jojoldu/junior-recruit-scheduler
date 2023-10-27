@@ -86,13 +86,6 @@
 
 - [채용시까지] [인프런 - 백엔드 주니어 개발자](https://www.rallit.com/positions/1507/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-node-js-%EC%8B%A0%EC%9E%85-%EA%B2%BD%EB%A0%A5)
 
-- [채용시까지] [Velog - 풀스택 인턴](https://chaf.career.greetinghr.com/o/77046)
-
-- [채용시까지] [야놀자 - 채용연계형 인턴](https://www.rallit.com/positions/1434/software-engineering-intern-%EC%B1%84%EC%9A%A9-%EC%97%B0%EA%B3%84%ED%98%95-%EC%9D%B8%ED%84%B4)
-
-- [채용시까지] [그리팅 - 백오피스 엔지니어 (전환형 인턴)](https://www.rallit.com/positions/1466/%EA%B7%B8%EB%A6%AC%ED%8C%85-%EB%B0%B1%EC%98%A4%ED%94%BC%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%A0%84%ED%99%98%ED%98%95-%EC%9D%B8%ED%84%B4)
-
-
 - [채용시까지] [크레비스파트너스 SaaS 백엔드 개발자(C#) 신입/경력 채용 (전문연구요원 가능)](https://www.crevisse.com/careers/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=13283180&t=board)
   - [팀 소개](https://careers.brictoworks.com/)
   - [팀 인터뷰](https://blog.donus.org/category/team)
