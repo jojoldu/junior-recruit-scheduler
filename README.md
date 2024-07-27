@@ -235,7 +235,7 @@
 - [2016 KSUG 경력 관리 세미나](http://bit.ly/2JEexjS)
 - [프로그래머의 삶님의 IT 분야의 개발자로 취업할 때 실수하는 몇 가지](http://coderlife.tistory.com/88)
 - [피해야 하는 중소기업 거르는 꿀팁](http://principlesofknowledge.kr/archives/31414)
-
+- [개발자 채용공고 찾기/분석 플랫폼](https://somoon.ai/)
 ### 추천 도서
 
 - [프로그래밍 면접 이렇게 준비한다](https://book.naver.com/bookdb/book_detail.nhn?bid=15064639)
